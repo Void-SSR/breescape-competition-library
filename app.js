@@ -18,7 +18,7 @@ function go(v,p=product,s=section){product=p;section=s;const route=v==='overview
 function readRoute(){let [v,p,s]=location.hash.slice(1).split('/');view=titles[v]?v:'overview';if(view==='overview'){const selected=db.brands.find(b=>b.id===p)||db.brands.find(b=>b.id===db.products.find(x=>x.id===p)?.brand_id)||db.brands.find(b=>b.id===reportBrand)||db.brands[0];reportBrand=selected.id;if(current().brand_id!==reportBrand)product=representativeProduct(reportBrand);reportPresent=s==='present';}else{if(p&&db.products.some(x=>x.id===p))product=p;reportBrand=current().brand_id;reportPresent=view==='product-report'&&s==='present';if(+s>=1&&+s<=6)section=+s;}}
 function nav(){ $('#nav').innerHTML=Object.entries(titles).map(([key,name],i)=>`<a href="${key==='industry'?'#industry':key==='overview'?reportRoute(current().brand_id,false):'#'+key+'/'+product+'/'+section}" class="${view===key?'active':''}"><span class="nav-icon">${icons[i]}</span>${name}</a>`).join('');$('#crumb').textContent=titles[view];}
 function intro(eyebrow,title,subtitle,action=''){return `<div class="intro"><div><div class="eyebrow">${eyebrow}</div><h1>${title}</h1><p>${subtitle}</p></div>${action}</div>`;}
-function footer(){if(view==='industry')return '<div class="app-footer">Breescape 竞争资料库 · 行业基础 · 本地保存，网络材料按需访问</div>';return '<div class="app-footer">Breescape 竞争资料库 · 研究框架 V1.0 · 本地保存，网络材料按需访问</div>';}
+function footer(){if(view==='industry')return '<div class="app-footer">Breescape 竞争资料库 · 行业基础 · 线上只读快照，网络材料按需访问</div>';return '<div class="app-footer">Breescape 竞争资料库 · 研究框架 V1.0 · 线上只读快照，网络材料按需访问</div>';}
 function bodyInline(value,pid,explain=false){
  const text=String(value??'');let html='',end=0;
  const plain=s=>explain?termInline(s,pid):reviewInline(s,pid);

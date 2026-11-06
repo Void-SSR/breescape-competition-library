@@ -10,7 +10,7 @@
  if(u.pathname==='/api/review'){let r=d.reviews.find(x=>x.product_id===q.get('product')&&String(x.id)===q.get('id'));return response(r||{error:'该产品下不存在此评论编号'},r?200:404)}
  return response({error:'该功能在只读分享版中不可用'},403);
  };
- const hide=/^(编辑|编辑品牌速览|编辑本节|添加条目|新建产品|记录新数据|导入评论 CSV|收录新资料|添加材料|备份|关闭资料库|保存|导出报告|导出资料与研究记录|导出该产品评论|导出结构化资料)/;
+ const hide=/^(恢复研究原稿|撤回上次保存|编辑|编辑品牌速览|编辑本节|添加条目|新建产品|记录新数据|导入评论 CSV|收录新资料|添加材料|备份|关闭资料库|保存|导出报告|导出资料与研究记录|导出该产品评论|导出结构化资料)/;
  function refreshNodes(root){if(!data)return;for(const el of [root,...(root.querySelectorAll?.('[src],[href],button')||[])]){if(!el.getAttribute)continue;for(const attr of ['src','href']){let x=el.getAttribute(attr);if(x&&x.includes('/attachment/')){let y=fix(x);if(x!==y)el.setAttribute(attr,y)}if(x&&x.startsWith('/api/export'))el.style.display='none'}if(el.tagName==='BUTTON'&&hide.test(el.textContent.trim()))el.style.display='none';}}
  load().then(()=>{new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes)if(n.nodeType===1)refreshNodes(n)}).observe(document.documentElement,{childList:true,subtree:true});refreshNodes(document.documentElement)});
  document.addEventListener('click',e=>{const b=e.target.closest('button');if(b&&hide.test(b.textContent.trim())){e.preventDefault();e.stopImmediatePropagation();alert('在线分享版为只读快照，请在本地资料库编辑。')}},true);
