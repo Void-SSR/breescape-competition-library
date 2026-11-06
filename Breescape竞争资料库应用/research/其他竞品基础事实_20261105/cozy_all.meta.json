@@ -1,0 +1,901 @@
+{
+  "key": "cozy_all",
+  "url": "https://cozybliss.com/collections/all-products",
+  "retrieved_at": "2026-11-05T14:38:05+08:00",
+  "status": 200,
+  "final_url": "https://cozybliss.com/collections/all-products",
+  "bytes": 1370151,
+  "links": [
+    {
+      "url": "#main",
+      "label": "Skip to content"
+    },
+    {
+      "url": "/pages/black-friday",
+      "label": "15% OFF No Minimum | Code: BF15"
+    },
+    {
+      "url": "/pages/black-friday",
+      "label": "20% OFF Purchase $99+ | Code: BF20"
+    },
+    {
+      "url": "/pages/black-friday",
+      "label": "FREE BLANKET($59 VALUE) ON $129+"
+    },
+    {
+      "url": "/pages/black-friday",
+      "label": "FREE PREMIUM BLANKET($69 VALUE) ON $149+"
+    },
+    {
+      "url": "/collections/new-arrivals",
+      "label": "Free Shipping Over $59"
+    },
+    {
+      "url": "/search",
+      "label": "Open search"
+    },
+    {
+      "url": "https://www.cozybliss.com/collections/new-arrivals",
+      "label": "NEW"
+    },
+    {
+      "url": "/collections/best-sellers",
+      "label": "BEST SELLERS"
+    },
+    {
+      "url": "/collections/blankets-throws",
+      "label": "Shop All"
+    },
+    {
+      "url": "/collections/best-selling-blankets",
+      "label": "Best Sellers\n                         TRENDING"
+    },
+    {
+      "url": "/collections/new-throws-blankets",
+      "label": "New Arrivals"
+    },
+    {
+      "url": "/collections/cooling-weighted-blanket",
+      "label": "Weighted"
+    },
+    {
+      "url": "/collections/electric-blanket",
+      "label": "Heated\n                         TRENDING"
+    },
+    {
+      "url": "/collections/printed-blanket",
+      "label": "Printed\n                         TRENDING"
+    },
+    {
+      "url": "/collections/ruched-faux-fur-blanket",
+      "label": "Ruched Chinchilla\n                         TRENDING"
+    },
+    {
+      "url": "/collections/faux-fur-blanket",
+      "label": "Faux Fur\n                         TRENDING"
+    },
+    {
+      "url": "/collections/knit-blankets",
+      "label": "Knit"
+    },
+    {
+      "url": "/collections/blankets-fleece",
+      "label": "MilkyPlush"
+    },
+    {
+      "url": "/collections/cooling-blanket",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/blankets-for-women",
+      "label": "Women"
+    },
+    {
+      "url": "/collections/blankets-for-men",
+      "label": "Men"
+    },
+    {
+      "url": "/collections/faux-fur-blanket",
+      "label": "Faux Fur Blankets"
+    },
+    {
+      "url": "/collections/electric-blanket",
+      "label": "Heated Blankets"
+    },
+    {
+      "url": "/collections/christmas",
+      "label": "CHRISTMAS 🎄"
+    },
+    {
+      "url": "/collections/comforters",
+      "label": "Comforters"
+    },
+    {
+      "url": "/collections/sheets-mattress-topper",
+      "label": "Sheets"
+    },
+    {
+      "url": "/products/tencel%E2%84%A2-lyocell-cooling-duvet-cover-set",
+      "label": "Duvet Cover"
+    },
+    {
+      "url": "/collections/pillowcases",
+      "label": "Pillowcases"
+    },
+    {
+      "url": "/collections/body-pillows",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/collections/reading-pillow",
+      "label": "Backrest Pillow"
+    },
+    {
+      "url": "/products/cozy-bliss-leakproof-cooling-mattress-topper",
+      "label": "Mattress Pads & Toppers"
+    },
+    {
+      "url": "/collections/cooling-series",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/tencel%E2%84%A2-collection",
+      "label": "Tencel™"
+    },
+    {
+      "url": "/collections/natural-fibre",
+      "label": "Natural Fibre"
+    },
+    {
+      "url": "/collections/outlast",
+      "label": "NASA certified Outlast®"
+    },
+    {
+      "url": "/collections/cooling-series",
+      "label": "Cooling Collection"
+    },
+    {
+      "url": "/collections/body-pillows",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/collections/reading-pillow",
+      "label": "Backrest Pillow"
+    },
+    {
+      "url": "/products/outlast-cooling-travel-pillow",
+      "label": "Travel Pillow"
+    },
+    {
+      "url": "/collections/pet-bed",
+      "label": "Pet Beds"
+    },
+    {
+      "url": "/collections/pet-mats",
+      "label": "Pet Mats"
+    },
+    {
+      "url": "/collections/pet-blanket",
+      "label": "Pet Blankets"
+    },
+    {
+      "url": "/collections/pet-stairs",
+      "label": "Pet Stairs"
+    },
+    {
+      "url": "/collections/pet-cooling-collection",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/pet-faux-fur-collection",
+      "label": "Faux Fur\n                         TRENDING"
+    },
+    {
+      "url": "/collections/pet-stairs",
+      "label": "Pet Stairs"
+    },
+    {
+      "url": "/collections/pet-faux-fur-collection",
+      "label": "Pet Faur Fur Collection"
+    },
+    {
+      "url": "/collections/sales",
+      "label": "SALE"
+    },
+    {
+      "url": "/",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "/search",
+      "label": "Open search"
+    },
+    {
+      "url": "https://cozybliss.com/customer_authentication/redirect?locale=en®ion_country=US",
+      "label": "Open account page"
+    },
+    {
+      "url": "/cart",
+      "label": "Open cart  \n            \n          \n               0"
+    },
+    {
+      "url": "https://www.cozybliss.com/collections/new-arrivals",
+      "label": "NEW"
+    },
+    {
+      "url": "/collections/best-sellers",
+      "label": "BEST SELLERS"
+    },
+    {
+      "url": "/collections/blankets-throws",
+      "label": "THROWS & BLANKETS"
+    },
+    {
+      "url": "/collections/halloween-season",
+      "label": "HALLOWEEN"
+    },
+    {
+      "url": "/collections/bedding",
+      "label": "BEDDING"
+    },
+    {
+      "url": "/collections/pillows",
+      "label": "PILLOWS"
+    },
+    {
+      "url": "/collections/pet",
+      "label": "PET"
+    },
+    {
+      "url": "/products/bundle-sale-2",
+      "label": "BUNDLE & SAVE"
+    },
+    {
+      "url": "/collections/gift-card",
+      "label": "GIFT CARD"
+    },
+    {
+      "url": "/collections/sales",
+      "label": "OUTLET"
+    },
+    {
+      "url": "https://www.facebook.com/cozyblissofficial",
+      "label": ""
+    },
+    {
+      "url": "https://www.instagram.com/cozybliss_official/",
+      "label": ""
+    },
+    {
+      "url": "https://www.tiktok.com/@cozybliss_usoffical",
+      "label": ""
+    },
+    {
+      "url": "/account",
+      "label": "Account"
+    },
+    {
+      "url": "/collections/blankets-throws",
+      "label": "All Throws & Blankets"
+    },
+    {
+      "url": "/collections/best-selling-blankets",
+      "label": "Best Selling Blankets"
+    },
+    {
+      "url": "/collections/new-throws-blankets",
+      "label": "New Blankets"
+    },
+    {
+      "url": "/collections/cooling-weighted-blanket",
+      "label": "Weighted Blankets"
+    },
+    {
+      "url": "/collections/electric-blanket",
+      "label": "Heated Blankets"
+    },
+    {
+      "url": "/collections/printed-blanket",
+      "label": "Printed Blankets"
+    },
+    {
+      "url": "/collections/ruched-faux-fur-blanket",
+      "label": "Ruched Chinchilla"
+    },
+    {
+      "url": "/collections/faux-fur-blanket",
+      "label": "Faux Fur"
+    },
+    {
+      "url": "/collections/knit-blankets",
+      "label": "Knit"
+    },
+    {
+      "url": "/collections/blankets-fleece",
+      "label": "MilkyPlush"
+    },
+    {
+      "url": "/collections/cooling-blanket",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/blankets-for-women",
+      "label": "Women"
+    },
+    {
+      "url": "/collections/blankets-for-men",
+      "label": "Men"
+    },
+    {
+      "url": "/collections/faux-fur-blanket",
+      "label": "Faux Fur Blankets"
+    },
+    {
+      "url": "/collections/electric-blanket",
+      "label": "Heated Blankets"
+    },
+    {
+      "url": "/collections/cooling-series",
+      "label": "Cooling Collection"
+    },
+    {
+      "url": "/collections/body-pillows",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/collections/reading-pillow",
+      "label": "Backrest Pillow"
+    },
+    {
+      "url": "/products/outlast-cooling-travel-pillow",
+      "label": "Travel Pillow"
+    },
+    {
+      "url": "/collections/pet-stairs",
+      "label": "Pet Stairs"
+    },
+    {
+      "url": "/collections/pet-faux-fur-collection",
+      "label": "Pet Faur Fur Collection"
+    },
+    {
+      "url": "/collections/comforters",
+      "label": "Comforters"
+    },
+    {
+      "url": "/collections/sheets-mattress-topper",
+      "label": "Sheets"
+    },
+    {
+      "url": "/products/tencel%E2%84%A2-lyocell-cooling-duvet-cover-set",
+      "label": "Duvet Cover"
+    },
+    {
+      "url": "/collections/pillowcases",
+      "label": "Pillowcases"
+    },
+    {
+      "url": "/collections/body-pillows",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/collections/reading-pillow",
+      "label": "Backrest Pillow"
+    },
+    {
+      "url": "/products/cozy-bliss-leakproof-cooling-mattress-topper",
+      "label": "Mattress Pads & Toppers"
+    },
+    {
+      "url": "/collections/cooling-series",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/tencel%E2%84%A2-collection",
+      "label": "Tencel™"
+    },
+    {
+      "url": "/collections/natural-fibre",
+      "label": "Natural Fibre"
+    },
+    {
+      "url": "/collections/outlast",
+      "label": "NASA certified Outlast®"
+    },
+    {
+      "url": "/collections/pet-bed",
+      "label": "Pet Beds"
+    },
+    {
+      "url": "/collections/pet-mats",
+      "label": "Pet Mats"
+    },
+    {
+      "url": "/collections/pet-blanket",
+      "label": "Pet Blankets"
+    },
+    {
+      "url": "/collections/pet-stairs",
+      "label": "Pet Stairs"
+    },
+    {
+      "url": "/collections/pet-cooling-collection",
+      "label": "Cooling"
+    },
+    {
+      "url": "/collections/pet-faux-fur-collection",
+      "label": "Faux Fur\n                                        \n                                           TRENDING"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket",
+      "label": "Tie Dye Grey Bubble Faux Fur Throw Blanket"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket#shopify-product-reviews",
+      "label": "4.8"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket",
+      "label": "+21"
+    },
+    {
+      "url": "/products/striped-faux-fur-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/striped-faux-fur-throw-blanket",
+      "label": "Cream White Chunky Ribbed Faux Rabbit Fur Throw Blanket"
+    },
+    {
+      "url": "/products/striped-faux-fur-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/striped-faux-fur-throw-blanket",
+      "label": "+19"
+    },
+    {
+      "url": "/products/double-sided-cooling-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/double-sided-cooling-blanket",
+      "label": "Advanced Pro Cooling Double-sided Blanket"
+    },
+    {
+      "url": "/products/double-sided-cooling-blanket#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/deer-print-faux-fur-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/deer-print-faux-fur-throw-blanket",
+      "label": "Deer Print Faux Fur Throw Blanket"
+    },
+    {
+      "url": "/products/deer-print-faux-fur-throw-blanket#shopify-product-reviews",
+      "label": "4.5"
+    },
+    {
+      "url": "/products/lightweight-cooling-comforter",
+      "label": ""
+    },
+    {
+      "url": "/products/lightweight-cooling-comforter",
+      "label": "Cloud-Like Extra Cooling Comforter"
+    },
+    {
+      "url": "/products/lightweight-cooling-comforter#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/lightweight-cooling-comforter",
+      "label": "+8"
+    },
+    {
+      "url": "/products/cooling-fitted-sheet-with-pillowcases-set",
+      "label": ""
+    },
+    {
+      "url": "/products/cooling-fitted-sheet-with-pillowcases-set",
+      "label": "Essential Cooling Sheet Set (no flat sheet)"
+    },
+    {
+      "url": "/products/cooling-fitted-sheet-with-pillowcases-set#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/cooling-fitted-sheet-with-pillowcases-set",
+      "label": "+5"
+    },
+    {
+      "url": "/products/faux-mink-cable-knit-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/faux-mink-cable-knit-throw-blanket",
+      "label": "Faux Mink Cable Knit Throw Blanket"
+    },
+    {
+      "url": "/products/faux-mink-cable-knit-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/reversible-wave-textured-faux-fur-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/reversible-wave-textured-faux-fur-throw-blanket",
+      "label": "Premium Brushed Faux Fur Throw Blanket"
+    },
+    {
+      "url": "/products/reversible-wave-textured-faux-fur-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/reversible-wave-textured-faux-fur-throw-blanket",
+      "label": "+4"
+    },
+    {
+      "url": "/products/reversible-waffle-chenille-sherpa-knit-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/reversible-waffle-chenille-sherpa-knit-throw-blanket",
+      "label": "Reversible Waffle Chenille Sherpa Knit Throw Blanket"
+    },
+    {
+      "url": "/products/chill-weave-square-cooling-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/chill-weave-square-cooling-blanket",
+      "label": "Arc Chill Cooling Blanket"
+    },
+    {
+      "url": "/products/chill-weave-square-cooling-blanket#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/chill-weave-square-cooling-blanket",
+      "label": "+6"
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-tie-dye-bubble-faux-fur-couch-cover",
+      "label": ""
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-tie-dye-bubble-faux-fur-couch-cover",
+      "label": "Leakproof Bubble Faux Fur Couch Cover"
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-tie-dye-bubble-faux-fur-couch-cover#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket-tie-dye-blue",
+      "label": ""
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket-tie-dye-blue",
+      "label": "Denim Tie Dye Bubble Faux Fur Throw Blanket"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket-tie-dye-blue#shopify-product-reviews",
+      "label": "4.7"
+    },
+    {
+      "url": "/products/bubble-faux-fur-throw-blanket-tie-dye-blue",
+      "label": "+21"
+    },
+    {
+      "url": "/products/striped-faux-fur-reading-pillow-sage-green",
+      "label": ""
+    },
+    {
+      "url": "/products/striped-faux-fur-reading-pillow-sage-green",
+      "label": "Greenhouse Striped Faux Fur Backrest Reading Pillow"
+    },
+    {
+      "url": "/products/striped-faux-fur-reading-pillow-sage-green#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/striped-faux-fur-reading-pillow-sage-green",
+      "label": "+1"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-light-grey",
+      "label": ""
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-light-grey",
+      "label": "Light Grey Bubble Faux Fur Electric Blanket"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-light-grey#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-light-grey",
+      "label": "+6"
+    },
+    {
+      "url": "/products/striped-faux-fur-pet-bed-with-hooded-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/striped-faux-fur-pet-bed-with-hooded-blanket",
+      "label": "Leakproof Striped Faux Fur Pet Bed with Hooded Blanket"
+    },
+    {
+      "url": "/products/striped-faux-fur-pet-bed-with-hooded-blanket#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-u-shaped-orthopedic-dog-bed",
+      "label": ""
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-u-shaped-orthopedic-dog-bed",
+      "label": "Leakproof U-Shaped Orthopedic Dog Bed"
+    },
+    {
+      "url": "/products/cozy-bliss-x-cozy-kiss-u-shaped-orthopedic-dog-bed#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/seersucker-cooling-comforter",
+      "label": ""
+    },
+    {
+      "url": "/products/seersucker-cooling-comforter",
+      "label": "Seersucker Cooling Comforter"
+    },
+    {
+      "url": "/products/seersucker-cooling-comforter#shopify-product-reviews",
+      "label": "4.8"
+    },
+    {
+      "url": "/products/seersucker-cooling-comforter",
+      "label": "+3"
+    },
+    {
+      "url": "/products/cooling-pillowcases-for-hot-sleepers",
+      "label": ""
+    },
+    {
+      "url": "/products/cooling-pillowcases-for-hot-sleepers",
+      "label": "2-Pack Off White Cooling Pillowcases"
+    },
+    {
+      "url": "/products/cooling-pillowcases-for-hot-sleepers#shopify-product-reviews",
+      "label": "4.9"
+    },
+    {
+      "url": "/products/cooling-pillowcases-for-hot-sleepers",
+      "label": "+5"
+    },
+    {
+      "url": "/products/reversible-leopard-feather-yarn-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/reversible-leopard-feather-yarn-throw-blanket",
+      "label": "Reversible Leopard Feather Yarn Throw Blanket"
+    },
+    {
+      "url": "/products/reversible-leopard-feather-yarn-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/heather-feather-yarn-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/heather-feather-yarn-throw-blanket",
+      "label": "Heather Feather Yarn Throw Blanket"
+    },
+    {
+      "url": "/products/heather-feather-yarn-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/heather-feather-yarn-throw-blanket",
+      "label": "+13"
+    },
+    {
+      "url": "/products/leopard-print-milkyplush-throw-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/leopard-print-milkyplush-throw-blanket",
+      "label": "Leopard Print MilkyPlush Throw Blanket"
+    },
+    {
+      "url": "/products/leopard-print-milkyplush-throw-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-tie-dye-blue",
+      "label": ""
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-tie-dye-blue",
+      "label": "Tie Dye Blue Bubble Faux Fur Electric Blanket"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-tie-dye-blue#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket-tie-dye-blue",
+      "label": "+6"
+    },
+    {
+      "url": "/products/faux-fur-electric-blanket-cream-white",
+      "label": ""
+    },
+    {
+      "url": "/products/faux-fur-electric-blanket-cream-white",
+      "label": "Cream White Bubble Faux Fur Electric Blanket"
+    },
+    {
+      "url": "/products/faux-fur-electric-blanket-cream-white#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/faux-fur-electric-blanket-cream-white",
+      "label": "+6"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket",
+      "label": ""
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket",
+      "label": "Tie-dye Grey Bubble Faux Fur Electric Blanket"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket#shopify-product-reviews",
+      "label": "5.0"
+    },
+    {
+      "url": "/products/bubble-faux-fur-electric-blanket",
+      "label": "+6"
+    },
+    {
+      "url": "/collections/all-products?page=2",
+      "label": ""
+    },
+    {
+      "url": "https://www.cozybliss.com/",
+      "label": "CozyBliss"
+    },
+    {
+      "url": "https://www.cozybliss.com/collections/cooling-series",
+      "label": "Cooling Series"
+    },
+    {
+      "url": "https://www.cozybliss.com/products/lightweight-natural-cooling-comforter",
+      "label": "Natural Wave Lightweight Cooling Comforter"
+    },
+    {
+      "url": "https://www.cozybliss.com/products/double-sided-cooling-blanket",
+      "label": "Double-sided Cooling Blanket"
+    },
+    {
+      "url": "https://www.cozybliss.com/products/cooling-fitted-sheet-with-pillowcases-set",
+      "label": "Cooling Fitted Sheet with 2 Pillowcases"
+    },
+    {
+      "url": "https://www.cozybliss.com/blogs/blog/cooling-bedding-layering-tips",
+      "label": "Layer Textures"
+    },
+    {
+      "url": "https://www.cozybliss.com/blogs/blog/your-lucky-color-of-the-month",
+      "label": "Color Psychology"
+    },
+    {
+      "url": "/pages/our-story",
+      "label": "Our Story"
+    },
+    {
+      "url": "/pages/rewards",
+      "label": "Cozy Club"
+    },
+    {
+      "url": "/collections/handcrafted-tie-dye-collection",
+      "label": "Our Craftsmanship"
+    },
+    {
+      "url": "/pages/faqs",
+      "label": "FAQ"
+    },
+    {
+      "url": "/pages/all-reviews",
+      "label": "Reviews"
+    },
+    {
+      "url": "/blogs/blog",
+      "label": "Blogs"
+    },
+    {
+      "url": "/collections/gift-card",
+      "label": "E-Gift Card"
+    },
+    {
+      "url": "https://www.cozybliss.com/apps/17TRACK",
+      "label": "Track your order"
+    },
+    {
+      "url": "/pages/return-refund",
+      "label": "Returns & Refunds"
+    },
+    {
+      "url": "/pages/orders-shipping",
+      "label": "Shipping Policy"
+    },
+    {
+      "url": "/pages/contact-us",
+      "label": "Contact Us"
+    },
+    {
+      "url": "/pages/privacy-policy",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "/pages/terms-of-service",
+      "label": "Terms of Service"
+    },
+    {
+      "url": "https://www.facebook.com/cozyblissofficial",
+      "label": "Facebook"
+    },
+    {
+      "url": "https://www.instagram.com/cozybliss_official/",
+      "label": "Instagram"
+    },
+    {
+      "url": "https://www.tiktok.com/@cozybliss_usoffical",
+      "label": "Tiktok"
+    },
+    {
+      "url": "mailto:support@cozybliss.com",
+      "label": "support@cozybliss.com"
+    },
+    {
+      "url": "https://www.facebook.com/cozyblissofficial",
+      "label": ""
+    },
+    {
+      "url": "https://www.instagram.com/cozybliss_official/",
+      "label": ""
+    },
+    {
+      "url": "https://www.tiktok.com/@cozybliss_usoffical",
+      "label": ""
+    },
+    {
+      "url": "https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+      "label": "Powered by Shopify"
+    },
+    {
+      "url": "/",
+      "label": ""
+    },
+    {
+      "url": "/collections/all",
+      "label": "Continue shopping"
+    }
+  ],
+  "images": [
+    "<meta property=\"og:image\" content=\"http://cozybliss.com/cdn/shop/files/CB_70b881ad-9d1c-4314-b23b-86c4c61fd4d4.jpg?v=1661765271&width=2048\">"
+  ]
+}

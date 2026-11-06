@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-04",
+  "source_count": 45,
+  "record_count": 48,
+  "records_by_section": [
+    {
+      "section": 1,
+      "total": 16,
+      "factual_or_claims": 13
+    },
+    {
+      "section": 2,
+      "total": 13,
+      "factual_or_claims": 9
+    },
+    {
+      "section": 3,
+      "total": 8,
+      "factual_or_claims": 5
+    },
+    {
+      "section": 4,
+      "total": 4,
+      "factual_or_claims": 3
+    },
+    {
+      "section": 5,
+      "total": 2,
+      "factual_or_claims": 0
+    },
+    {
+      "section": 6,
+      "total": 5,
+      "factual_or_claims": 0
+    }
+  ],
+  "reviews_unchanged": true,
+  "review_count": 1628,
+  "observations": 10,
+  "attachments": 11,
+  "integrity": "ok",
+  "missing_evidence_or_attachments": [],
+  "scheduler": "未启用",
+  "tests": "existing 10 tests passed; live attachment endpoints image/jpeg 200"
+}

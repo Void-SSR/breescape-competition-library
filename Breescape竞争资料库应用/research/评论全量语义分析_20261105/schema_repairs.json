@@ -1,0 +1,138 @@
+[
+  {
+    "review_id": 18,
+    "before": {
+      "dimension": "theme",
+      "code": "G0",
+      "valence": "neutral",
+      "quote": "Está bien",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "expectation0",
+      "primary_count_eligible": false,
+      "count_unit_key": "18|G0|neutral",
+      "quote_start": 0,
+      "quote_end": 9
+    },
+    "after": {
+      "dimension": "theme",
+      "code": "G00",
+      "valence": "neutral",
+      "quote": "Está bien",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "expectation",
+      "primary_count_eligible": false,
+      "count_unit_key": "18|G00|neutral",
+      "quote_start": 0,
+      "quote_end": 9
+    },
+    "reason": "修复中性标记的存储语法，不改变人工语义判断"
+  },
+  {
+    "review_id": 20,
+    "before": {
+      "dimension": "theme",
+      "code": "G0",
+      "valence": "neutral",
+      "quote": "Nothing to brag about.",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "relative0",
+      "primary_count_eligible": false,
+      "count_unit_key": "20|G0|neutral",
+      "quote_start": 0,
+      "quote_end": 22
+    },
+    "after": {
+      "dimension": "theme",
+      "code": "G00",
+      "valence": "neutral",
+      "quote": "Nothing to brag about.",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "relative",
+      "primary_count_eligible": false,
+      "count_unit_key": "20|G00|neutral",
+      "quote_start": 0,
+      "quote_end": 22
+    },
+    "reason": "修复中性标记的存储语法，不改变人工语义判断"
+  },
+  {
+    "review_id": 23,
+    "before": {
+      "dimension": "theme",
+      "code": "G05",
+      "valence": "not_applicable",
+      "quote": "Very minimalist",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "absolute_or_unspecified0",
+      "primary_count_eligible": false,
+      "count_unit_key": "23|G05|not_applicable",
+      "quote_start": 52,
+      "quote_end": 67
+    },
+    "after": {
+      "dimension": "theme",
+      "code": "G05",
+      "valence": "neutral",
+      "quote": "Very minimalist",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "absolute_or_unspecified",
+      "primary_count_eligible": false,
+      "count_unit_key": "23|G05|neutral",
+      "quote_start": 52,
+      "quote_end": 67
+    },
+    "reason": "修复中性标记的存储语法，不改变人工语义判断"
+  },
+  {
+    "review_id": 36,
+    "before": {
+      "dimension": "theme",
+      "code": "T06",
+      "valence": "not_applicable",
+      "quote": "The material feels very thin",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "absolute_or_unspecified0",
+      "primary_count_eligible": false,
+      "count_unit_key": "36|T06|not_applicable",
+      "quote_start": 0,
+      "quote_end": 28
+    },
+    "after": {
+      "dimension": "theme",
+      "code": "T06",
+      "valence": "neutral",
+      "quote": "The material feels very thin",
+      "note": "",
+      "subject": "target_same_product",
+      "experience_phase": "unspecified",
+      "component": "unspecified_product_or_set",
+      "relation": "absolute_or_unspecified",
+      "primary_count_eligible": false,
+      "count_unit_key": "36|T06|neutral",
+      "quote_start": 0,
+      "quote_end": 28
+    },
+    "reason": "修复中性标记的存储语法，不改变人工语义判断"
+  }
+]

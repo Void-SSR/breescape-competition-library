@@ -1,0 +1,20 @@
+{
+  "reviews": 1628,
+  "annotation_rows": 5150,
+  "all_quotes_exact": true,
+  "all_review_ids_present_once": true,
+  "nonempty_external_ids": 1615,
+  "distinct_nonempty_external_ids": 1615,
+  "missing_external_ids": 13,
+  "changed_protected_files": [],
+  "missing_protected_files": [],
+  "blind_reread_reviews": 163,
+  "first_vs_second_theme_set_disagreements": 9,
+  "disclaimer": "同一分析者二读，不是独立编码者一致性，也不是准确率；第二轮先隐藏旧标签，但无法排除记忆影响。",
+  "blind_reread_scope": "v1.1既有163条通用二读；v1.2仅做已批准的定向复核，无重复抽样",
+  "analysis_versions": {
+    "rule": "1.2",
+    "source_snapshot_sha256": "4917bfddb5d774eb5e915cab5a5b9ed54630a4cf9367af78d2b8e1f862f866bc",
+    "annotation_sha256": "a3757ebcb6c137189b0898df9801409fba7ced279d56360b21084c50c6b6e85a"
+  }
+}

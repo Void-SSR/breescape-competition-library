@@ -1,0 +1,328 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床垫及床垫保护垫、衬面、保护罩":
+    - /url: https://shop.tiktok.com/us/c/mattress-mattress-pads-toppers-protectors/809480
+    - generic: 床垫及床垫保护垫、衬面、保护罩
+  - link "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable":
+    - /url: https://shop.tiktok.com/us/pdp/ultra-soft-twin-mattress-topper-bamboo-viscose-cool-comfort/1732318179776369433
+    - generic: "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Niagara":
+  - /url: https://shop.tiktok.com/us/store/niagara/7494517195432888089
+- heading "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable" [level=1]
+- generic: $
+- generic: "50"
+- generic: ".99"
+- generic: 免费运送
+- generic: "4.5"
+- generic: (915)
+- generic: 已售 5.4K
+- button "成交件数":
+- generic: "style:"
+- generic: Dark Gray
+- img "Navy Blue"
+- generic: Navy Blue
+- img "Pink"
+- generic: Pink
+- img "Beige"
+- generic: Beige
+- img "Black"
+- generic: Black
+- img "Dark Gray"
+- generic: Dark Gray
+- img "White"
+- generic: White
+- img "Green"
+- generic: Green
+- generic: "size:"
+- generic: Twin
+- generic: Twin
+- generic: Twin XL
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: California King
+- generic: Full XL
+- generic: Queen RV
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "Niagara Niagara 4.5 9545 已售出 7.9K+ Followers 82% 好评 100% 聊天满意度 <35 小时 问题解决 访问":
+  - /url: https://shop.tiktok.com/us/store/niagara/7494517195432888089
+  - img "Niagara"
+  - generic: Niagara
+  - generic: "4.5"
+  - text: "9545"
+  - generic: 已售出
+  - generic: 7.9K+ Followers
+  - generic: 82%
+  - generic: 好评
+  - generic: 100%
+  - generic: 聊天满意度
+  - generic: <35 小时
+  - generic: 问题解决
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: Made with rayon derived from bamboo for natural breathability and sweat absorption
+- generic: •
+- generic: Thick cloud-like pillow top cushioning for enhanced comfort on firm or aging mattresses
+- generic: •
+- generic: Secure fit with 8–20 inch deep pockets to prevent shifting or bunching
+- generic: •
+- generic: Machine washable on gentle cycle and tumble dry low to maintain softness and loft
+- generic: •
+- generic: Available in Twin to California King sizes and multiple colors including Dark Gray, Beige, Black, Gray, and White
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 NIAGARA SLEEP SOLUTION":
+      - cell "品牌"
+      - cell "NIAGARA SLEEP SOLUTION"
+    - row "Fabric type Microfiber,Bamboo viscose":
+      - cell "Fabric type"
+      - cell "Microfiber,Bamboo viscose"
+    - row "Water resistance level Not water resistant":
+      - cell "Water resistance level"
+      - cell "Not water resistant"
+    - row "Closure Pull On":
+      - cell "Closure"
+      - cell "Pull On"
+    - row "Fill material Viscose Derived from Bamboo":
+      - cell "Fill material"
+      - cell "Viscose Derived from Bamboo"
+    - row "Cover material Polyester":
+      - cell "Cover material"
+      - cell "Polyester"
+- generic: 查看更多
+- generic: 商品描述
+- generic: Add a thick, cloud-soft layer to your mattress with the Niagara Ultra Soft Bamboo Mattress Topper. Made with rayon derived from bamboo, it creates a cool, breathable, sweat-absorbent sleep surface that is gentle on sensitive skin — free from latex and formaldehyde.
+- generic: "Key Features:"
+- generic: "* Cooling Bamboo-Derived Fabric: Rayon derived from bamboo is naturally breathable and sweat-absorbent, helping you stay cool and comfortable through the night — no latex, no formaldehyde."
+- generic: "* Cloud-Like Pillow Top: A thick, plush cushioning layer that softens a firm or aging mattress and distributes pressure evenly across your body, whether you sleep on your back, side, or stomach."
+- generic: "* Secure 8–20\" Deep Pocket Fit: Extra-long stretchy sides grip mattresses from 8 to 20 inches deep — no shifting, no sliding, no bunching."
+- generic: "* Machine Washable: Wash on gentle, tumble dry low. Keeps its loft, softness, and shape wash after wash."
+- generic: "* Compressed Roll Packaging: Arrives compressed — unpack, shake, and pat, then let it expand flat for 48 hours, or tumble dry on low for 20 minutes for instant full loft."
+- generic: "Perfect For:"
+- generic: "* Hot sleepers and anyone prone to night sweats"
+- generic: "* Sensitive skin and chemical sensitivities"
+- generic: "* Upgrading a firm, aging, or rental mattress without buying a new one"
+- generic: "* Dorm rooms, guest rooms, and every bedroom at home"
+- generic: "Sizes Available: Twin, Twin XL, Full, Full XL, Queen, Queen RV, King, California King"
+- generic: "Colors: Dark Gray, Beige, Black, Gray, White"
+- generic: "Material: Rayon derived from bamboo / Free from latex and formaldehyde"
+- generic: "Care: Machine wash gentle, tumble dry low 20 minutes or air flat 48 hours after unpacking"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: The NIAGARA Ultra Soft Bamboo Mattress Topper offers a luxurious, plush layer to transform your mattress into a cool and comfortable sleeping surface. Crafted from rayon derived from bamboo, this topper provides excellent breathability and moisture-wicking properties, ideal for hot sleepers and those with sensitive skin. It is free from latex and formaldehyde, ensuring a gentle touch against the skin while reducing allergens and irritants. The thick pillow top design adds cloud-like softness and distributes pressure evenly, accommodating all sleeping positions and softening firm or aging mattresses. This mattress topper fits mattresses with depths ranging from 8 to 20 inches thanks to its stretchy, secure deep pockets, preventing unwanted shifting throughout the night. It is easy to care for with machine washability and tumble dry instructions that preserve its shape and softness. Available in a range of sizes from Twin to California King and multiple stylish colors, the NIAGARA Bamboo Mattress Topper is a practical upgrade for dorms, guest rooms, rentals, or any bedroom seeking enhanced comfort and cooling performance.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What material is the NIAGARA mattress topper made of? A:It is made of rayon derived from bamboo, which is naturally breathable and sweat-absorbent.
+- generic: •
+- generic: Does this mattress topper fit thick mattresses? A:Yes, it securely fits mattresses from 8 to 20 inches deep with its stretchy deep pockets.
+- generic: •
+- generic: Is the NIAGARA mattress topper machine washable? A:Yes, it can be machine washed on a gentle cycle and tumble dried on low heat.
+- generic: •
+- generic: What colors and sizes are available? A:The topper is available in Dark Gray, Beige, Black, Gray, and White, and sizes from Twin, Twin XL, Full, Full XL, Queen, Queen RV, King, to California King.
+- generic: •
+- generic: Is this mattress topper suitable for people with sensitive skin? A:Yes, it is free from latex and formaldehyde, making it gentle on sensitive skin.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Led Zeppelin LLC
+- generic: •
+- generic: 公司地址：8 The Grn Ste 12754,Dover,Delaware,19901
+- generic: "4.5"
+- generic: 915 条全球评价
+- generic: "5"
+- generic: "725"
+- generic: "4"
+- generic: "75"
+- generic: "3"
+- generic: "35"
+- generic: "2"
+- generic: "23"
+- generic: "1"
+- generic: "57"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "M**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "M**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "M**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "M**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "M**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "J**"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 6"
+- generic "J**"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 7"
+- generic "J**"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 8"
+- generic "J**"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 9"
+- generic "H**y G**l"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 10"
+- generic "H**y G**l"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 11"
+- generic "H**y G**l"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 915 条评价（共 915 条）
+- generic: 重置筛选条件
+- generic: M**a
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "Fits my bed perfectly! Comfort: Very comfortable and soft!"
+- generic: "商品:"
+- text: Dark Gray, Queen
+- generic: 2026-10-14
+- generic: J**
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 4 out of 5 stars"':
+- generic: "Great quality, washed very nicely and comfy. Not as thick as I expected but great for the price! Color: I really like the dark color"
+- generic: "商品:"
+- text: 2 Dark Gray, Twin
+- generic: 2026-06-28
+- generic: H**y G**l
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Honestly didn't expect much but this thing is incredible. Super plush but still supportive. My mornings feel completely different now.
+- generic: "商品:"
+- text: 3 White, Queen
+- generic: 2026-06-09
+- generic: K**C
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Me encanta! Ya lo recomendé a toda mi familia
+- generic: "商品:"
+- text: 6 Beige, Queen
+- generic: 2026-05-30
+- generic: S**z
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: I have an encasement on my mattress to keep it looking brand new. I miss the softness of the mattress tho and it’s way easier to wash or replace a topper than a whole mattress. I tumbled in dryer to fluff up and the sides are deep enough to cover entire area. Soooo soft!! Product provided at no cost
+- generic: "商品:"
+- text: 2 Dark Gray, Full
+- generic: 2026-07-16
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "183"
+- generic: 下一步

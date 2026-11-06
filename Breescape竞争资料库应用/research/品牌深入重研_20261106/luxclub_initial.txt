@@ -1,0 +1,363 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床品套件":
+    - /url: https://shop.tiktok.com/us/c/bedding-sets-collections/808584
+    - generic: 床品套件
+  - link "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)":
+    - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-luxclub-6pc-deep-pocket-eco-friendly-silky-soft-wrinkle-free/1729385256317981042
+    - generic: LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 LuxClub Home":
+  - /url: https://shop.tiktok.com/us/store/luxclub-home/7494854190947535218
+- heading "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)" [level=1]
+- generic: $
+- generic: "57"
+- generic: ".98"
+- generic: 免费运送
+- generic: "4.4"
+- generic: (12.0K)
+- generic: 已售 141.0K
+- button "成交件数":
+- generic: "Color:"
+- generic: Emerald
+- img "White"
+- generic: White
+- img "Cream"
+- generic: Cream
+- img "Light Grey"
+- generic: Light Grey
+- img "Grey"
+- generic: Grey
+- img "Dark Grey"
+- generic: Dark Grey
+- img "Tree Moss"
+- generic: Tree Moss
+- img "Emerald"
+- generic: Emerald
+- img "Navy"
+- generic: Navy
+- img "Light Teal"
+- generic: Light Teal
+- img "Teal"
+- generic: Teal
+- img "Aqua"
+- generic: Aqua
+- img "Lavender"
+- generic: Lavender
+- img "Autumn Orange"
+- generic: Autumn Orange
+- img "Black"
+- generic: Black
+- img "Light Taupe"
+- generic: Light Taupe
+- img "Tree Bark"
+- generic: Tree Bark
+- img "Brown"
+- generic: Brown
+- img "Silver"
+- generic: Silver
+- img "Sky"
+- generic: Sky
+- img "Light Blue"
+- generic: Light Blue
+- img "Violet"
+- generic: Violet
+- img "Oxford"
+- generic: Oxford
+- img "Denim"
+- generic: Denim
+- img "Light Plum"
+- generic: Light Plum
+- img "Periwinkle"
+- generic: Periwinkle
+- img "Pearl"
+- generic: Pearl
+- img "Butter"
+- generic: Butter
+- img "Medallion"
+- generic: Medallion
+- img "Dark Khaki"
+- generic: Dark Khaki
+- img "Taupe"
+- generic: Taupe
+- img "Olive"
+- generic: Olive
+- img "Mocha"
+- generic: Mocha
+- img "Light Khaki"
+- generic: Light Khaki
+- img "Yellow"
+- generic: Yellow
+- img "Gold"
+- generic: Gold
+- img "Lime"
+- generic: Lime
+- img "Salmon"
+- generic: Salmon
+- img "Red"
+- generic: Red
+- img "Burgundy"
+- generic: Burgundy
+- img "Eggplant"
+- generic: Eggplant
+- generic: "Specification:"
+- generic: Twin
+- generic: Twin
+- generic: Twin XL
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: California King
+- generic: Split King
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "LuxClub Home LuxClub Home 4.4 212.0K 已售出 10.7K+ Followers 100% 24 小时响应率 0% 2 天内发货 85% 好评 访问":
+  - /url: https://shop.tiktok.com/us/store/luxclub-home/7494854190947535218
+  - img "LuxClub Home"
+  - generic: LuxClub Home
+  - generic: "4.4"
+  - text: 212.0K
+  - generic: 已售出
+  - generic: 10.7K+ Followers
+  - generic: 100%
+  - generic: 24 小时响应率
+  - generic: 0%
+  - generic: 2 天内发货
+  - generic: 85%
+  - generic: 好评
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: 4-piece microfiber sheet set with hotel-quality comfort
+- generic: •
+- generic: Moisture-wicking, breathable design for hot sleepers
+- generic: •
+- generic: Deep 18-inch fitted sheet pockets with 360° elastic
+- generic: •
+- generic: Wrinkle-free, fade-resistant, and pill-resistant fabric
+- generic: •
+- generic: OEKO-TEX Standard 100 Certified and machine washable
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 LuxClub":
+      - cell "品牌"
+      - cell "LuxClub"
+    - row "Occasion Housewarming":
+      - cell "Occasion"
+      - cell "Housewarming"
+    - row "Season All seasons":
+      - cell "Season"
+      - cell "All seasons"
+    - row "Special features Breathable,Wrinkle resistant":
+      - cell "Special features"
+      - cell "Breathable,Wrinkle resistant"
+    - row "Included components Pillowcase":
+      - cell "Included components"
+      - cell "Pillowcase"
+    - row "Closure type Envelope,Zipper":
+      - cell "Closure type"
+      - cell "Envelope,Zipper"
+- generic: 查看更多
+- generic: 商品描述
+- generic: 🛌 LuxClub 4-Piece Sheet Set | Hotel Luxury at Home
+- generic: Transform your bedroom into a sanctuary. Designed for those who crave a cloud-like feel, these sheets blend buttery softness with high-performance cooling. Whether you’re a hot sleeper or just love the feel of fresh hotel linens, this set is your new sleep obsession.
+- generic: "🌟 Why It’s a Favorite:"
+- generic: ·
+- generic: "Hotel Comfort, Better Cooling: Say goodbye to night sweats with our moisture-wicking sheets. Our signature fabric is engineered for maximum airflow and thermoregulation to stay breathable all night. ️"
+- generic: ·
+- generic: "Buttery Soft Finish: Experience a brushed, silky-smooth texture that’s gentle on skin and designed for total relaxation."
+- generic: ·
+- generic: "The \"Never-Slip\" Fit: Tired of sheets popping off? Our fitted sheets feature extra-deep 18-inch pockets and 360° heavy-duty elastic for a snug fit on any mattress or topper."
+- generic: ·
+- generic: "Laundry Day Made Easy: Naturally wrinkle-free, fade-resistant, and pill-resistant. They stay vivid and soft wash after wash - no ironing required."
+- generic: 🎁 The Perfect Gift (Or Treat for Yourself!)
+- generic: ·
+- generic: "For Students & Parents: Durable, easy to clean, and stands up to busy lifestyles."
+- generic: ·
+- generic: "For New Homeowners: The ultimate \"Welcome Home\" or housewarming gift."
+- generic: ·
+- generic: "For You: Because you deserve a cloud-like sleep experience every single night."
+- generic: 🏅 Quality You Can Trust:️
+- generic: ·
+- generic: "OEKO-TEX Standard 100 Certified: Independently tested to be free from harmful chemicals and toxins."
+- generic: ·
+- generic: "Shop with Confidence: If you're not thrilled, return the sheets ️hassle-free!"
+- generic: "Perfect For:"
+- generic: 🏠 New Homeowners | 🎓 Dorm Room Upgrades | ️ Hot Sleepers | 🎁 Housewarming Gifts | Self-Care Sunday
+- generic: Stop settling for scratchy, thin sheets. Treat yourself to the hotel-quality sanctuary you deserve! 🌙😴
+- generic: Cooling sheets for hot sleepers, hotel quality bedding, deep pocket sheets, wrinkle free bed sheets, bedroom makeover ideas, moisture wicking sheets, LuxClub sheets review, best sheets on Amazon, aesthetic bedroom decor, softest bed sheets, luxury bedding on a budget, home restock, bedroom essentials, cooling fabric technology.
+- generic: "#bedsheets #bedroommakeover #coolingsheets #hotsleeper #homedecor #amazonhome #restock #luxurylinens #selfcare #bedroomgoals #sleepbetter #homemusthaves #bedding #wrinklefree #tiktokmademebuyit"
+- generic: 查看更多
+- generic: 简介
+- generic: The LuxClub Cooling Bed Sheet Set is designed for sleepers who want a soft, breathable feel with practical everyday performance. Made from microfiber, this 4-piece set combines a buttery-smooth texture with moisture-wicking comfort to help maintain a cooler sleep environment through the night. It is a strong fit for hot sleepers and anyone who prefers hotel-style bedding at home. The fitted sheet includes extra-deep 18-inch pockets and 360° heavy-duty elastic for a secure fit on many mattresses or toppers. The fabric is also wrinkle-free, fade-resistant, and pill-resistant, making it easier to care for after regular machine washing. With OEKO-TEX Standard 100 Certification, the set is independently tested to be free from harmful chemicals and toxins. Available in multiple sizes and colors, it works well for bedrooms, dorm rooms, new homes, and everyday bedding refreshes.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What material is the LuxClub sheet set made from? A:It is made from microfiber.
+- generic: •
+- generic: How many pieces are included in the set? A:It is a 4-piece sheet set.
+- generic: •
+- generic: Is this sheet set designed for hot sleepers? A:Yes, it is described as cooling and moisture-wicking for hot sleepers.
+- generic: •
+- generic: What size fit does the fitted sheet provide? A:The fitted sheet has deep 18-inch pockets with 360° heavy-duty elastic.
+- generic: •
+- generic: How should the sheet set be cleaned? A:The care instructions say machine wash.
+- generic: •
+- generic: Is the product certified? A:Yes, it is OEKO-TEX Standard 100 Certified.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Creative Home Products LLC
+- generic: •
+- generic: 公司地址：3422 Old Capitol Trail,Wilmington,Delaware,19808
+- generic: "4.4"
+- generic: 11963 条全球评价
+- generic: "5"
+- generic: "9028"
+- generic: "4"
+- generic: "1040"
+- generic: "3"
+- generic: "609"
+- generic: "2"
+- generic: "399"
+- generic: "1"
+- generic: "887"
+- generic: 评价中的照片
+- button "查看全部照片"
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 11963 条评价（共 11963 条）
+- generic: 重置筛选条件
+- generic: T**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: The sheets are beautiful but mine came with the plastic zipped cover ripped which allowed in moisture during transit. I would of course have washed them either way but they came bubble wrapped which wasn’t ripped so makes me think they were packaged ripped. Disappointed in that aspect.
+- generic: "商品:"
+- text: Tree Bark, King
+- generic: 2024-12-04
+- generic: m**y
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: The sheets do have deep pockets, but mine came with multiple snags/runs in the flat sheet.
+- generic: "商品:"
+- text: Cream, Queen
+- generic: 2024-06-21
+- generic: k**8
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: Washed them for first time to put them on my bed the pictures are what they look like 😡 I washed them by themselves on cold delicate wash . Then dryed them on low heat this is what they did I am beyond upset these sheets are awful it’s in both sides of the bed
+- generic: "商品:"
+- text: Teal, King
+- generic: 2024-05-08
+- generic: t**7
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: TikTok made me do it. I ordered these. I was sent the wrong color, they were supposed to be green. Almost returned them but decided it was too much trouble. I washed them before putting on my bed. There are black stains and rust spots on them. They are very very thin. 0/10 do not recommend.
+- generic: "商品:"
+- text: Tree Moss, King
+- generic: 2024-03-04
+- generic: k**🇸
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: I bought looking for something with a deep pocket, which they have and they fit well. They are very soft but thin. I don’t anticipate they will last very long. But they are nice for the price. I saw several reviews mentioning they arrived with grease type looking stains which mine had as well.
+- generic: "商品:"
+- text: Tree Moss, King
+- generic: 2023-12-05
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "2393"
+- generic: 下一步

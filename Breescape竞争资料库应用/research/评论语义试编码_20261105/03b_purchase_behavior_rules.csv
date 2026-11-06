@@ -1,0 +1,25 @@
+﻿dimension,code,label,include,exclude,example_review_id,example_quote
+behaviors,repeat_intent,再次购买意愿,will buy/order again、would purchase again等未发生表达。,不能计实际复购。,3,will order again
+behaviors,repeat_actual,明确已发生再次购买,明确second purchase、went back and ordered second set。,仅持有三套不能证明分几次购买；不验证订单真实性。,28,This is my 2nd purchase of these sheets.
+behaviors,repeat_reported_prior_and_current,同款既往与本次购买自述,明确先前买过同款，且在比较当前新购款体验。,保留推理链和不同于明确second purchase的证据强度。,1284,I have ordered these exact same sheets in the light purple
+behaviors,multiple_sets_timing_unknown,已买多套，订单次数未知,bought three sets或now have three sets。,不等同同单多件、不同订单复购或三个独立买家。,640,I have bought 3 sets now.
+behaviors,multiple_colors_timing_unknown,已购多颜色，订单次数未知,明确得到两个颜色。,不自动推断同单或复购。,719,We got the dark green and dark blue color.
+behaviors,family_purchase,已为家人购买,明确bought one for my daughter。,不直接等同赠礼、生日礼物或同单购买。,641,bought one for my daughter as well!!
+behaviors,gift_intended,礼物用途／赠送意图,明确birthday gift等购买用途。,不表示已经赠送或收礼者使用满意。,1245,This is supposed to be a birthday gift for my son
+behaviors,household_replace_intent,家庭换新意愿,明确将家里床品替换为该产品的计划。,不计已经购买多套。,28,I will be replacing all of the sheet sets in my house with these.
+behaviors,replace_old_intent,替换旧床品意愿,will be tossing out/replacing等计划。,不计已完成换新或新增订单。,221,We’ll officially be tossing out our old sheets and replacing them with these!
+behaviors,additional_sizes_intent,添购其他尺寸意愿,明确going to buy twin sets等。,不计已发生跨规格复购。,1618,I’m going to buy some twin sets!
+behaviors,return_in_progress,正在退货／提出退货行动,I’m returning等正在采取行动。,不计退款已完成。,127,I’m returning these
+behaviors,return_requested,已经提出退货请求,requesting a return、asking to return。,不等于已获批准、已寄回或已退款。,202,I am requesting a return
+behaviors,return_conditional,条件性退货意愿,if…will return等。,不计确定退货或条件已成立。,1245,"if they are not cooling, I will be returning them."
+behaviors,repeat_reject,拒绝再购意愿,明确will not purchase again。,不推断已经流失或终身不再购买。,916,Will not be purchasing these again at all!
+behaviors,reduce_use_intent,减少使用意愿,will not be using very often。,不把计划当实际频次。,971,will not be using very often in my rotation.
+behaviors,switch_brand_intent,转向其他品牌意愿,going with old brand等。,不计竞品订单已经发生。,1627,Going with my old brand bedsure!
+motives,color_repeat_motive,明确再次购买理由,明确came back for another color。,不倒推首次购买理由。,28,I came back for another color for winter.
+motives,composition_expectation,材料期待，未证明选择原因,明确thought it would等预期。,未说因此选择购买，不能计明确购买理由。,857,i thought it would be like mostly bamboo and something else like cotton
+motives,cooling_reason,明确购买理由：凉感,bought because、bought to keep cool等。,不计实际凉感成功，也不证明销量因果。,971,I purchased these bamboo sheets because they are “supposed to be cooling and temperature regulating”.
+motives,cooling_expectation,凉感期待，未证明选择原因,明确期待凉感或自述怕热。,不升级成唯一或已经证明的购买原因。,1331,"I am quite a warm sleeper, so I was looking forward to the “cooling” effect of these sheets."
+motives,promotion_trigger,明确促销触发购买,saw sale and jumped on them等行动关联。,不证明促销单独造成增量或销量主因。,1389,finally saw they went on sale and jumped on them
+motives,video_expectation,视频形成期待,看视频后期待软凉等。,没有明确购买因果句时，不称该视频促成订单。,1409,Was excited about these sheets after watching videos and seeing that they are cooling and soft.
+motives,review_influence,明确评价影响购买,bought because of reviews等。,不能确认某条评价的贡献或真实凉感。,1618,I bought them because of reviews saying that the sheets are cooling.
+motives,content_influence_uncertain,内容影响线索，指向未明,泛称被影响购买。,不能确认具体内容、渠道或当次购买归因。,1627,I hate being influenced on here

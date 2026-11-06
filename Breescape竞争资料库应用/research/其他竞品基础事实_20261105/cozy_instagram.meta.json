@@ -1,0 +1,89 @@
+{
+  "key": "cozy_instagram",
+  "url": "https://www.instagram.com/cozybliss_official/",
+  "retrieved_at": "2026-11-05T14:40:12+08:00",
+  "status": 200,
+  "final_url": "https://www.instagram.com/cozybliss_official/",
+  "bytes": 687796,
+  "links": [
+    {
+      "url": "/",
+      "label": "Instagram"
+    },
+    {
+      "url": "/accounts/login/?next=%2Fcozybliss_official%2F&source=desktop_nav",
+      "label": "Log In"
+    },
+    {
+      "url": "/accounts/emailsignup/",
+      "label": "Sign Up"
+    },
+    {
+      "url": "https://about.meta.com/",
+      "label": "Meta"
+    },
+    {
+      "url": "https://about.instagram.com/",
+      "label": "About"
+    },
+    {
+      "url": "https://about.instagram.com/blog/",
+      "label": "Blog"
+    },
+    {
+      "url": "https://about.instagram.com/about-us/careers",
+      "label": "Jobs"
+    },
+    {
+      "url": "https://help.instagram.com/",
+      "label": "Help"
+    },
+    {
+      "url": "https://developers.facebook.com/docs/instagram",
+      "label": "API"
+    },
+    {
+      "url": "/legal/privacy/",
+      "label": "Privacy"
+    },
+    {
+      "url": "/legal/terms/",
+      "label": "Terms"
+    },
+    {
+      "url": "/explore/locations/",
+      "label": "Locations"
+    },
+    {
+      "url": "/popular/",
+      "label": "Popular"
+    },
+    {
+      "url": "/web/lite/",
+      "label": "Instagram Lite"
+    },
+    {
+      "url": "https://www.meta.ai/?utm_source=foa_web_footer",
+      "label": "Meta AI"
+    },
+    {
+      "url": "https://muse.ai/",
+      "label": "Muse"
+    },
+    {
+      "url": "https://www.threads.com/",
+      "label": "Threads"
+    },
+    {
+      "url": "https://www.facebook.com/help/instagram/261704639352628",
+      "label": "Contact Uploading & Non-Users"
+    },
+    {
+      "url": "/accounts/meta_verified/?entrypoint=web_footer",
+      "label": "Meta Verified"
+    }
+  ],
+  "images": [
+    "<meta property=\"og:image\" content=\"https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/408075314_704861181610785_1816038055788769354_n.jpg?stp=dst-jpg_s150x150_tt6&amp;_nc_cat=109&amp;ig_cache_key=GDK8Uhghi1hIEYECAEpw4W393DMZbkULAAAB1501500j-ccb7-5&amp;ccb=7-5&amp;_nc_sid=669407&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41OTEuQzMifQ%3D%3D&amp;_nc_ohc=Z_MlYbFwfV8Q7kNvwFKAVTF&amp;_nc_oc=Adp04YjFEdHrjcpcbnEriGuxTV3DEWbQvh9Ka9GZTh78ePyNwkOaDa5H1Dcvyj_-pJ4&amp;_nc_zt=24&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_ss=70a02&amp;oh=00_AQT05gDkKDp9cpGM7GBCOWAJH5OST9QQettm_t5WIoHyMg&amp;oe=6AF1FFBC\" />"
+  ]
+}

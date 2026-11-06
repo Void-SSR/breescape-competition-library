@@ -1,0 +1,115 @@
+{
+  "checked_at": "2026-11-06T07:28:28+08:00",
+  "database_integrity": "ok",
+  "brands": {
+    "shilucheng": {
+      "framework": "passed",
+      "sections": 6,
+      "questions": 59,
+      "current_records": 75,
+      "tables": 13,
+      "cited_materials": 111,
+      "named_reviews": 24,
+      "feedback": {
+        "sheets": {
+          "total": 928,
+          "positive": 734,
+          "negative": 314,
+          "mixed": 129,
+          "positive_only": 605,
+          "negative_only": 185,
+          "unclassified": 9,
+          "positive_percent": 79.1,
+          "negative_percent": 33.8,
+          "mixed_percent": 13.9
+        },
+        "topper": {
+          "total": 1000,
+          "positive": 701,
+          "negative": 450,
+          "mixed": 153,
+          "unclassified": 2,
+          "positive_only": 548,
+          "negative_only": 297,
+          "positive_percent": 70.1,
+          "negative_percent": 45.0
+        }
+      }
+    },
+    "cozy-bliss": {
+      "framework": "passed",
+      "sections": 6,
+      "questions": 48,
+      "current_records": 23,
+      "tables": 5,
+      "cited_materials": 28,
+      "named_reviews": 10,
+      "feedback": {
+        "cozy-comforter": {
+          "total": 1444,
+          "positive": 1327,
+          "negative": 295,
+          "mixed": 188,
+          "unclassified": 10,
+          "positive_only": 1139,
+          "negative_only": 107,
+          "positive_percent": 91.9,
+          "negative_percent": 20.4
+        }
+      }
+    },
+    "sheex": {
+      "framework": "passed",
+      "sections": 6,
+      "questions": 48,
+      "current_records": 24,
+      "tables": 6,
+      "cited_materials": 26,
+      "named_reviews": 28,
+      "feedback": {
+        "sheex-sheets": {
+          "total": 494,
+          "positive": 480,
+          "negative": 71,
+          "mixed": 59,
+          "unclassified": 2,
+          "positive_only": 421,
+          "negative_only": 12,
+          "positive_percent": 97.2,
+          "negative_percent": 14.4
+        }
+      }
+    }
+  },
+  "errors": [],
+  "tests": "33 passed",
+  "javascript_syntax": "passed",
+  "browser_verification": {
+    "brand_reports": [
+      "shilucheng",
+      "cozy-bliss",
+      "sheex"
+    ],
+    "product_reports": [
+      "sheets",
+      "topper",
+      "cozy-comforter",
+      "sheex-sheets"
+    ],
+    "review_examples": [
+      2887,
+      4250
+    ],
+    "last_console_errors": 0,
+    "verified": [
+      "目录及问题顺序",
+      "独立产品研究",
+      "五款竞争表",
+      "评论统计及原文链接",
+      "中文术语解释",
+      "图片与来源",
+      "本地去重编号标签",
+      "实际程序入口"
+    ]
+  }
+}

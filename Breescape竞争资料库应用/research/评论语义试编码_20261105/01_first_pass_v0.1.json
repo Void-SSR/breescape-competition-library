@@ -1,0 +1,1988 @@
+{
+  "created_at": "2026-11-05T02:00:24+08:00",
+  "status": "试编码第一轮，未校准；不用于TOP3",
+  "reviews": [
+    {
+      "review_id": 3,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "Perfect size",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "so soft",
+          "valence": "positive"
+        },
+        {
+          "code": "shipping",
+          "quote": "fast shipping",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_intent",
+          "quote": "will order again"
+        }
+      ],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 15,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "wrong_item",
+          "quote": "Ordered a queen and got a twin size",
+          "valence": "negative"
+        },
+        {
+          "code": "quality_general",
+          "quote": "amazing quality.",
+          "valence": "uncertain"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "amazing quality可能字面肯定，也可能反讽；不依五星强判。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 28,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "durability_general",
+          "quote": "The last set I bought 6 months ago has held up so well.",
+          "valence": "positive"
+        },
+        {
+          "code": "pilling",
+          "quote": "No pilling!",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "The sheets are so soft",
+          "valence": "positive"
+        },
+        {
+          "code": "quality_general",
+          "quote": "the quality is excellent",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "The cooling feature is legitimate.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [
+        {
+          "code": "color_repeat_motive",
+          "quote": "I came back for another color for winter."
+        }
+      ],
+      "behaviors": [
+        {
+          "code": "repeat_actual",
+          "quote": "This is my 2nd purchase of these sheets."
+        },
+        {
+          "code": "household_replace_intent",
+          "quote": "I will be replacing all of the sheet sets in my house with these."
+        }
+      ],
+      "contexts": [
+        {
+          "code": "prior_target_set",
+          "quote": "The last set I bought 6 months ago"
+        },
+        {
+          "code": "season",
+          "quote": "for winter"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 48,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "quality_general",
+          "quote": "Low quality",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "very rough to touch.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 82,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "The material is pure comfort and luxury.",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "I wouldn’t say they are cooling per se",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "they are incredibly soft",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_intent",
+          "quote": "We will totally be purchasing more."
+        }
+      ],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 123,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "Fit our bed great",
+          "valence": "positive"
+        },
+        {
+          "code": "appearance",
+          "quote": "looks nice",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "there isn't any cooling effect to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "heat",
+          "quote": "we have been both waking up hot.",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "Not as soft as I thought they would be.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "night_use",
+          "quote": "waking up hot"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 127,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "they aren’t as soft as my other sets of bamboo sheets.",
+          "valence": "negative"
+        },
+        {
+          "code": "price_low",
+          "quote": "WAY CHEAPER THO!!",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "return_in_progress",
+          "quote": "I’m returning these"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "competitor_comparison",
+          "quote": "my other sets of bamboo sheets"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 128,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "they are somewhat soft",
+          "valence": "positive"
+        },
+        {
+          "code": "ad_match",
+          "quote": "not like advertised.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "washed_before_use",
+          "quote": "washed the sheets before use"
+        }
+      ],
+      "unresolved": [
+        "don’t peel是担心未来出现的问题；未报告已经发生，peel也未明确定义。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 147,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "breathability",
+          "quote": "Nice an airy",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "keeps you cool",
+          "valence": "positive"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "comfy",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 202,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "arrival_condition",
+          "quote": "looked like someone bought the sheets, didn't like the sheets, repackaged them and returned them.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "return_requested",
+          "quote": "I am requesting a return"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "not_used",
+          "quote": "I won't sleep.in something that looks like they have been slept on by someone else."
+        }
+      ],
+      "unresolved": [],
+      "note": "这是对到货状态的怀疑，不证明卖家实际寄送二手货。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 221,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "incredibly soft",
+          "valence": "positive"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "cozy",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_security",
+          "quote": "the fitted sheet actually stays on our thick Tempur-Pedic mattress without constantly popping off the corners!",
+          "valence": "positive"
+        },
+        {
+          "code": "weight",
+          "quote": "They’re lightweight",
+          "valence": "positive"
+        },
+        {
+          "code": "breathability",
+          "quote": "breathable",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "keep us cool throughout the night without getting too hot.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_actual",
+          "quote": "we actually went back and ordered a SECOND set!"
+        },
+        {
+          "code": "replace_old_intent",
+          "quote": "We’ll officially be tossing out our old sheets and replacing them with these!"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "thick_mattress",
+          "quote": "thick Tempur-Pedic mattress"
+        },
+        {
+          "code": "night_use",
+          "quote": "throughout the night"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 233,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Not soft",
+          "valence": "negative"
+        },
+        {
+          "code": "quality_general",
+          "quote": "very cheap feeling",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 238,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_security",
+          "quote": "They slip off a bit",
+          "valence": "negative"
+        },
+        {
+          "code": "fit_security",
+          "quote": "nothing wild like the last set of pottery barn sheets did",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "competitor_comparison",
+          "quote": "the last set of pottery barn sheets"
+        }
+      ],
+      "unresolved": [],
+      "note": "相对旧床单改善，但仍会滑脱。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 263,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Soft",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 277,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "They fit",
+          "valence": "positive"
+        },
+        {
+          "code": "thinness",
+          "quote": "but are very thin.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 296,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "weight",
+          "quote": "Very light weight.",
+          "valence": "neutral"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "not_used",
+          "quote": "I haven’t had the chance to use them yet."
+        }
+      ],
+      "unresolved": [],
+      "note": "仅描述重量且未使用，未明示轻薄是优点或缺点。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 320,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Super comfy",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "pillow cases are amazing great at keeping the cool",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "component_pillowcase",
+          "quote": "pillow cases"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 375,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "cooling",
+          "quote": "They don’t seem to be any cooler than another sheets.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "unspecified_comparison",
+          "quote": "another sheets"
+        }
+      ],
+      "unresolved": [],
+      "note": "不比其他床单更凉，不等于实测升温。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 423,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "smoothness",
+          "quote": "Nor silky",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "nor soft",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 462,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "value",
+          "quote": "for the price they are very nice sheets.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "composition_uncertain",
+          "quote": "I'm not sure the bamboo content"
+        }
+      ],
+      "unresolved": [],
+      "note": "不知道竹含量不等于不满成分。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 477,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Super soft",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_size",
+          "quote": "don’t fit matresss very well",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "definitely not cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "ad_match",
+          "quote": "False advertising",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "But what did I really expect for the price.带自嘲，不能直接编码低价认可或性价比满意。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 564,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Cozy",
+          "valence": "positive"
+        },
+        {
+          "code": "arrival_condition",
+          "quote": "clean.",
+          "valence": "positive"
+        },
+        {
+          "code": "odor",
+          "quote": "Right out of the box it smelled good.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_intent",
+          "quote": "I would definitely buy again."
+        }
+      ],
+      "contexts": [
+        {
+          "code": "unboxing",
+          "quote": "Right out of the box"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 590,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Material is not soft, it’s kind of stiff",
+          "valence": "negative"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "not comfortable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "the sheets are not cooling at all.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 637,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Comfortable",
+          "valence": "positive"
+        },
+        {
+          "code": "color",
+          "quote": "the color is great",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "not quite as soft as I",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "原文结尾截断：柔软低于比较基准可以读出，具体基准不明。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 640,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "These are the softest sheets I’ve ever owned.",
+          "valence": "positive"
+        },
+        {
+          "code": "quality_general",
+          "quote": "Quality is amazing!!",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "multiple_sets_timing_unknown",
+          "quote": "I have bought 3 sets now."
+        }
+      ],
+      "contexts": [],
+      "unresolved": [
+        "与641文字相近；平台ID不同，暂保留两条，不能推断独立买家数。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 641,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "These are the softest sheets I’ve ever owned.",
+          "valence": "positive"
+        },
+        {
+          "code": "quality_general",
+          "quote": "Quality is amazing!",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "multiple_sets_timing_unknown",
+          "quote": "I now have 3 sets"
+        },
+        {
+          "code": "family_purchase",
+          "quote": "bought one for my daughter as well!!"
+        }
+      ],
+      "contexts": [],
+      "unresolved": [
+        "与640文字相近；是否同一作者未知。不能由为女儿购买推断生日礼物或同单购买。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 665,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Buttery soft!!",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 719,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Very soft",
+          "valence": "positive"
+        },
+        {
+          "code": "color_match",
+          "quote": "Exactly like what is shown",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "multiple_colors_timing_unknown",
+          "quote": "We got the dark green and dark blue color."
+        }
+      ],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 774,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "cooling",
+          "quote": "Not cooling",
+          "valence": "negative"
+        },
+        {
+          "code": "fit_security",
+          "quote": "keep falling off on corners.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 831,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "composition_expectation",
+          "quote": "material not what description said",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "未指出哪种材料或成分差异，不能填入具体材料含量。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 851,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Feels awesome.",
+          "valence": "positive"
+        },
+        {
+          "code": "value",
+          "quote": "Great sheets for the cost!",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "Nice and cool in warm weather.",
+          "valence": "positive"
+        },
+        {
+          "code": "color_match",
+          "quote": "the color doesn’t match the picture. Much darker in person than the photo.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "warm_weather",
+          "quote": "in warm weather"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 857,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "quality_general",
+          "quote": "it feels so cheap!",
+          "valence": "negative"
+        },
+        {
+          "code": "composition_expectation",
+          "quote": "i thought it would be like mostly bamboo and something else like cotton but NOOOOOO it was with microfiber.",
+          "valence": "negative"
+        },
+        {
+          "code": "heat",
+          "quote": "it sucks in heat and stays HOT",
+          "valence": "negative"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "feels so disgusting to sleep on.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [
+        {
+          "code": "composition_expectation",
+          "quote": "i thought it would be like mostly bamboo and something else like cotton"
+        }
+      ],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "消费者预期和材料认知，不是实际成分检测；也未明确说此预期导致选择购买。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 859,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Material feels rough",
+          "valence": "negative"
+        },
+        {
+          "code": "fit_security",
+          "quote": "sheets don’t stay tight. Pulling off the corners after just one night.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "first_night",
+          "quote": "after just one night"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 866,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "durability_general",
+          "quote": "they’ve held up beautifully.",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "They’re soft",
+          "valence": "positive"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "comfortable",
+          "valence": "positive"
+        },
+        {
+          "code": "thinness",
+          "quote": "without feeling flimsy",
+          "valence": "positive"
+        },
+        {
+          "code": "wash_general",
+          "quote": "wash well",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_size",
+          "quote": "They fit the mattress properly",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_security",
+          "quote": "stay in place",
+          "valence": "positive"
+        },
+        {
+          "code": "wrinkling",
+          "quote": "don’t turn into a wrinkled, tangled mess overnight.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_intent",
+          "quote": "Definitely a set we would purchase again."
+        }
+      ],
+      "contexts": [
+        {
+          "code": "repeated_use",
+          "quote": "after repeated use"
+        },
+        {
+          "code": "washing",
+          "quote": "wash well"
+        }
+      ],
+      "unresolved": [],
+      "note": "比较曾用床单不等于本品牌再次购买。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 874,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "color_match",
+          "quote": "noticeably different color",
+          "valence": "negative"
+        },
+        {
+          "code": "texture_match",
+          "quote": "texture than image showed.",
+          "valence": "negative"
+        },
+        {
+          "code": "composition_expectation",
+          "quote": "Marketed as bamboo sheets but is a polyester blend.",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "Little to no cooling effect.",
+          "valence": "negative"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "they tried bribing me to leave a 5 star review in exchange for not having to return the sheets.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "return_requested",
+          "quote": "asking to return product for a refund"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "unverified_allegation",
+          "quote": "they tried bribing me"
+        }
+      ],
+      "unresolved": [],
+      "note": "卖家改评指控未经独立核实，不把评论指控写成商家已实施事实。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 883,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Comfortable material",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "soft",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "night_use",
+          "quote": "feel good at night"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 916,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "cooling",
+          "quote": "These sheets are not cooling at all!",
+          "valence": "negative"
+        },
+        {
+          "code": "sweating",
+          "quote": "the moment I layed down on these I started sweating!",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_reject",
+          "quote": "Will not be purchasing these again at all!"
+        }
+      ],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 971,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "cooling",
+          "quote": "they have no cooling or temperature regulation to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "heat",
+          "quote": "They actually keep me hotter.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [
+        {
+          "code": "cooling_reason",
+          "quote": "I purchased these bamboo sheets because they are “supposed to be cooling and temperature regulating”."
+        }
+      ],
+      "behaviors": [
+        {
+          "code": "reduce_use_intent",
+          "quote": "will not be using very often in my rotation."
+        }
+      ],
+      "contexts": [
+        {
+          "code": "washed_before_use",
+          "quote": "I washed them first as recommended."
+        },
+        {
+          "code": "three_days_use",
+          "quote": "Have been using them for 3 days now"
+        },
+        {
+          "code": "competitor_comparison",
+          "quote": "performance cotton sheets"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 987,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "not the most comfortable, but also not the least.",
+          "valence": "neutral"
+        },
+        {
+          "code": "cooling",
+          "quote": "they were supposed to be cooling sheets and they are not.",
+          "valence": "negative"
+        },
+        {
+          "code": "value",
+          "quote": "For the price, you can flip a coin whether to pick these up or go to a retail store.",
+          "valence": "neutral"
+        }
+      ],
+      "motives": [
+        {
+          "code": "cooling_reason",
+          "quote": "they were bought because they were supposed to be cooling sheets"
+        }
+      ],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "competitor_comparison",
+          "quote": "a set of regular sheets you can get from Walmart"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1016,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "material_description",
+          "quote": "Like cotton",
+          "valence": "uncertain"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "可能是触感类比；仅凭一星无法认定正负或真实成分。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1082,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "material_description",
+          "quote": "polyester",
+          "valence": "uncertain"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [
+        "材料词，无明确态度或测试证据；一星不替代语义判断。"
+      ],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1111,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "comfort_general",
+          "quote": "Feels okay",
+          "valence": "neutral"
+        },
+        {
+          "code": "cooling",
+          "quote": "these sheets are not cooling. They do not keep us cool.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1142,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "wrinkling",
+          "quote": "It is not wrinkle free.",
+          "valence": "negative"
+        },
+        {
+          "code": "tearing",
+          "quote": "the fabric is already tearing at tge seams.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "first_wash",
+          "quote": "after our first wash in room temperature as recommended"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1245,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "odor",
+          "quote": "it smelled like cigarette smoke intensely.",
+          "valence": "negative"
+        },
+        {
+          "code": "ad_match",
+          "quote": "The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "gift_intended",
+          "quote": "This is supposed to be a birthday gift for my son"
+        },
+        {
+          "code": "return_conditional",
+          "quote": "if they are not cooling, I will be returning them."
+        }
+      ],
+      "contexts": [
+        {
+          "code": "not_used",
+          "quote": "Haven’t even used them"
+        }
+      ],
+      "unresolved": [],
+      "note": "仅包装没有凉感文字，不能编码实际不凉或已完成退货。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1282,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "I touched them and they are not soft at all.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "unboxing_touch",
+          "quote": "I didn’t even have to unfold these"
+        },
+        {
+          "code": "competitor_comparison",
+          "quote": "bamboo sheets that I’ve had in the past."
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1284,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "these are very scratchy",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "the light purple ones that I bought, which were very buttery soft.",
+          "valence": "positive"
+        },
+        {
+          "code": "variant_consistency",
+          "quote": "the texture and feel of them are not the same at all.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [
+        {
+          "code": "repeat_actual",
+          "quote": "I have ordered these exact same sheets in the light purple"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "prior_target_variant",
+          "quote": "the light purple ones that I bought"
+        },
+        {
+          "code": "washing",
+          "quote": "I even washed them to see if that would help and unfortunately it did not"
+        }
+      ],
+      "unresolved": [],
+      "note": "正向柔软针对先前同款颜色，当前款为负向。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1289,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "composition_expectation",
+          "quote": "Everywhere on the packaging it says bamboo sheets everywhere on the ad. It says bamboo sheets after I complained. I got an email showing that if you scroll down three pages, it says that there’s 60% 40%.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "not_sleep_used",
+          "quote": "Didn’t even take them out of the package when I felt the material."
+        }
+      ],
+      "unresolved": [],
+      "note": "没有明确柔软/粗糙描述，不把一般材料不满硬判成粗糙。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1331,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_security",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "smoothness",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [
+        {
+          "code": "cooling_expectation",
+          "quote": "I am quite a warm sleeper, so I was looking forward to the “cooling” effect of these sheets."
+        }
+      ],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "warm_sleeper",
+          "quote": "I am quite a warm sleeper"
+        },
+        {
+          "code": "reported_partner",
+          "quote": "My husband feels"
+        },
+        {
+          "code": "rating_update",
+          "quote": "Changing my review to 1 star"
+        },
+        {
+          "code": "unverified_allegation",
+          "quote": "the seller messaged me asking to change my review"
+        }
+      ],
+      "unresolved": [],
+      "note": "同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1389,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "Doesn't fit my normal queen size bed at all.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [
+        {
+          "code": "promotion_trigger",
+          "quote": "finally saw they went on sale and jumped on them"
+        }
+      ],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "queen_mattress",
+          "quote": "normal queen size bed"
+        },
+        {
+          "code": "purchase_wait",
+          "quote": "Ive been waiting to buy these for 6 months"
+        }
+      ],
+      "unresolved": [],
+      "note": "标签为Queen而不合床，不归为明确错发Twin；未核实实物尺寸。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1404,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_security",
+          "quote": "the sheets DO NOT stay on my bed!",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1409,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "These are scratchy",
+          "valence": "negative"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "very uncomfortable to sleep on.",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "they are cooling and soft. \nThat is not the case.",
+          "valence": "uncertain"
+        }
+      ],
+      "motives": [
+        {
+          "code": "video_expectation",
+          "quote": "Was excited about these sheets after watching videos and seeing that they are cooling and soft."
+        }
+      ],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "视频形成软凉期待明确；That is not the case总体否定，凉感是否单独被否定留歧义。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1412,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "cooling",
+          "quote": "Nothing cool",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "or soft about it",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1546,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "Soft? Yes.",
+          "valence": "positive"
+        },
+        {
+          "code": "cooling",
+          "quote": "Cooling? Absolutely not.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "prior_cooling_product",
+          "quote": "I’ve had true cooling sheets"
+        }
+      ],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1568,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "thinness",
+          "quote": "These sheets are very thin",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "kind of scratchy material.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "washing",
+          "quote": "I followed the washing instructions provided to me"
+        }
+      ],
+      "unresolved": [],
+      "note": "洗涤后仍不满意，不足以认定洗涤造成粗糙或薄。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1618,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "fit_size",
+          "quote": "Both sides are long enough to cover thick mattress with fitted.",
+          "valence": "positive"
+        },
+        {
+          "code": "color",
+          "quote": "The color is gorgeous!",
+          "valence": "positive"
+        }
+      ],
+      "motives": [
+        {
+          "code": "cooling_reason",
+          "quote": "I bought to keep cool."
+        },
+        {
+          "code": "review_influence",
+          "quote": "I bought them because of reviews saying that the sheets are cooling."
+        }
+      ],
+      "behaviors": [
+        {
+          "code": "additional_sizes_intent",
+          "quote": "I’m going to buy some twin sets!"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "thick_mattress",
+          "quote": "thick mattress"
+        }
+      ],
+      "unresolved": [],
+      "note": "只写为凉感而买，没有报告实际凉感效果。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1619,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "tearing",
+          "quote": "My sheets ripped after washing them",
+          "valence": "negative"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "they asked if I did a positive review they would send new ones.",
+          "valence": "negative"
+        },
+        {
+          "code": "replacement_fulfilment",
+          "quote": "Never sent new ones.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "washing",
+          "quote": "after washing them"
+        },
+        {
+          "code": "unverified_allegation",
+          "quote": "they asked if I did a positive review"
+        }
+      ],
+      "unresolved": [],
+      "note": "替换承诺未兑现是消费者陈述，不等于原订单未送达。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1620,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "They are so soft",
+          "valence": "positive"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "cozy",
+          "valence": "positive"
+        },
+        {
+          "code": "color",
+          "quote": "the color matches my accent wall perfectly!",
+          "valence": "positive"
+        },
+        {
+          "code": "packaging",
+          "quote": "The packaging 👌🏽👌🏽👌🏽 I kept the box to store other things.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "room_match",
+          "quote": "matches my accent wall perfectly"
+        },
+        {
+          "code": "packaging_reuse",
+          "quote": "I kept the box to store other things."
+        }
+      ],
+      "unresolved": [],
+      "note": "室内配色满意是购后体验，未明确说因配色而购买。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1622,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "softness",
+          "quote": "The material feels very soft",
+          "valence": "positive"
+        },
+        {
+          "code": "snags",
+          "quote": "all the sheets were snagged all over.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [],
+      "unresolved": [],
+      "note": "",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1625,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "sleep_quality",
+          "quote": "Sheets has helped me sleep way better",
+          "valence": "positive"
+        },
+        {
+          "code": "appearance_defect",
+          "quote": "the sheets had, had white lines",
+          "valence": "negative"
+        },
+        {
+          "code": "service",
+          "quote": "The seller was very nice to me and was willing to send me a new pair.",
+          "valence": "positive"
+        }
+      ],
+      "motives": [],
+      "behaviors": [],
+      "contexts": [
+        {
+          "code": "cause_unverified",
+          "quote": "I think it was because manfuctuar defect"
+        }
+      ],
+      "unresolved": [],
+      "note": "不把white lines猜成起球/褪色；卖家愿意补发不代表已收到。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    },
+    {
+      "review_id": 1627,
+      "disposition": "retain",
+      "denominator_included": true,
+      "themes": [
+        {
+          "code": "thinness",
+          "quote": "super thing",
+          "valence": "uncertain"
+        },
+        {
+          "code": "quality_general",
+          "quote": "cheap.",
+          "valence": "negative"
+        }
+      ],
+      "motives": [
+        {
+          "code": "content_influence_uncertain",
+          "quote": "I hate being influenced on here"
+        }
+      ],
+      "behaviors": [
+        {
+          "code": "switch_brand_intent",
+          "quote": "Going with my old brand bedsure!"
+        }
+      ],
+      "contexts": [
+        {
+          "code": "competitor_preference",
+          "quote": "my old brand bedsure! Those were good."
+        }
+      ],
+      "unresolved": [
+        "thing可能是thin的笔误，保留待判；内容影响表述泛化，未说明哪条内容促成该订单。"
+      ],
+      "note": "不把对推广者的泛指指控写成品牌虚假推广事实。",
+      "pass": "v0.1_initial",
+      "judgment_method": "analyst_read_original"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+- complementary:
+  - navigation:
+    - link "TikTok Shop Logo":
+      - /url: https://shop.tiktok.com/us
+      - img "TikTok Shop Logo"
+    - button "collapse-sidebar":
+    - button "Categories":
+      - generic: Categories
+    - button "Orders":
+      - generic: Orders
+    - button "销售":
+      - generic: 销售
+    - button "客户支持":
+      - generic: 客户支持
+    - button "更多":
+      - generic: 更多
+  - generic: 选购
+  - generic: 销售
+  - generic: 关于
+  - generic: 客户支持
+  - generic: 法律信息
+  - generic: © 2026 TikTok
+- textbox "Search":
+  - /placeholder: Mattress Topper
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "选购所有类目":
+    - /url: https://shop.tiktok.com/us/c
+    - generic: 选购所有类目
+  - link "Mattress Topper":
+    - /url: https://shop.tiktok.com/us/k/mattress-topper
+    - generic: Mattress Topper
+- heading "Mattress Topper" [level=1]
+- generic: Featured brands
+- generic: Authenticated products
+- text: Verified shops
+- img "Sweetcrispy Official"
+- link "Sweetcrispy Official 38.4K+ 粉丝":
+  - /url: https://www.tiktok.com/shop/store/sweetcrispy-official/7495657286590434018?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_info
+  - heading "Sweetcrispy Official" [level=3]
+  - generic: 38.4K+
+  - generic: 粉丝
+- link "Sweetcrispy 8-Drawer Fabric Storage Tower - Cupboards Cabinets Dresser with Sturdy Steel Frame, Wooden Top, 8.3in Deep Bins, Smooth Slides, Dresser for Bedroom, Furniture for Small Spaces, Nursery Storage Organization $58.98 (-41%)":
+  - /url: https://shop.tiktok.com/us/pdp/steam-mop-by-brand-name-with-30s-rapid-heating-11-2oz-water-tank/1729708918033453794?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Sweetcrispy 8-Drawer Fabric Storage Tower - Cupboards Cabinets Dresser with Sturdy Steel Frame, Wooden Top, 8.3in Deep Bins, Smooth Slides, Dresser for Bedroom, Furniture for Small Spaces, Nursery Storage Organization"
+  - text: $58
+  - generic: ".98"
+  - generic: (-41%)
+- link "Sweetcrispy Foldable Storage Ottoman Bench - Modern Linen Fabric Padded Indoor Apartment Furniture, Ottoman with Storage for Living Room Decor, Bedroom Use & Small Space Entryway Home Decor Items $39.98 (-33%)":
+  - /url: https://shop.tiktok.com/us/pdp/folding-storage-ottoman-bench-durable-toy-box-seat-660lb-capacity/1731439874601030370?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Sweetcrispy Foldable Storage Ottoman Bench - Modern Linen Fabric Padded Indoor Apartment Furniture, Ottoman with Storage for Living Room Decor, Bedroom Use & Small Space Entryway Home Decor Items"
+  - text: $39
+  - generic: ".98"
+  - generic: (-33%)
+- link "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room $36.37 (-47%)":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-sweetcrispy-memory-foam-cooling-ergonomic-design/1729707309447090914?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+  - text: $36
+  - generic: ".37"
+  - generic: (-47%)
+- link "Sweetcrispy Modern 9-Drawer Fabric Storage Tower - Drawer Chest Dresser, Dresser for Bedroom, Metal Frame, Wooden Tabletop, Anti-Topple Safety, Fabric/Metal Construction, Heavy-Duty (Over 25kg) Indoor Cabinet for Storage Organization $70.17 (-38%)":
+  - /url: https://shop.tiktok.com/us/pdp/fabric-storage-tower-by-unknown-9-drawer-dresser-organizer-with-steel-frame/1729708341245219554?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Sweetcrispy Modern 9-Drawer Fabric Storage Tower - Drawer Chest Dresser, Dresser for Bedroom, Metal Frame, Wooden Tabletop, Anti-Topple Safety, Fabric/Metal Construction, Heavy-Duty (Over 25kg) Indoor Cabinet for Storage Organization"
+  - text: $70
+  - generic: ".17"
+  - generic: (-38%)
+- link "Overbed Bedside Table Adjustable with Wheels, Mobile Standing Stand Up Rolling Laptop PC Desks with Tilting Top Height Tray Side Computer Workstation $83.17 (-51%)":
+  - /url: https://shop.tiktok.com/us/pdp/adjustable-overbed-table-by-brand-name-with-tilting-top-wheels/1730956645222159074?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Overbed Bedside Table Adjustable with Wheels, Mobile Standing Stand Up Rolling Laptop PC Desks with Tilting Top Height Tray Side Computer Workstation"
+  - text: $83
+  - generic: ".17"
+  - generic: (-51%)
+- link "Sweetcrispy Durable King Size Heavy-Duty Metal Platform Bed Frame - 14 in, Sturdy Steel Slat Support, No Box Spring Needed, Fast Assembly, Underbed Storage, Modern Apartment Stuff for Guest-Ready King Bed Setup $65.99":
+  - /url: https://shop.tiktok.com/us/pdp/metal-platform-bed-frame-by-unknown-heavy-duty-design-with-storage/1729708381675229922?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Sweetcrispy Durable King Size Heavy-Duty Metal Platform Bed Frame - 14 in, Sturdy Steel Slat Support, No Box Spring Needed, Fast Assembly, Underbed Storage, Modern Apartment Stuff for Guest-Ready King Bed Setup"
+  - text: $65
+  - generic: ".99"
+- heading [level=2]
+- button "筛选条件":
+  - generic: 筛选条件
+- button "排序方式":
+  - generic: 排序方式
+- button "优惠":
+  - generic: 优惠
+- button "Free Shipping":
+  - generic: Free Shipping
+- button "4 星以上":
+  - generic: 4 星以上
+- button "$50 以下":
+  - generic: $50 以下
+- button "$100 以上":
+  - generic: $100 以上
+- button "床上用品与布艺":
+  - generic: 床上用品与布艺
+- button "婴儿家具":
+  - generic: 婴儿家具
+- img "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable"
+- generic: Free shipping
+- link "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/ultra-soft-twin-mattress-topper-bamboo-viscose-cool-comfort/1732318179776369433
+  - heading "[SALE] Niagara Ultra Soft Bamboo Mattress Topper - Rayon from Bamboo, Cooling Thick Pillow Top, Cloud-Like Comfort, Breathable Skin-Gentle Bed Topper, 8-20\" Deep Pocket Fit, Ideal for Hot Sleepers, Machine Washable" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 5.4K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $50
+- generic: ".99"
+- button:
+- img "Memory Foam Mattress Topper - Soft, Breathable, Pressure-Relieving Bedding Pad for Home, Dorm Use"
+- generic: Free shipping
+- link "Memory Foam Mattress Topper - Soft, Breathable, Pressure-Relieving Bedding Pad for Home, Dorm Use":
+  - /url: https://shop.tiktok.com/us/pdp/memory-foam-mattress-topper-by-dumos-soft-cooling-gel-pressure-relieving-support-ergonomic-comfort/1732408304364720680
+  - heading "Memory Foam Mattress Topper - Soft, Breathable, Pressure-Relieving Bedding Pad for Home, Dorm Use" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 2.0K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $52
+- generic: ".99"
+- button:
+- img "【New Color】 Sweetcrispy Full Size Cooling Gel Mattress Topper Memory Foam Mattress Breathable Topper for Bedroom, Guest Room, Dorm Room & Apartment"
+- generic: Free shipping
+- link "【New Color】 Sweetcrispy Full Size Cooling Gel Mattress Topper Memory Foam Mattress Breathable Topper for Bedroom, Guest Room, Dorm Room & Apartment":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-topper-full-gel-memory-foam-cooling-support/1729507737428202674
+  - heading "【New Color】 Sweetcrispy Full Size Cooling Gel Mattress Topper Memory Foam Mattress Breathable Topper for Bedroom, Guest Room, Dorm Room & Apartment" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 1.5K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $41
+- generic: ".99"
+- button:
+- img "Sweetcrispy Gel-Infused Cooling Memory Foam Mattress Topper - Breathable Mattress Pad, Gel-Cool Sleep, Soft Removable Washable Polyester Cover, Metal Zipper, Elastic Straps, RV/Camper Ready, Fits Queen, Twin XL, Sleeper Sofas"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Sweetcrispy Gel-Infused Cooling Memory Foam Mattress Topper - Breathable Mattress Pad, Gel-Cool Sleep, Soft Removable Washable Polyester Cover, Metal Zipper, Elastic Straps, RV/Camper Ready, Fits Queen, Twin XL, Sleeper Sofas":
+  - /url: https://shop.tiktok.com/us/pdp/gel-memory-foam-mattress-topper-non-slip-machine-washable/1731983690608775906
+  - heading "Sweetcrispy Gel-Infused Cooling Memory Foam Mattress Topper - Breathable Mattress Pad, Gel-Cool Sleep, Soft Removable Washable Polyester Cover, Metal Zipper, Elastic Straps, RV/Camper Ready, Fits Queen, Twin XL, Sleeper Sofas" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 1.1K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $52
+- generic: ".98"
+- button:
+- img "Queen Cooling Gel Memory Foam Mattress Topper - Cooling Mattress Protector with Removable Soft Cover, Breathable Ventilation, Pain Relief, Metal Zipper, Anti-Slip Backing, Elastic Straps, Home & Travel Use (Multi-Size Options Including Full:54\"x54\"x75\")"
+- generic: Free shipping
+- link "Queen Cooling Gel Memory Foam Mattress Topper - Cooling Mattress Protector with Removable Soft Cover, Breathable Ventilation, Pain Relief, Metal Zipper, Anti-Slip Backing, Elastic Straps, Home & Travel Use (Multi-Size Options Including Full:54\"x54\"x75\")":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-gel-memory-foam-mattress-topper-dumos-soft-cover-non-slip-versatile-use-back-pain-relief/1732408617032913448
+  - heading "Queen Cooling Gel Memory Foam Mattress Topper - Cooling Mattress Protector with Removable Soft Cover, Breathable Ventilation, Pain Relief, Metal Zipper, Anti-Slip Backing, Elastic Straps, Home & Travel Use (Multi-Size Options Including Full:54\"x54\"x75\")" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 2.1K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $69
+- generic: ".99"
+- button:
+- img "Sweetcrispy Quilted Cooling Mattress Topper - 2-in-1 Adjustable Double-Layer Durable Memory Foam Filled Cooling Mattress Pad, 3D Fiber, 8in Height Boosts Support, Medium-Firm Foam Contours to Shoulders and Back, Breathable Cloud-Like Comfort, Washable"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Sweetcrispy Quilted Cooling Mattress Topper - 2-in-1 Adjustable Double-Layer Durable Memory Foam Filled Cooling Mattress Pad, 3D Fiber, 8in Height Boosts Support, Medium-Firm Foam Contours to Shoulders and Back, Breathable Cloud-Like Comfort, Washable":
+  - /url: https://shop.tiktok.com/us/pdp/sweetcrispy-double-layer-mattress-topper-memory-foam-cool/1731983517865317090
+  - heading "Sweetcrispy Quilted Cooling Mattress Topper - 2-in-1 Adjustable Double-Layer Durable Memory Foam Filled Cooling Mattress Pad, 3D Fiber, 8in Height Boosts Support, Medium-Firm Foam Contours to Shoulders and Back, Breathable Cloud-Like Comfort, Washable" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 12.4K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $48
+- generic: ".98"
+- button:
+- img "Viscose-from-Bamboo Pillow-Top Soft Mattress Pad - Mattress Topper with Deep Elastic Pocket, Cooling Breathable Bedding, Back Pain Relief, 8-21in Stretch Elastic Skirt, Machine-Wash Easy (King, Ideal for Hot Sleepers)"
+- generic: Free shipping
+- link "Viscose-from-Bamboo Pillow-Top Soft Mattress Pad - Mattress Topper with Deep Elastic Pocket, Cooling Breathable Bedding, Back Pain Relief, 8-21in Stretch Elastic Skirt, Machine-Wash Easy (King, Ideal for Hot Sleepers)":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-viscose-king-size-mattress-topper-for-back-pain-cool-sleep/1731839757883118343
+  - heading "Viscose-from-Bamboo Pillow-Top Soft Mattress Pad - Mattress Topper with Deep Elastic Pocket, Cooling Breathable Bedding, Back Pain Relief, 8-21in Stretch Elastic Skirt, Machine-Wash Easy (King, Ideal for Hot Sleepers)" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 712 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $50
+- generic: ".52"
+- button:
+- img "Sweetcrispy Gel-Infused Memory Foam Mattress Topper with Memory Foam Design, Soft Cooling Pad for Camping, Dorms, RVs, Back & Hip Pain Relief Sleeping Gear for Refreshing Sleep Experience"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Sweetcrispy Gel-Infused Memory Foam Mattress Topper with Memory Foam Design, Soft Cooling Pad for Camping, Dorms, RVs, Back & Hip Pain Relief Sleeping Gear for Refreshing Sleep Experience":
+  - /url: https://shop.tiktok.com/us/pdp/memory-foam-mattress-topper-twin-cooling-gel-pressure-relief/1732270107970933474
+  - heading "Sweetcrispy Gel-Infused Memory Foam Mattress Topper with Memory Foam Design, Soft Cooling Pad for Camping, Dorms, RVs, Back & Hip Pain Relief Sleeping Gear for Refreshing Sleep Experience" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.5K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $59
+- generic: ".99"
+- button:
+- img "Sweetcrispy Premium Memory Foam Cooling Gel-Infused Full/Twin Size Mattress Topper - Soft, Breathable Supportive Bed Pad, Non-Toxic Polyurethane Foam Bedding Accessory, Breathable Gel Cools You, 24h Expand to Size, Relaxation Padding"
+- generic: Free shipping
+- link "Sweetcrispy Premium Memory Foam Cooling Gel-Infused Full/Twin Size Mattress Topper - Soft, Breathable Supportive Bed Pad, Non-Toxic Polyurethane Foam Bedding Accessory, Breathable Gel Cools You, 24h Expand to Size, Relaxation Padding":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-topper-full-gel-memory-foam-with-breathable-thermoregulation/1730969158530797581
+  - heading "Sweetcrispy Premium Memory Foam Cooling Gel-Infused Full/Twin Size Mattress Topper - Soft, Breathable Supportive Bed Pad, Non-Toxic Polyurethane Foam Bedding Accessory, Breathable Gel Cools You, 24h Expand to Size, Relaxation Padding" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 600 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- generic: "-36%"
+- text: $38
+- generic: ".98"
+- text: $60.99
+- button:
+- img "4-Inch Dual Layer Cooling Mattress Topper - 2-In Premium Slow Rising Memory Foam, 2-In Down Alternative Pillow Top Pad Cover, 8-21 In Deep Pocket, Breathable Non Toxic Polyfoam Soft Support Mattress Accessory, Non Toxic Mattresses"
+- generic: Free shipping
+- link "4-Inch Dual Layer Cooling Mattress Topper - 2-In Premium Slow Rising Memory Foam, 2-In Down Alternative Pillow Top Pad Cover, 8-21 In Deep Pocket, Breathable Non Toxic Polyfoam Soft Support Mattress Accessory, Non Toxic Mattresses":
+  - /url: https://shop.tiktok.com/us/pdp/sweetcrispy-4-inch-dual-layer-cooling-mattress-topper-gel-infused/1732471839965484009
+  - heading "4-Inch Dual Layer Cooling Mattress Topper - 2-In Premium Slow Rising Memory Foam, 2-In Down Alternative Pillow Top Pad Cover, 8-21 In Deep Pocket, Breathable Non Toxic Polyfoam Soft Support Mattress Accessory, Non Toxic Mattresses" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 262 已售出
+- generic: Limited time deal
+- text: $69
+- generic: ".99"
+- button:
+- img "Soft 1000 GSM Mattress Pad, Down Alternative Mattress Topper with Added Comfort Layer, Cooling & Breathable, Deep Pocket Fits 8–21 Inch Mattresses"
+- generic: Free shipping
+- link "Soft 1000 GSM Mattress Pad, Down Alternative Mattress Topper with Added Comfort Layer, Cooling & Breathable, Deep Pocket Fits 8–21 Inch Mattresses":
+  - /url: https://shop.tiktok.com/us/pdp/extra-thick-1000-gsm-mattress-topper-cool-breathable/1732315021357060628
+  - heading "Soft 1000 GSM Mattress Pad, Down Alternative Mattress Topper with Added Comfort Layer, Cooling & Breathable, Deep Pocket Fits 8–21 Inch Mattresses" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 7.1K 已售出
+- text: $29
+- generic: ".12"
+- button:
+- img "2/3/4 Inch Gel Memory Foam Mattress Topper – Cooling Ventilated Bed Pad, CertiPUR-US Certified, Breathable Foam Topper for Sleeper Sofa & Bed"
+- generic: Free shipping
+- link "2/3/4 Inch Gel Memory Foam Mattress Topper – Cooling Ventilated Bed Pad, CertiPUR-US Certified, Breathable Foam Topper for Sleeper Sofa & Bed":
+  - /url: https://shop.tiktok.com/us/pdp/certipur-us-certified-memory-foam-mattress-topper-twin-queen/1731359179913532231
+  - heading "2/3/4 Inch Gel Memory Foam Mattress Topper – Cooling Ventilated Bed Pad, CertiPUR-US Certified, Breathable Foam Topper for Sleeper Sofa & Bed" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 676 已售出
+- generic: Limited time deal
+- generic: "-23%"
+- text: $51
+- generic: ".20"
+- text: $66.49
+- button:
+- img "Bamboo Cooling Mattress Topper Cloud-Like – 360° Deep Pocket Fits 18\" quilted Mattress, Machine Washable & Expands Fluffy in Dryer for Hot Sleepers"
+- generic: Free shipping
+- link "Bamboo Cooling Mattress Topper Cloud-Like – 360° Deep Pocket Fits 18\" quilted Mattress, Machine Washable & Expands Fluffy in Dryer for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/1732439112221758200
+  - heading "Bamboo Cooling Mattress Topper Cloud-Like – 360° Deep Pocket Fits 18\" quilted Mattress, Machine Washable & Expands Fluffy in Dryer for Hot Sleepers" [level=3]
+- generic: "4.2"
+- 'img "Rating: 4.2 out of 5 stars"':
+- generic: 509 已售出
+- generic: Limited time deal
+- generic: "-45%"
+- text: $34
+- generic: ".99"
+- text: $64.00
+- button:
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- generic: Free shipping
+- link "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel":
+  - /url: https://shop.tiktok.com/us/pdp/california-king-bamboo-viscose-mattress-topper-deep-pocket-easy-care/1731362585480434000
+  - heading "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 10.3K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- generic: "-27%"
+- text: $43
+- generic: ".19"
+- text: $58.99
+- button:
+- img "Sweetcrispy Bamboo Mattress Topper - 400G Natural Fiber Bed Pad, Ultra Soft Cooling Breathable, 3D Even Support for Back & Side Sleepers, Machine Washable (Mattress Toppers & Protectors), Natural Fiber Topper"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Sweetcrispy Bamboo Mattress Topper - 400G Natural Fiber Bed Pad, Ultra Soft Cooling Breathable, 3D Even Support for Back & Side Sleepers, Machine Washable (Mattress Toppers & Protectors), Natural Fiber Topper":
+  - /url: https://shop.tiktok.com/us/pdp/sweetcrispy-bamboo-mattress-topper-ultra-soft-breathable/1732421123759182562
+  - heading "Sweetcrispy Bamboo Mattress Topper - 400G Natural Fiber Bed Pad, Ultra Soft Cooling Breathable, 3D Even Support for Back & Side Sleepers, Machine Washable (Mattress Toppers & Protectors), Natural Fiber Topper" [level=3]
+- generic: "3.8"
+- 'img "Rating: 3.8 out of 5 stars"':
+- generic: 1.7K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- generic: "-57%"
+- text: $19
+- generic: ".98"
+- text: $46.99
+- button:
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: Free shipping
+- link "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657
+  - heading "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 70.8K 已售出
+- generic: "-50%"
+- text: $41
+- generic: ".90"
+- text: $83.80
+- button:
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-sweetcrispy-memory-foam-cooling-ergonomic-design/1729707309447090914
+  - heading "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 36.3K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- generic: "-47%"
+- text: $36
+- generic: ".37"
+- text: $68.89
+- button:
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- generic: Free shipping
+- link "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-brand-name-extra-1000-gsm-cooling-plush-pad/1729457680158658805
+  - heading "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 122.5K 已售出
+- text: $29
+- generic: ".99"
+- button:
+- img "【Bedhacker】Bamboo Mattress Topper - Cooling Fitted Bed Pad, 18\" 360° Deep Pocket, Breathable, Cloud-Like Soft, Ideal for Hot Sleepers, Fits 18\" Deep Home Bedding Accessory, Bed Topper"
+- generic: Free shipping
+- link "【Bedhacker】Bamboo Mattress Topper - Cooling Fitted Bed Pad, 18\" 360° Deep Pocket, Breathable, Cloud-Like Soft, Ideal for Hot Sleepers, Fits 18\" Deep Home Bedding Accessory, Bed Topper":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-mattress-topper-queen-soft-fluffy-breathable/1732438931748524182
+  - heading "【Bedhacker】Bamboo Mattress Topper - Cooling Fitted Bed Pad, 18\" 360° Deep Pocket, Breathable, Cloud-Like Soft, Ideal for Hot Sleepers, Fits 18\" Deep Home Bedding Accessory, Bed Topper" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 3.0K 已售出
+- generic: Limited time deal
+- generic: "-56%"
+- text: $33
+- generic: ".79"
+- text: $76.69
+- button:
+- img "【Weekly Deals】Cooling Mattress Topper, 1200＆1000＆500 Plush Quilted Pad with 8-21 Inch Deep Pockets, Overfilled with Breathable Polyester, Mattress Protector- Machine Washable"
+- generic: Free shipping
+- link "【Weekly Deals】Cooling Mattress Topper, 1200＆1000＆500 Plush Quilted Pad with 8-21 Inch Deep Pockets, Overfilled with Breathable Polyester, Mattress Protector- Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-mattress-topper-extra-thick-plush-quilted-pad/1732120225231966968
+  - heading "【Weekly Deals】Cooling Mattress Topper, 1200＆1000＆500 Plush Quilted Pad with 8-21 Inch Deep Pockets, Overfilled with Breathable Polyester, Mattress Protector- Machine Washable" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 9.4K 已售出
+- generic: Flash sale
+- generic: 00:00:00
+- text: $65
+- generic: ".00"
+- button:
+- button "查看更多"
+- generic: 相关搜索
+- link "Mattress Toppers":
+  - /url: https://shop.tiktok.com/us/k/mattress-toppers
+- link "Mattress Toppe":
+  - /url: https://shop.tiktok.com/us/k/mattress-toppe
+- link "Cooling Mattress Topper":
+  - /url: https://shop.tiktok.com/us/k/cooling-mattress-topper
+- link "Cloud Mattress Topper":
+  - /url: https://shop.tiktok.com/us/k/cloud-mattress-topper
+- link "Affordable Mattress Topper":
+  - /url: https://shop.tiktok.com/us/k/affordable-mattress-topper
+- link "Mattress Topper france":
+  - /url: https://shop.tiktok.com/us/k/mattress-topper-france
+- link "Mattresser topper":
+  - /url: https://shop.tiktok.com/us/k/mattresser-topper
+- link "Mattresss topper":
+  - /url: https://shop.tiktok.com/us/k/mattresss-topper
+- link "Matress topper":
+  - /url: https://shop.tiktok.com/us/k/matress-topper
+- generic: 相关类目
+- link "床垫及床垫保护垫、衬面、保护罩":
+  - /url: https://shop.tiktok.com/us/c/mattress-mattress-pads-toppers-protectors/809480
+- link "床垫":
+  - /url: https://shop.tiktok.com/us/c/mattresses/876424
+- link "睡袋与露营床品":
+  - /url: https://shop.tiktok.com/us/c/sleeping-gear/604054
+- link "床单与枕套":
+  - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+- heading "Introduction" [level=2]
+- text: If you're looking to enhance your sleep experience, a mattress topper can be a game-changer. Mattress toppers are designed to provide an extra layer of comfort and support on top of your existing mattress. Whether you want to soften a firm mattress or add a bit of firmness to a soft one, a mattress topper can help achieve the perfect balance for a restful night's sleep.
+- text: "There are various types of mattress toppers available, each made from different materials such as memory foam, latex, or down. Here’s why you should consider investing in a mattress topper:"
+- list:
+  - strong: "Improved Comfort:"
+  - text: Mattress toppers can significantly enhance the comfort of your bed, helping to alleviate pressure points and improve overall sleep quality.
+  - strong: "Cost-Effective Solution:"
+  - text: Instead of purchasing a new mattress, a topper can provide a cost-effective way to refresh your sleeping surface.
+  - strong: "Easy Maintenance:"
+  - text: Many mattress toppers come with removable covers that are machine washable, making it easy to keep your sleep environment clean.
+- text: When shopping for a mattress topper, consider factors such as thickness, material, and firmness level. Popular options include memory foam for contouring support, latex for durability and bounce, and feather toppers for a plush feel.
+- text: With so many choices available, finding the right mattress topper can be simple. Look for customer-approved products that offer proven quality and comfort. Remember, a good night's sleep is essential for overall health and well-being, so investing in a mattress topper can be one of the best decisions you make for your sleep routine.
+- generic: "This information is AI generated and may return results that are not relevant. It does not represent TikTok‘s views or advice. If you have concerns, please report at: Feedback and help - TikTok"
+- heading "FAQs" [level=2]
+- button "How can I choose the best mattress topper for my needs? +":
+  - generic: How can I choose the best mattress topper for my needs?
+  - generic: +
+- button "What are the key features to look for when selecting a mattress topper? +":
+  - generic: What are the key features to look for when selecting a mattress topper?
+  - generic: +
+- button "Are there any common mistakes people make when purchasing a mattress topper? +":
+  - generic: Are there any common mistakes people make when purchasing a mattress topper?
+  - generic: +
+- button "How often should I replace my mattress topper? +":
+  - generic: How often should I replace my mattress topper?
+  - generic: +
+- button "Can a mattress topper help with back pain? +":
+  - generic: Can a mattress topper help with back pain?
+  - generic: +
+- generic: "This information is AI generated and may return results that are not relevant. It does not represent TikTok‘s views or advice. If you have concerns, please report at: Feedback and help - TikTok"

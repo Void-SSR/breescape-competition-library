@@ -1,0 +1,56 @@
+{
+  "url": "http://127.0.0.1:8766",
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "framework_errors": [],
+  "expected_404": "intentional cross-product read showed not-found",
+  "apiCases": [
+    {
+      "q": "product=sheets&id=580",
+      "status": 200
+    },
+    {
+      "q": "product=topper&id=580",
+      "status": 404
+    },
+    {
+      "q": "product=sheets&id=999999",
+      "status": 404
+    },
+    {
+      "q": "product=sheets&id=abc",
+      "status": 400
+    },
+    {
+      "q": "product=sheets&id=0",
+      "status": 400
+    },
+    {
+      "q": "product=sheets&id=999999999999999999999",
+      "status": 400
+    },
+    {
+      "q": "id=580",
+      "status": 400
+    },
+    {
+      "q": "product=unknown&id=580",
+      "status": 404
+    },
+    {
+      "q": "product=sheets&id=1618",
+      "status": 200
+    }
+  ],
+  "ordinary_export": true,
+  "portable_export": true,
+  "stale_export_rejected": true
+}

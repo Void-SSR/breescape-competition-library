@@ -1,0 +1,937 @@
+{
+  "semantic_changes": [
+    {
+      "review_id": 238,
+      "field": "themes",
+      "before": [
+        {
+          "code": "fit_security",
+          "quote": "They slip off a bit",
+          "valence": "negative"
+        },
+        {
+          "code": "fit_security",
+          "quote": "nothing wild like the last set of pottery barn sheets did",
+          "valence": "positive"
+        }
+      ],
+      "after": [
+        {
+          "code": "T08",
+          "quote": "They slip off a bit",
+          "valence": "negative",
+          "initial_topic": "fit_security",
+          "label": "固定性／滑脱",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 0,
+          "quote_end": 19,
+          "count_unit_key": "238|T08|negative"
+        }
+      ],
+      "reason": "仍明确滑脱；相对竞品没那么严重不是当前产品固定性认可。"
+    },
+    {
+      "review_id": 238,
+      "field": "contexts",
+      "before": [
+        {
+          "code": "competitor_comparison",
+          "quote": "the last set of pottery barn sheets"
+        }
+      ],
+      "after": [
+        {
+          "code": "competitor_comparison",
+          "quote": "the last set of pottery barn sheets"
+        },
+        {
+          "code": "relative_improvement",
+          "quote": "nothing wild like the last set of pottery barn sheets did"
+        }
+      ],
+      "reason": "相对改善另存情境，避免同一句既作失败又作成功。"
+    },
+    {
+      "review_id": 866,
+      "field": "themes",
+      "before": [
+        {
+          "code": "durability_general",
+          "quote": "they’ve held up beautifully.",
+          "valence": "positive"
+        },
+        {
+          "code": "softness",
+          "quote": "They’re soft",
+          "valence": "positive"
+        },
+        {
+          "code": "comfort_general",
+          "quote": "comfortable",
+          "valence": "positive"
+        },
+        {
+          "code": "thinness",
+          "quote": "without feeling flimsy",
+          "valence": "positive"
+        },
+        {
+          "code": "wash_general",
+          "quote": "wash well",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_size",
+          "quote": "They fit the mattress properly",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_security",
+          "quote": "stay in place",
+          "valence": "positive"
+        },
+        {
+          "code": "wrinkling",
+          "quote": "don’t turn into a wrinkled, tangled mess overnight.",
+          "valence": "positive"
+        }
+      ],
+      "after": [
+        {
+          "code": "G03",
+          "quote": "they’ve held up beautifully.",
+          "valence": "positive",
+          "initial_topic": "durability_general",
+          "label": "一般耐用／保持情况",
+          "role": "general_assessment",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "泛化评价单列，不与具体主题排名",
+          "quote_start": 142,
+          "quote_end": 170,
+          "count_unit_key": "866|G03|positive"
+        },
+        {
+          "code": "T01",
+          "quote": "They’re soft",
+          "valence": "positive",
+          "initial_topic": "softness",
+          "label": "柔软／粗糙／僵硬",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 172,
+          "quote_end": 184,
+          "count_unit_key": "866|T01|positive"
+        },
+        {
+          "code": "G02",
+          "quote": "comfortable",
+          "valence": "positive",
+          "initial_topic": "comfort_general",
+          "label": "一般舒适感受",
+          "role": "general_assessment",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "泛化评价单列，不与具体主题排名",
+          "quote_start": 189,
+          "quote_end": 200,
+          "count_unit_key": "866|G02|positive"
+        },
+        {
+          "code": "G01",
+          "quote": "without feeling flimsy",
+          "valence": "positive",
+          "initial_topic": "quality_general",
+          "label": "一般质量感受",
+          "role": "general_assessment",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "泛化评价单列，不与具体主题排名",
+          "quote_start": 201,
+          "quote_end": 223,
+          "count_unit_key": "866|G01|positive"
+        },
+        {
+          "code": "G04",
+          "quote": "wash well",
+          "valence": "positive",
+          "initial_topic": "wash_general",
+          "label": "一般洗护评价",
+          "role": "general_assessment",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "泛化评价单列，不与具体主题排名",
+          "quote_start": 225,
+          "quote_end": 234,
+          "count_unit_key": "866|G04|positive"
+        },
+        {
+          "code": "T07",
+          "quote": "They fit the mattress properly",
+          "valence": "positive",
+          "initial_topic": "fit_size",
+          "label": "尺寸／深度适配",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 277,
+          "quote_end": 307,
+          "count_unit_key": "866|T07|positive"
+        },
+        {
+          "code": "T08",
+          "quote": "stay in place",
+          "valence": "positive",
+          "initial_topic": "fit_security",
+          "label": "固定性／滑脱",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 309,
+          "quote_end": 322,
+          "count_unit_key": "866|T08|positive"
+        },
+        {
+          "code": "T12",
+          "quote": "don’t turn into a wrinkled, tangled mess overnight.",
+          "valence": "positive",
+          "initial_topic": "wrinkling",
+          "label": "褶皱",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 328,
+          "quote_end": 379,
+          "count_unit_key": "866|T12|positive"
+        }
+      ],
+      "reason": "without feeling flimsy描述结实感，不能推断厚薄；保留未细分质量评价。"
+    },
+    {
+      "review_id": 1331,
+      "field": "themes",
+      "before": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_security",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "smoothness",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "shape_stretch",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "skin_adhesion",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "reason": "stretch out是伸长，未明确脱角；sticks是黏附，不能用丝滑主题代替。"
+    },
+    {
+      "review_id": 874,
+      "field": "themes",
+      "before": [
+        {
+          "code": "color_match",
+          "quote": "noticeably different color",
+          "valence": "negative"
+        },
+        {
+          "code": "texture_match",
+          "quote": "texture than image showed.",
+          "valence": "negative"
+        },
+        {
+          "code": "composition_expectation",
+          "quote": "Marketed as bamboo sheets but is a polyester blend.",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "Little to no cooling effect.",
+          "valence": "negative"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "they tried bribing me to leave a 5 star review in exchange for not having to return the sheets.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T10",
+          "quote": "noticeably different color",
+          "valence": "negative",
+          "initial_topic": "color_match",
+          "label": "颜色与展示一致",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 26,
+          "quote_end": 52,
+          "count_unit_key": "874|T10|negative"
+        },
+        {
+          "code": "G06",
+          "quote": "Product arrived and was a noticeably different color and texture than image showed.",
+          "valence": "negative",
+          "initial_topic": "texture_match",
+          "label": "未细分的展示触感落差",
+          "role": "general_assessment",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "泛化评价单列，不与具体主题排名",
+          "quote_start": 0,
+          "quote_end": 83,
+          "count_unit_key": "874|G06|negative"
+        },
+        {
+          "code": "T18",
+          "quote": "Marketed as bamboo sheets but is a polyester blend.",
+          "valence": "negative",
+          "initial_topic": "composition_expectation",
+          "label": "材料说明／预期落差",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 84,
+          "quote_end": 135,
+          "count_unit_key": "874|T18|negative"
+        },
+        {
+          "code": "T03",
+          "quote": "Little to no cooling effect.",
+          "valence": "negative",
+          "initial_topic": "cooling",
+          "label": "凉感／温度体验",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "subtype": "cooling_unspecified",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 136,
+          "quote_end": 164,
+          "count_unit_key": "874|T03|negative"
+        },
+        {
+          "code": "T26",
+          "quote": "they tried bribing me to leave a 5 star review in exchange for not having to return the sheets.",
+          "valence": "negative",
+          "initial_topic": "seller_conduct",
+          "label": "改评要求相关自述",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者对改评要求的指控，未经独立核实",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 229,
+          "quote_end": 324,
+          "count_unit_key": "874|T26|negative"
+        }
+      ],
+      "reason": "扩大准确引文到完整比较语境，避免截断片段单独无法解读。"
+    },
+    {
+      "review_id": 128,
+      "field": "themes",
+      "before": [
+        {
+          "code": "softness",
+          "quote": "they are somewhat soft",
+          "valence": "positive"
+        },
+        {
+          "code": "ad_match",
+          "quote": "not like advertised.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "softness",
+          "quote": "they are somewhat soft",
+          "valence": "positive"
+        },
+        {
+          "code": "softness_expectation_gap",
+          "quote": "not like advertised.",
+          "valence": "negative"
+        }
+      ],
+      "reason": "not like advertised紧接somewhat soft：保留柔软认可及柔软低于宣称的落差，泛化广告不符改为具体属性。"
+    },
+    {
+      "review_id": 477,
+      "field": "themes",
+      "before": [
+        {
+          "code": "softness",
+          "quote": "Super soft",
+          "valence": "positive"
+        },
+        {
+          "code": "fit_size",
+          "quote": "don’t fit matresss very well",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "definitely not cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "ad_match",
+          "quote": "False advertising",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T01",
+          "quote": "Super soft",
+          "valence": "positive",
+          "initial_topic": "softness",
+          "label": "柔软／粗糙／僵硬",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 0,
+          "quote_end": 10,
+          "count_unit_key": "477|T01|positive"
+        },
+        {
+          "code": "T07",
+          "quote": "don’t fit matresss very well",
+          "valence": "negative",
+          "initial_topic": "fit_size",
+          "label": "尺寸／深度适配",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 12,
+          "quote_end": 40,
+          "count_unit_key": "477|T07|negative"
+        },
+        {
+          "code": "T03",
+          "quote": "definitely not cooling.",
+          "valence": "negative",
+          "initial_topic": "cooling",
+          "label": "凉感／温度体验",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "subtype": "cooling_unspecified",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 45,
+          "quote_end": 68,
+          "count_unit_key": "477|T03|negative"
+        }
+      ],
+      "reason": "False advertising不另设与柔软/尺寸/凉感并列的宽泛主题，保留宣称落差情境。"
+    },
+    {
+      "review_id": 477,
+      "field": "contexts",
+      "before": [],
+      "after": [
+        {
+          "code": "claim_gap",
+          "quote": "False advertising"
+        }
+      ],
+      "reason": "不把一般宣称不符重复统计为另一项产品缺陷。"
+    },
+    {
+      "review_id": 1245,
+      "field": "themes",
+      "before": [
+        {
+          "code": "odor",
+          "quote": "it smelled like cigarette smoke intensely.",
+          "valence": "negative"
+        },
+        {
+          "code": "ad_match",
+          "quote": "The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T20",
+          "quote": "it smelled like cigarette smoke intensely.",
+          "valence": "negative",
+          "initial_topic": "odor",
+          "label": "气味",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 64,
+          "quote_end": 106,
+          "count_unit_key": "1245|T20|negative"
+        },
+        {
+          "code": "T19",
+          "quote": "The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",
+          "valence": "negative",
+          "initial_topic": "label_information",
+          "label": "宣称文字一致／缺失",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 107,
+          "quote_end": 203,
+          "count_unit_key": "1245|T19|negative"
+        }
+      ],
+      "reason": "此处具体问题为商品描述与包装文字不一致，未实际睡用；不能并入实际凉感失败。"
+    },
+    {
+      "review_id": 128,
+      "field": "themes",
+      "before": [
+        {
+          "code": "softness",
+          "quote": "they are somewhat soft",
+          "valence": "positive"
+        },
+        {
+          "code": "softness_expectation_gap",
+          "quote": "not like advertised.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T01",
+          "quote": "they are somewhat soft",
+          "valence": "positive",
+          "initial_topic": "softness",
+          "label": "柔软／粗糙／僵硬",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 87,
+          "quote_end": 109,
+          "count_unit_key": "128|T01|positive"
+        },
+        {
+          "code": "T01",
+          "quote": "they are somewhat soft but not like advertised.",
+          "valence": "negative",
+          "initial_topic": "softness_expectation_gap",
+          "label": "柔软／粗糙／僵硬",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "实际有些柔软，但低于广告预期；同主题可正负并存",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 87,
+          "quote_end": 134,
+          "count_unit_key": "128|T01|negative"
+        }
+      ],
+      "reason": "补足柔软预期落差的完整语境。"
+    },
+    {
+      "review_id": 1331,
+      "field": "themes",
+      "before": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "shape_stretch",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "skin_adhesion",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "shape_stretch",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "They are not at all breathable, or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "skin_adhesion",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "reason": "保留not的否定范围，不能把断开的or cooling当独立负向证据。"
+    },
+    {
+      "review_id": 1412,
+      "field": "themes",
+      "before": [
+        {
+          "code": "cooling",
+          "quote": "Nothing cool",
+          "valence": "negative"
+        },
+        {
+          "code": "softness",
+          "quote": "or soft about it",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T03",
+          "quote": "Nothing cool",
+          "valence": "negative",
+          "initial_topic": "cooling",
+          "label": "凉感／温度体验",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "subtype": "cooling_unspecified",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 32,
+          "quote_end": 44,
+          "count_unit_key": "1412|T03|negative"
+        },
+        {
+          "code": "T01",
+          "quote": "Nothing cool or soft about it",
+          "valence": "negative",
+          "initial_topic": "softness",
+          "label": "柔软／粗糙／僵硬",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 32,
+          "quote_end": 61,
+          "count_unit_key": "1412|T01|negative"
+        }
+      ],
+      "reason": "保留Nothing的否定范围。"
+    },
+    {
+      "review_id": 1331,
+      "field": "themes",
+      "before": [
+        {
+          "code": "fit_size",
+          "quote": "They fit ok",
+          "valence": "positive"
+        },
+        {
+          "code": "shape_stretch",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "negative"
+        },
+        {
+          "code": "breathability",
+          "quote": "They are not at all breathable",
+          "valence": "negative"
+        },
+        {
+          "code": "cooling",
+          "quote": "They are not at all breathable, or cooling.",
+          "valence": "negative"
+        },
+        {
+          "code": "skin_adhesion",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative"
+        },
+        {
+          "code": "color",
+          "quote": "I really love the color.",
+          "valence": "positive"
+        },
+        {
+          "code": "seller_conduct",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative"
+        }
+      ],
+      "after": [
+        {
+          "code": "T07",
+          "quote": "They fit ok",
+          "valence": "positive",
+          "initial_topic": "fit_size",
+          "label": "尺寸／深度适配",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 139,
+          "quote_end": 150,
+          "count_unit_key": "1331|T07|positive"
+        },
+        {
+          "code": "T15",
+          "quote": "stretch out like most sheets over a period of days.",
+          "valence": "neutral",
+          "initial_topic": "shape_stretch",
+          "label": "伸长／变形",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": false,
+          "count_exclusion_reason": "没有明确正负或仍有歧义",
+          "quote_start": 156,
+          "quote_end": 207,
+          "count_unit_key": "1331|T15|neutral"
+        },
+        {
+          "code": "T04",
+          "quote": "They are not at all breathable",
+          "valence": "negative",
+          "initial_topic": "breathability",
+          "label": "透气体验",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 259,
+          "quote_end": 289,
+          "count_unit_key": "1331|T04|negative"
+        },
+        {
+          "code": "T03",
+          "quote": "They are not at all breathable, or cooling.",
+          "valence": "negative",
+          "initial_topic": "cooling",
+          "label": "凉感／温度体验",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "subtype": "cooling_unspecified",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 259,
+          "quote_end": 302,
+          "count_unit_key": "1331|T03|negative"
+        },
+        {
+          "code": "T16",
+          "quote": "My husband feels like he sticks to them.",
+          "valence": "negative",
+          "initial_topic": "skin_adhesion",
+          "label": "黏附皮肤",
+          "role": "specific_theme",
+          "subject": "reported_partner_target_experience",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 303,
+          "quote_end": 343,
+          "count_unit_key": "1331|T16|negative"
+        },
+        {
+          "code": "T09",
+          "quote": "I really love the color.",
+          "valence": "positive",
+          "initial_topic": "color",
+          "label": "颜色喜好／搭配",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者自述；不是独立性能或事实验证",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 371,
+          "quote_end": 395,
+          "count_unit_key": "1331|T09|positive"
+        },
+        {
+          "code": "T26",
+          "quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+          "valence": "negative",
+          "initial_topic": "seller_conduct",
+          "label": "改评要求相关自述",
+          "role": "specific_theme",
+          "subject": "current_or_general_target",
+          "qualifier": "消费者对改评要求的指控，未经独立核实",
+          "primary_count_eligible": true,
+          "count_exclusion_reason": "",
+          "quote_start": 449,
+          "quote_end": 529,
+          "count_unit_key": "1331|T26|negative"
+        }
+      ],
+      "reason": "stretch out like most sheets描述常见伸长，没有明确说造成不良结果；不借整条低星或负面语气强判这一属性。"
+    }
+  ],
+  "global_rule_changes": [
+    {
+      "rule": "温度归并",
+      "before": "凉感、发热、出汗分别作为主题",
+      "after": "归入T03不同表现子项；同评论同方向最多计一次，保留全部证据片段"
+    },
+    {
+      "rule": "泛评层级",
+      "before": "泛化质量、舒适、耐用、洗护、外观与具体属性同存",
+      "after": "泛评单列G项，保留分母，不与具体主题竞争TOP3"
+    },
+    {
+      "rule": "历史体验主体",
+      "before": "同款既往套组的体验与当前款同存",
+      "after": "28、1284明确既往体验单列，主表不自动混入当前款；可做纳入既往同款的敏感性检查"
+    },
+    {
+      "rule": "购买信号",
+      "before": "motives字段混放理由、期待及影响线索",
+      "after": "明确购买理由、再次购买理由、期待、内容影响未关联订单分别标记"
+    },
+    {
+      "rule": "身份",
+      "before": "640/641相似文本待查",
+      "after": "平台ID不同的评论均保留；不将其称为两个独立消费者"
+    }
+  ]
+}

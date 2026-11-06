@@ -1,0 +1,15 @@
+{
+  "preserved_files": 156,
+  "intentional_code_changes": [
+    "static/reports.css",
+    "static/reports.js",
+    "static/app.js"
+  ],
+  "raw_reviews": 1628,
+  "original_observations_unchanged": true,
+  "original_four_product_table_unchanged": true,
+  "report": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_完整证据_2026-11-05/报告.html",
+  "package": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_完整证据_2026-11-05.zip",
+  "tests": 23,
+  "offline_video_count": 5
+}

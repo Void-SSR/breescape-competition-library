@@ -1,0 +1,1506 @@
+{
+  "purchase_history": [
+    {
+      "review_id": 5,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "second time ordering",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 28,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I came back for another color for winter.",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 45,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "Second pear in this year",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 57,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "My third purchase",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 60,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is the second set I’ve purchased",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 101,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I ended up ordering two more sets!",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 110,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I had to buy a second one",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 132,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "this is our third order of sheets",
+      "reason": "this is our third order后接pretty soon，可能描述既有第三单，也可能将至；保留可能再购，不计明确已发生。"
+    },
+    {
+      "review_id": 221,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "went back and ordered a SECOND set",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 298,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "I LOVED them so much, I have bought them for gifts as well as for myself!",
+      "reason": "喜欢后为自己及赠礼购买是扩展用途线索，未明确这些购买分属不同订单。"
+    },
+    {
+      "review_id": 419,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "I received my package, these sheets are great loving them these are my 3rd set Thank You",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 476,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "Bought them twice",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 484,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "3rd set of these I have ordered, quality not as good, a bit rough.",
+      "reason": "第三套及质量比较能说明多套与差异，未明确下单次数或先使用再追加购买。"
+    },
+    {
+      "review_id": 499,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I purchased one just to test and fell in love with it since then, I’ve gotten 5 more.",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 531,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I ordered a 2nd set the next morning.",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 557,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I had to order more",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 580,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I’ve now ordered twice",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 612,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "just bought more",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 620,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "Soft feeling    Love the color. My second set I bought so far. Highly recommend 😎👍",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 629,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "This purchase doesn't compare to my 1st order",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 631,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "1st step i ordered",
+      "reason": "比较1st step i ordered存在措辞笔误及订单/套数组合歧义；不将其确定为不同订单。"
+    },
+    {
+      "review_id": 681,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "Love these sheets. Its cooling a slight that you can definitely feel.  Its my  second set and can't tell you enough how much it has made a difference in my sleeping pattern.",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 685,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "I love it! It’s a cooling feeling . I don’t get to hot. This is my second set!",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 762,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "Hot and catchy material not like the first set I got",
+      "reason": "与first set比较可说明不同套体验，但不能排除同单多套后依次使用。"
+    },
+    {
+      "review_id": 808,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "My second pair. Great for the price point",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 824,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my 3rd set of these sheets! They are amazing! I normally purchase my sheets from Sam’s but these are way cheaper and even more comfortable!",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 836,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my second set and I love them.  Very soft sheets and seem to get softer each time you wash them.",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 893,
+      "source_group": "main_recent",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is the second set I've ordered. I plan to order a lot more. So soft and comfortable for a great price!",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 8,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my second set !!!",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 30,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "These are the best sheets that I have bought in a long time. They wash very well, do not wrinkle. They’re very soft, very comfortable. They are cooling just as I say, and the people that I got them from are very easy to work with. I recommend the sheets to everybody. I have bought several sets of them.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 70,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I have bought so many sets of these sheets. By far the best sheets ever. The colors are amazing. Obsessed! And this is from a menopause - going thru the trenches - woman! GET THEM",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 99,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my 2 nd set",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 143,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "The elastic doesnt hold the fitted sheet on very well. It is a complete bed remake. Disappointed cause I bought a total of 3 sets as gifts (one for me) and slipping fitted sheets is my biggest pet peeve 🥺 fabric seems fine, but need to fix how they stay",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 191,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I gave ordered 4 sets of these sheets.  They are very soft and are the only ones that stay stacked around the mattress.  We love them!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 206,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my 2nd set!",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 219,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Zero stars. I ordered 2 seta i got one. Is this Company steeling from me?  Give me my extra set i laid for or refund and apologize asap. I have no issies telling everyone you all are crooks and should not be trusted.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 240,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "my second one",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 241,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "This is my third one",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 274,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Super soft!  Love, love, love these!!   Already have three sets of these sheets! 🫶🏼  thank you!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 337,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "this was my third set",
+      "reason": "套数序号不等于购买次数；保留较弱再购线索。"
+    },
+    {
+      "review_id": 414,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Feels really good, fresh & cool. As expected very satisfied happy I ordered two sets",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 437,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "These are honesty the softest sheets I’ve ever owned. I own two sets so far. I’m sure I’ll purchase more!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 469,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Bought 2 sets this and gray. Cheap and comfy exavtly what I was looking for.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 621,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I love these sheets! I have bought multiple sets and the quality is consistent. So soft, even after multiple washes.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 640,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "These are the softest sheets I’ve ever owned. I have bought 3 sets now. Quality is amazing!!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 641,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "These are the softest sheets I’ve ever owned. I now have 3 sets and bought one for my daughter as well!!  Absolutely love them. Quality is amazing!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 661,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I have bought multiple sets of these sheets, they are soft and hold up well after washing.  Would recommend!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 692,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Bought 3 sets of king size sheets to get the free mattress cover and they sent a queen mattress cover. We don’t have a queen sized bed!!!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 709,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "So comfortable! Purchased multiple, great fit  would recommend no issues with product",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 719,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Very soft\nDesign & Style: We got the dark green and dark blue color. Exactly like what is shown",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 720,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Very soft\nDesign & Style: Color is exactly like shown. We got the hunter green and dark blue color. Very nice!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 809,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I now have 2 sets of these sheets (king size). The material is comfortable and product is nice quality for the price .",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 827,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I bought two sets of these sheets and I’m so glad I did because we absolutely love them!! They fit our deep pocket king size bed perfectly. They are so so soft and comfortable!!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 841,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I love these sheets! Already have 3 sets and will be purchasing more. They are the softest sheets I have ever slept on.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 918,
+      "source_group": "main_recent",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Love the material and how my bed looks so elegant! Have purchased in multiple colors, highly recommend for the price!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 37,
+      "source_group": "main_recent",
+      "previous_group": "store_repeat_only",
+      "final_group": "store_repeat_product_uncertain",
+      "quote": "I had ordered from y’all before",
+      "reason": "明确同店以前下单与本次尺寸变化，目标同款身份仍不足。"
+    },
+    {
+      "review_id": 287,
+      "source_group": "main_recent",
+      "previous_group": "store_repeat_only",
+      "final_group": "store_multiple_sequence_uncertain",
+      "quote": "second pair of sheets from this company",
+      "reason": "同店第二套，不足证明目标同款或订单顺序。"
+    },
+    {
+      "review_id": 1012,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I then purchased them in white",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1103,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "previous purchase",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1284,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "possible_repeat_sequence_uncertain",
+      "quote": "I have ordered these exact same sheets in the light purple",
+      "reason": "明确同款不同颜色的先前体验；但没有明确先使用后再次下单的顺序，历史体验标签保留。"
+    },
+    {
+      "review_id": 1408,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "it was soft so I ordered the dark Grey",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1505,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "my second Purchase",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1519,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "I bought these pink sheets because I bought the identical white ones",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1580,
+      "source_group": "extra_one_star",
+      "previous_group": "self_report_repeat",
+      "final_group": "explicit_repeat_report",
+      "quote": "So I ordered a different color the second time",
+      "reason": "明示购买次数/订单，或已发生的追加购买动作与先前体验相衔接；仍仅自述。"
+    },
+    {
+      "review_id": 1022,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I ordered these sheets 8 sets to be exact they are nothing like Bamboo Sheets. They are not cooling sheets nor are they anything like what they display on thier ad very disappointing to have purchased so many and be let down. They are no where cooling sheets.\nMaterial & Comfort: Uncomfortable",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1025,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "They are not soft at all more like the opposite, the sheet does not stay on falls off every night. Really disappointing I got 2 sets.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1026,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Not soft like bamboo , also sheet does not stay on.  Corners fall and I have fixed the sheet everyday.  I got 2 sets and both are the same Was trying to add pictures but it won’t let me.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1074,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Never received the green sheets. Only the burnt orange one did I get. I ordered two different colors of sheets.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1315,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "It’s soft but definitely NOT cooling. Also thr “deep pocket” side well they just keep sliding off my bed. I purchase a kind for the house and queen for our camper I will be asking for a refund on the queen. Not worth the price at all. Not what I expected",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1419,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "If I could rate it zero I would it does not say how much is bamboo and how much is polyester, not only are they not cooling at all they actually make you sweat . I own some high end bamboo sheets and these don’t even come close unfortunately the colors got me and I bought more then one they will be donated to goodwill , lesson learned to stick to the high end sheets from now on",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1439,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "If you love bamboo sheets, don’t buy these. You get what you pay for, and $30ish bamboo sheets proved to be too good to be true. They are cheap, not soft, and I’m so incredibly disappointed that I got 3 sets. Total waste of money for me 😔",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1501,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "Didn’t receive item with the other two sets of sheets. Requested that they be sent out and was advised the only option was a refund. Seller declined refund due to “lack of evidence” sent pictures. If the seller operates in this fashion I wouldn’t recommend buying anything from them.",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    },
+    {
+      "review_id": 1525,
+      "source_group": "extra_one_star",
+      "previous_group": "multiple_sets_without_order_sequence",
+      "final_group": "multiple_sets_only",
+      "quote": "I purchased two sets of these sheets! \nSheets has only been in use Less than a week and already has sheet tags. Not worth the money. Not as soft as they claim to be. Definitely not happy with my purchase!",
+      "reason": "已买/持有多套或多色，但没有可判定的分次/先后顺序。"
+    }
+  ],
+  "T07_negative": [
+    {
+      "review_id": 53,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Doesn't fit a king as expected.  Definitely not for deep pocketed mattresses .",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 55,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "I ordered the queen size...and it's a little small..if i would have known i was getting just regular sheets I would have went to Wal-Mart",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 76,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "These are the worst sheets I have ever bought! Definitely are not deep pocket style sheets. Don’t waste your money!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 140,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "They are not made to fit deep mattresses..",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 162,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Also runs a bit big, I ordered a Queen and even with a mattress topper it’s a bit shaggy.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 164,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "I wish the pockets were a little bit deeper.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 189,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "They come off all the time does not have deep pockets I have to fix it every two days",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 249,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Sheets do not fit our CalKing bed, and are thin. The color is pretty though.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 304,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "They are the worst sheets I have ever felt in my life, incredibly thin, not soft and do not fit my mattress awful",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 309,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "I ordered a Queen size set, Because I have a queen size bed. The sheets didn’t fit my bed at all smh……..",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 351,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "They claim to be the best but it barely fits my bed I’m not happy with it look at other ones before choosing this one",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 411,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "they do not fit snug",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 424,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets feel more like cotton and not at all like my other two bamboo sheets. The pockets aren’t that deep. They are ok but not very deep like my other sheets. They aren’t bad but definitely not like bamboo.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 438,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Very scratchy and small.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 444,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Doesn’t feel like I thought it would still soft but not as expected. Top sheet doesn’t seem to be as big as some of my other sheets",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 459,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "they arrived damaged and are not very soft they also don’t stay on the bed very well definitely not deep pocket sheets",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 477,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "don’t fit matresss very well",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 487,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "The pockets weren’t as deep as advertised",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 489,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "I had hope for more. They are just as hot as other sheets, not as soft and doesn’t fit snugly.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 497,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Decent sheets. Pockets not as deep as I would have liked but it’s ok.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 517,
+      "source_group": "main_recent",
+      "decision": "remove_T07_negative",
+      "quote": "I thought they were \"deep pocketed\".",
+      "reason": "12英寸床垫上滑脱加原先深口袋期待，没有直接描述实际口袋浅或尺寸不合。"
+    },
+    {
+      "review_id": 523,
+      "source_group": "main_recent",
+      "decision": "remove_T07_negative",
+      "quote": "Material & Comfort: Material is very soft\nDesign & Style: Design is thin and cheap. Doesn’t hold on a deep mattress like advertised. Highly disappointed",
+      "reason": "说在深床垫上固定不住，未明确尺寸或口袋实际深度不足。"
+    },
+    {
+      "review_id": 559,
+      "source_group": "main_recent",
+      "decision": "remove_T07_negative",
+      "quote": "Now since you say find a suitable bed when i have a king sized bed and the description says it has deep pockets but won't stay on my bed I should not have to buy a suitable bed to fit your product it should fit as described",
+      "reason": "应该按描述适配是规范性期待，明确发生的是固定不住，不倒推尺寸。"
+    },
+    {
+      "review_id": 570,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Not what they claim to be. Sheets are alot smaller than advertised. Barely fit the bed",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 579,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "I order a king size but my fitted Sheet was too big. I wonder they send the wrong size.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 582,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Wasn’t deep pockets, I dislike I feel like every night I’m\nConstantly refitting the sheet over mattress. Definitely not for my king pillow top Mattress",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 584,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Terrible fit, comes untucked every night. Cooling part is good. But the first parts a bigger pain.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 631,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "cover seems so much bigger",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 675,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Not super deep pockets like listing says",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 682,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Very disappointed about the sheet set, it Describe deep pockets, I ordered a cal king and it still didn’t fit my bed. Love the color and the light material of the set but not big enough. Sad",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 740,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Rough. Have washed a couple times as suggested by manufacturer and they have no softened up. All pockets are not deep enough constantly slide off",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 742,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Not happy with it and they definitely aren’t deep pocket and didn’t stay on my mattress. Definitely not made for thick mattresses highly disappointed.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 797,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Great sheets love them but wish the pockets were deeper on the fitted",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 811,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "The fitted sheet does not fit California king.  It’s too short on the long side",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 826,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "They are not soft. They do not have deep pockets. I would not buy again.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 835,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "TheThe pockets were not as deep as stated, and they weren’t as soft as they stated they felt like regular sheets",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 838,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Material is soft. But I ordered a cal King. And I have a regular King and it still does not fit my bed. Don’t recommend.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 875,
+      "source_group": "main_recent",
+      "decision": "remove_T07_negative",
+      "quote": "They are soft but do not stay over the corners.  I measured to make sure they would be “deep enough” but they slide right off.",
+      "reason": "事先测量以确认深度不能证明收到的尺寸不足，明确结果为滑脱。"
+    },
+    {
+      "review_id": 884,
+      "source_group": "main_recent",
+      "decision": "remove_T07_negative",
+      "quote": "These are extremely thin and feel even cheaper than they were. Not good elastic on the fitted sheet and didn’t stay on my 14” deep mattress.",
+      "reason": "明确松紧带差和滑脱，14英寸仅使用情境，未说太小或口袋浅。"
+    },
+    {
+      "review_id": 888,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "sheet itself is entirely toooooo small",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 892,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "These are called cooling sheets. But the only thing I would say is they are soft. Definitely not cool nor deep pockets.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 898,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Super soft but the pillow case has already torn.  Not sure how that happened.  Probably wouldn’t buy again.  Don’t for well over a mattress topper.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 905,
+      "source_group": "main_recent",
+      "decision": "retain_T07_negative",
+      "quote": "Not true to size, did not fit my mattress.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 929,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "My sheets pilled after the first wash and the pockets are not deep.  They do not stay on my mattress.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 963,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The material itself feels ok. The corner pockets aren’t snug around the mattress so the fitted sheet keeps coming off. The main concern is after one wash it’s already pilling. I washed as directed. Unfortunately I’m not happy and won’t purchase again.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 982,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Isn't cooler than other sheets. Cheap feeling. The pockets ate not deep enough to fit my mattress.  It keeps slipping off thr corners throughout the night.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1003,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Terrible sheets.  The material is not comfortable at all.  The sheets wrinkle terribly and don’t fit my king bed well.  I threw the sheets away after one use.  Don’t waste your money!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1008,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The description states that these are deep pocket sheets, however they are not, and they do not stay on the Mattress at all! I’m giving it a one star because they are soft however they are very flimsy!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1009,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Did not fit my mattress",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1019,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "from the sizing to the quality to the wear and tear",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1038,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not as soft as described nor are they cooling at all. They also are not deep as described. They just pop off the corners of my bed.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1043,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "VERY cheap quality. They don’t fit my pillow top mattress like described. These feel like Walmarts cheapest sheets for twice the money. Do not buy",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1059,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Material is soft but definitely not like it was advertised. It’s very basic - something you’d find at TJ Maxx. It’s not cooling at all and is not deep fitted either. Super disappointing",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1060,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Does not have deep pockets, very thin and super slippery.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1067,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Feels like sleeping on sandpaper.\nMaterial & Comfort: The only bamboo in these sheets is in writing on the package\nDesign & Style: Way under sized can’t make it through the night without sheets coming off mattress",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1075,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Very disappointing sheets,never would I buy again. The. Fit is all wrong.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1078,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "It feel ok\nIt doesnt fit my king size bed very well",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1080,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not as soft as I imagined they would be.. I have a king sized bed and bought California king and it fits like a king. I sit on the bed and the fitted sheet keeps coming off…. Very disappointed",
+      "reason": "cal king却fits like a king是明确比较/预期尺寸评价；不认定Cal King所有方向都更大。"
+    },
+    {
+      "review_id": 1089,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Ordered a California king for my king mattress & really struggled to put the fitted sheet on. Nevertheless tho good enough sheets for the price I paid for just don’t be fooled by the Advertising It ain’t all that",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1110,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "not great for a thick mattress",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1113,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Did not even fit my bed wrong size",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1127,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets are terrible and they don’t fit tight so they wrinkle. Big waste of money.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1138,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These are not deep pocket sheets they don’t fit on either side of my bed very disappointed",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1151,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not cool and barely fits my Casper mattress.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1162,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These are not deep pocket sheets at all highly disappointed!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1176,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not as expected! Looks dingy & it's not fitted or breathable 🗑",
+      "reason": "not fitted为直接但未细分的贴合/结构抱怨；保留笼统适配，不推断具体尺寸或漏发床笠。"
+    },
+    {
+      "review_id": 1179,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Supposed to be cali king sheets and they are so small",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1180,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets do not fit my king size bed. They also only came with 2 pillow cases. These are not deep pockets sheets.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1195,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Very thin and cheap feeling, they are nowhere near cooling and not comfortable at all. They did not fit my queen bed or pillows correctly. Switched back to my old sheets after 2 nights",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1205,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Split king shits are supposed to be one full king sheet with a split at the top so tge mattress can adjust. I feel like I was ripped off with poor advertising.",
+      "reason": "明确split king结构与预期不同；保留结构预期落差，不认定实际尺寸太小或发错商品。"
+    },
+    {
+      "review_id": 1206,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Split king sheets are supposed to be one sheet with a split at the top so it can adjust. I got two twin sheets. Feel like I was ripped off.",
+      "reason": "明确split king结构与预期不同；保留结构预期落差，不认定实际尺寸太小或发错商品。"
+    },
+    {
+      "review_id": 1217,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The material\nFeels nice  but it’s no deeper fitting than any regular fitted sheet",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1218,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The Cali king does NOT fit. I tried to return and got a notification no need, you will get a refund & guess what? The seller denied the refund. So now I’m out $$ and I have a brand new set of sheets that do not fit. This is a scam.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1238,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Washed these sheets to put on my bed first the first time and they shrunk so badly they don’t even fit now.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1241,
+      "source_group": "extra_one_star",
+      "decision": "remove_T07_negative",
+      "quote": "Material is soft and comfortable. Does not have cooling effect. Also does not stay on my 12” mattress. So do not see how it would fit a 16” mattress as claimed.",
+      "reason": "由12英寸上滑脱质疑16英寸适配，是推测性容量怀疑，非直接尺寸不合体验。"
+    },
+    {
+      "review_id": 1257,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not true to size, didn’t seem to be “cooling,” wasn’t the best sheets. All in all, would not recommend.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1265,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not at all as described, not soft, not cooling it does not fit the bed!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1269,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "doesn't fit a queen sized bed",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1286,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not deep enough pockets",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1293,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not split top",
+      "reason": "明确split king结构与预期不同；保留结构预期落差，不认定实际尺寸太小或发错商品。"
+    },
+    {
+      "review_id": 1295,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Are not “bamboo sheets” and don’t fit deep pocketed mattress like lady said on the live! Corners pop off nightly!!! Would not buy again",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1300,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not true to size at",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1313,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Don’t buy these brand, better off using the 125$  bamboo set. Pockets for the corners aren’t deep enough 1/5 stars.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1323,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "I like the feeling of the sheets . I feel like they need wider elastic and deeper pockets to stay under my mattress since I have the mattress topper . I had to buy some elastic bands to help the corners down. Quality is good",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1327,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not king cal fit. The fitted sheet will not stay on my mattress.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1334,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Terrible…I bought the full size and they do not fit at all.  I thought Maybe I accidentally ordered twin size.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1337,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Awful. Definitely not soft. And didn’t fit the mattress like they should.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1340,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Doesn't fit me queen size at all and i got a queen size dont make sense to buy",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1368,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Soft, but definitely not deep pocket sheets like advertised. Unfortunately, I missed the return window, but I won’t be using these any longer.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1369,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Shape and size: This doesn't match what a true split king is. I was so excited for this and now extremely disappointed. They sent 2 twin sized fitted sheets instead of one whole fitted split king fitted sheet. Buyers beware!!",
+      "reason": "明确split king结构与预期不同；保留结构预期落差，不认定实际尺寸太小或发错商品。"
+    },
+    {
+      "review_id": 1380,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Sheets are advertised as having deep pockets so they don’t rise up on your mattress but they are NOT deep pocketed sheets as advertised and the material is very thin and not cooling as advertised. Wouldn’t purchase again",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1389,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Doesn't fit my normal queen size bed at all.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1392,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "I ordered king and got a twin fitted sheet with a tag that said king! Not satisfied at all",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1428,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not deep pockets.   Keeps coming off",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1433,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "False Advertisement/sheets are not true to size!! They are too small and I bought California King. Do not waste your money or time!!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1446,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The deep pockets on the fitted sheet aren't that deep it says up to 16inches but my mattress is 12 inches and one side is fine and deep the other right at the edge that they will come lose.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1483,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "This does not even fit my bed and it feels like the sheets that I can get at Walmart for $20 . I can’t even use them really",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1492,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets are not “deep pocket”, nor are they “silky sheets” feel like regular thick sheets. These are also not cool sheets. Highly disappointing, do not purchase expecting “silky smooth cool bamboo sheets with deep pockets”",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1502,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not bamboo material and don’t properly fit. Feels like a returned item swapped out for poor quality",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1521,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Not true to size I order a queen size for my queen doesn’t fit at all. Waste of money honestly.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1531,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets are not at all how they describe them they are not cool and don’t fit rite both corners pulled up by our heads on both sides definitely not worth buying",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1544,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Would not purchase again, not deep pockets as described so they don’t fit my California king mattress. Quality isn’t the best. If I hadn’t washed them I would request a refund.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1557,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "It was not big enough to fit on my bed it is a joke..",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1558,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Fitted sheet is not as deep as I thought and it was supposed to be white. The pillow cases were but as you can see the sheets were off.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1571,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "The fitted sheet is too tight/ small for my bed unfortunately",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1587,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Ordered king, not sure what these are but they are larger than my king. They are very soft and comfortable though. Just sizing is way off....",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1591,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "They were way too small for my mattress. I thought they were supposed to go on thick mattresses. Mine is only 14 and 1/2 inches thick.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1596,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "TERRIBLE!!  Sheets do not fit!",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1598,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "These sheets are not the size they claim to be. The fitted sheet immediately squeezed up our mattress corner. Very annoying and a waste of money.\nShape and size: Does not fit a King mattress.",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    },
+    {
+      "review_id": 1611,
+      "source_group": "extra_one_star",
+      "decision": "retain_T07_negative",
+      "quote": "Cheap, thin, so thin u can see through dark gray.. sloppy fit",
+      "reason": "原文有直接尺寸、深度、贴合或适配结构的负面/预期落差，不只从滑脱推导；保留自述口径。"
+    }
+  ],
+  "component_updates": {
+    "358": {
+      "positive": [
+        "fitted_sheet",
+        "explicit",
+        "The fitted sheet has a nice deep pocket"
+      ]
+    },
+    "444": {
+      "negative": [
+        "flat_sheet",
+        "explicit_top_sheet",
+        "Top sheet"
+      ]
+    },
+    "579": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "fitted Sheet"
+      ]
+    },
+    "797": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "on the fitted"
+      ]
+    },
+    "811": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "The fitted sheet"
+      ]
+    },
+    "888": {
+      "positive": [
+        "fitted_sheet",
+        "explicit",
+        "fitted sheet is perfect"
+      ],
+      "negative": [
+        "other_sheet_in_set",
+        "inferred_contrast_not_explicitly_flat_sheet",
+        "sheet itself is entirely toooooo small"
+      ]
+    },
+    "963": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "fitted sheet"
+      ]
+    },
+    "1195": {
+      "negative": [
+        "set",
+        "explicit_multiple_parts",
+        "queen bed or pillows"
+      ]
+    },
+    "1558": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "Fitted sheet"
+      ]
+    },
+    "1571": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "The fitted sheet"
+      ]
+    },
+    "1598": {
+      "negative": [
+        "fitted_sheet",
+        "explicit",
+        "fitted sheet"
+      ]
+    }
+  },
+  "elastic": [
+    {
+      "review_id": 138,
+      "decision": "retain_T38_only",
+      "reason": "预期松紧绑带缺失属于结构与说明不符，没有报告弹性失效。",
+      "body": "Ordered gray set and recieved sage colored also the deep pockets did not have the elastic bands as shown either, i habd sheet suspenders and the color some how went with my set so i didn’t bother requesting an exchange"
+    },
+    {
+      "review_id": 143,
+      "decision": "add_T49_band_negative",
+      "reason": "明确弹性边带固定功能差；不是由仅提滑脱自动生成。",
+      "body": "The elastic doesnt hold the fitted sheet on very well. It is a complete bed remake. Disappointed cause I bought a total of 3 sets as gifts (one for me) and slipping fitted sheets is my biggest pet peeve 🥺 fabric seems fine, but need to fix how they stay"
+    },
+    {
+      "review_id": 884,
+      "decision": "add_T49_band_negative",
+      "reason": "明确评价床笠松紧带not good，失效形式未细分，不虚构弹力实测。",
+      "body": "These are extremely thin and feel even cheaper than they were. Not good elastic on the fitted sheet and didn’t stay on my 14” deep mattress."
+    },
+    {
+      "review_id": 1203,
+      "decision": "retain_T49_fabric_negative",
+      "reason": "明确面料无伸展，非松紧带寿命。",
+      "body": "Not what I expected. May be great sheets. I was hoping the material would be more like the bamboo pjs with that kind of stretch. These have no stretch are soft but not the same as the pjs. From the videos and reviews it was playing them off the be the stretchy softer bamboo style."
+    },
+    {
+      "review_id": 1222,
+      "decision": "retain_T15_only",
+      "reason": "使用一天stretch out是持续变形，未明示松紧带弹性问题。",
+      "body": "They do no stay on the bed plus they stretch out within 1 day"
+    },
+    {
+      "review_id": 1252,
+      "decision": "add_T49_band_negative",
+      "reason": "明确口袋深度足够但elastic is crap；保留带结构评价而非尺寸负面。",
+      "body": "The sheets are terrible. They will not stay on the mattress. The pockets are deep enough but the elastic is crap. Also the sheets are so thin you can practically see through them.\n\nAnd now the seller told me if I change this review and give them 5 stars they will give me a refund. No thanks!!!!  Do yourself a favor and do not buy anything from this seller. They are dishonest and sell terrible products."
+    },
+    {
+      "review_id": 1323,
+      "decision": "context_only_for_band_width",
+      "reason": "要求更宽松紧带是设计期待，未直接评价弹性状态；深度期待与滑脱各保留。",
+      "body": "I like the feeling of the sheets . I feel like they need wider elastic and deeper pockets to stay under my mattress since I have the mattress topper . I had to buy some elastic bands to help the corners down. Quality is good"
+    },
+    {
+      "review_id": 1331,
+      "decision": "retain_T15_neutral",
+      "reason": "像其他床单一样几日伸长，未明确弹性褒贬或弹性带失效。",
+      "body": "I was so excited to try and try these sheets! I am quite a warm sleeper, so I was looking forward to the “cooling” effect of these sheets. They fit ok, and stretch out like most sheets over a period of days. \n\nThey’re trash. They feel like microfiber sheets. They are not at all breathable, or cooling. My husband feels like he sticks to them. I’m giving 2 stars because I really love the color.\n\n\nUpdate 7/4/26\nChanging my review to 1 star because the seller messaged me asking to change my review in exchange for a 5% discount."
+    },
+    {
+      "review_id": 1416,
+      "decision": "move_specific_failure_G03_to_T49",
+      "reason": "未持久明确指松紧带；从笼统耐用移至具体结构失效，失效形式未说明，不添加滑脱。",
+      "body": "The elastic on the sheets didn’t last long. Not very good quality."
+    },
+    {
+      "review_id": 1493,
+      "decision": "retain_T49_fabric_negative",
+      "reason": "明确little to no stretch，部件记面料，不推松紧带问题。",
+      "body": "Little to no stretch but they are soft but also kinda warm"
+    }
+  ]
+}

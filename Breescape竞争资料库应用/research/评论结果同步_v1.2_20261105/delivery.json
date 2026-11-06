@@ -1,0 +1,16 @@
+{
+  "report": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_评论语义v1.2_2026-11-05/报告.html",
+  "bundle": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_评论语义v1.2_2026-11-05.zip",
+  "code_files_changed": [
+    "server.py",
+    "static/app.js",
+    "static/reports.js",
+    "static/reports.css"
+  ],
+  "code_files_added": [
+    "review_package.py"
+  ],
+  "package_sha256": "2dadee37ecf7a8036e025ebf19e8be4bde50889330df350da2028ea3f51afe5b",
+  "fixed_evidence_hashes_match": true,
+  "report_generated_from": "http://127.0.0.1:8766/#overview/shilucheng/present"
+}

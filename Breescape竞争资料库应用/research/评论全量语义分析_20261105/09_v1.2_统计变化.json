@@ -1,0 +1,181 @@
+{
+  "theme_changes": [
+    {
+      "source_group": "extra_one_star",
+      "code": "G03",
+      "valence": "negative",
+      "before": 4,
+      "after": 3,
+      "removed_ids": [
+        1416
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "extra_one_star",
+      "code": "T07",
+      "valence": "negative",
+      "before": 67,
+      "after": 66,
+      "removed_ids": [
+        1241
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "extra_one_star",
+      "code": "T49",
+      "valence": "negative",
+      "before": 2,
+      "after": 4,
+      "removed_ids": [],
+      "added_ids": [
+        1252,
+        1416
+      ]
+    },
+    {
+      "source_group": "main_recent",
+      "code": "T07",
+      "valence": "negative",
+      "before": 43,
+      "after": 38,
+      "removed_ids": [
+        517,
+        523,
+        559,
+        875,
+        884
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "main_recent",
+      "code": "T49",
+      "valence": "negative",
+      "before": 0,
+      "after": 2,
+      "removed_ids": [],
+      "added_ids": [
+        143,
+        884
+      ]
+    }
+  ],
+  "behavior_changes": [
+    {
+      "source_group": "main_recent",
+      "category": "self_report_repeat",
+      "before": 28,
+      "after": 13,
+      "removed_ids": [
+        45,
+        60,
+        132,
+        298,
+        419,
+        484,
+        620,
+        631,
+        681,
+        685,
+        762,
+        808,
+        824,
+        836,
+        893
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "main_recent",
+      "category": "possible_repeat_sequence_uncertain",
+      "before": 0,
+      "after": 21,
+      "removed_ids": [],
+      "added_ids": [
+        8,
+        45,
+        60,
+        99,
+        132,
+        206,
+        240,
+        241,
+        298,
+        337,
+        419,
+        484,
+        620,
+        631,
+        681,
+        685,
+        762,
+        808,
+        824,
+        836,
+        893
+      ]
+    },
+    {
+      "source_group": "main_recent",
+      "category": "multiple_sets_without_order_sequence",
+      "before": 27,
+      "after": 21,
+      "removed_ids": [
+        8,
+        99,
+        206,
+        240,
+        241,
+        337
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "main_recent",
+      "category": "store_repeat_only",
+      "before": 2,
+      "after": 1,
+      "removed_ids": [
+        287
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "main_recent",
+      "category": "store_multiple_sequence_uncertain",
+      "before": 0,
+      "after": 1,
+      "removed_ids": [],
+      "added_ids": [
+        287
+      ]
+    },
+    {
+      "source_group": "extra_one_star",
+      "category": "self_report_repeat",
+      "before": 7,
+      "after": 6,
+      "removed_ids": [
+        1284
+      ],
+      "added_ids": []
+    },
+    {
+      "source_group": "extra_one_star",
+      "category": "possible_repeat_sequence_uncertain",
+      "before": 0,
+      "after": 1,
+      "removed_ids": [],
+      "added_ids": [
+        1284
+      ]
+    }
+  ],
+  "denominators": {
+    "main_recent": 928,
+    "extra_one_star": 687,
+    "recommended": 13
+  }
+}

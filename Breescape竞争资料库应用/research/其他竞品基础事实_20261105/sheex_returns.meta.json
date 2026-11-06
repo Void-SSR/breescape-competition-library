@@ -1,0 +1,737 @@
+{
+  "key": "sheex_returns",
+  "url": "https://www.sheex.com/pages/returns",
+  "retrieved_at": "2026-11-05T14:45:25+08:00",
+  "status": 200,
+  "final_url": "https://www.sheex.com/pages/returns",
+  "bytes": 696450,
+  "links": [
+    {
+      "url": "#MainContent",
+      "label": "Skip to content"
+    },
+    {
+      "url": "https://www.sheex.com/pages/black-friday",
+      "label": "Shop Now"
+    },
+    {
+      "url": "/collections/best-sellers",
+      "label": "Bestsellers"
+    },
+    {
+      "url": "/products/original-performance-sheet-set",
+      "label": "Original Performance  NEW COLORS"
+    },
+    {
+      "url": "/products/nightfall-sheet-set",
+      "label": "Nightfall"
+    },
+    {
+      "url": "/products/arctic-aire-max-sheet-set",
+      "label": "Arctic Aire•MAX"
+    },
+    {
+      "url": "/products/sheex-active-comfort-sheet-set",
+      "label": "Active Comfort"
+    },
+    {
+      "url": "/collections/sheet-separates-copy",
+      "label": "European Sheet Sets"
+    },
+    {
+      "url": "/collections/sheet-separates",
+      "label": "Fitted Sheets"
+    },
+    {
+      "url": "/collections/breathable-pillowcases",
+      "label": "Pillowcases & Shams"
+    },
+    {
+      "url": "/collections/cooling-comforters",
+      "label": "All-Season Comforter"
+    },
+    {
+      "url": "/products/nightfall-cool-cloud-cover",
+      "label": "Cool Cloud Comforter  BACK IN STOCK!"
+    },
+    {
+      "url": "/products/performance-cooling-duvet-cover",
+      "label": "Ridiculously Soft® Duvet Cover"
+    },
+    {
+      "url": "/products/versa-cloud-adjustable-hybrid-pillow",
+      "label": "Adjustable Hybrid Pillow"
+    },
+    {
+      "url": "/products/nightfall-body-pillow",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/products/original-performance-side-sleeper-pillow",
+      "label": "Side Side Sleeper Pillow"
+    },
+    {
+      "url": "/products/down-alternative-pillow",
+      "label": "Stomach Back Sleeper Pillow  BESTSELLER"
+    },
+    {
+      "url": "/products/down-alternative-pillow",
+      "label": "Infinite Zen Pillow"
+    },
+    {
+      "url": "/collections/mens-sleepwear",
+      "label": "Mens Sleepwear"
+    },
+    {
+      "url": "/collections/womens-sleepwear",
+      "label": "Women’s Sleepwear"
+    },
+    {
+      "url": "/collections/accessories",
+      "label": "Sleep Masks"
+    },
+    {
+      "url": "/collections/cooling-cozy-bedding-bundles",
+      "label": "Bundles"
+    },
+    {
+      "url": "/collections/sale",
+      "label": "Sale"
+    },
+    {
+      "url": "https://www.sheex.com/community/betweenthesheex/category/blog",
+      "label": "Blog"
+    },
+    {
+      "url": "/pages/sleep-fit-quiz",
+      "label": "Take The Sleep Fit Quiz  Find your perfect sheet"
+    },
+    {
+      "url": "https://www.sheex.com/customer_authentication/redirect?locale=en®ion_country=US",
+      "label": "Log in"
+    },
+    {
+      "url": "https://account.sheex.com?locale=en®ion_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaGVleDIwMDgubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0NDY1OTI2LCJuYmYiOjE3OTM4NjExMjZ9.7up-Jfe5w34BioUe9bKf4_-6zl3yrLlEgUALHFmJdtk",
+      "label": "Create My Account"
+    },
+    {
+      "url": "https://facebook.com/SHEEX",
+      "label": "Facebook"
+    },
+    {
+      "url": "https://pinterest.com/SHEEX",
+      "label": "Pinterest"
+    },
+    {
+      "url": "https://instagram.com/SHEEXOfficial",
+      "label": "Instagram"
+    },
+    {
+      "url": "https://tiktok.com/@SHEEX",
+      "label": "TikTok"
+    },
+    {
+      "url": "https://www.youtube.com/user/sheexbedding",
+      "label": "YouTube"
+    },
+    {
+      "url": "https://vimeo.com/user102677732",
+      "label": "Vimeo"
+    },
+    {
+      "url": "/",
+      "label": ""
+    },
+    {
+      "url": "/collections/all-bedding",
+      "label": "All Bedding"
+    },
+    {
+      "url": "/collections/sheet-sets",
+      "label": "Sheet Sets"
+    },
+    {
+      "url": "/products/original-performance-sheet-set",
+      "label": "Original Performance"
+    },
+    {
+      "url": "/products/nightfall-sheet-set",
+      "label": "Nightfall"
+    },
+    {
+      "url": "/products/arctic-aire-max-sheet-set",
+      "label": "Arctic Aire•MAX"
+    },
+    {
+      "url": "/products/sheex-active-comfort-sheet-set",
+      "label": "Active Comfort"
+    },
+    {
+      "url": "/collections/cooling-comforters",
+      "label": "Comforters & Duvets"
+    },
+    {
+      "url": "/products/nightfall-cool-cloud-cover",
+      "label": "Cooling Cloud Comforter"
+    },
+    {
+      "url": "/products/sheex-original-performance-all-season-comforter",
+      "label": "All-Season Comforter"
+    },
+    {
+      "url": "/products/performance-cooling-duvet-cover",
+      "label": "All-Season Duvet Cover"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "Pillows"
+    },
+    {
+      "url": "/products/original-performance-side-sleeper-pillow",
+      "label": "Side Pillow"
+    },
+    {
+      "url": "/products/down-alternative-pillow",
+      "label": "Stomach | Back Pillow"
+    },
+    {
+      "url": "/products/nightfall-body-pillow",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/products/versa-cloud-adjustable-hybrid-pillow",
+      "label": "Adjustable Hybrid Pillow"
+    },
+    {
+      "url": "/collections/sheet-separates-copy",
+      "label": "European Style Sheet Sets"
+    },
+    {
+      "url": "/collections/sheet-separates",
+      "label": "Sheet Separates"
+    },
+    {
+      "url": "/collections/breathable-pillowcases",
+      "label": "Pillowcases"
+    },
+    {
+      "url": "/collections/sheet-separates",
+      "label": "Fitted Sheets"
+    },
+    {
+      "url": "/collections/performance-sleepwear",
+      "label": "Sleepwear"
+    },
+    {
+      "url": "/collections/womens-sleepwear",
+      "label": "Women's Sleepwear"
+    },
+    {
+      "url": "/collections/mens-sleepwear",
+      "label": "Men's Sleepwear"
+    },
+    {
+      "url": "/collections/accessories",
+      "label": "Sleep Accessories"
+    },
+    {
+      "url": "https://www.sheex.com/pages/sleep-fit-quiz",
+      "label": "Sheets Quiz"
+    },
+    {
+      "url": "/collections/best-sellers",
+      "label": "Best Sellers"
+    },
+    {
+      "url": "/collections/sale",
+      "label": "Final Sale"
+    },
+    {
+      "url": "/pages/sleep-fit-quiz",
+      "label": "Find Your Perfect Bedding Match"
+    },
+    {
+      "url": "/collections/sheet-sets",
+      "label": "Sheets"
+    },
+    {
+      "url": "/products/original-performance-sheet-set",
+      "label": "Original Performance  Durable & Balanced Cooling"
+    },
+    {
+      "url": "/products/sheex-active-comfort-sheet-set",
+      "label": "Active Comfort  Lightweight"
+    },
+    {
+      "url": "/products/arctic-aire-max-sheet-set",
+      "label": "Arctic Aire•MAX  Soft & Breathable"
+    },
+    {
+      "url": "/products/nightfall-sheet-set",
+      "label": "Nightfall  Superior Cooling"
+    },
+    {
+      "url": "/collections/sheet-separates-copy",
+      "label": "European Style Sheet Sets"
+    },
+    {
+      "url": "/collections/sheet-separates",
+      "label": "Fitted Sheets"
+    },
+    {
+      "url": "/collections/breathable-pillowcases",
+      "label": "Pillowcases & Shams"
+    },
+    {
+      "url": "/pages/bundle-deals",
+      "label": "Bundles"
+    },
+    {
+      "url": "/collections/sale",
+      "label": "Final Sale"
+    },
+    {
+      "url": "https://www.sheex.com/products/original-performance-sheet-set?variant=50084151492746",
+      "label": "New Color Drop!   Meridian Blue"
+    },
+    {
+      "url": "https://www.sheex.com/products/original-performance-sheet-set?variant=50084151328906",
+      "label": "New Color Drop!   Limoncello"
+    },
+    {
+      "url": "/collections/cooling-comforters",
+      "label": "Comforters & Duvets"
+    },
+    {
+      "url": "/products/sheex-original-performance-all-season-comforter",
+      "label": "All-Season Comforter"
+    },
+    {
+      "url": "/products/nightfall-cool-cloud-cover",
+      "label": "Cool Cloud Comforter"
+    },
+    {
+      "url": "/products/performance-cooling-duvet-cover",
+      "label": "Ridiculously Soft® Duvet Cover"
+    },
+    {
+      "url": "/products/arctic-aire-max-diamond-collection-quilt-and-shams",
+      "label": "Diamond Quilt"
+    },
+    {
+      "url": "/products/arctic-aire-max-diamond-collection-shams",
+      "label": "Diamond Shams"
+    },
+    {
+      "url": "/products/performance-mattress-pad",
+      "label": "Mattress Pad"
+    },
+    {
+      "url": "/products/sheex-performance-mattress-protector-top-4side-protection",
+      "label": "Mattress Protector"
+    },
+    {
+      "url": "/products/sheex-original-performance-all-season-comforter",
+      "label": "Shop our best seller   Original Performance Comforter"
+    },
+    {
+      "url": "/products/performance-cooling-duvet-cover",
+      "label": "Original Performance Duvet Cover"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "Pillows"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "Shop All Pillows"
+    },
+    {
+      "url": "/products/versa-cloud-adjustable-hybrid-pillow",
+      "label": "Adjustable Hybrid Pillow  Tailored For You"
+    },
+    {
+      "url": "/products/nightfall-body-pillow",
+      "label": "Body Pillow"
+    },
+    {
+      "url": "/products/original-performance-side-sleeper-pillow",
+      "label": "Side Sleep Pillow"
+    },
+    {
+      "url": "/products/down-alternative-pillow",
+      "label": "Stomach Back Sleeper Pillow"
+    },
+    {
+      "url": "/products/sheex-infinite-zen-performance-pillow",
+      "label": "Infinite Zen Pillow  Our Coldest Pillows Yet"
+    },
+    {
+      "url": "/collections/cooling-pillowcases",
+      "label": "Pillowcases and Shams"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "Pillow Bundles Deals"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "NEW infused pillows   Shop the Collection"
+    },
+    {
+      "url": "/products/nightfall-body-pillow",
+      "label": "Nightfall Body Pillow"
+    },
+    {
+      "url": "/collections/performance-sleepwear",
+      "label": "Sleepwear+"
+    },
+    {
+      "url": "/collections/mens-sleepwear",
+      "label": "Men’s Sleepwear"
+    },
+    {
+      "url": "/collections/womens-sleepwear",
+      "label": "Women’s Sleepwear"
+    },
+    {
+      "url": "/collections/accessories",
+      "label": "Sleep Masks"
+    },
+    {
+      "url": "/products/mulberry-silk-sleep-mask-pillowcase-set",
+      "label": "Collagen Sleep Mask"
+    },
+    {
+      "url": "/products/sheex-midnight-label-sleep-mask",
+      "label": "Midnight Label Sleep Mask"
+    },
+    {
+      "url": "/collections/sale",
+      "label": "Final Sale"
+    },
+    {
+      "url": "/collections/mens-sleepwear",
+      "label": "Shop Men's Sleepwear"
+    },
+    {
+      "url": "/collections/womens-sleepwear",
+      "label": "Shop Women's Sleepwear"
+    },
+    {
+      "url": "/collections/cooling-cozy-bedding-bundles",
+      "label": "Bundles"
+    },
+    {
+      "url": "/collections/sale",
+      "label": "Sale"
+    },
+    {
+      "url": "https://www.sheex.com/community/betweenthesheex/category/blog",
+      "label": "Blog"
+    },
+    {
+      "url": "/community/betweentheSHEEX/introducing-sleepengine-pod-the-new-technology-helping-people-sleep-better",
+      "label": "What is the SleepEngine POD?"
+    },
+    {
+      "url": "/products/original-performance-sheet-set",
+      "label": "Most Popular Sheets"
+    },
+    {
+      "url": "/community/betweentheSHEEX/7-ways-sheex-helps-customers-get-the-best-sleep-of-their-lives",
+      "label": "Why are SHEEX sheets better?"
+    },
+    {
+      "url": "/community/betweentheSHEEX/temperature-regulating-cooling-bed-sheets-for-winter",
+      "label": "Why do I need cooling sheets?"
+    },
+    {
+      "url": "/products/nightfall-sheet-set",
+      "label": "Newest sheets"
+    },
+    {
+      "url": "/collections/cooling-sheets",
+      "label": "Coolest Sheets"
+    },
+    {
+      "url": "/collections/cooling-pillows",
+      "label": "Most Supportive Pillow"
+    },
+    {
+      "url": "/collections/cooling-cozy-bedding-bundles",
+      "label": "Deals on Bundles"
+    },
+    {
+      "url": "/products/sleep-engine-pod-by-cambridge-sleep-sciences",
+      "label": "Learn More"
+    },
+    {
+      "url": "/products/sleep-engine-pod-by-cambridge-sleep-sciences",
+      "label": ""
+    },
+    {
+      "url": "/search",
+      "label": ""
+    },
+    {
+      "url": "https://www.sheex.com/customer_authentication/redirect?locale=en®ion_country=US",
+      "label": "Log in"
+    },
+    {
+      "url": "https://account.sheex.com?locale=en®ion_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaGVleDIwMDgubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0NDY1OTI2LCJuYmYiOjE3OTM4NjExMjZ9.7up-Jfe5w34BioUe9bKf4_-6zl3yrLlEgUALHFmJdtk",
+      "label": "Create My Account"
+    },
+    {
+      "url": "/cart",
+      "label": "Cart"
+    },
+    {
+      "url": "/",
+      "label": "Home"
+    },
+    {
+      "url": "https://www.sheex.com/apps/returns",
+      "label": "Easy Product Returns"
+    },
+    {
+      "url": "mailto:RETURNS@SHEEX.COM",
+      "label": "RETURNS@SHEEX.COM"
+    },
+    {
+      "url": "mailto:RETURNS@SHEEX.COM",
+      "label": "RETURNS@SHEEX.COM"
+    },
+    {
+      "url": "https://www.sheex.com/pages/sheex-performance-cooling-mattresses-warranty",
+      "label": "SHEEX® Mattresses warranty information can be found linked here."
+    },
+    {
+      "url": "mailto:CustomerService@SHEEX.com",
+      "label": "CustomerService@SHEEX.com"
+    },
+    {
+      "url": "/",
+      "label": ""
+    },
+    {
+      "url": "/pages/truemed",
+      "label": "HSA/FSA Eligible"
+    },
+    {
+      "url": "/products/gift-card",
+      "label": "Gift Cards"
+    },
+    {
+      "url": "/pages/finance-options",
+      "label": "Buy Now, Pay Later"
+    },
+    {
+      "url": "/community/betweenthesheex",
+      "label": "Blog"
+    },
+    {
+      "url": "/pages/reviews",
+      "label": "Reviews"
+    },
+    {
+      "url": "/pages/affiliate",
+      "label": "Become an Affiliate"
+    },
+    {
+      "url": "/pages/join-sheex",
+      "label": "Working at SHEEX"
+    },
+    {
+      "url": "https://account.sheex.com/profile?locale=en®ion_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaGVleDIwMDgubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0NDY1OTI2LCJuYmYiOjE3OTM4NjExMjZ9.7up-Jfe5w34BioUe9bKf4_-6zl3yrLlEgUALHFmJdtk",
+      "label": "Company Profile"
+    },
+    {
+      "url": "/pages/truemed",
+      "label": "HSA/FSA Eligible"
+    },
+    {
+      "url": "/products/gift-card",
+      "label": "Gift Cards"
+    },
+    {
+      "url": "/pages/finance-options",
+      "label": "Buy Now, Pay Later"
+    },
+    {
+      "url": "/community/betweenthesheex",
+      "label": "Blog"
+    },
+    {
+      "url": "/pages/reviews",
+      "label": "Reviews"
+    },
+    {
+      "url": "/pages/affiliate",
+      "label": "Become an Affiliate"
+    },
+    {
+      "url": "/pages/join-sheex",
+      "label": "Working at SHEEX"
+    },
+    {
+      "url": "https://account.sheex.com/profile?locale=en®ion_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaGVleDIwMDgubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk0NDY1OTI2LCJuYmYiOjE3OTM4NjExMjZ9.7up-Jfe5w34BioUe9bKf4_-6zl3yrLlEgUALHFmJdtk",
+      "label": "Company Profile"
+    },
+    {
+      "url": "/pages/faq",
+      "label": "FAQs"
+    },
+    {
+      "url": "/pages/size-charts",
+      "label": "Size Charts"
+    },
+    {
+      "url": "/pages/ordering-information",
+      "label": "Ordering Information"
+    },
+    {
+      "url": "/pages/shipping-information",
+      "label": "Shipping Information"
+    },
+    {
+      "url": "/pages/returns",
+      "label": "Returns & Exchanges"
+    },
+    {
+      "url": "/pages/warranty",
+      "label": "Product Warranty Registration"
+    },
+    {
+      "url": "/pages/contact-us",
+      "label": "Contact Us"
+    },
+    {
+      "url": "/pages/faq",
+      "label": "FAQs"
+    },
+    {
+      "url": "/pages/size-charts",
+      "label": "Size Charts"
+    },
+    {
+      "url": "/pages/ordering-information",
+      "label": "Ordering Information"
+    },
+    {
+      "url": "/pages/shipping-information",
+      "label": "Shipping Information"
+    },
+    {
+      "url": "/pages/returns",
+      "label": "Returns & Exchanges"
+    },
+    {
+      "url": "/pages/warranty",
+      "label": "Product Warranty Registration"
+    },
+    {
+      "url": "/pages/contact-us",
+      "label": "Contact Us"
+    },
+    {
+      "url": "/pages/accessibility",
+      "label": "Accessibility"
+    },
+    {
+      "url": "/pages/social-content-agreement",
+      "label": "Social Content Agreement"
+    },
+    {
+      "url": "/policies/terms-of-service",
+      "label": "Terms of Service"
+    },
+    {
+      "url": "/policies/privacy-policy",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "/pages/ccpa-compliance",
+      "label": "CCPA | GDPR Compliance"
+    },
+    {
+      "url": "/pages/accessibility",
+      "label": "Accessibility"
+    },
+    {
+      "url": "/pages/social-content-agreement",
+      "label": "Social Content Agreement"
+    },
+    {
+      "url": "/policies/terms-of-service",
+      "label": "Terms of Service"
+    },
+    {
+      "url": "/policies/privacy-policy",
+      "label": "Privacy Policy"
+    },
+    {
+      "url": "/pages/ccpa-compliance",
+      "label": "CCPA | GDPR Compliance"
+    },
+    {
+      "url": "mailto:customerservice@SHEEX.com",
+      "label": "customerservice@SHEEX.com"
+    },
+    {
+      "url": "https://facebook.com/SHEEX",
+      "label": "Facebook"
+    },
+    {
+      "url": "https://pinterest.com/SHEEX",
+      "label": "Pinterest"
+    },
+    {
+      "url": "https://instagram.com/SHEEXOfficial",
+      "label": "Instagram"
+    },
+    {
+      "url": "https://tiktok.com/@SHEEX",
+      "label": "TikTok"
+    },
+    {
+      "url": "https://www.youtube.com/user/sheexbedding",
+      "label": "YouTube"
+    },
+    {
+      "url": "https://vimeo.com/user102677732",
+      "label": "Vimeo"
+    },
+    {
+      "url": "/",
+      "label": "SHEEX"
+    },
+    {
+      "url": "https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+      "label": "Powered by Shopify"
+    },
+    {
+      "url": "/collections/all",
+      "label": "Shop Now"
+    },
+    {
+      "url": "https://userway.org",
+      "label": "website accessibility"
+    },
+    {
+      "url": "https://discountninja.io",
+      "label": "Powered By Discount Ninja"
+    },
+    {
+      "url": "https://discountninja.io",
+      "label": "Powered By Discount Ninja"
+    },
+    {
+      "url": "https://discountninja.io",
+      "label": "Powered By Discount Ninja"
+    }
+  ],
+  "images": [
+    "<meta property=\"og:image\" content=\"http://www.sheex.com/cdn/shop/files/SHEEX-LOGO-SocialSharing.png?v=1792685830\">"
+  ]
+}

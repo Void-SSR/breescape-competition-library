@@ -1,0 +1,313 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家具":
+    - /url: https://shop.tiktok.com/us/c/furniture/604453
+    - generic: 家具
+  - link "室内家具":
+    - /url: https://shop.tiktok.com/us/c/indoor-furniture/871048
+    - generic: 室内家具
+  - link "床垫":
+    - /url: https://shop.tiktok.com/us/c/mattresses/876424
+    - generic: 床垫
+  - link "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable":
+    - /url: https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657
+    - generic: Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21" Deep Pocket, Breathable & Comfortable
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "退货政策 送达后 30 天内退货可获得退款。买家支付退货运费。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "退货政策" [level=3]
+  - generic: 送达后 30 天内退货可获得退款。买家支付退货运费。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Shilucheng Home":
+  - /url: https://shop.tiktok.com/us/store/shilucheng-home/7495541840241986289
+- heading "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable" [level=1]
+- generic: "-50%"
+- generic: $
+- generic: "41"
+- generic: ".90"
+- generic: $83.80
+- generic: 免费运送
+- generic: "4.3"
+- generic: (9.0K)
+- generic: 已售 70.8K
+- button "成交件数":
+- generic: "Color:"
+- generic: Grey
+- img "Bamboo Cooling"
+- generic: Bamboo Cooling
+- img "Grey"
+- generic: Grey
+- img "White"
+- generic: White
+- generic: "Bedding Size:"
+- generic: Queen
+- generic: Twin XL
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: California King
+- generic: "Thickness:"
+- generic: 2 inch
+- generic: 2 inch
+- generic: 3 inch
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "Shilucheng Home Shilucheng Home 4.4 688.2K 已售出 33.3K+ Followers 80% 好评 <10 小时 问题解决 78% 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/shilucheng-home/7495541840241986289
+  - img "Shilucheng Home"
+  - generic: Shilucheng Home
+  - generic: "4.4"
+  - text: 688.2K
+  - generic: 已售出
+  - generic: 33.3K+ Followers
+  - generic: 80%
+  - generic: 好评
+  - generic: <10 小时
+  - generic: 问题解决
+  - generic: 78%
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: Extra thick mattress topper with soft, breathable comfort
+- generic: •
+- generic: Cooling down-alternative fill helps regulate sleep temperature
+- generic: •
+- generic: Deep pocket design fits mattresses 8 to 21 inches thick
+- generic: •
+- generic: STANDARD 100 by OEKO-TEX certified and skin-friendly
+- generic: •
+- generic: Dryer-safe before first use to help the topper fluff up
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "Bedding size King":
+      - cell "Bedding size"
+      - cell "King"
+    - row "Material Cotton":
+      - cell "Material"
+      - cell "Cotton"
+    - row "Feature Soft,Cooling,Stain resistant,Fade resistant,Breathable,Skin-friendly,Durable,Wrinkle resistant":
+      - cell "Feature"
+      - cell "Soft,Cooling,Stain resistant,Fade resistant,Breathable,Skin-friendly,Durable,Wrinkle resistant"
+    - row "Quantity per pack 1":
+      - cell "Quantity per pack"
+      - cell "1"
+    - row "Dangerous goods or hazardous materials No":
+      - cell "Dangerous goods or hazardous materials"
+      - cell "No"
+- generic: 商品描述
+- generic: 【Before First Use】
+- generic: Before first use, dry your mattress topper on low for 20 minutes with dryer sheets to expand and fluff it for optimal comfort. Because the topper is vacuum-compressed for long-term storage and shipping, it may appear thinner than expected when first opened — simply give it time to fully recover its plush loft for the best sleep experience. Follow these steps for a truly fresh start!
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Size Specifications】
+- generic: "Twin XL: 39\" × 80\" Full: 54\" × 75\" Queen: 60\" × 80\" King: 78\" × 80\""
+- generic: "California King: 72'' x 84'' Deep pockets fit mattresses from 8\" to 21\" thick — no slipping, shifting, or size worries."
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Extra Thick & Breathable】
+- generic: The premium filling effectively absorbs moisture and regulates temperature, keeping you cool in summer and comfortably warm in winter. No more waking up hot or sweaty — enjoy refreshing, breathable comfort all night long.
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Airy 4D Snow Velvet Filling】
+- generic: Stuffed with innovative 4D snow velvet microfiber, this cutting-edge fiber enhances air circulation and maintains a consistent sleep temperature. It delivers the perfect blend of cloud-like softness and breathable coolness for every sleeper.
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Certified Safe & Skin-Friendly】
+- generic: Certified by STANDARD 100 by OEKO-TEX, this topper is free from harmful chemicals and safe for you and your family. Twice the premium filling of traditional mattress pads improves both bed texture and sleep quality effectively.
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Instantly Refresh Your Mattress】
+- generic: If your mattress feels too firm or old, this topper offers an instant upgrade. It restores comfort, adds softness, and provides gentle support — all without the high cost of buying a new mattress.
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: "[Dryer-safe}"
+- generic: Before first use, please place the mattress topper in a dryer and tumble dry on a low heat setting with a dryer sheet for 20 minutes to allow it to fully fluff up and expand, ensuring optimal comfort.
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: 【Elastic Deep Pocket Design】
+- generic: Featuring a stretchy deep pocket design that fits mattresses 8–21" thick, this topper stays securely in place — no matter how much you toss and turn. Enjoy uninterrupted comfort and peace of mind all night long.
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: Shilucheng Mattress Topper is designed to refresh a firm or older mattress with extra-thick softness and breathable comfort. It uses a cooling down alternative fill with airy 4D snow velvet microfiber to help improve air circulation and support a more comfortable sleep surface throughout the night. This mattress pad cover is made for practical everyday use, with deep pockets that fit mattresses from 8 to 21 inches thick and help keep it in place. It is also described as wrinkle resistant, fade resistant, stain resistant, durable, and soft, making it a versatile bedding layer for a more comfortable bed. The topper is STANDARD 100 by OEKO-TEX certified for a skin-friendly sleep experience. It is vacuum-compressed for shipping and should be tumble dried on low with a dryer sheet for 20 minutes before first use to help it fully expand and fluff up.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What size mattresses does this topper fit? A:The deep pocket design fits mattresses from 8 to 21 inches thick. Available bedding sizes listed include Twin XL, Full, Queen, King, and California King.
+- generic: •
+- generic: What material or fill does the topper use? A:It features a cooling down alternative fill and airy 4D snow velvet microfiber for added softness and airflow.
+- generic: •
+- generic: Is the topper safe for skin? A:Yes. It is certified STANDARD 100 by OEKO-TEX and described as skin-friendly.
+- generic: •
+- generic: What should I do before first use? A:Before first use, dry it on low heat for 20 minutes with dryer sheets to help it expand and fluff up after vacuum-compressed shipping.
+- generic: •
+- generic: What comfort benefit does it provide? A:It is designed to add softness, gentle support, and breathable comfort to help refresh a mattress that feels too firm or old.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Ruyu Co., Ltd.
+- generic: •
+- generic: 公司地址：1312 17th Street Suite 559,Denver,Colorado,80202
+- generic: "4.3"
+- generic: 9013 条全球评价
+- generic: "5"
+- generic: "6478"
+- generic: "4"
+- generic: "728"
+- generic: "3"
+- generic: "546"
+- generic: "2"
+- generic: "348"
+- generic: "1"
+- generic: "913"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "A**🎀"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "A**🎀"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "A**🎀"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "A**🎀"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "A**e F**k"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "A**e F**k"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 6"
+- generic "A**e F**k"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 7"
+- generic "A**e F**k"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 8"
+- generic "A**e F**k"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 9013 条评价（共 9013 条）
+- generic: 重置筛选条件
+- generic: A**🎀
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: If you have lower back issues GET THIS!!! It has helped me so much … what I did when it got here? Took it out the package and laid it out to expand and twice a day I fluffed it out just by simply shaking it. I waited 48hrs maybe a couple more before I put it in the dryer for 20 minutes WITH NO HEAT!!! Love Love Love this purchase and don’t wait RUN! I have a king size bed it was $89 and I got it for only $42🙌
+- generic: "商品:"
+- text: Grey, King, 3 inch
+- generic: 2026-08-10
+- generic: V**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: It fits my mattress well, it’s just not as fluffy as I thought it would be like the pictures and videos seen. I put It on the fluff cycle for 20 minutes as suggested in the tutorial but it’s still no difference in my bedding experience
+- generic: "商品:"
+- text: Grey, King, 3 inch
+- generic: 2026-08-20
+- generic: A**e F**k
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Took a little longer than expected to get fully fluffed up but worth the wait! I have slept sooo much better with it so far and so has my spoiled cats 😜
+- generic: "商品:"
+- text: White, Queen, 3 inch
+- generic: 2026-10-15
+- generic: R** W**e ** P**t B**e 🇺**
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: Terrible, half filled and tall. Other half flat and not filled. Terrible. And they want me to do there job. Take off. Try to roll up, go get large box use gas go to Ups. All to return an unusable item. Should have sent me new one out. Very poor customer service from a company already making enough on items. Very disappointing. That’s why I’m always hesitant to order. It’s a crap shoot what you’re going to get. And they only refund $8.00 because I wasn’t going to jump through hoops to send back unusable item. Shame on them!!!!!!!! Mark N.
+- generic: "商品:"
+- text: White, Full, 3 inch
+- generic: 2026-08-16
+- generic: P**r
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: "Fit: It is not 3\"and in some places its 1/2\" but majority is less than 2\" Comfort: No it's not comfortable as it is seriously is lacking any filling. Support: It doesn't have any Check the pictures out below. This is false advertising to say the least as the filling didn't even reach 2 inches it's hit or miss on the amount of filling varies tremendously."
+- generic: "商品:"
+- text: Bamboo Cooling, Full, 3 inch
+- generic: 2026-07-23
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "1803"
+- generic: 下一步

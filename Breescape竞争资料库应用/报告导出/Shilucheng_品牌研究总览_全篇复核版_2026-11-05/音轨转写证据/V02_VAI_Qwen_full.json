@@ -1,0 +1,7 @@
+{
+  "id": "V02",
+  "method": "Same installed VAI Qwen3 model, full-audio pass without VAD to check missed words",
+  "audio_seconds": 12.235,
+  "text": "I am an autumn.",
+  "elapsed_seconds": 0.19
+}

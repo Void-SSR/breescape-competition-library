@@ -1,0 +1,100 @@
+{
+  "version": "1.2",
+  "product_id": "sheets",
+  "external_product_id": "1729438233542234865",
+  "brand_id": "shilucheng",
+  "published_at": "2026-11-05T04:00:58+08:00",
+  "files": [
+    {
+      "key": "statistics",
+      "filename": "05_分来源主题统计.csv",
+      "title": "床单评论 v1.2｜主样本及补充组主题统计",
+      "sha256": "6956fd14b064aaf5eae3c1de689e4cef094d045af0cda261f18225439054790c",
+      "local_path": "attachments/评论语义 v1.2_20261105/05_分来源主题统计.csv",
+      "material_id": 73
+    },
+    {
+      "key": "behavior",
+      "filename": "05_behavior_counts.json",
+      "title": "床单评论 v1.2｜分层购买行为统计",
+      "sha256": "766ad3b96c14071a72e13c15082850d0e516944dd14828dbbc0e5d170c914ef2",
+      "local_path": "attachments/评论语义 v1.2_20261105/05_behavior_counts.json",
+      "material_id": 74
+    },
+    {
+      "key": "rules",
+      "filename": "01_rules_v1.2.md",
+      "title": "床单评论 v1.2｜语义口径与计数规则",
+      "sha256": "3748ad1d242bc134d944cb00359f74314b91cb8a5cd0c817c4701ee8c2e46ece",
+      "local_path": "attachments/评论语义 v1.2_20261105/01_rules_v1.2.md",
+      "material_id": 75
+    },
+    {
+      "key": "reviews",
+      "filename": "04_逐条评论与编码.csv",
+      "title": "床单评论 v1.2｜逐条原文、来源与编码",
+      "sha256": "65e0f25792a340d07b83e9fe2187150078b0078ca29d7dfa0ef5eef6fbf89108",
+      "local_path": "attachments/评论语义 v1.2_20261105/04_逐条评论与编码.csv",
+      "material_id": 76
+    },
+    {
+      "key": "annotations",
+      "filename": "04_全部证据标注.csv",
+      "title": "床单评论 v1.2｜全量原文引句与语义标注",
+      "sha256": "fd72cd59bdb350db03c365c32bb1cc861b8701b261d1ac619e55f145124b2bd4",
+      "local_path": "attachments/评论语义 v1.2_20261105/04_全部证据标注.csv",
+      "material_id": 77
+    },
+    {
+      "key": "examples",
+      "filename": "07_关键证据与反例.md",
+      "title": "床单评论 v1.2｜关键证据与反例",
+      "sha256": "2f7afeb8c0591e36623ce501896c1ab9254baeecdb91df14edc797b2a85875f9",
+      "local_path": "attachments/评论语义 v1.2_20261105/07_关键证据与反例.md",
+      "material_id": 78
+    },
+    {
+      "key": "conclusion",
+      "filename": "08_研究结论与机制修订建议.md",
+      "title": "床单评论 v1.2｜评论研究结论与机制建议",
+      "sha256": "8baa6098c4af031eab473db0ea6206d9ced53fbb52ef0990566e2814718a42d7",
+      "local_path": "attachments/评论语义 v1.2_20261105/08_研究结论与机制修订建议.md",
+      "material_id": 79
+    }
+  ],
+  "review_ids": [
+    452,
+    917,
+    912,
+    619,
+    475,
+    469,
+    692,
+    1389,
+    824,
+    773,
+    718,
+    82,
+    221,
+    580,
+    499,
+    28,
+    484,
+    1284,
+    1408,
+    342,
+    834,
+    642,
+    320,
+    375,
+    1208,
+    1157,
+    37,
+    621,
+    453,
+    535,
+    888,
+    1409,
+    1618
+  ]
+}

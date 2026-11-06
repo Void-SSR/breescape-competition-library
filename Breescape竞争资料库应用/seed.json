@@ -1,0 +1,494 @@
+{
+  "brands": [
+    {
+      "id": "shilucheng",
+      "name": "Shilucheng",
+      "website": "https://shilucheng.com",
+      "note": "首个样板品牌；品牌自述与独立核实分开记录"
+    },
+    {
+      "id": "cozy-bliss",
+      "name": "Cozy Bliss",
+      "website": "",
+      "note": "用户指定必研究品牌，尚未开展"
+    },
+    {
+      "id": "sheex",
+      "name": "SHEEX",
+      "website": "https://www.sheex.com",
+      "note": "用户提供官网链接，尚未开展研究"
+    }
+  ],
+  "products": [
+    {
+      "id": "sheets",
+      "brand_id": "shilucheng",
+      "name": "竹混纺凉床单",
+      "channel": "TikTok Shop",
+      "market": "美国",
+      "url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "external_id": "1729438233542234865",
+      "image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/621dae0813d044e9b2f688fb3fe20a76~tplv-fhlh96nyum-crop-webp%3A800%3A800.webp?dr=12190&from=3376456192&idc=useast5&ps=933b5bde&shcp=9b759fb9&shp=c940a200&t=555f072d",
+      "state": "样板 · 事实收录中",
+      "legacy_file": "Shilucheng_竹混纺凉床单_1729438233542234865_有效评论_已整理.csv"
+    },
+    {
+      "id": "topper",
+      "brand_id": "shilucheng",
+      "name": "仿羽绒凉感褥垫",
+      "channel": "TikTok Shop",
+      "market": "美国",
+      "url": "https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657",
+      "external_id": "1729439070512124657",
+      "image_url": "",
+      "state": "待研究",
+      "legacy_file": "Shilucheng_仿羽绒凉感褥垫_1729439070512124657_有效评论_已整理.csv"
+    },
+    {
+      "id": "cozy-comforter",
+      "brand_id": "cozy-bliss",
+      "name": "经典双面凉感被",
+      "channel": "Amazon",
+      "market": "美国",
+      "url": "https://www.amazon.com/dp/B0BVQMTD8W",
+      "external_id": "B0BVQMTD8W",
+      "image_url": "",
+      "state": "待研究",
+      "legacy_file": ""
+    },
+    {
+      "id": "sheex-sheets",
+      "brand_id": "sheex",
+      "name": "经典性能凉床单",
+      "channel": "独立站",
+      "market": "美国",
+      "url": "https://www.sheex.com/products/original-performance-sheet-set",
+      "external_id": "original-performance-sheet-set",
+      "image_url": "",
+      "state": "待研究",
+      "legacy_file": ""
+    }
+  ],
+  "materials": [
+    {
+      "id": 1,
+      "title": "Shilucheng｜品牌介绍",
+      "url": "https://shilucheng.com/pages/about-us",
+      "source_type": "品牌官网",
+      "publisher": "Shilucheng",
+      "retrieved_at": "2026-11-04",
+      "summary": "介绍纺织背景、舒适体验与减少中间环节的价值表达。",
+      "access_note": "2026-11-04经网页检索读取；缓存标示上月。品牌自述，不构成能力实证。",
+      "section": 1,
+      "topic": "1. 品牌信息"
+    },
+    {
+      "id": 2,
+      "title": "Shilucheng｜官网产品目录",
+      "url": "https://shilucheng.com/collections/all",
+      "source_type": "品牌官网",
+      "publisher": "Shilucheng",
+      "retrieved_at": "2026-11-04",
+      "summary": "页面包含床单、被类、褥垫、枕类、地毯等；目录也展示其他品牌。",
+      "access_note": "检索缓存，非实时库存；不得把全站所有商品归入Shilucheng品牌。",
+      "section": 1,
+      "topic": "3. 产品矩阵与核心产品销量"
+    },
+    {
+      "id": 3,
+      "title": "TikTok 美国｜床单商品页",
+      "url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "source_type": "平台商品页",
+      "publisher": "TikTok Shop / Shilucheng Home",
+      "retrieved_at": "2026-11-04",
+      "summary": "商品身份、选定规格、商家材料描述及平台展示指标。",
+      "access_note": "本次读取来自检索缓存（显示上周），具体缓存日期不详；不视为实时价格、销量。",
+      "section": 2,
+      "topic": "4. 核心产品基本信息"
+    },
+    {
+      "id": 4,
+      "title": "TikTok｜Shilucheng Home 店铺",
+      "url": "https://shop.tiktok.com/us/store/shilucheng-home/7495541840241986289",
+      "source_type": "平台店铺",
+      "publisher": "TikTok Shop",
+      "retrieved_at": "2026-11-04",
+      "summary": "由目标商品页跳转确认的店铺；不与其他同名店铺合并。",
+      "access_note": "仅确认店铺关联；账号矩阵和运营数据未进一步研究。",
+      "section": 3,
+      "topic": "7. 渠道基础信息"
+    },
+    {
+      "id": 5,
+      "title": "床单｜既有评论采集口径与原文件",
+      "url": null,
+      "source_type": "本地采集底稿",
+      "publisher": "已有资料库",
+      "retrieved_at": "2026-11-04",
+      "summary": "1628条有效评论，包含全部星级最近批次和一星补充批次。",
+      "access_note": "原文件在相邻Breescape竞品资料库目录；原文未改写。",
+      "section": 2,
+      "topic": "5. 消费者评论分析"
+    }
+  ],
+  "records": [
+    {
+      "section": 1,
+      "topic": "1. 品牌信息",
+      "title": "官网及品牌表达",
+      "body": "官网强调舒适睡眠、材料选择与可负担的品质；减少中间环节是其自述价值。尚不能据此认定消费者认知或供应链优势。",
+      "kind": "品牌宣称",
+      "status": "品牌自述",
+      "evidence": [
+        1
+      ],
+      "product_id": null
+    },
+    {
+      "section": 1,
+      "topic": "1. 品牌信息",
+      "title": "成立时间与发展背景",
+      "body": "已查看品牌介绍，未发现可核实的成立年份；不采用未验证的第三方成立年份。",
+      "kind": "缺口",
+      "status": "已查未找到可靠资料",
+      "evidence": [
+        1
+      ],
+      "product_id": null
+    },
+    {
+      "section": 1,
+      "topic": "1. 品牌信息",
+      "title": "定位、目标消费者及品牌差异化",
+      "body": "已收录官网表达；实际人群结构、消费者心智和相对差异仍需竞争证据。",
+      "kind": "缺口",
+      "status": "等待前置证据",
+      "evidence": [
+        1
+      ],
+      "product_id": null
+    },
+    {
+      "section": 1,
+      "topic": "2. 经营规模与渠道结构",
+      "title": "销售规模、增长与各渠道占比",
+      "body": "官网与已查看页面不足以支持品牌级销售规模、渠道份额或最快增长渠道。不得用单一店铺累计销量代替。",
+      "kind": "缺口",
+      "status": "需工具或权限",
+      "evidence": [
+        1,
+        2
+      ],
+      "product_id": null
+    },
+    {
+      "section": 1,
+      "topic": "3. 产品矩阵与核心产品销量",
+      "title": "已观察的产品布局",
+      "body": "官网目录可见Shilucheng床单、凉被、褥垫、枕头与毯类等产品。全站还列出其他品牌，不能把站点28个商品全部算作本品牌。",
+      "kind": "事实",
+      "status": "已核实页面信息",
+      "evidence": [
+        2
+      ],
+      "product_id": null
+    },
+    {
+      "section": 1,
+      "topic": "3. 产品矩阵与核心产品销量",
+      "title": "价格带、核心单品贡献与爆款依赖",
+      "body": "需逐规格价格与可比期间销售额；目前不计算品牌销售贡献或判断单一爆款依赖。",
+      "kind": "缺口",
+      "status": "等待前置证据",
+      "evidence": [
+        2
+      ],
+      "product_id": null
+    },
+    {
+      "section": 2,
+      "topic": "4. 核心产品基本信息",
+      "title": "商品身份与研究范围",
+      "body": "商品ID 1729438233542234865；美国TikTok Shop，卖家Shilucheng Home。研究对象由用户指定，其他平台同名商品尚未认定为同款。",
+      "kind": "事实",
+      "status": "已核实页面信息",
+      "evidence": [
+        3
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "4. 核心产品基本信息",
+      "title": "材料与适配深度",
+      "body": "商品描述称60%竹源粘胶、40%聚酯；床笠适配厚度最高16英寸。属于商家描述，未进行实物或检测核实。",
+      "kind": "品牌宣称",
+      "status": "品牌自述",
+      "evidence": [
+        3
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "4. 核心产品基本信息",
+      "title": "卖点表达与描述冲突",
+      "body": "商家强调可负担、柔滑、凉感与易洗护。织法描述为twill，参数栏又写sateen及flat weave；暂保留冲突，不认定织法。",
+      "kind": "品牌宣称",
+      "status": "品牌自述",
+      "evidence": [
+        3
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "4. 核心产品基本信息",
+      "title": "竞争差异化与领先优势",
+      "body": "尚未对齐同规格竞品及消费者证据，不把商家卖点直接称为差异化或领先优势。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [
+        3
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "5. 消费者评论分析",
+      "title": "已有评论样本",
+      "body": "1628条已整理有效评论，可按原文、星级、规格及日期查询。包含一星补充，非随机样本；不能推算整体好评率或全体买家问题发生率。",
+      "kind": "事实",
+      "status": "已核实页面信息",
+      "evidence": [
+        5
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "5. 消费者评论分析",
+      "title": "认可／不认可TOP3及占比",
+      "body": "尚未进行主题编码。以后需显示分子、分母、样本范围；多标签比例不必合计100%。",
+      "kind": "分析",
+      "status": "待研究",
+      "evidence": [
+        5
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "5. 消费者评论分析",
+      "title": "真实购买理由与未满足需求",
+      "body": "需区分购买前明确理由、购买后体验和研究推断；当前不生成结论。",
+      "kind": "分析",
+      "status": "待研究",
+      "evidence": [
+        5
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 2,
+      "topic": "6. 产品卖得好的原因",
+      "title": "成功驱动与竞争优势",
+      "body": "等待评论分析、竞争比较与渠道证据；不预设由产品、价格、营销或品牌驱动。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 3,
+      "topic": "7. 渠道基础信息",
+      "title": "关联店铺入口",
+      "body": "商品页明确链接到Shilucheng Home店铺。这里只记录账号入口，不扩大为完整账号矩阵。",
+      "kind": "事实",
+      "status": "已核实页面信息",
+      "evidence": [
+        3,
+        4
+      ],
+      "product_id": "sheets"
+    },
+    {
+      "section": 3,
+      "topic": "7. 渠道基础信息",
+      "title": "账号矩阵、发布频率与销售构成",
+      "body": "粉丝、达人／自营、直播／短视频销售占比待工具能力核实。未使用卖家精灵，未保存登录凭据。",
+      "kind": "缺口",
+      "status": "需工具或权限",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 3,
+      "topic": "8. TOP5爆款内容分析",
+      "title": "TOP5候选与筛选口径",
+      "body": "候选视频尚未收集。需先展示时间范围、播放／互动或销售入选依据，由你确认后再深入分析。",
+      "kind": "缺口",
+      "status": "待你确认",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 3,
+      "topic": "9. 渠道内容总结",
+      "title": "传播策略与值得模仿的形式",
+      "body": "等待TOP5确认与内容研究；播放与互动不能替代销售转化。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 4,
+      "topic": "10. 关键发展历程",
+      "title": "品牌重要事件时间线",
+      "body": "尚未研究。以后只记录有来源的产品上市、定位调整、渠道拓展及营销事件；目标年份不等于已实现的事件。",
+      "kind": "缺口",
+      "status": "待研究",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 4,
+      "topic": "11. 关键增长动作",
+      "title": "增长动作与增长方式变化",
+      "body": "等待事件与经营时间序列证据；事件先后关系不直接等于因果。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 5,
+      "topic": "12. 消费者为什么选择品牌",
+      "title": "品牌认知、独特价值与溢价",
+      "body": "等待前四板块证据；单品评价不自动升级为品牌心智。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 5,
+      "topic": "13. 品牌能力与竞争壁垒",
+      "title": "难以复制的能力与持续增长",
+      "body": "尚无充分证据，暂不判断研发、供应链、营销或组织壁垒。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 6,
+      "topic": "产品创新",
+      "title": "产品创新",
+      "body": "等待前置研究。仅保留有证据和实际业务意义的结论，不要求填满。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 6,
+      "topic": "营销与渠道借鉴",
+      "title": "营销与渠道借鉴",
+      "body": "等待前置研究。仅保留有证据和实际业务意义的结论，不要求填满。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 6,
+      "topic": "竞争短板",
+      "title": "竞争短板",
+      "body": "等待前置研究。仅保留有证据和实际业务意义的结论，不要求填满。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 6,
+      "topic": "潜在市场机会",
+      "title": "潜在市场机会",
+      "body": "等待前置研究。仅保留有证据和实际业务意义的结论，不要求填满。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    },
+    {
+      "section": 6,
+      "topic": "对我方的战略启示",
+      "title": "对我方的战略启示",
+      "body": "等待前置研究。仅保留有证据和实际业务意义的结论，不要求填满。",
+      "kind": "分析",
+      "status": "等待前置证据",
+      "evidence": [],
+      "product_id": "sheets"
+    }
+  ],
+  "observations": [
+    {
+      "product_id": "sheets",
+      "metric": "展示活动价",
+      "value": "32.37",
+      "unit": "USD",
+      "variant": "Bamboo-Dark Grey / Twin / 3PC",
+      "scope": "页面活动价，非结算价；不含个性化优惠",
+      "observed_at": "未知：检索工具标注缓存为上周",
+      "retrieved_at": "2026-11-04",
+      "source_url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "source_type": "平台页面缓存",
+      "availability": "缓存参考，待实时复核",
+      "note": "读取日期不是指标观察日期；不能把不同缓存页面的数值差异当作增长。"
+    },
+    {
+      "product_id": "sheets",
+      "metric": "累计售出展示",
+      "value": "433.1K",
+      "unit": "件（约数）",
+      "variant": "商品链接整体",
+      "scope": "累计展示，非月销；多规格合并",
+      "observed_at": "未知：检索工具标注缓存为上周",
+      "retrieved_at": "2026-11-04",
+      "source_url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "source_type": "平台页面缓存",
+      "availability": "缓存参考，待实时复核",
+      "note": "读取日期不是指标观察日期；不能把不同缓存页面的数值差异当作增长。"
+    },
+    {
+      "product_id": "sheets",
+      "metric": "评分",
+      "value": "4.4",
+      "unit": "分 / 5",
+      "variant": "商品链接整体",
+      "scope": "平台展示评分",
+      "observed_at": "未知：检索工具标注缓存为上周",
+      "retrieved_at": "2026-11-04",
+      "source_url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "source_type": "平台页面缓存",
+      "availability": "缓存参考，待实时复核",
+      "note": "读取日期不是指标观察日期；不能把不同缓存页面的数值差异当作增长。"
+    },
+    {
+      "product_id": "sheets",
+      "metric": "评论数量",
+      "value": "45865",
+      "unit": "条",
+      "variant": "商品链接整体",
+      "scope": "页面global reviews，非仅美国评论",
+      "observed_at": "未知：检索工具标注缓存为上周",
+      "retrieved_at": "2026-11-04",
+      "source_url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "source_type": "平台页面缓存",
+      "availability": "缓存参考，待实时复核",
+      "note": "读取日期不是指标观察日期；不能把不同缓存页面的数值差异当作增长。"
+    }
+  ]
+}

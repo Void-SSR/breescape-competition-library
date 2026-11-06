@@ -1,0 +1,206 @@
+{
+  "id": 2208808632418,
+  "title": "Breeze Cooling Comforter",
+  "handle": "breeze-comforter",
+  "description": "<p>An awarded-winning, cooling comforter insert. Fill spun entirely from eucalyptus—trapping less heat than down or polyester. Architectural Digest's #1 cooling comforter.</p>",
+  "published_at": "2019-04-16T22:13:48-04:00",
+  "created_at": "2019-04-16T22:13:48-04:00",
+  "vendor": "Buffy",
+  "type": "Quilts & Comforters",
+  "tags": [
+    "bundleName__the-breeze",
+    "bundleTag__Our-cooling-eucalyptus-comforter",
+    "name__buffy-breeze-comforter",
+    "tagline__stay-cool-with-tempdashregulatingcomma-100%-eucalyptus.",
+    "trial",
+    "YGroup_BreezeComforter"
+  ],
+  "price": 19000,
+  "price_min": 19000,
+  "price_max": 29000,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 20247576379490,
+      "title": "Twin/Twin XL",
+      "option1": "Twin/Twin XL",
+      "option2": null,
+      "option3": null,
+      "sku": "BDNBC-TW-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Breeze Cooling Comforter - Twin/Twin XL",
+      "public_title": "Twin/Twin XL",
+      "options": [
+        "Twin/Twin XL"
+      ],
+      "price": 19000,
+      "weight": 4536,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "850040653564",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 20247576412258,
+      "title": "Full/Queen",
+      "option1": "Full/Queen",
+      "option2": null,
+      "option3": null,
+      "sku": "BDNBC-QN-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Breeze Cooling Comforter - Full/Queen",
+      "public_title": "Full/Queen",
+      "options": [
+        "Full/Queen"
+      ],
+      "price": 25000,
+      "weight": 4536,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "850040653557",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 20247576445026,
+      "title": "King/Cal King",
+      "option1": "King/Cal King",
+      "option2": null,
+      "option3": null,
+      "sku": "BDNBC-KG-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Breeze Cooling Comforter - King/Cal King",
+      "public_title": "King/Cal King",
+      "options": [
+        "King/Cal King"
+      ],
+      "price": 29000,
+      "weight": 4536,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "850040653571",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2462/9621/files/Insitu-2_3.webp?v=1787084783",
+    "//cdn.shopify.com/s/files/1/2462/9621/files/Insitu-3_3_compressed.jpg?v=1786646167",
+    "//cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_7.png?v=1784299639",
+    "//cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_6.png?v=1784299637"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2462/9621/files/Insitu-2_3.webp?v=1787084783",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "Twin/Twin XL",
+        "Full/Queen",
+        "King/Cal King"
+      ]
+    }
+  ],
+  "url": "/products/breeze-comforter",
+  "media": [
+    {
+      "alt": "Breeze Comforter full bed image in white",
+      "id": 26414389395554,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 935,
+        "width": 935,
+        "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/Insitu-2_3.webp?v=1787084783"
+      },
+      "aspect_ratio": 1.0,
+      "height": 935,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/Insitu-2_3.webp?v=1787084783",
+      "width": 935
+    },
+    {
+      "alt": "White Breeze Comforter laid over a bed, with two cream pillows against a warm beige wall.",
+      "id": 26363540144226,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 935,
+        "width": 935,
+        "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/Insitu-3_3_compressed.jpg?v=1786646167"
+      },
+      "aspect_ratio": 1.0,
+      "height": 935,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/Insitu-3_3_compressed.jpg?v=1786646167",
+      "width": 935
+    },
+    {
+      "alt": "Breeze Comforter close-up image in white color",
+      "id": 26153313402978,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2350,
+        "width": 2350,
+        "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_7.png?v=1784299639"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2350,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_7.png?v=1784299639",
+      "width": 2350
+    },
+    {
+      "alt": null,
+      "id": 26153313206370,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2350,
+        "width": 2350,
+        "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_6.png?v=1784299637"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2350,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2462/9621/files/ecom-22_6.png?v=1784299637",
+      "width": 2350
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,2982 @@
+{
+  "schema_version": 2,
+  "package_id": "industry-panorama-restored-20261106",
+  "reviewed_at": "2026-11-06",
+  "title": "凉感床品行业全景",
+  "subtitle": "美国市场 · 市场规模、产品竞争、材料技术与消费者需求",
+  "navigation_label": "行业基础",
+  "sources": [
+    {
+      "key": "ftc-bamboo",
+      "title": "FTC｜竹源纺织品的材料标注",
+      "url": "https://www.ftc.gov/bamboo-textiles",
+      "publisher": "美国联邦贸易委员会",
+      "source_type": "监管机构说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "竹源人造丝、粘胶与直接竹纤维的区别。",
+      "boundary": "不用于证明任何具体商品的性能或合规状态。"
+    },
+    {
+      "key": "kaken-qmax",
+      "title": "KAKEN｜接触凉感测试与q-max",
+      "url": "https://www.kaken.or.jp/test/search/detail/5",
+      "publisher": "KAKEN",
+      "source_type": "检测机构说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "q-max是接触初期最大热流密度；JIS L 1927是测试方法。",
+      "boundary": "不据此证明具体商品整夜降温，也不直接比较测试条件不同的数值。"
+    },
+    {
+      "key": "tencel-fibers",
+      "title": "TENCEL｜纤维种类",
+      "url": "https://www.tencel.com/fibers",
+      "publisher": "TENCEL / Lenzing",
+      "source_type": "材料品牌官方说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "TENCEL品牌涵盖莱赛尔和莫代尔等纤维。",
+      "boundary": "具体商品仍须核对成分和比例；品牌说明不是该商品的性能实测。"
+    },
+    {
+      "key": "gmr-sheets",
+      "title": "Growth Market Reports｜凉感床单市场模型",
+      "url": "https://growthmarketreports.com/report/cooling-bed-sheet-market",
+      "publisher": "Growth Market Reports",
+      "source_type": "机构模型估算",
+      "published_at": "2026-10-11",
+      "retrieved_at": "2026-11-05",
+      "supports": "2025年美国凉感床单市场的公开模型估算及纳入范围。",
+      "boundary": "只核实了原报告这样估算，未独立验证购买率、均价等模型输入。全球公司集中度不当作美国品牌份额。"
+    },
+    {
+      "key": "material-3",
+      "existing_material_id": 3,
+      "title": "TikTok 美国｜床单商品页",
+      "source_type": "平台商品页",
+      "publisher": "TikTok Shop / Shilucheng Home",
+      "retrieved_at": "2026-11-04T20:36:00+08:00",
+      "published_at": "",
+      "local_path": "",
+      "boundary": "2026-11-04 Chrome直接读取并切换规格复核；旧缓存指标仍保留为历史记录。只取平台正文，不采用浏览器插件叠加指标或AI生成摘要。",
+      "supports": "已直接核实商品身份、Twin/Queen选定规格报价、累计售出、评分、全球评论数、商家描述和关联视频入口。"
+    },
+    {
+      "key": "material-48",
+      "existing_material_id": 48,
+      "title": "截图｜竹混纺床单商品首屏及达人精灵速览",
+      "source_type": "页面截图",
+      "publisher": "Shilucheng / TikTok",
+      "retrieved_at": "2026-11-04T23:25:46+08:00",
+      "published_at": "",
+      "local_path": "attachments/Shilucheng_床单商品首屏_20261104.png",
+      "boundary": "原始页面：https://shop.tiktok.com/us/pdp/1729438233542234865",
+      "supports": "2026-11-04 Chrome已登录页面；选中Bamboo-Dark Grey / Twin / 3PC。插件与平台指标分开标注。"
+    },
+    {
+      "key": "material-73",
+      "existing_material_id": 73,
+      "title": "床单评论 v1.2｜主样本及补充组主题统计",
+      "source_type": "本地语义研究",
+      "publisher": "Breescape研究",
+      "retrieved_at": "2026-11-05T04:00:58+08:00",
+      "published_at": "2026-11-05",
+      "local_path": "attachments/评论语义 v1.2_20261105/05_分来源主题统计.csv",
+      "boundary": "样本内研究；非平台统计、总体满意率或销量因果。SHA-256：6956fd14b064aaf5eae3c1de689e4cef094d045af0cda261f18225439054790c",
+      "supports": "固定v1.2发布副本；源于既有1,628条评论。"
+    },
+    {
+      "key": "material-75",
+      "existing_material_id": 75,
+      "title": "床单评论 v1.2｜语义口径与计数规则",
+      "source_type": "本地语义研究",
+      "publisher": "Breescape研究",
+      "retrieved_at": "2026-11-05T04:00:58+08:00",
+      "published_at": "2026-11-05",
+      "local_path": "attachments/评论语义 v1.2_20261105/01_rules_v1.2.md",
+      "boundary": "样本内研究；非平台统计、总体满意率或销量因果。SHA-256：3748ad1d242bc134d944cb00359f74314b91cb8a5cd0c817c4701ee8c2e46ece",
+      "supports": "固定v1.2发布副本；源于既有1,628条评论。"
+    },
+    {
+      "key": "material-78",
+      "existing_material_id": 78,
+      "title": "床单评论 v1.2｜关键证据与反例",
+      "source_type": "本地语义研究",
+      "publisher": "Breescape研究",
+      "retrieved_at": "2026-11-05T04:00:58+08:00",
+      "published_at": "2026-11-05",
+      "local_path": "attachments/评论语义 v1.2_20261105/07_关键证据与反例.md",
+      "boundary": "样本内研究；非平台统计、总体满意率或销量因果。SHA-256：2f7afeb8c0591e36623ce501896c1ab9254baeecdb91df14edc797b2a85875f9",
+      "supports": "固定v1.2发布副本；源于既有1,628条评论。"
+    },
+    {
+      "key": "material-89",
+      "existing_material_id": 89,
+      "title": "消费者反馈全貌｜完整分项与两种占比",
+      "source_type": "本地研究结果",
+      "publisher": "已收录评论的逐条语义标注",
+      "retrieved_at": "2026-11-05T12:22:02+08:00",
+      "published_at": "",
+      "local_path": "attachments/评论全貌与报告重整_20261105/评论全貌与完整分项.csv",
+      "boundary": "仅主样本928条；另两组保留独立。",
+      "supports": "734条含认可、314条含不认可，含129条褒贬并存；83项具体或一般反馈。"
+    },
+    {
+      "key": "material-90",
+      "existing_material_id": 90,
+      "title": "评论全貌｜计算口径与两条总体补判",
+      "source_type": "本地研究结果",
+      "publisher": "已收录评论的逐条语义标注",
+      "retrieved_at": "2026-11-05T12:22:02+08:00",
+      "published_at": "",
+      "local_path": "attachments/评论全貌与报告重整_20261105/口径与补判记录.md",
+      "boundary": "仅主样本928条；另两组保留独立。",
+      "supports": "原v1.2编码保留；总体正负按评论去重，补判不改变含糊主题归类。"
+    },
+    {
+      "key": "material-100",
+      "existing_material_id": 100,
+      "title": "Cozy Bliss 研究款亚马逊商品页 B0BVQMTD8W",
+      "source_type": "官方页面",
+      "publisher": "Amazon / Cozy Bliss",
+      "retrieved_at": "2026-11-05T14:38:48+08:00",
+      "published_at": "",
+      "local_path": "",
+      "boundary": "本轮基础事实核查；统计口径见对应研究条目。",
+      "supports": ""
+    },
+    {
+      "key": "material-114",
+      "existing_material_id": 114,
+      "title": "SHEEX Original Performance床单商品页",
+      "source_type": "官方页面",
+      "publisher": "SHEEX / 对应公开平台",
+      "retrieved_at": "2026-11-05T14:41:47+08:00",
+      "published_at": "",
+      "local_path": "",
+      "boundary": "本轮基础事实核查；统计口径见对应研究条目。",
+      "supports": ""
+    },
+    {
+      "key": "material-115",
+      "existing_material_id": 115,
+      "title": "SHEEX经典床单规格报价",
+      "source_type": "官方页面",
+      "publisher": "SHEEX / 对应公开平台",
+      "retrieved_at": "2026-11-05T14:45:18+08:00",
+      "published_at": "",
+      "local_path": "",
+      "boundary": "本轮基础事实核查；统计口径见对应研究条目。",
+      "supports": ""
+    },
+    {
+      "key": "material-128",
+      "existing_material_id": 128,
+      "title": "截图｜指定Amazon灰蓝Queen款：商品、价格、评分与购买提示。",
+      "source_type": "页面截图",
+      "publisher": "cozy-bliss",
+      "retrieved_at": "2026-11-05T14:58:57+08:00",
+      "published_at": "",
+      "local_path": "attachments/cozy_amazon_20261105.png",
+      "boundary": "本轮基础事实核查；统计口径见对应研究条目。",
+      "supports": "指定Amazon灰蓝Queen款：商品、价格、评分与购买提示。"
+    },
+    {
+      "key": "material-130",
+      "existing_material_id": 130,
+      "title": "截图｜SHEEX经典床单商品页；报价以正文核对的颜色与尺寸为准。",
+      "source_type": "页面截图",
+      "publisher": "sheex",
+      "retrieved_at": "2026-11-05T14:58:57+08:00",
+      "published_at": "",
+      "local_path": "attachments/sheex_product_20261105.png",
+      "boundary": "本轮基础事实核查；统计口径见对应研究条目。",
+      "supports": "SHEEX经典床单商品页；报价以正文核对的颜色与尺寸为准。"
+    },
+    {
+      "key": "material-132",
+      "existing_material_id": 132,
+      "title": "三款床单｜公开页面销量、规格与商家表达",
+      "source_type": "页面核查记录",
+      "publisher": "TikTok / 商家",
+      "retrieved_at": "2026-11-05T15:38:39+08:00",
+      "published_at": "",
+      "local_path": "attachments/三款TikTok床单_销量规格与商家表达_20261105.json",
+      "boundary": "具体商品、时间和统计范围随材料保留。",
+      "supports": "三个具体TikTok商品链接；全球累计售出扣退货；本次公开会话报价。"
+    },
+    {
+      "key": "ries-original",
+      "title": "Al Ries｜1972年定位原文",
+      "url": "https://www.alries.com/positioning-articles",
+      "source_type": "定位方法原文",
+      "publisher": "Al Ries",
+      "published_at": "1972",
+      "retrieved_at": "2026-11-05",
+      "supports": "消费者按品类建立选择阶梯；销量不等于心智占有。",
+      "boundary": "方法来源，不提供本行业品牌心智排名。"
+    },
+    {
+      "key": "ries-2026",
+      "title": "Laura Ries｜定位的定义",
+      "url": "https://www.ries.news/p/what-is-positioning",
+      "source_type": "定位方法原文",
+      "publisher": "Laura Ries",
+      "published_at": "2026-06-03",
+      "retrieved_at": "2026-11-05",
+      "supports": "定位关注品牌在潜在顾客心中形成的概念与关联。",
+      "boundary": "不是本行业消费者调研。"
+    },
+    {
+      "key": "cotton-survey",
+      "title": "Cotton Incorporated｜美国床品消费调查",
+      "url": "https://lifestylemonitor.cottoninc.com/wp-content/uploads/2025/03/Bedding-US_download.pdf",
+      "source_type": "调查发布机构",
+      "publisher": "Cotton Incorporated",
+      "published_at": "2025-03",
+      "retrieved_at": "2026-11-05",
+      "supports": "美国床品购买关注点、棉材料偏好。",
+      "boundary": "棉行业机构发布；调查对象是一般床品消费者，非凉感床品专属人群。五国总样本7,163；美国样本数未单列。"
+    },
+    {
+      "key": "cozyearth",
+      "title": "Cozy Earth｜竹源粘胶床单",
+      "url": "https://cozyearth.com/products/bamboo-sheet-set",
+      "source_type": "品牌官方页面",
+      "publisher": "Cozy Earth",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "具体产品、材料、商家主张、套装内容。",
+      "boundary": "销量未披露；商家宣传不等于消费者心智。"
+    },
+    {
+      "key": "sijo",
+      "title": "SIJO｜AiryWeight莱赛尔床单",
+      "url": "https://sijohome.com/products/eucalyptus-sheets",
+      "source_type": "品牌官方页面",
+      "publisher": "SIJO",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "材料、套装、护理、宣传及页面评论数。",
+      "boundary": "不同件数的价格不可直接横比；宣传功效未独立实测。"
+    },
+    {
+      "key": "rest",
+      "title": "REST｜Evercool凉感被",
+      "url": "https://rest.com/products/evercool-comforter",
+      "source_type": "品牌官方页面",
+      "publisher": "REST",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "具体商品、尺寸、品牌主张和护理。",
+      "boundary": "官网评论数不是销售数量。"
+    },
+    {
+      "key": "rest-retailer",
+      "title": "Mattress Firm｜REST Evercool成分",
+      "url": "https://www.mattressfirm.com/evercool-comforter/5637554828.p?variantid=5637555608",
+      "source_type": "零售商商品页",
+      "publisher": "Mattress Firm",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "表层90%尼龙、10%氨纶。",
+      "boundary": "同系列零售商品标注；不替代到货标签核验。"
+    },
+    {
+      "key": "rest-target",
+      "title": "Target｜REST白色双人凉感被",
+      "url": "https://www.target.com/p/-/A-1005009737",
+      "source_type": "零售商商品页",
+      "publisher": "Target",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "TENCEL与Sorona填充及直接盖用设计。",
+      "boundary": "商家标注；填充比例未公开。"
+    },
+    {
+      "key": "buffy",
+      "title": "Buffy｜Breeze莱赛尔凉感被",
+      "url": "https://buffy.co/products/breeze-comforter?variant=20247576412258",
+      "source_type": "品牌官方页面",
+      "publisher": "Buffy",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "双人尺寸、活动价、莱赛尔表层及填充、护理。",
+      "boundary": "测试宣称与实际报告分开；不作为全渠道销量。"
+    },
+    {
+      "key": "slumber",
+      "title": "Slumber Cloud｜Performance TENCEL床单",
+      "url": "https://slumbercloud.com/products/performance-sheet-set",
+      "source_type": "品牌官方页面",
+      "publisher": "Slumber Cloud",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "70%莱赛尔、30%Outlast粘胶，白色Queen四件套页面价188.30美元。",
+      "boundary": "官网展示的30K+评价不能认定为单品销量。"
+    },
+    {
+      "key": "brooklinen",
+      "title": "Brooklinen｜Classic棉平纹床单",
+      "url": "https://www.brooklinen.com/products/classic-core-sheet-set",
+      "source_type": "品牌官方页面",
+      "publisher": "Brooklinen",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "长绒棉平纹路线、套装与酒店式清爽主张。",
+      "boundary": "规格目录价不包含未核实活动优惠。"
+    },
+    {
+      "key": "bedsure",
+      "title": "Bedsure｜竹源人造丝床单",
+      "url": "https://bedsurehome.com/products/rayon-derived-from-bamboo-sheet-set",
+      "source_type": "品牌官方页面",
+      "publisher": "Bedsure",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "竹源人造丝路线与具体商品。",
+      "boundary": "该商品不与其他有机竹源款自动合并。"
+    },
+    {
+      "key": "elegear",
+      "title": "Elegear｜黑色Arc-Chill 3.0凉感毯",
+      "url": "https://www.elegear.com/products/elegear-black-cooling-blanket-arc-chill-3-0-q-max-0-5-multi-size-options",
+      "source_type": "品牌官方页面",
+      "publisher": "Elegear",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "双面设计、黑色各规格与Arc-Chill宣传。",
+      "boundary": "该页未明确凉感面完整配比；不从其他型号搬用80/20比例。"
+    },
+    {
+      "key": "cozyearth-variants",
+      "title": "cozyearth｜官网公开规格报价",
+      "url": "https://cozyearth.com/products/bamboo-sheet-set.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "cozyearth",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "sijo-variants",
+      "title": "sijo｜官网公开规格报价",
+      "url": "https://sijohome.com/products/eucalyptus-sheets.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "sijo",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "rest-variants",
+      "title": "rest｜官网公开规格报价",
+      "url": "https://rest.com/products/evercool-comforter.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "rest",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "buffy-variants",
+      "title": "buffy｜官网公开规格报价",
+      "url": "https://buffy.co/products/breeze-comforter.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "buffy",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "brooklinen-variants",
+      "title": "brooklinen｜官网公开规格报价",
+      "url": "https://www.brooklinen.com/products/classic-core-sheet-set.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "brooklinen",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "bedsure-variants",
+      "title": "bedsure｜官网公开规格报价",
+      "url": "https://bedsurehome.com/products/rayon-derived-from-bamboo-sheet-set.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "bedsure",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "elegear-variants",
+      "title": "elegear｜官网公开规格报价",
+      "url": "https://www.elegear.com/products/elegear-black-cooling-blanket-arc-chill-3-0-q-max-0-5-multi-size-options.js",
+      "source_type": "官方公开商品数据",
+      "publisher": "elegear",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "规格ID、目录报价或活动报价、在售状态及商品图片。",
+      "boundary": "本地保留读取副本；不是税运费及账号优惠后的结算价。"
+    },
+    {
+      "key": "rest-growth",
+      "title": "Shopify｜REST增长案例",
+      "url": "https://www.shopify.com/case-studies/rest",
+      "source_type": "平台与商家合作案例",
+      "publisher": "Shopify",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "上线约一年半年销售额超过3,000万美元；平台案例将客单价提升10%与支付及加购优化联系起来。",
+      "boundary": "品牌整体、历史案例；未披露财年和地区拆分，不能当作2026年美国单品销售额。"
+    },
+    {
+      "key": "rest-channel",
+      "title": "REST｜进入Mattress Firm",
+      "url": "https://www.prnewswire.com/news-releases/rest-partners-with-mattress-firm-to-bring-award-winning-cooling-bedding-to-more-sleepers-302394684.html",
+      "source_type": "品牌新闻稿",
+      "publisher": "REST",
+      "published_at": "2025-03-06",
+      "retrieved_at": "2026-11-05",
+      "supports": "2025年3月6日公告Evercool组合在Mattress Firm线上销售。",
+      "boundary": "品牌合作公告，不代表进入线下门店，也未披露合作带来的增量销售。"
+    },
+    {
+      "key": "rest-sleep",
+      "title": "SLEEP｜凉感床品使用研究摘要",
+      "url": "https://doi.org/10.1093/sleep/zsaf090.1386",
+      "source_type": "学术会议摘要",
+      "publisher": "SLEEP",
+      "published_at": "2025-05",
+      "retrieved_at": "2026-11-05",
+      "supports": "研究报告主观睡眠体验改善，未观察到客观睡眠改善。",
+      "boundary": "组合干预不是单品、单材料测试；摘要不支持医学疗效或品牌心智占有。"
+    },
+    {
+      "key": "outlast",
+      "title": "Outlast｜相变调温原理",
+      "url": "https://www.outlast.com/en/temperature-regulation/faq",
+      "source_type": "技术供应商",
+      "publisher": "Outlast",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "相变材料吸收、储存及释放热量；有不同纺织应用。",
+      "boundary": "供应商说明；成品效果取决于含量、位置、结构与环境。"
+    },
+    {
+      "key": "375",
+      "title": "37.5｜床品温湿度管理",
+      "url": "https://www.thirtysevenfive.com/home-goods/bedding/",
+      "source_type": "技术供应商",
+      "publisher": "37.5",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "以功能颗粒进行温湿度管理的商用路线。",
+      "boundary": "不把37.5当作固定维持37.5°C的承诺。"
+    },
+    {
+      "key": "pe-paper",
+      "title": "Nature Sustainability｜工程化聚乙烯织物",
+      "url": "https://www.nature.com/articles/s41893-021-00688-5",
+      "source_type": "原始研究论文",
+      "publisher": "Nature Sustainability",
+      "published_at": "2021-03-15",
+      "retrieved_at": "2026-11-05",
+      "supports": "工程化PE纱线/织物的导湿、快干及被动散热研究。",
+      "boundary": "研究样品，不证明任一在售PE凉被有相同性能。"
+    },
+    {
+      "key": "reddit-rest",
+      "title": "消费者讨论｜REST床单与凉感被",
+      "url": "https://www.reddit.com/r/Bedding/comments/13ohp1p",
+      "source_type": "公开消费者自述",
+      "publisher": "消费者讨论",
+      "published_at": "2023-05-22",
+      "retrieved_at": "2026-11-05",
+      "supports": "对触感凉、柔软、接触后变暖等有不同体验。",
+      "boundary": "自选择发帖、身份与购买不可核验，不作频率与市场份额统计。"
+    },
+    {
+      "key": "indexbox-audit",
+      "title": "IndexBox｜美国凉感床单范围估算",
+      "url": "https://www.indexbox.io/store/united-states-kw-cooling-bedding-sheet-set-840-market-analysis-forecast-size-trends-and-insights/",
+      "source_type": "第三方估算（未采纳）",
+      "publisher": "IndexBox",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "用于记录与GMR口径冲突。",
+      "boundary": "15–25亿美元估算未披露可复算数据；不可与GMR平均或拼接。"
+    },
+    {
+      "key": "asinsight-audit",
+      "title": "ASINSIGHT｜凉感床单关键词样本",
+      "url": "https://www.asinsight.com/market-analysis/US/cooling-bed-sheets",
+      "source_type": "第三方估算（未采纳）",
+      "publisher": "ASINSIGHT",
+      "published_at": "2026-07",
+      "retrieved_at": "2026-11-05",
+      "supports": "记录关键词Top50含褥垫、全套床品的样本污染。",
+      "boundary": "不作为美国凉感床单总体市场或品牌占比。"
+    },
+    {
+      "key": "indexbox-demo",
+      "title": "IndexBox｜凉毯演示图表",
+      "url": "https://www.indexbox.io/store/united-states-cooling-blanket-marketplace-brand-report/",
+      "source_type": "演示数据（排除）",
+      "publisher": "IndexBox",
+      "published_at": "",
+      "retrieved_at": "2026-11-05",
+      "supports": "页面图表明确标注Demo。",
+      "boundary": "不能入事实图表。"
+    },
+    {
+      "key": "user-algorithm",
+      "title": "用户提供｜百亿爆品算法（升级中）",
+      "source_type": "用户方法材料",
+      "publisher": "用户提供",
+      "retrieved_at": "2026-11-05",
+      "url": "",
+      "local_path": "attachments/行业全景_20261105/百亿爆品算法_原文.md",
+      "supports": "需求组合→需求金字塔→长处→竞争→定位；逐步校验。",
+      "boundary": "按本次任务适配；不采用无证据的竞争评分。"
+    },
+    {
+      "key": "needs-accuracy",
+      "title": "提升准确率｜需求金字塔四项判断标准",
+      "url": "https://my.feishu.cn/wiki/K5fFwG3KTiopyXkUeg2ceEVynmg?from=from_copylink",
+      "source_type": "用户算法引用的方法文件",
+      "publisher": "李珂－谈博士战略咨询",
+      "retrieved_at": "2026-11-05",
+      "supports": "检查需求独立性、把产品属性翻译为结果、验证上下层前提关系、剔除虚构需求。",
+      "boundary": "2026年11月5日通过已登录Chrome完整读取图表。方法标准不等于消费者研究证据；主算法说明层数可增减。"
+    },
+    {
+      "key": "comforter-search",
+      "title": "消费者原帖｜寻找凉感被时的选择困难",
+      "url": "https://www.reddit.com/r/Bedding/comments/1ig3q9m/",
+      "source_type": "消费者公开讨论",
+      "publisher": "Reddit",
+      "retrieved_at": "2026-11-06",
+      "supports": "发帖者想替换过厚的被子，同时顾虑价格、起球、退货与评论可信度；正文讨论了空调、薄床单和床面送风等替代选择。",
+      "boundary": "个人自述和讨论，不作为市场比例；对其他品牌的投诉转述未独立验证。"
+    },
+    {
+      "key": "blanket-use",
+      "title": "消费者原帖｜凉感毯的温度、重量与洗护体验",
+      "url": "https://www.reddit.com/r/Costco/comments/1kjp6ui/",
+      "source_type": "消费者公开讨论",
+      "publisher": "Reddit",
+      "retrieved_at": "2026-11-06",
+      "supports": "不同参与者报告接触凉后仍变热、重量偏大、容易滑落、家庭洗衣机装不下；另有满意反馈。",
+      "boundary": "讨论混有不同商品；只提炼需求，不将这些问题归因于某一个指定型号。"
+    },
+    {
+      "key": "covering-need",
+      "title": "消费者原帖｜怕热但仍需要盖被的使用情境",
+      "url": "https://www.reddit.com/r/Menopause/comments/1lkmy3l/",
+      "source_type": "消费者公开讨论",
+      "publisher": "Reddit",
+      "retrieved_at": "2026-11-06",
+      "supports": "有参与者表示不盖东西无法入睡，炎热时改用床单；另有人需要一定被子重量，并使用床面送风。",
+      "boundary": "个人自述，包含不同国家用户；只作为覆盖与重量偏好的线索，不推广为美国人口结论。"
+    },
+    {
+      "key": "sheets-household",
+      "title": "消费者原帖｜同床两人的透气、触感与耐用需求",
+      "url": "https://www.reddit.com/r/Costco/comments/1w7h432/",
+      "source_type": "消费者公开讨论",
+      "publisher": "Reddit",
+      "retrieved_at": "2026-11-06",
+      "supports": "发帖者同时提出伴侣怕热、自己对触感敏感、有宠物所以重视强度。",
+      "boundary": "说明同一家庭存在并行要求；不推算这些要求的普及率。"
+    },
+    {
+      "key": "sheets-durability",
+      "title": "消费者原帖｜凉感床单使用约一年后破损",
+      "url": "https://www.reddit.com/r/Bedding/comments/1xg3avz/",
+      "source_type": "消费者公开讨论",
+      "publisher": "Reddit",
+      "retrieved_at": "2026-11-06",
+      "supports": "发帖者认可此前使用体验，但因床单破损重新寻找产品，提出耐用与替换成本问题。",
+      "boundary": "单个使用者自述；不能推断该品牌整体寿命或证明破损原因。"
+    },
+    {
+      "key": "comforter-size-audit",
+      "title": "IndexBox｜美国凉感被估算复核",
+      "url": "https://www.indexbox.io/store/united-states-kw-cooling-comforter-840-market-analysis-forecast-size-trends-and-insights/",
+      "source_type": "第三方估算（未采纳）",
+      "publisher": "IndexBox",
+      "retrieved_at": "2026-11-06",
+      "supports": "页面给出凉感被占比与增长估算，但未找到能复算的产品样本与分类依据；多处图表标注Demo。",
+      "boundary": "不采纳其份额或增速作为美国凉感床品事实。"
+    }
+  ],
+  "products": [
+    {
+      "id": "sheets",
+      "name": "Shilucheng 竹混纺凉床单",
+      "category": "sheets",
+      "route": "竹源人造丝混纺",
+      "url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+      "price": 42.89,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "公开页面价",
+      "observed_at": "2026-11-05",
+      "material": "60%竹源人造丝＋40%聚酯",
+      "merchant_reason": "柔软丝滑、凉爽透气、适配较厚床垫",
+      "claim_structure": "多个卖点并列",
+      "sales": "43.57万件｜全球累计、全规格、扣除退货",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "TikTok美国站",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "material-3",
+        "material-132",
+        "material-89",
+        "material-78"
+      ],
+      "image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/621dae0813d044e9b2f688fb3fe20a76~tplv-fhlh96nyum-crop-webp%3A800%3A800.webp?dr=12190&from=3376456192&idc=useast5&ps=933b5bde&shcp=9b759fb9&shp=c940a200&t=555f072d",
+      "report_url": "#product-report/sheets",
+      "recognition": "已有评论明确为凉感购买，也有因柔软再次下单的自述；不能推及美国整体心智。",
+      "note": "销量取观察25，价格取观察26；不把全球累计量当美国销量。",
+      "price_observation_id": 26,
+      "sales_observation_id": 25
+    },
+    {
+      "id": "sheex-sheets",
+      "name": "SHEEX Original Performance性能床单",
+      "category": "sheets",
+      "route": "性能聚酯弹力面料",
+      "url": "https://www.sheex.com/products/original-performance-sheet-set",
+      "price": 194.35,
+      "currency": "USD",
+      "spec": "亮白双人床（Queen）四件套",
+      "price_kind": "展示活动价",
+      "observed_at": "2026-11-05",
+      "material": "87%聚酯＋13%氨纶",
+      "merchant_reason": "透气排湿、弹力贴合",
+      "claim_structure": "主推性能面料",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "material-114",
+        "material-115"
+      ],
+      "image_url": "https://www.sheex.com/cdn/shop/files/SHEEX_PDP_OP-SheetSets-BrightWhite-1.jpg?v=1780599989",
+      "report_url": "#product-report/sheex-sheets",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": "",
+      "price_observation_id": 21
+    },
+    {
+      "id": "cozy-comforter",
+      "name": "Cozy Bliss 经典双面凉感被",
+      "category": "covers",
+      "route": "凉感化纤表层＋填充",
+      "url": "https://www.amazon.com/dp/B0BVQMTD8W",
+      "price": 69.99,
+      "currency": "USD",
+      "spec": "灰/蓝双人款，约229×229厘米",
+      "price_kind": "展示价格",
+      "observed_at": "2026-11-05",
+      "material": "尼龙/氨纶表层；聚酯填充",
+      "merchant_reason": "怕热、夜间出汗人群的双面凉感",
+      "claim_structure": "主推双面凉感",
+      "sales": "近月购买提示50+｜门槛提示，非精确月销",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "Amazon美国站",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "material-100"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/71DsyhWMb+L._AC_SX679_.jpg",
+      "report_url": "#product-report/cozy-comforter",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": "",
+      "price_observation_id": 17,
+      "sales_observation_id": 20
+    },
+    {
+      "id": "bedsure",
+      "name": "Bedsure 竹源人造丝床单",
+      "category": "sheets",
+      "route": "纯竹源人造丝",
+      "url": "https://bedsurehome.com/products/rayon-derived-from-bamboo-sheet-set?variant=39668804419686",
+      "price": 83.99,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "官网规格报价",
+      "observed_at": "2026-11-05",
+      "material": "100%竹源人造丝",
+      "merchant_reason": "凉爽丝滑、日常易用",
+      "claim_structure": "凉感与柔软并列",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "bedsure",
+        "bedsure-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0022/5345/5462/files/biaotu-Best_Bamboo_Sheets_On_Amazon.webp?v=1782207427",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "cozyearth",
+      "name": "Cozy Earth 竹源粘胶床单",
+      "category": "sheets",
+      "route": "纯竹源粘胶",
+      "url": "https://cozyearth.com/products/bamboo-sheet-set?variant=40252110438580",
+      "price": 324.0,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "官网目录价，未计活动折扣",
+      "observed_at": "2026-11-05",
+      "material": "100%竹源粘胶",
+      "merchant_reason": "柔软丝滑的高档睡眠体验",
+      "claim_structure": "主推柔软奢适，兼讲调温",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "cozyearth",
+        "cozyearth-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/2114/3697/files/251010_BambooSheetSet_Driftwood_StackSilo_698_large_93df8089-4da4-4858-8b4b-a81fbb8d4505.jpg?v=1775833825",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "sijo",
+      "name": "SIJO AiryWeight莱赛尔床单",
+      "category": "sheets",
+      "route": "纯莱赛尔",
+      "url": "https://sijohome.com/products/eucalyptus-sheets?variant=41212185313362",
+      "price": 185.0,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "官网目录价，未计购物车优惠",
+      "observed_at": "2026-11-05",
+      "material": "100%TENCEL莱赛尔",
+      "merchant_reason": "轻盈、柔软、吸湿凉爽",
+      "claim_structure": "主推轻盈凉爽",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "sijo",
+        "sijo-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETFOREST.jpg?v=1769050670",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "brooklinen",
+      "name": "Brooklinen Classic棉平纹床单",
+      "category": "sheets",
+      "route": "长绒棉平纹",
+      "url": "https://www.brooklinen.com/products/classic-core-sheet-set?variant=41405019586650",
+      "price": 199.0,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "官网目录价，未计活动折扣",
+      "observed_at": "2026-11-05",
+      "material": "100%长绒棉；织物密度270 TC（经纬纱总密度）",
+      "merchant_reason": "酒店式清爽触感、透气",
+      "claim_structure": "主推清爽棉平纹",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "brooklinen",
+        "brooklinen-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/7126/files/BKL_25-11_Bedding_Classic_White_CSS_1_x_PDP_WO.jpg?v=1772487751",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "rest",
+      "name": "REST Evercool凉感被",
+      "category": "covers",
+      "route": "凉感尼龙表层＋填充",
+      "url": "https://rest.com/products/evercool-comforter?variant=41917465002167",
+      "price": 171.0,
+      "currency": "USD",
+      "spec": "白色双人款，约229×229厘米",
+      "price_kind": "官网规格活动价",
+      "observed_at": "2026-11-05",
+      "material": "表层90%尼龙＋10%氨纶；TENCEL与Sorona填充，比例未披露",
+      "merchant_reason": "给怕热者的接触凉感与柔软舒适",
+      "claim_structure": "凉感核心概念明确",
+      "sales": "单品销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "rest",
+        "rest-variants",
+        "rest-retailer",
+        "rest-target"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "buffy",
+      "name": "Buffy Breeze莱赛尔凉感被",
+      "category": "covers",
+      "route": "莱赛尔表层＋莱赛尔填充",
+      "url": "https://buffy.co/products/breeze-comforter?variant=20247576412258",
+      "price": 187.5,
+      "currency": "USD",
+      "spec": "白色双人款，约229×229厘米",
+      "price_kind": "页面活动价",
+      "observed_at": "2026-11-05",
+      "material": "TENCEL莱赛尔表层及填充",
+      "merchant_reason": "用莱赛尔表层和填充减少厚被闷热感",
+      "claim_structure": "主推莱赛尔凉被",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "buffy",
+        "buffy-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/2462/9621/files/Insitu-2_3.webp?v=1787084783",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "elegear",
+      "name": "Elegear Arc-Chill 3.0双面凉感毯",
+      "category": "blankets",
+      "route": "凉感面料＋棉双面",
+      "url": "https://www.elegear.com/products/elegear-black-cooling-blanket-arc-chill-3-0-q-max-0-5-multi-size-options?variant=46744282235050",
+      "price": 49.99,
+      "currency": "USD",
+      "spec": "黑色约201×218厘米，商品标称Queen",
+      "price_kind": "官网规格报价",
+      "observed_at": "2026-11-05",
+      "material": "凉感面Arc-Chill；另一面标注埃及棉，凉感面配比未明",
+      "merchant_reason": "一面接触凉、一面棉质舒适",
+      "claim_structure": "主推Arc-Chill接触凉感",
+      "sales": "销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "elegear",
+        "elegear-variants"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    },
+    {
+      "id": "slumber",
+      "name": "Slumber Cloud Performance TENCEL调温床单",
+      "category": "sheets",
+      "route": "莱赛尔＋相变粘胶",
+      "url": "https://slumbercloud.com/products/performance-sheet-set",
+      "price": 188.3,
+      "currency": "USD",
+      "spec": "白色双人床（Queen）四件套",
+      "price_kind": "页面活动价",
+      "observed_at": "2026-11-05",
+      "material": "70%TENCEL莱赛尔＋30%Outlast粘胶",
+      "merchant_reason": "吸收、释放热量，缓冲睡眠温度变化",
+      "claim_structure": "主推相变调温",
+      "sales": "单品销量未公开",
+      "market_share": "未取得同口径市场分母",
+      "sales_growth": "无可比期间序列",
+      "verified_channel": "美国官网",
+      "best_channel": "缺少跨渠道销售拆分，不能确定",
+      "source_keys": [
+        "slumber",
+        "outlast"
+      ],
+      "image_url": "",
+      "report_url": "",
+      "recognition": "暂无可判断品牌心智占有的调查。",
+      "note": ""
+    }
+  ],
+  "glossary": {
+    "queen": {
+      "label": "双人床（Queen）",
+      "text": "美国常见床垫规格，约152×203厘米。它描述适配床型，不等于床单或被子的实际尺寸；实际尺寸以商品页为准。"
+    },
+    "bamboo-rayon": {
+      "label": "竹源人造丝／粘胶",
+      "text": "以竹为原料，经加工制成的再生纤维素纤维；不等于直接从竹子提取的天然竹纤维。商品仍需核对具体名称与比例。",
+      "source_keys": [
+        "ftc-bamboo"
+      ]
+    },
+    "tencel": {
+      "label": "TENCEL（天丝）",
+      "text": "Lenzing旗下材料品牌，涵盖莱赛尔、莫代尔等纤维；不能把所有TENCEL产品记录成同一种纤维。",
+      "source_keys": [
+        "tencel-fibers"
+      ]
+    },
+    "qmax": {
+      "label": "q-max（接触凉感指标）",
+      "text": "接触初期的最大热流密度，常用单位W/cm²。比较数值需先核对测试方法、温差与测试对象；它不直接表示整晚睡眠效果。",
+      "source_keys": [
+        "kaken-qmax"
+      ]
+    },
+    "jis-l1927": {
+      "label": "JIS L 1927",
+      "text": "用于评价纺织品接触凉感的测试方法。q-max是其中的性能指标，二者不是同一个概念。",
+      "source_keys": [
+        "kaken-qmax"
+      ]
+    },
+    "pcm": {
+      "label": "相变材料",
+      "text": "在相变温区吸收或释放热量的材料。储热能力有限，不等于持续主动制冷。"
+    },
+    "percale": {
+      "label": "棉平纹",
+      "text": "Percale指常见的平纹织造；触感通常被商家描述为清爽。不能仅凭织法确定全部性能。"
+    }
+  },
+  "sections": [
+    {
+      "id": "market",
+      "title": "市场规模与结构"
+    },
+    {
+      "id": "products",
+      "title": "细分品类与代表产品"
+    },
+    {
+      "id": "materials",
+      "title": "材料与技术"
+    },
+    {
+      "id": "needs",
+      "title": "需求金字塔"
+    },
+    {
+      "id": "mindmap",
+      "title": "心智地图"
+    }
+  ],
+  "market": {
+    "title": "市场规模与结构",
+    "scope": "美国 · 按产品形态划分",
+    "metrics": [
+      {
+        "label": "美国凉感床单",
+        "value": "约5.63亿美元",
+        "period": "2025年",
+        "kind": "第三方模型估算",
+        "source_keys": [
+          "gmr-sheets"
+        ],
+        "note": "包含凉感床单套装、单件及相关组合；不含凉被、床垫、设备。",
+        "detail": "GMR按1.369亿户×3.5%年购买率×105美元×1.12推算。3.5%购买率、客单价和12%附加项为模型假设，尚无独立销量验证；不作为计算品牌份额的可靠分母。",
+        "display_number": "5.63",
+        "display_unit": "亿美元"
+      },
+      {
+        "label": "美国凉感被／凉感毯",
+        "value": "暂无可靠总额",
+        "period": "截至2026年11月",
+        "kind": "公开证据缺口",
+        "source_keys": [],
+        "note": "找到的公开资料未提供可复核的统一规模。"
+      },
+      {
+        "label": "床单／凉被／凉毯占比",
+        "value": "暂不绘制比例",
+        "period": "美国全渠道",
+        "kind": "缺少统一分母",
+        "source_keys": [],
+        "note": "分类先按产品形态；一款商品采用多种技术时不重复计入。"
+      }
+    ],
+    "category_rows": [
+      [
+        "床单与床笠",
+        "直接铺在身体下方；含配套枕套",
+        "Shilucheng、Bedsure、SIJO、SHEEX",
+        "sheets"
+      ],
+      [
+        "有填充凉感被",
+        "表层与填充共同影响闷热、重量和触感",
+        "Cozy Bliss、REST、Buffy",
+        "covers"
+      ],
+      [
+        "薄凉感毯",
+        "轻薄覆盖；有双面凉感/棉质设计",
+        "Elegear",
+        "blankets"
+      ],
+      [
+        "相邻替代品",
+        "褥垫、床垫保护层及主动控温设备",
+        "用于理解替代关系；另建统计口径",
+        "adjacent"
+      ]
+    ],
+    "scope_detail": "Cooling在各机构与平台上并非统一统计品类。全球、美国、关键词样本、品牌全渠道、单链接累计量不能相互代替。市场规模与份额尚未达到用于投资测算的可靠程度。",
+    "excluded": [
+      {
+        "source_key": "indexbox-audit",
+        "reason": "美国床单估算15–25亿美元，与GMR差异大且无法复算；不取平均。"
+      },
+      {
+        "source_key": "asinsight-audit",
+        "reason": "关键词Top50混入床垫加垫、整套床品；不作为纯凉感床单大盘。"
+      },
+      {
+        "source_key": "indexbox-demo",
+        "reason": "图表明确标注演示数据；剔除。"
+      },
+      {
+        "source_key": "comforter-size-audit",
+        "reason": "凉感被占比与增速未找到可复算样本；演示图表不作为市场数据。"
+      }
+    ],
+    "total": {
+      "label": "美国凉感床品市场总额",
+      "value": "尚无可核实的统一总额",
+      "period": "截至2026年11月6日",
+      "note": "统计应覆盖凉感床单、凉感被和凉感毯；其他床品单列。",
+      "source_keys": [
+        "gmr-sheets",
+        "indexbox-audit",
+        "comforter-size-audit",
+        "indexbox-demo"
+      ],
+      "detail": "本轮复查的公开资料没有提供同一年、同一地区、边界一致的完整市场总额。各机构对“凉感”的定义不同，不能把不同估算拼接相加。"
+    },
+    "segments": [
+      {
+        "id": "sheets",
+        "name": "凉感床单与床笠",
+        "definition": "床单套装、床笠及配套枕套",
+        "value": "约5.63亿美元",
+        "period": "2025年",
+        "kind": "第三方模型估算",
+        "share": "暂无同口径占比",
+        "source_keys": [
+          "gmr-sheets"
+        ],
+        "detail": "GMR按1.369亿户×3.5%年购买率×105美元×1.12推算。3.5%购买率、客单价和12%附加项为模型假设，尚无独立销量验证；不作为计算品牌份额的可靠分母。"
+      },
+      {
+        "id": "covers",
+        "name": "有填充凉感被",
+        "definition": "被面＋填充，提供覆盖感",
+        "value": "暂无可靠规模",
+        "period": "—",
+        "kind": "未找到可复核数据",
+        "share": "暂无同口径占比",
+        "source_keys": [
+          "comforter-size-audit"
+        ],
+        "detail": "公开页面的估算没有可复核的品类样本，不能据此计算份额。"
+      },
+      {
+        "id": "blankets",
+        "name": "薄凉感毯",
+        "definition": "轻薄毯体，部分产品为双面设计",
+        "value": "暂无可靠规模",
+        "period": "—",
+        "kind": "未找到可复核数据",
+        "share": "暂无同口径占比",
+        "source_keys": [
+          "indexbox-demo"
+        ],
+        "detail": "已查到的相关图表包含演示数据，未作为市场规模采用。"
+      },
+      {
+        "id": "adjacent",
+        "name": "其他凉感床品",
+        "definition": "独立枕套、被套、枕头、保护垫等",
+        "value": "暂无可靠规模",
+        "period": "—",
+        "kind": "统计边界待补齐",
+        "share": "暂无同口径占比",
+        "source_keys": [],
+        "detail": "配套枕套若已计入床单套装，不重复计入。床垫与主动控温设备作为相邻市场另列。"
+      }
+    ],
+    "share_note": "各品类缺少统一总额，暂不绘制市场占比图。",
+    "adjacent_note": "床垫、褥垫及主动控温设备另作替代方案研究，不混入上述床单、被、毯数据。"
+  },
+  "product_view": {
+    "title": "细分品类与代表产品",
+    "intro": "先看产品形态，再看同一品类内的材料与设计路线。",
+    "filters": [
+      {
+        "id": "all",
+        "label": "全部"
+      },
+      {
+        "id": "sheets",
+        "label": "床单与床笠"
+      },
+      {
+        "id": "covers",
+        "label": "有填充凉感被"
+      },
+      {
+        "id": "blankets",
+        "label": "薄凉感毯"
+      }
+    ],
+    "columns": [
+      "产品与路线",
+      "商家主推的购买理由",
+      "价格与规格",
+      "销售记录",
+      "已核实在售渠道"
+    ],
+    "detail_columns": [
+      "材料与设计",
+      "消费者认知证据",
+      "销售最强平台",
+      "市场份额与增长",
+      "来源与采集口径"
+    ],
+    "note": "价格和销量保留各自采集日期。跨平台、跨规格的数字不能直接当作销量排名；在售平台不等于销量最大的渠道。",
+    "categories": [
+      {
+        "id": "sheets",
+        "name": "凉感床单与床笠",
+        "summary": "铺在身体下方，重点比较触感、热湿感受和床垫贴合。",
+        "groups": [
+          {
+            "name": "竹源人造丝：混纺与纯纺",
+            "product_ids": [
+              "sheets",
+              "bedsure",
+              "cozyearth"
+            ]
+          },
+          {
+            "name": "莱赛尔与棉平纹",
+            "product_ids": [
+              "sijo",
+              "brooklinen"
+            ]
+          },
+          {
+            "name": "弹力排湿与相变调温",
+            "product_ids": [
+              "sheex-sheets",
+              "slumber"
+            ]
+          }
+        ],
+        "growth_ids": []
+      },
+      {
+        "id": "covers",
+        "name": "有填充凉感被",
+        "summary": "盖在身体上，表层凉感、填充蓄热和覆盖感需要一起比较。",
+        "groups": [
+          {
+            "name": "接触凉感表层＋填充",
+            "product_ids": [
+              "cozy-comforter",
+              "rest"
+            ]
+          },
+          {
+            "name": "莱赛尔表层＋莱赛尔填充",
+            "product_ids": [
+              "buffy"
+            ]
+          }
+        ],
+        "growth_ids": [
+          "rest-brand-growth"
+        ]
+      },
+      {
+        "id": "blankets",
+        "name": "薄凉感毯",
+        "summary": "以轻薄覆盖为主，注意双面材料、贴身感和滑落问题。",
+        "groups": [
+          {
+            "name": "凉感面与棉质面双面设计",
+            "product_ids": [
+              "elegear"
+            ]
+          }
+        ],
+        "growth_ids": []
+      }
+    ]
+  },
+  "growth": {
+    "title": "增长记录",
+    "intro": "已核实的品牌成长与渠道扩展；单品近期增长榜仍缺同口径销售序列。",
+    "cards": [
+      {
+        "name": "REST：上线约一年半，品牌年销售额超过3,000万美元",
+        "period": "历史案例；具体财年未披露",
+        "scope": "品牌整体，含多个市场及产品",
+        "source_keys": [
+          "rest-growth"
+        ],
+        "product_ids": [
+          "rest"
+        ],
+        "id": "rest-brand-growth",
+        "case_type": "品牌成长案例",
+        "metrics": [
+          {
+            "value": "3,000+",
+            "unit": "万美元",
+            "label": "品牌年销售额"
+          },
+          {
+            "value": "约1.5",
+            "unit": "年",
+            "label": "上线至达到上述规模"
+          },
+          {
+            "value": "+10",
+            "unit": "%",
+            "label": "案例报告的客单价提升"
+          }
+        ],
+        "sections": [
+          {
+            "label": "",
+            "title": "卖给怕热的人",
+            "text": "Evercool把凉感和柔软作为主要购买理由，产品延伸至凉感被、床笠和枕套。",
+            "source_keys": [
+              "rest",
+              "rest-channel"
+            ]
+          },
+          {
+            "label": "",
+            "title": "让一笔订单买得更多",
+            "text": "Shopify案例称：增加支付方式、推荐相关产品和加购页面后，客单价提升10%。",
+            "source_keys": [
+              "rest-growth"
+            ]
+          },
+          {
+            "label": "",
+            "title": "增加销售渠道",
+            "text": "2025年3月宣布进入Mattress Firm线上渠道，销售Evercool系列。",
+            "source_keys": [
+              "rest-channel"
+            ]
+          }
+        ],
+        "category": "covers",
+        "interpretation": "值得研究的是明确的怕热人群定位，以及围绕同一需求扩展配套产品。客单价提升有案例支持；这些动作各贡献多少销售增长，尚不能分开计算。",
+        "caveat": "3,000万美元是品牌年销售额，不是美国凉感被单品销售额；该案例也不是近期同比增长榜。10%来自服务商案例，未披露独立对照。"
+      }
+    ],
+    "pending_title": "近期增长产品",
+    "pending_text": "尚无通过核对的同款、同平台、同周期销量序列。暂不把新品、评论增加、搜索热度或累计销量写成快速增长。",
+    "required_fields": [
+      "产品链接／ID",
+      "平台及市场",
+      "本期与上期日期",
+      "销量或销售额",
+      "绝对增量与增速",
+      "同期价格与促销",
+      "数据来源"
+    ],
+    "analysis_status": "增长原因只有在时间序列与动作对应后才能判断；季节升温与促销需单独核对。"
+  },
+  "materials": {
+    "title": "材料与技术",
+    "intro": "先看用在哪里、怎样影响热和湿，再看品牌给它起了什么名字。",
+    "mechanisms": [
+      {
+        "name": "接触时凉",
+        "text": "皮肤接触面料时热量较快传走",
+        "metric": "接触凉感测试，如q-max",
+        "source_keys": [
+          "kaken-qmax"
+        ]
+      },
+      {
+        "name": "减少闷热",
+        "text": "让热量与水汽更容易离开床品",
+        "metric": "透气、热阻、湿阻与整床使用",
+        "source_keys": [
+          "tencel-fibers",
+          "pe-paper"
+        ]
+      },
+      {
+        "name": "缓冲温差",
+        "text": "温暖时吸热、降温时释放储存热量",
+        "metric": "相变温区、储热量、循环表现",
+        "source_keys": [
+          "outlast"
+        ]
+      }
+    ],
+    "rows": [
+      {
+        "name": "竹源人造丝／粘胶",
+        "kind": "商用纤维",
+        "use": "床单、被面、部分填充",
+        "value": "市场主要表达柔软丝滑、吸湿和凉爽",
+        "example_ids": [
+          "bedsure",
+          "cozyearth",
+          "sheets"
+        ],
+        "tradeoff": "再生纤维素，不等于直接取出的天然竹纤维；纯纺与混纺需分开。",
+        "source_keys": [
+          "ftc-bamboo",
+          "bedsure",
+          "cozyearth",
+          "material-132"
+        ]
+      },
+      {
+        "name": "莱赛尔（如TENCEL）",
+        "kind": "商用纤维",
+        "use": "床单、被面和填充",
+        "value": "柔滑、吸湿；不同织造与填充量影响最终体验",
+        "example_ids": [
+          "sijo",
+          "buffy"
+        ],
+        "tradeoff": "TENCEL是品牌；需核对是莱赛尔还是莫代尔。材料吸湿不等于成品整晚降温。",
+        "source_keys": [
+          "tencel-fibers",
+          "sijo",
+          "buffy"
+        ]
+      },
+      {
+        "name": "棉平纹（Percale）",
+        "kind": "纤维＋织造",
+        "use": "床单、被套",
+        "value": "商家以清爽、透气、酒店触感表达凉爽",
+        "example_ids": [
+          "brooklinen"
+        ],
+        "tradeoff": "平纹是织法；不能只凭棉含量或TC判断散热与柔软。",
+        "source_keys": [
+          "brooklinen"
+        ]
+      },
+      {
+        "name": "聚酯＋氨纶性能面料",
+        "kind": "商用混纺",
+        "use": "床单与枕套",
+        "value": "弹力贴合、排湿与柔软",
+        "example_ids": [
+          "sheex-sheets"
+        ],
+        "tradeoff": "化纤不等于一定闷热；织物结构与整理需看成品测试。",
+        "source_keys": [
+          "material-114"
+        ]
+      },
+      {
+        "name": "凉感尼龙＋氨纶",
+        "kind": "商用混纺",
+        "use": "凉感被贴肤表层",
+        "value": "品牌主打接触凉与柔滑",
+        "example_ids": [
+          "rest",
+          "cozy-comforter"
+        ],
+        "tradeoff": "面料凉不代表填充不蓄热；套被套后接触界面会改变。",
+        "source_keys": [
+          "rest-retailer",
+          "rest",
+          "material-100"
+        ]
+      },
+      {
+        "name": "相变材料（PCM）",
+        "kind": "商用调温技术",
+        "use": "融入纤维、涂层或填充",
+        "value": "在相变温区吸收、储存、释放热量",
+        "example_ids": [
+          "slumber"
+        ],
+        "tradeoff": "储热有限；看温区、含量、所在层及洗后表现，不能写成无限制持续制冷。",
+        "source_keys": [
+          "outlast",
+          "slumber"
+        ]
+      },
+      {
+        "name": "37.5功能颗粒",
+        "kind": "商用温湿管理技术",
+        "use": "织物、填充等",
+        "value": "供应商主张帮助调节贴肤温湿度",
+        "example_ids": [],
+        "tradeoff": "需验证具体成品；技术名不代表恒温37.5°C，也不是一种独立纤维。",
+        "source_keys": [
+          "375"
+        ]
+      },
+      {
+        "name": "工程化聚乙烯（PE）织物",
+        "kind": "研发参考路线",
+        "use": "研究中的纱线与织物",
+        "value": "研究已展示导湿、快干及被动散热潜力",
+        "example_ids": [],
+        "tradeoff": "论文样品不能替代商业床品实测；耐洗、手感、织造和供应能力仍需具体验证。",
+        "source_keys": [
+          "pe-paper"
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "term": "q-max",
+        "meaning": "接触瞬间的热流峰值；测试温差、条件一致时才可比较。",
+        "source_keys": [
+          "kaken-qmax"
+        ]
+      },
+      {
+        "term": "JIS L 1927",
+        "meaning": "接触凉感测试方法；不是面料，也不是商家技术名称。",
+        "source_keys": [
+          "kaken-qmax"
+        ]
+      },
+      {
+        "term": "Arc-Chill／Evercool",
+        "meaning": "商家的技术或系列名称；必须继续核对成分、结构与测试证据。",
+        "source_keys": [
+          "elegear",
+          "rest"
+        ]
+      }
+    ],
+    "measurement_note": "摸起来凉、整晚少闷热、睡眠改善是三个不同结果。SLEEP发表的REST组合使用研究摘要报告主观体验改善，但未观察到客观睡眠改善。",
+    "measurement_sources": [
+      "rest-sleep"
+    ],
+    "share_chart": {
+      "title": "全球凉感床单材料结构参考",
+      "scope": "2025年销售额｜第三方模型，非美国占比",
+      "values": [
+        {
+          "label": "莱赛尔相关路线",
+          "value": 34
+        },
+        {
+          "label": "其余材料路线合计",
+          "value": 66
+        }
+      ],
+      "source_keys": [
+        "gmr-sheets"
+      ],
+      "note": "来源仅公开最大材料组34%；其余66%为100%减去34%，不再拆分。不能据此判定美国材料排序。"
+    }
+  },
+  "needs": {
+    "title": "需求金字塔",
+    "subtitle": "整体、凉感被和凉感床单分别研究；不预设固定层数。",
+    "survey": {
+      "title": "美国床品消费者的购买关注点",
+      "scope": "一般床品消费者，不限凉感床品",
+      "items": [
+        {
+          "label": "柔软",
+          "value": 76
+        },
+        {
+          "label": "质量",
+          "value": 75
+        },
+        {
+          "label": "不留异味",
+          "value": 72
+        },
+        {
+          "label": "弹性",
+          "value": 70
+        },
+        {
+          "label": "耐洗",
+          "value": 68
+        },
+        {
+          "label": "使用寿命",
+          "value": 65
+        }
+      ],
+      "source_keys": [
+        "cotton-survey"
+      ],
+      "note": "2024年12月调查，2025年发布；多选，不相加成100%。发布机构为棉行业机构，五国总样本7,163，美国样本数未单列。"
+    },
+    "need_pool": [
+      {
+        "id": "n1",
+        "need": "贴肤柔软，不扎、不磨",
+        "role": "使用体验",
+        "evidence": "R619因粗糙无法接受；R580明确因手感再次购买。柔软与不粗糙先归为同一触感需求，不重复计层。",
+        "review_ids": [
+          619,
+          580
+        ],
+        "review_labels": {
+          "619": "粗糙成为拒绝理由",
+          "580": "因手感再次下单"
+        },
+        "independence": "柔软可以满足，凉感仍然失败；R718就是这一组合。",
+        "use": "把触感作为独立体验测试，同时检查不同颜色和洗后表现。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n2",
+        "need": "能完整套住自己的床垫",
+        "role": "使用要求",
+        "evidence": "R1389买了Queen规格却反馈套不上；该条属于一星补充样本。",
+        "review_ids": [
+          1389
+        ],
+        "review_labels": {
+          "1389": "尺寸不合，无法套床"
+        },
+        "independence": "套得上与睡觉时不脱落不是一回事：尺寸匹配后，固定仍可能失败。",
+        "use": "尺寸、厚度适配与标注需要核实，不能只写“深口袋”。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n3",
+        "need": "洗过、用久以后仍保持原有状态",
+        "role": "长期使用",
+        "evidence": "R28称使用六个月未起球；R917反馈洗后色斑。两种自述说明需要检查洗后变化，并不证明变化原因。 另一床单讨论中，有用户称使用约一年后破损，因而重新寻找产品。",
+        "review_ids": [
+          28,
+          917,
+          551
+        ],
+        "review_labels": {
+          "28": "六个月未起球",
+          "917": "洗后出现色斑",
+          "551": "三次清洗后未起球"
+        },
+        "independence": "新买时触感很好，洗后或用久仍可能变差。耐用不能并入首次触感。",
+        "use": "分别测量洗后手感、起球、颜色及功能变化。",
+        "refs": [
+          "material-89",
+          "material-78",
+          "cotton-survey",
+          "sheets-durability"
+        ]
+      },
+      {
+        "id": "n4",
+        "need": "刚接触床品时就感觉凉",
+        "role": "即时感受",
+        "evidence": "REST公开讨论中，有人明确区分“碰上去凉”与“几分钟后变热”；也有相反体验。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "刚碰上去凉、睡久仍闷热可以同时发生，因此与整夜散热分开。",
+        "use": "接触凉感测试回答这一项，不能替代整夜使用验证。",
+        "refs": [
+          "reddit-rest",
+          "kaken-qmax"
+        ]
+      },
+      {
+        "id": "n5",
+        "need": "睡久以后仍不闷热",
+        "role": "主要问题",
+        "evidence": "R221称整夜凉爽；R718则称未能保持凉爽，仍因柔软继续使用。 凉毯讨论也有人明确区分触摸时凉和使用久后变热。",
+        "review_ids": [
+          221,
+          718
+        ],
+        "review_labels": {
+          "221": "整夜凉爽的自述",
+          "718": "凉感未达预期仍继续用"
+        },
+        "independence": "柔软、刚接触时凉，都不能代替睡久是否闷热。",
+        "use": "比较不同室温、湿度及整套铺盖组合下的使用反馈。",
+        "refs": [
+          "material-89",
+          "material-78",
+          "blanket-use"
+        ]
+      },
+      {
+        "id": "n6",
+        "need": "出汗后身体和床面少湿黏",
+        "role": "主要问题",
+        "evidence": "R151提到丈夫不再出汗，R27认可吸湿。这些是使用者自述，尚不能证明床品抑制出汗或实际排湿速度。",
+        "review_ids": [
+          151,
+          27
+        ],
+        "review_labels": {
+          "151": "涉及夜间出汗的反馈",
+          "27": "吸湿获得认可"
+        },
+        "independence": "热与湿需要分别问：温度感受相同，干爽程度仍可能不同。当前评论尚不足以估计独立人群规模。",
+        "use": "将干爽感与温度感分开记录，避免把吸湿、速干和不出汗混为一谈。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n7",
+        "need": "少因床品不适而影响睡眠",
+        "role": "最终使用目标",
+        "evidence": "R29明确说床笠脱落影响睡眠；R39称睡得更好。它是多种体验共同作用的结果，不单列为更高一层。",
+        "review_ids": [
+          29,
+          39
+        ],
+        "review_labels": {
+          "29": "床笠脱落影响睡眠",
+          "39": "睡眠体验改善的自述"
+        },
+        "independence": "睡好还受环境和个人状态影响；不能把它当作温湿、触感之上的独立需求层。",
+        "use": "区分用户自述与客观睡眠指标，不把床品效果写成已证实的睡眠疗效。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n8",
+        "need": "购买金额在自己能接受的范围内",
+        "role": "购买约束",
+        "evidence": "R475一直想试，等到价格合适才下单；R1389也提到等促销。",
+        "review_ids": [
+          475,
+          1389
+        ],
+        "review_labels": {
+          "475": "合适价格触发下单",
+          "1389": "等待促销后购买"
+        },
+        "independence": "买得起不等于买得值，预算门槛与相对价值分开。",
+        "use": "记录真实支付价格与促销条件，判断首次购买门槛。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n9",
+        "need": "颜色和外观适合自己的卧室",
+        "role": "附加好处",
+        "evidence": "R28为冬季换颜色再次购买；R834不喜欢白色面料过于透视的外观。",
+        "review_ids": [
+          28,
+          834
+        ],
+        "review_labels": {
+          "28": "为换颜色再次购买",
+          "834": "对透视外观不满意"
+        },
+        "independence": "即使触感、凉感合适，外观仍可能不符合偏好。",
+        "use": "研究配色、透视程度和实物观感，不把“薄”直接视为好处。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n10",
+        "need": "翻身时床笠不脱落，不用反复整理",
+        "role": "使用要求",
+        "evidence": "R221认可厚床垫四角固定；R29称易脱落并影响睡眠。",
+        "review_ids": [
+          221,
+          29
+        ],
+        "review_labels": {
+          "221": "厚床垫四角不弹开",
+          "29": "脱落打扰睡眠"
+        },
+        "independence": "能套住床垫后，翻身时仍可能脱落；应与尺寸适配分开验证。",
+        "use": "固定结构要通过实际翻身与不同床垫厚度验证。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n11",
+        "need": "铺床和更换床品省事",
+        "role": "日常使用",
+        "evidence": "R151认可容易套上；R85抱怨没有区分床头床尾的标签。",
+        "review_ids": [
+          151,
+          85
+        ],
+        "review_labels": {
+          "151": "容易铺装",
+          "85": "找方向不方便"
+        },
+        "independence": "铺好后可以很牢固，但铺装过程仍费力；与固定不脱落分开。",
+        "use": "方向识别与套装便利可作为设计检查项，标签只是解决手段。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n12",
+        "need": "清洗、晾干或烘干少费时间",
+        "role": "日常使用",
+        "evidence": "REST讨论中有人看重较快烘干；美国一般床品调查也关注耐洗。烘干省时与洗后不变形不是同一件事。 凉毯讨论另有人因家中洗衣机装不下而需要送去自助洗衣店。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "容易洗干却不耐久、耐久却难洗干，都可能发生；分开检查。",
+        "use": "按实际洗护流程记录时间与限制，不能仅用“可机洗”代表方便。",
+        "refs": [
+          "reddit-rest",
+          "cotton-survey",
+          "blanket-use"
+        ]
+      },
+      {
+        "id": "n13",
+        "need": "使用时没有难闻的气味",
+        "role": "使用体验",
+        "evidence": "R697明确认可拆包无异味；美国一般床品调查也把不留异味列为关注项。",
+        "review_ids": [
+          697
+        ],
+        "review_labels": {
+          "697": "拆包无异味"
+        },
+        "independence": "没有异味并不等于洗得干净或不会刺激皮肤，不能互相替代。",
+        "use": "区分到货气味与使用后的气味，不从“无味”推导安全认证。",
+        "refs": [
+          "material-89",
+          "cotton-survey"
+        ]
+      },
+      {
+        "id": "n14",
+        "need": "贴身使用不发痒、不刺激皮肤",
+        "role": "使用体验",
+        "evidence": "R151和R649提到无皮肤刺激或不痒；未有诊断或材料致敏测试。",
+        "review_ids": [
+          151,
+          649
+        ],
+        "review_labels": {
+          "151": "未出现皮肤刺激的自述",
+          "649": "不痒的反馈"
+        },
+        "independence": "触摸柔软不保证个人皮肤不受刺激，先作为独立结果核实。",
+        "use": "记录具体反应与使用条件，不把零星评论写成防过敏功效。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n15",
+        "need": "翻身时面料不黏身、不拖拽",
+        "role": "使用体验",
+        "evidence": "R703认可不贴黏；REST讨论也有像静电一样贴身的抱怨。当前不能确定每条反馈是汗湿、静电还是面料垂坠造成。",
+        "review_ids": [
+          703
+        ],
+        "review_labels": {
+          "703": "认可面料不贴黏"
+        },
+        "independence": "柔软仍可能贴身；与汗湿暂分列，若复核发现均由汗湿导致再合并。",
+        "use": "先辨明原因，再选择排湿、抗静电或结构方案。",
+        "refs": [
+          "material-89",
+          "reddit-rest"
+        ]
+      },
+      {
+        "id": "n16",
+        "need": "宠物毛不容易留在床面",
+        "role": "特定家庭需要",
+        "evidence": "R372认为比原床单少留狗毛；R764说没有达到防宠物毛预期。",
+        "review_ids": [
+          372,
+          764
+        ],
+        "review_labels": {
+          "372": "留狗毛减少",
+          "764": "未达到宠物毛预期"
+        },
+        "independence": "凉爽、柔软都满足时，宠物毛仍可能难清理。",
+        "use": "仅对有宠家庭评估清理成本，不能推广为所有人的核心需求。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n17",
+        "need": "收到的商品符合订单和页面说明",
+        "role": "交易要求",
+        "evidence": "R115反馈少枕套，R17质疑材料并申请退款。材料投诉是消费者理解，尚不证明商家实际成分造假。",
+        "review_ids": [
+          115,
+          17,
+          692
+        ],
+        "review_labels": {
+          "115": "收到的套件不完整",
+          "17": "材料理解与页面期待有落差",
+          "692": "促销赠品规格错误"
+        },
+        "independence": "产品本身好用也可能发错或漏发；交付可信度与使用表现分开。",
+        "use": "材料表达、规格选择、套装与赠品承诺均需准确。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n18",
+        "need": "不合适时能顺利退换或退款",
+        "role": "购买保障",
+        "evidence": "R115反映退款被拒；R17称平台解决了退款。",
+        "review_ids": [
+          115,
+          17
+        ],
+        "review_labels": {
+          "115": "退款申请遇阻",
+          "17": "平台处理退款"
+        },
+        "independence": "价格能承受不等于退换容易，两者不能合并为“试错成本低”。",
+        "use": "检查承诺与实际处理流程，不能只复制退货政策文案。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n19",
+        "need": "在需要的时候按时收到",
+        "role": "交付要求",
+        "evidence": "R654称比预计迟两周；R834因急用而留下本想退掉的床单。",
+        "review_ids": [
+          654,
+          834
+        ],
+        "review_labels": {
+          "654": "晚于预计送达",
+          "834": "急用导致留下不满意商品"
+        },
+        "independence": "体验不满意也可能因急用留下；不能用未退货反推满意。",
+        "use": "区分时效驱动的购买、被迫保留与产品认可。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n20",
+        "need": "花的钱换来值得的改善",
+        "role": "相对价值",
+        "evidence": "R824认为比Sam’s更便宜且更舒服；R773认为与更高质量产品价差不大、不值得。",
+        "review_ids": [
+          824,
+          773
+        ],
+        "review_labels": {
+          "824": "与原购买渠道比较",
+          "773": "认为品质不值价差"
+        },
+        "independence": "支付得起仍可能觉得不值；应结合替代产品和改善幅度判断。",
+        "use": "同规格对比价格、体验和服务，不用“便宜”单独解释畅销。",
+        "refs": [
+          "material-89",
+          "material-78"
+        ]
+      },
+      {
+        "id": "n21",
+        "need": "少闷热的同时，需要时也能保暖",
+        "role": "冷热之间的取舍",
+        "evidence": "REST公开讨论中，有参与者觉得被子偏薄，为增加暖意购买两条叠用。这只是一条需求线索，不代表美国用户普遍偏好。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "少闷热与有足够暖意可以分别失败；不能把保暖一律当成凉感需求的反面，也未证明固定先后。",
+        "use": "按室温和个人冷热偏好验证覆盖组合，不只追求越凉越好。",
+        "refs": [
+          "reddit-rest"
+        ]
+      },
+      {
+        "id": "n22",
+        "need": "盖住身体，有自己需要的覆盖感",
+        "role": "补充需求线索",
+        "evidence": "有公开讨论参与者表示不能不盖东西睡觉，天热时仍改用床单覆盖。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "覆盖感不能用温度代替；裸睡不闷热，仍可能不能满足这个人。",
+        "use": "比较薄被、薄毯和床单覆盖，而非只与其他“凉感被”比较。",
+        "refs": [
+          "covering-need"
+        ]
+      },
+      {
+        "id": "n23",
+        "need": "重量适合自己，不压身或轻得不习惯",
+        "role": "补充需求线索",
+        "evidence": "凉毯讨论中有人嫌重；另一讨论中有人需要一定的被子重量才能睡。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "偏轻与偏重是同一重量偏好的不同方向，不重复列为两层，也不认定越轻越好。",
+        "use": "按实际重量与使用偏好分组测试，不把克重直接当成购买需求。",
+        "refs": [
+          "blanket-use",
+          "covering-need"
+        ]
+      },
+      {
+        "id": "n24",
+        "need": "翻身时被子不滑落，身体仍能盖住",
+        "role": "补充需求线索",
+        "evidence": "凉毯讨论中有使用者抱怨被子容易滑下床。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "初次能盖住，不代表翻身后仍盖得住；与柔软、凉感分别检查。",
+        "use": "检查尺寸、垂坠和表面摩擦的组合效果。",
+        "refs": [
+          "blanket-use"
+        ]
+      },
+      {
+        "id": "n25",
+        "need": "买之前能判断凉感承诺是否可信",
+        "role": "补充需求线索",
+        "evidence": "寻找凉感被的发帖者难以区分真实体验与广告，并因起球、退货等投诉犹豫。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "清楚成分仍可能不知道睡起来如何；可信的效果依据与正确发货不是同一个需求。",
+        "use": "检查演示、测试条件与真实使用能否回答同一个效果问题。",
+        "refs": [
+          "comforter-search"
+        ]
+      },
+      {
+        "id": "n26",
+        "need": "同床两人的冷热和触感要求都能照顾到",
+        "role": "补充需求线索",
+        "evidence": "床单讨论发帖者提出伴侣怕热、自己对触感敏感，必须同时满足。",
+        "review_ids": [],
+        "review_labels": {},
+        "independence": "一个人觉得好用，另一个人仍可能不舒服；家庭选择不能只看单人的平均偏好。",
+        "use": "先看是否能同时满足，冲突明显时再研究分侧或分开覆盖。",
+        "refs": [
+          "sheets-household"
+        ]
+      }
+    ],
+    "pyramid": {
+      "title": "需求层级检验",
+      "status": "统一层数尚未确立",
+      "layers": [],
+      "summary": "这些需求不能直接排成“基本可用 → 凉感 → 睡得好”三层。现有材料只支持个别人的使用门槛，还不支持统一的行业需求金字塔。",
+      "note": "按算法，层数来自前提关系，而非预设三层或七层。只有同一目标人群中“A未满足时不会明显追求B”得到支持，才将A放在B下面。需求分类、重要性和最终效果都不能直接当层级。",
+      "tests": [
+        {
+          "pair": "不粗糙 → 更柔软",
+          "result": "先合并，不拆成两层",
+          "reason": "目前材料表达的是同一触感的差与好，未证明存在两项独立需求。",
+          "review_ids": [
+            619,
+            580
+          ],
+          "source_keys": [
+            "material-78"
+          ]
+        },
+        {
+          "pair": "触感能接受 → 才考虑凉感",
+          "result": "有局部门槛，不能外推全部人群",
+          "reason": "R619因粗糙无法接受凉感产品。这支持该买家的门槛，但单条评论不足以确立全行业顺序。",
+          "review_ids": [
+            619
+          ],
+          "source_keys": [
+            "material-78"
+          ]
+        },
+        {
+          "pair": "先有凉感 → 再追求柔软",
+          "result": "反例明确，不采用这一排序",
+          "reason": "R718未获得凉感，仍因柔软继续用。凉感不足并没有消除其对舒适的追求。",
+          "review_ids": [
+            718
+          ],
+          "source_keys": [
+            "material-78"
+          ]
+        },
+        {
+          "pair": "接触时凉 → 睡久不闷热",
+          "result": "独立检查，不自动排上下层",
+          "reason": "REST讨论显示两种效果可以分离；尚未证明消费者必须先得到瞬间凉感，才会追求整夜不热。",
+          "review_ids": [],
+          "source_keys": [
+            "reddit-rest"
+          ]
+        },
+        {
+          "pair": "耐洗、低价、颜色 → 凉感",
+          "result": "并列选择条件，先后未证实",
+          "reason": "R917肯定凉感却有洗后色斑；R475受价格触发；R28为换颜色再买。不能只按重要性硬排层级。",
+          "review_ids": [
+            917,
+            475,
+            28
+          ],
+          "source_keys": [
+            "material-78"
+          ]
+        },
+        {
+          "pair": "温湿、触感、固定 → 睡得好",
+          "result": "手段与结果，不增造最高层",
+          "reason": "R29说明脱落会影响睡眠。睡眠结果可由多种因素共同影响，不能与这些体验重复计为一个独立需求层。",
+          "review_ids": [
+            29
+          ],
+          "source_keys": [
+            "material-89"
+          ]
+        }
+      ],
+      "next_evidence": "还需对凉感床单、凉感被分别比较：当某项不满足时，哪些人会放弃其他好处，哪些人会继续购买或使用；反例必须保留。",
+      "method_checks": [
+        {
+          "label": "需求是否独立",
+          "text": "A满足得很好时，B还能明显失败，才有理由分列。"
+        },
+        {
+          "label": "是否写成消费者要的结果",
+          "text": "竹纤维、q-max、深口袋、方向标签是材料、指标或手段；应回到凉爽、能套住、铺床省事等结果。"
+        },
+        {
+          "label": "是否真有上下层关系",
+          "text": "A不满足时，消费者还会不会明显追求B？重要、常见或高端都不是分层依据。"
+        },
+        {
+          "label": "是否凭空造需求",
+          "text": "说清具体问题，保留原话；不填“极致体验”“品质升级”等空词。"
+        }
+      ]
+    },
+    "sample_note": "床单依据包括库中928条近期评论及单列的一星补充样本；凉感被补充多条公开讨论。公开讨论不构成代表性抽样，未用于推算需求比例。",
+    "principle_sources": [
+      "user-algorithm",
+      "needs-accuracy"
+    ],
+    "groups": [
+      {
+        "id": "heat",
+        "label": "凉爽与干爽",
+        "need_ids": [
+          "n4",
+          "n5",
+          "n6",
+          "n21",
+          "n22",
+          "n23",
+          "n24",
+          "n26"
+        ]
+      },
+      {
+        "id": "bed",
+        "label": "贴身感受与床面适配",
+        "need_ids": [
+          "n1",
+          "n2",
+          "n10",
+          "n14",
+          "n15"
+        ]
+      },
+      {
+        "id": "daily",
+        "label": "日常使用与长期保持",
+        "need_ids": [
+          "n3",
+          "n9",
+          "n11",
+          "n12",
+          "n13",
+          "n16"
+        ]
+      },
+      {
+        "id": "purchase",
+        "label": "价格、交付与购买保障",
+        "need_ids": [
+          "n8",
+          "n17",
+          "n18",
+          "n19",
+          "n20",
+          "n25"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "label": "主要购买任务",
+        "text": "希望更换床品后，睡觉少热、少汗湿，同时保留能接受的贴身感受。",
+        "review_ids": [
+          452,
+          912,
+          718
+        ]
+      },
+      {
+        "label": "不同人会作出不同取舍",
+        "text": "有人因粗糙放弃凉感；有人没得到凉感，仍因舒服继续用。",
+        "review_ids": [
+          619,
+          718
+        ]
+      }
+    ],
+    "unresolved": [
+      {
+        "topic": "重量与覆盖感",
+        "text": "“轻薄”可能为了少热，也可能为了不压身；另有人喜欢厚实覆盖。目前不能把重量直接列成统一需求层。",
+        "review_ids": [
+          342,
+          834
+        ]
+      },
+      {
+        "topic": "材料偏好背后的真正理由",
+        "text": "偏好棉、竹或莱赛尔，可能关联触感、环保或信任。现有材料不能代替对选择动机的验证。",
+        "review_ids": [
+          17,
+          773
+        ]
+      },
+      {
+        "topic": "凉被与不同人群的需求顺序",
+        "text": "现有逐条评论主要来自一款床单。凉被、伴侣冷热偏好、潮热人群等需要分别研究，不能套用同一金字塔。",
+        "review_ids": [
+          912
+        ]
+      }
+    ],
+    "outcome_id": "n7",
+    "models": [
+      {
+        "id": "all",
+        "name": "凉感床品整体",
+        "job": "少受闷热、汗湿和床品不适打扰",
+        "summary": "“凉”不是唯一要求：消费者同时考虑热湿感受、触感、日常使用和购买成本。",
+        "pyramid": {
+          "status": "有条件的前提关系",
+          "scenario": "适用于因触感或基本适配问题而拒绝使用的人。",
+          "levels": [
+            {
+              "id": "usable",
+              "label": "愿意贴身使用、能够正常铺盖",
+              "need_ids": [
+                "n1",
+                "n2",
+                "n14",
+                "n22"
+              ]
+            },
+            {
+              "id": "thermal",
+              "label": "进一步获得想要的热湿改善",
+              "need_ids": [
+                "n5",
+                "n6"
+              ]
+            }
+          ],
+          "link_note": "R619因粗糙放弃凉感期待；R1389因套不上而否定购买。反例R718：凉感不足仍因舒服留下。不能把这一顺序推广给所有买家。",
+          "review_ids": [
+            619,
+            1389,
+            718
+          ],
+          "source_keys": [
+            "material-78",
+            "covering-need"
+          ]
+        },
+        "clusters": [
+          {
+            "title": "主要痛点",
+            "items": [
+              {
+                "need_id": "n5",
+                "text": "睡一段时间又变热"
+              },
+              {
+                "need_id": "n6",
+                "text": "出汗后床面湿黏"
+              },
+              {
+                "need_id": "n1",
+                "text": "触感粗糙，贴肤不舒服"
+              }
+            ]
+          },
+          {
+            "title": "使用中的要求",
+            "items": [
+              {
+                "need_id": "n3",
+                "text": "洗后和用久仍保持状态"
+              },
+              {
+                "need_id": "n12",
+                "text": "洗干省事"
+              },
+              {
+                "need_id": "n13",
+                "text": "没有难闻气味"
+              },
+              {
+                "need_id": "n26",
+                "text": "照顾同床两人的差异"
+              }
+            ]
+          },
+          {
+            "title": "购买时的取舍",
+            "items": [
+              {
+                "need_id": "n8",
+                "text": "买得起"
+              },
+              {
+                "need_id": "n20",
+                "text": "改善值得这个价钱"
+              },
+              {
+                "need_id": "n25",
+                "text": "效果承诺可信"
+              },
+              {
+                "need_id": "n18",
+                "text": "不合适能退换"
+              }
+            ]
+          }
+        ],
+        "independent_note": "耐用、价格、外观和洗护等需求可以与凉感同时存在，现有证据不支持统一排成高低层。",
+        "source_keys": [
+          "material-78",
+          "cotton-survey",
+          "sheets-household",
+          "comforter-search"
+        ]
+      },
+      {
+        "id": "covers",
+        "name": "凉感被",
+        "job": "想盖着被子睡，又不想闷热出汗",
+        "summary": "凉感被要解决“盖着也舒服”。重量、覆盖感、滑落和洗护，不能照搬床单的研究维度。",
+        "pyramid": {
+          "status": "待验证的场景层级",
+          "scenario": "适用于“不盖东西就睡不着”的人；不能用于所有怕热者。",
+          "levels": [
+            {
+              "id": "cover",
+              "label": "保留自己需要的覆盖感",
+              "need_ids": [
+                "n22",
+                "n23"
+              ]
+            },
+            {
+              "id": "cover-thermal",
+              "label": "在盖着的前提下减少闷热与汗湿",
+              "need_ids": [
+                "n5",
+                "n6",
+                "n21"
+              ]
+            }
+          ],
+          "link_note": "公开自述支持这类人存在，但尚不能证明人群大小。有人选择床单覆盖，有人保留较重被子再加送风；轻薄并非所有人的答案。",
+          "review_ids": [],
+          "source_keys": [
+            "covering-need",
+            "blanket-use"
+          ]
+        },
+        "clusters": [
+          {
+            "title": "覆盖与活动",
+            "items": [
+              {
+                "need_id": "n22",
+                "text": "身体有覆盖，不必掀被才能凉"
+              },
+              {
+                "need_id": "n23",
+                "text": "轻重合适"
+              },
+              {
+                "need_id": "n24",
+                "text": "翻身后不滑落"
+              },
+              {
+                "need_id": "n15",
+                "text": "不黏身、不拖拽"
+              }
+            ]
+          },
+          {
+            "title": "温湿感受",
+            "items": [
+              {
+                "need_id": "n4",
+                "text": "碰上去就凉"
+              },
+              {
+                "need_id": "n5",
+                "text": "盖久也少闷热"
+              },
+              {
+                "need_id": "n6",
+                "text": "出汗后少湿黏"
+              },
+              {
+                "need_id": "n21",
+                "text": "需要时仍有适当暖意"
+              }
+            ]
+          },
+          {
+            "title": "长期使用与购买",
+            "items": [
+              {
+                "need_id": "n12",
+                "text": "家里的洗衣机能洗，容易干"
+              },
+              {
+                "need_id": "n3",
+                "text": "不因洗用而起球或失去手感"
+              },
+              {
+                "need_id": "n25",
+                "text": "能判断凉感效果"
+              },
+              {
+                "need_id": "n8",
+                "text": "价格在预算内"
+              },
+              {
+                "need_id": "n18",
+                "text": "试用不合适能顺利退换"
+              }
+            ]
+          }
+        ],
+        "independent_note": "“摸着凉”与“盖久不热”分开；轻重偏好和洗护条件另行比较，不把它们机械放在更高层。",
+        "source_keys": [
+          "covering-need",
+          "blanket-use",
+          "comforter-search",
+          "reddit-rest"
+        ]
+      },
+      {
+        "id": "sheets",
+        "name": "凉感床单",
+        "job": "睡在清爽舒服、铺得稳的床面上",
+        "summary": "床单既要贴肤舒服，也要与床垫匹配。套得上和翻身不脱落是两个不同要求。",
+        "pyramid": {
+          "status": "可检验的使用前提",
+          "scenario": "针对床笠的适配与固定；不是完整消费者偏好排名。",
+          "levels": [
+            {
+              "id": "fit",
+              "label": "先能套住自己的床垫",
+              "need_ids": [
+                "n2"
+              ]
+            },
+            {
+              "id": "stay",
+              "label": "翻身后仍保持固定和平整",
+              "need_ids": [
+                "n10"
+              ]
+            }
+          ],
+          "link_note": "尺寸不匹配时无法正常固定；能套上仍可能翻身脱落。触感、凉感、耐用是另外几项要求，不能由这两层直接推出。",
+          "review_ids": [
+            1389,
+            29,
+            221
+          ],
+          "source_keys": [
+            "material-78",
+            "material-89"
+          ]
+        },
+        "clusters": [
+          {
+            "title": "贴肤与温湿",
+            "items": [
+              {
+                "need_id": "n1",
+                "text": "柔软、不磨肤"
+              },
+              {
+                "need_id": "n5",
+                "text": "睡久不闷热"
+              },
+              {
+                "need_id": "n6",
+                "text": "出汗后少湿黏"
+              },
+              {
+                "need_id": "n14",
+                "text": "不痒、不刺激"
+              },
+              {
+                "need_id": "n15",
+                "text": "翻身不拖拽"
+              }
+            ]
+          },
+          {
+            "title": "铺床与洗护",
+            "items": [
+              {
+                "need_id": "n2",
+                "text": "尺寸和床垫厚度合适"
+              },
+              {
+                "need_id": "n10",
+                "text": "四角不弹开"
+              },
+              {
+                "need_id": "n11",
+                "text": "容易找方向和铺装"
+              },
+              {
+                "need_id": "n12",
+                "text": "洗干省事"
+              },
+              {
+                "need_id": "n3",
+                "text": "洗后不易破损、起球或变粗糙"
+              }
+            ]
+          },
+          {
+            "title": "家庭与购买",
+            "items": [
+              {
+                "need_id": "n26",
+                "text": "伴侣需求也被满足"
+              },
+              {
+                "need_id": "n16",
+                "text": "宠物毛易清理"
+              },
+              {
+                "need_id": "n9",
+                "text": "配色和外观合适"
+              },
+              {
+                "need_id": "n8",
+                "text": "价格可接受"
+              },
+              {
+                "need_id": "n20",
+                "text": "比替代品更值"
+              },
+              {
+                "need_id": "n17",
+                "text": "材质、套件与订单一致"
+              },
+              {
+                "need_id": "n18",
+                "text": "退换顺利"
+              },
+              {
+                "need_id": "n19",
+                "text": "按时收到"
+              }
+            ]
+          }
+        ],
+        "independent_note": "柔软与凉感可能分别成功或失败；不要把柔软好评直接解释成凉感购买动因。",
+        "source_keys": [
+          "material-78",
+          "material-89",
+          "sheets-household",
+          "sheets-durability"
+        ]
+      }
+    ],
+    "model_note": "图中只画有依据或明确待验证的局部前提关系。旁边列出并行需求；最终睡眠目标单列，不凑成更高一层。完整人群层级仍需消费者访谈验证。"
+  },
+  "mindmap": {
+    "title": "心智地图",
+    "subtitle": "需求入口 → 品类及替代选择 → 品牌关联",
+    "status": "认知线索图",
+    "intro": "实心节点表示有消费者自述，描边节点表示商家宣传；节点位置不代表品牌排名。",
+    "center": "睡觉太热／不舒服，换什么能改善",
+    "lanes": [
+      {
+        "id": "all-cooling",
+        "scope": "all",
+        "entry": "整夜少闷热、少湿黏",
+        "need_ids": [
+          "n5",
+          "n6"
+        ],
+        "category": "更换凉感床品",
+        "alternatives": [
+          "更薄的普通床品",
+          "改变室温或床面送风"
+        ],
+        "brands": [
+          {
+            "product_id": "sheets",
+            "concept": "为凉感而购买",
+            "evidence": "consumer"
+          },
+          {
+            "product_id": "rest",
+            "concept": "怕热者的凉感被",
+            "evidence": "claim"
+          }
+        ],
+        "known": "床单原评论有明确凉感购买动机；公开讨论也出现先改善房间温度的选择。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "material-78",
+          "comforter-search",
+          "rest"
+        ]
+      },
+      {
+        "id": "all-touch",
+        "scope": "all",
+        "entry": "触感舒服，也能照顾家人",
+        "need_ids": [
+          "n1",
+          "n26"
+        ],
+        "category": "舒适床品／熟悉的材料",
+        "alternatives": [
+          "原品牌床品",
+          "不同纤维与织法"
+        ],
+        "brands": [
+          {
+            "product_id": "cozyearth",
+            "concept": "柔软丝滑",
+            "evidence": "claim"
+          },
+          {
+            "product_id": "brooklinen",
+            "concept": "酒店式清爽触感",
+            "evidence": "claim"
+          }
+        ],
+        "known": "同一家庭可能同时要求透气、平滑与耐用；不能假定单一凉感指标决定购买。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "sheets-household",
+          "cozyearth",
+          "brooklinen"
+        ]
+      },
+      {
+        "id": "all-cover",
+        "scope": "all",
+        "entry": "有覆盖感，又不想热",
+        "need_ids": [
+          "n22",
+          "n23",
+          "n5"
+        ],
+        "category": "薄被／凉感被／凉感毯",
+        "alternatives": [
+          "床单覆盖",
+          "保留较重被子并送风"
+        ],
+        "brands": [
+          {
+            "product_id": "rest",
+            "concept": "凉与软兼顾",
+            "evidence": "claim"
+          },
+          {
+            "product_id": "elegear",
+            "concept": "双面凉感与棉质面",
+            "evidence": "claim"
+          }
+        ],
+        "known": "公开讨论出现不愿放弃覆盖感的人，以及重量偏好相反的人。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "covering-need",
+          "blanket-use",
+          "rest",
+          "elegear"
+        ]
+      },
+      {
+        "id": "cover-touch",
+        "scope": "covers",
+        "entry": "盖上先觉得凉，盖久少闷热",
+        "need_ids": [
+          "n4",
+          "n5"
+        ],
+        "category": "接触凉感被",
+        "alternatives": [
+          "普通薄被",
+          "凉感薄毯"
+        ],
+        "brands": [
+          {
+            "product_id": "rest",
+            "concept": "Evercool凉感",
+            "evidence": "claim"
+          },
+          {
+            "product_id": "cozy-comforter",
+            "concept": "双面凉感",
+            "evidence": "claim"
+          }
+        ],
+        "known": "两家均明确宣传凉感；现有讨论说明瞬时凉与持久体验需要分别验证。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "rest",
+          "material-100",
+          "blanket-use"
+        ]
+      },
+      {
+        "id": "cover-light",
+        "scope": "covers",
+        "entry": "不想被厚被裹得闷热",
+        "need_ids": [
+          "n5",
+          "n23"
+        ],
+        "category": "轻薄透气的被子",
+        "alternatives": [
+          "空被套",
+          "普通薄被／床单覆盖"
+        ],
+        "brands": [
+          {
+            "product_id": "buffy",
+            "concept": "莱赛尔表层和填充",
+            "evidence": "claim"
+          }
+        ],
+        "known": "有消费者把“凉感”解释为替换过厚的原被子；具体材料只是可能的解决手段。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "comforter-search",
+          "buffy"
+        ]
+      },
+      {
+        "id": "cover-flex",
+        "scope": "covers",
+        "entry": "保留覆盖感，按冷热调整",
+        "need_ids": [
+          "n22",
+          "n21",
+          "n23"
+        ],
+        "category": "可调整的覆盖组合",
+        "alternatives": [
+          "薄毯叠盖",
+          "床面送风搭配原被子"
+        ],
+        "brands": [
+          {
+            "product_id": "elegear",
+            "concept": "双面不同触感",
+            "evidence": "claim"
+          }
+        ],
+        "known": "存在保留一定覆盖或重量的需求；不因此认定双面设计已解决所有冷热冲突。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "covering-need",
+          "reddit-rest",
+          "elegear"
+        ]
+      },
+      {
+        "id": "sheet-soft",
+        "scope": "sheets",
+        "entry": "柔软丝滑，又希望清爽",
+        "need_ids": [
+          "n1",
+          "n5",
+          "n6"
+        ],
+        "category": "竹源人造丝／莱赛尔床单",
+        "alternatives": [
+          "棉床单",
+          "原有套装"
+        ],
+        "brands": [
+          {
+            "product_id": "sheets",
+            "concept": "为凉感买、因手感再买",
+            "evidence": "consumer"
+          },
+          {
+            "product_id": "bedsure",
+            "concept": "凉爽丝滑",
+            "evidence": "claim"
+          },
+          {
+            "product_id": "cozyearth",
+            "concept": "柔软高档体验",
+            "evidence": "claim"
+          },
+          {
+            "product_id": "sijo",
+            "concept": "轻盈吸湿",
+            "evidence": "claim"
+          }
+        ],
+        "known": "Shilucheng有购买和再购自述，但尚不能据此判定消费者首先想到哪个品牌。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "material-78",
+          "bedsure",
+          "cozyearth",
+          "sijo"
+        ]
+      },
+      {
+        "id": "sheet-crisp",
+        "scope": "sheets",
+        "entry": "更喜欢清爽、不黏的触感",
+        "need_ids": [
+          "n1",
+          "n15",
+          "n5"
+        ],
+        "category": "棉平纹床单",
+        "alternatives": [
+          "丝滑型床单"
+        ],
+        "brands": [
+          {
+            "product_id": "brooklinen",
+            "concept": "酒店式清爽棉平纹",
+            "evidence": "claim"
+          }
+        ],
+        "known": "品牌明确使用清爽与透气表达；实际偏好和溢价需要与丝滑型消费者分开研究。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "brooklinen",
+          "sheets-household"
+        ]
+      },
+      {
+        "id": "sheet-fit",
+        "scope": "sheets",
+        "entry": "床面贴合，翻身后不松脱",
+        "need_ids": [
+          "n2",
+          "n10"
+        ],
+        "category": "弹力床单／加固床笠",
+        "alternatives": [
+          "普通床笠",
+          "其他固定结构"
+        ],
+        "brands": [
+          {
+            "product_id": "sheex-sheets",
+            "concept": "弹力贴合",
+            "evidence": "claim"
+          }
+        ],
+        "known": "床单评论确认适配与固定是独立问题；SHEEX主推弹力，但尚未证明消费者已将其与固定优势关联。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "material-114",
+          "material-78"
+        ]
+      },
+      {
+        "id": "sheet-temperature",
+        "scope": "sheets",
+        "entry": "少闷热，也不想忽冷忽热",
+        "need_ids": [
+          "n5",
+          "n21"
+        ],
+        "category": "相变调温床单",
+        "alternatives": [
+          "普通薄床品",
+          "调整室温或覆盖厚度"
+        ],
+        "brands": [
+          {
+            "product_id": "slumber",
+            "concept": "吸热与释热调温",
+            "evidence": "claim"
+          }
+        ],
+        "known": "Slumber Cloud明确宣传温度缓冲；消费者是否把“调温”作为独立品类仍待验证。",
+        "unknown": "尚无无提示品牌提及和跨品牌认知调查；不判断谁已占领该心智。",
+        "source_keys": [
+          "slumber",
+          "outlast",
+          "reddit-rest"
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "id": "consumer",
+        "label": "消费者自述已有线索",
+        "style": "solid"
+      },
+      {
+        "id": "claim",
+        "label": "品牌正在宣传",
+        "style": "outline"
+      }
+    ],
+    "method": "依据定位系的品类阶梯与品牌关联思路，并结合用户算法先梳理需求与替代方案。没有无提示品牌提及、关联强度及优先选择数据时，不给品牌排心智名次，也不把没有证据的区域称为空白市场。",
+    "method_sources": [
+      "ries-original",
+      "ries-2026",
+      "user-algorithm",
+      "needs-accuracy"
+    ],
+    "opportunities_title": "从地图继续验证的方向",
+    "opportunities": [
+      {
+        "scope": "covers",
+        "title": "凉感被：保留覆盖感，同时减少闷热",
+        "basis": "有些人不能接受不盖或太轻的方案。先比较覆盖、重量与热湿表现的组合。",
+        "boundary": "需求已出现，规模、竞品满足程度和愿付价格未验证。",
+        "source_keys": [
+          "covering-need",
+          "blanket-use"
+        ]
+      },
+      {
+        "scope": "sheets",
+        "title": "凉感床单：凉爽、触感与长期使用一起兑现",
+        "basis": "有消费者同时要求透气、平滑、耐用；新买好用并不等于长期值得。",
+        "boundary": "还需比较同价位竞品和实际寿命，不能仅凭投诉宣布机会。",
+        "source_keys": [
+          "sheets-household",
+          "sheets-durability"
+        ]
+      }
+    ],
+    "validation_needed": "尚缺品牌无提示提及率、第一选择和愿付溢价；本图可用于确定研究方向，不能当成心智占有率或已确认市场空白。",
+    "scopes": [
+      {
+        "id": "all",
+        "label": "凉感床品整体",
+        "title": "先看消费者把什么当成解决办法",
+        "summary": "同一个“睡觉太热”问题，可能先比较换床品、减少覆盖或主动控温，再在所选品类里选品牌。"
+      },
+      {
+        "id": "covers",
+        "label": "凉感被",
+        "title": "围绕“盖着也不热”的品类选择",
+        "summary": "核心竞争不仅是其他凉感被，还包括薄毯、床单覆盖和保留被子后增加送风。"
+      },
+      {
+        "id": "sheets",
+        "label": "凉感床单",
+        "title": "围绕“清爽、舒服的床面”的选择",
+        "summary": "消费者可能按材料名称、触感或调温技术筛选；商家想建立的关联与已被记住的关联需分开。"
+      }
+    ]
+  },
+  "footer": {
+    "title": "来源与待补资料",
+    "text": "正文优先显示可用事实与研究结果；来源、未采用数据和待补内容保留在这里。",
+    "gaps": [
+      "美国凉感床品统一市场总额与品类占比",
+      "各产品同周期销量与跨平台销售拆分",
+      "完整消费者需求层级",
+      "品牌心智位次与溢价验证"
+    ],
+    "scope_note": "本页为行业基础与研究线索，品牌和单品的深入结论进入各自报告。"
+  },
+  "layout_version": 3
+}

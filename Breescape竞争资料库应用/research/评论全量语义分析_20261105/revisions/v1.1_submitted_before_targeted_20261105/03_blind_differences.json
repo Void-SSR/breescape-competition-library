@@ -1,0 +1,65 @@
+[
+  {
+    "review_id": 105,
+    "first_only": [
+      "G00+"
+    ],
+    "second_only": []
+  },
+  {
+    "review_id": 1,
+    "first_only": [],
+    "second_only": [
+      "G02+"
+    ]
+  },
+  {
+    "review_id": 377,
+    "first_only": [
+      "G00+"
+    ],
+    "second_only": []
+  },
+  {
+    "review_id": 151,
+    "first_only": [],
+    "second_only": [
+      "G02+"
+    ]
+  },
+  {
+    "review_id": 577,
+    "first_only": [
+      "T30+"
+    ],
+    "second_only": []
+  },
+  {
+    "review_id": 242,
+    "first_only": [],
+    "second_only": [
+      "G00+"
+    ]
+  },
+  {
+    "review_id": 519,
+    "first_only": [],
+    "second_only": [
+      "G00+"
+    ]
+  },
+  {
+    "review_id": 1289,
+    "first_only": [],
+    "second_only": [
+      "T29-"
+    ]
+  },
+  {
+    "review_id": 375,
+    "first_only": [],
+    "second_only": [
+      "G00-"
+    ]
+  }
+]

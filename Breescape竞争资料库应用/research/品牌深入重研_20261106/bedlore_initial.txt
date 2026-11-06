@@ -1,0 +1,315 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床单与枕套":
+    - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+    - generic: 床单与枕套
+  - link "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel":
+    - /url: https://shop.tiktok.com/us/pdp/california-king-bamboo-viscose-mattress-topper-deep-pocket-easy-care/1731362585480434000
+    - generic: 【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Bedlorehome":
+  - /url: https://shop.tiktok.com/us/store/bedlorehome/7495750085474290000
+- heading "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel" [level=1]
+- generic: "-27%"
+- generic: $
+- generic: "43"
+- generic: ".19"
+- generic: $58.99
+- generic: 免费运送
+- generic: "4.4"
+- generic: (1.4K)
+- generic: 已售 10.3K
+- button "成交件数":
+- generic: "Color:"
+- generic: Green
+- img "White"
+- generic: White
+- img "Dark Gray"
+- generic: Dark Gray
+- img "khaki"
+- generic: khaki
+- img "Green"
+- generic: Green
+- img "Black"
+- generic: Black
+- img "Pink"
+- generic: Pink
+- generic: "Bedding Size:"
+- generic: Twin
+- generic: Twin
+- generic: Twin XL
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: California King
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "Bedlorehome Bedlorehome 4.6 46.7K 已售出 12.3K+ Followers 88% 好评 <17 小时 问题解决 94% 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/bedlorehome/7495750085474290000
+  - img "Bedlorehome"
+  - generic: Bedlorehome
+  - generic: "4.6"
+  - text: 46.7K
+  - generic: 已售出
+  - generic: 12.3K+ Followers
+  - generic: 88%
+  - generic: 好评
+  - generic: <17 小时
+  - generic: 问题解决
+  - generic: 94%
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: Made with 40% bamboo viscose and 60% polyester for a premium feel
+- generic: •
+- generic: Breathable design helps keep sleepers cool and comfortable
+- generic: •
+- generic: Deep stretch pockets help the topper stay securely in place
+- generic: •
+- generic: Machine washable for convenient care and freshness
+- generic: •
+- generic: Available in multiple sizes, including Twin, Queen, King, and California King
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "Bedding size Double":
+      - cell "Bedding size"
+      - cell "Double"
+    - row "Sheets and pillowcases type Sheet":
+      - cell "Sheets and pillowcases type"
+      - cell "Sheet"
+    - row "Material Microfiber":
+      - cell "Material"
+      - cell "Microfiber"
+    - row "Feature Soft,Breathable,Skin-friendly,Warm,Durable,Fade resistant,Stain resistant,Wrinkle resistant":
+      - cell "Feature"
+      - cell "Soft,Breathable,Skin-friendly,Warm,Durable,Fade resistant,Stain resistant,Wrinkle resistant"
+    - row "Washing instructions Machine wash":
+      - cell "Washing instructions"
+      - cell "Machine wash"
+    - row "Quantity per pack 1":
+      - cell "Quantity per pack"
+      - cell "1"
+- generic: 查看更多
+- generic: 商品描述
+- generic: Size Options
+- generic: ·
+- generic: "Twin: 39'' * 75''"
+- generic: ·
+- generic: "Twin XL: 39'' * 80''"
+- generic: ·
+- generic: "Full: 54'' * 75''"
+- generic: ·
+- generic: "Queen: 60'' * 80''"
+- generic: ·
+- generic: "King: 78'' * 80''"
+- generic: ·
+- generic: "California King: 72'' * 84 ''"
+- generic: 【Premium Quality】Experience ultimate comfort with our padded California King mattress topper. Made from premium 40% bamboo viscose material and 60% polyester
+- generic: 【Breathable Design】Keep you cool and comfortable all night long with our California King mattress topper. Great for sensitive sleepers, made from natural bamboo viscose
+- generic: 【Enhanced Comfort】Enhance your sleep quality with this luxurious and durable California King mattress
+- generic: 【Deep Stretch Pockets】Deep pocket design and stretch bed skirt ensure a secure fit, preventing the soft mattress topper from shifting or sliding
+- generic: 【Easy Care and Maintenance】Our soft mattress topper is machine washable for convenience and long-lasting freshness
+- generic: "*Tips:"
+- generic: 1：The product is vacuum-compressed. Please allow it to rest for 3+ hours after unpacking. Washing and tumble drying will help it fluff up better.
+- generic: 2：Due to camera and lighting effects, the actual product may have slight differences from the video. Please purchase with caution if this is a concern！
+- generic: 3：If there is any issue with your order, please contact our customer service for confirmation. We will resolve it promptly.
+- generic: 4：Some buyers reported receiving white instead of charcoal gray. After verification, this was due to a misunderstanding of the packaging, not an incorrect color shipment, as shown in the example video.
+- generic: 5：FREE SHIPPING,FREE RETURN
+- img "【BEDLORE】 Bamboo Mattress Topper, Thicken Pillow Top Pad for Comfy Mattresses,6-18\" Deep Pocket, Pressure Relief Bedding Protector for Home & Hotel"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: The HomeEssentials BEDLORE Bamboo Mattress Topper is designed to add a softer, more comfortable layer to your bed. It combines 40% bamboo viscose with 60% polyester and features a breathable construction that supports a cooler sleep experience. The padded design is made for everyday use at home or in hotel settings. This mattress topper includes deep pocket stretch sides to help it fit securely and reduce shifting or sliding during the night. It is available in several bedding sizes, including Twin, Twin XL, Full, Queen, King, and California King, with color options listed in the product data such as Dark Gray, Green, Khaki, Pink, Black, and White. For easy maintenance, it is machine washable. The product is vacuum-compressed and may need time to fluff after unpacking.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What material is the BEDLORE Bamboo Mattress Topper made of? A:It is made from 40% bamboo viscose and 60% polyester.
+- generic: •
+- generic: Does this mattress topper have a secure fit? A:Yes. It features deep pocket design and stretch bed skirt details to help keep it in place.
+- generic: •
+- generic: What sizes are available? A:The available sizes listed are Twin, Twin XL, Full, Queen, King, and California King.
+- generic: •
+- generic: Is the mattress topper machine washable? A:Yes. The product description says it is machine washable.
+- generic: •
+- generic: What should I do after unpacking the topper? A:It is vacuum-compressed, so it should rest for 3+ hours after unpacking. Washing and tumble drying can help it fluff up better.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Hangzhou Beideluo Electronic Commerce Co., Ltd.
+- generic: •
+- generic: 公司地址（为方便起见，已自动翻译此地址）：Building 2-1, No. 347, Xiajiadai, Shanlian Village, Suoqian Town, Xiaoshan District, Hangzhou City, Zhejiang Province,Hangzhou,Zhejiang,China
+- generic: "4.4"
+- generic: 1376 条全球评价
+- generic: "5"
+- generic: "1008"
+- generic: "4"
+- generic: "129"
+- generic: "3"
+- generic: "72"
+- generic: "2"
+- generic: "50"
+- generic: "1"
+- generic: "117"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "v**r"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "v**r"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "v**r"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "T**9"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "T**9"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "T**9"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 6"
+- generic "T**9"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 1376 条评价（共 1376 条）
+- generic: 重置筛选条件
+- generic: v**r
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "It’s so soft and comfortable love this topper, non toxic so it’s kid friendly. I know I will sleep good tonight Material & Comfort: Feels cool to the touch breathable material"
+- generic: "商品:"
+- text: khaki, Queen
+- generic: 2026-07-13
+- generic: T**9
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Amazinggggggggg omg! This is insane comfy!!!
+- generic: "商品:"
+- text: Dark Gray, King
+- generic: 2026-07-14
+- generic: S**i R**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 2 out of 5 stars"':
+- generic: Not as thick as I expected. The picture on the site looks much fluffier/thicker
+- generic: "商品:"
+- text: Dark Gray, Queen
+- generic: 2026-05-05
+- generic: r**a h**z
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: "Material & Comfort: It’s not as thick as it was promised."
+- generic: "商品:"
+- text: khaki, King
+- generic: 2026-11-02
+- generic: C**i P**t
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: It isn’t like what is advertised it not thick and cushioned like the pics and advertisement for the price I paid for it I’m not satisfied with it
+- generic: "商品:"
+- text: Dark Gray, Twin
+- generic: 2026-10-24
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "276"
+- generic: 下一步

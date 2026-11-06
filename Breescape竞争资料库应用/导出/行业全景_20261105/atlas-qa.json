@@ -1,0 +1,86 @@
+[
+  [
+    "market",
+    "市场规模与结构"
+  ],
+  [
+    "products",
+    "细分品类与代表产品"
+  ],
+  [
+    "growth",
+    "增长记录"
+  ],
+  [
+    "materials",
+    "材料与技术"
+  ],
+  [
+    "needs",
+    "需求金字塔"
+  ],
+  [
+    "mindmap",
+    "心智地图"
+  ],
+  [
+    "filter",
+    3
+  ],
+  [
+    "review452",
+    "They are very soft and breathable! Not exactly silk or satin feeling but they are cooling! and that’s what i made the purchase for!"
+  ],
+  [
+    "brand-popup",
+    "REST Evercool凉感被"
+  ],
+  [
+    "term",
+    "q-max（接触凉感指标）"
+  ],
+  [
+    "legacy-sheets",
+    7
+  ],
+  [
+    "brand-preserved",
+    ""
+  ],
+  [
+    "mobile-market",
+    {
+      "width": 390,
+      "scroll": 390
+    }
+  ],
+  [
+    "mobile-products",
+    {
+      "width": 390,
+      "scroll": 390
+    }
+  ],
+  [
+    "mobile-needs",
+    {
+      "width": 390,
+      "scroll": 390
+    }
+  ],
+  [
+    "mobile-mindmap",
+    {
+      "width": 390,
+      "scroll": 390
+    }
+  ],
+  [
+    "print-sections",
+    6
+  ],
+  [
+    "runtime-errors",
+    []
+  ]
+]

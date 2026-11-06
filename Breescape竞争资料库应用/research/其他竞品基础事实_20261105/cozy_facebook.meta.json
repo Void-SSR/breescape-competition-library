@@ -1,0 +1,12 @@
+{
+  "key": "cozy_facebook",
+  "url": "https://www.facebook.com/cozyblissofficial",
+  "retrieved_at": "2026-11-05T14:40:14+08:00",
+  "status": 200,
+  "final_url": "https://www.facebook.com/cozyblissofficial",
+  "bytes": 505055,
+  "links": [],
+  "images": [
+    "<meta property=\"og:image\" content=\"https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/264457976_109599558232691_4221673339304748967_n.png?stp=dst-png&amp;cstp=mx278x278&amp;ctp=s278x278&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=3ab345&amp;_nc_ohc=wJSpHWisXpUQ7kNvwEyVvTO&amp;_nc_oc=AdoeRmFkCQqw42t0TYzjHnHO9P4B9zlUH7tfGCDxS5NN6jlkF6fiPIFiELU9WhCWaZw&amp;_nc_zt=24&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=pB9TIIgsYbEH0_hgI1L6-w&amp;_nc_ss=7020f&amp;oh=00_AQQbrYPumG-JKFvPwnjjWbbQV3EEMJ-ZN7JO52iBUNq9xg&amp;oe=6AF1DBF7\" />"
+  ]
+}

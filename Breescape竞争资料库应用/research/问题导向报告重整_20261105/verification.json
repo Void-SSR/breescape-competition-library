@@ -1,0 +1,103 @@
+{
+  "completed_at": "2026-11-05T12:31:18+08:00",
+  "ui": {
+    "passed": true,
+    "questions": 39,
+    "feedback_rows": 83,
+    "top_marks": 6,
+    "hierarchy": {
+      "title": 19,
+      "evidence": 13
+    },
+    "errors": [],
+    "download": "Shilucheng_品牌研究总览_问题导向版_2026-11-05.zip"
+  },
+  "offline": {
+    "passed": true,
+    "missing_local_links": [],
+    "page_errors": [],
+    "videos": [
+      {
+        "id": 56,
+        "duration": 7.966667,
+        "playing": true
+      },
+      {
+        "id": 57,
+        "duration": 12.266667,
+        "playing": true
+      },
+      {
+        "id": 58,
+        "duration": 16.133333,
+        "playing": true
+      },
+      {
+        "id": 59,
+        "duration": 20.733333,
+        "playing": true
+      },
+      {
+        "id": 60,
+        "duration": 17.533333,
+        "playing": true
+      }
+    ]
+  },
+  "preservation": {
+    "passed": true,
+    "changed_tables": {
+      "materials": {
+        "added": [
+          89,
+          90,
+          91
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "material_links": {
+        "added": [
+          162,
+          163,
+          164
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "records": {
+        "added": [],
+        "changed": [
+          12,
+          68
+        ],
+        "removed": []
+      },
+      "brand_reports": {
+        "added": [],
+        "changed": [
+          "shilucheng"
+        ],
+        "removed": []
+      }
+    },
+    "protected_files": 202,
+    "unchanged_tables": [
+      "meta",
+      "brands",
+      "products",
+      "observations",
+      "reviews",
+      "imports",
+      "events"
+    ]
+  },
+  "framework_questions": 39,
+  "unit_tests": {
+    "passed": 24,
+    "failed": 0
+  },
+  "report": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_问题导向版_2026-11-05/报告.html",
+  "zip": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/报告导出/Shilucheng_品牌研究总览_问题导向版_2026-11-05.zip",
+  "zip_sha256": "00b65be11d938187243265f12ff50c0518b0a5b6aee10b0b7b603d72abe69c7c"
+}

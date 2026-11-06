@@ -1,0 +1,335 @@
+- complementary:
+  - navigation:
+    - link "TikTok Shop Logo":
+      - /url: https://shop.tiktok.com/us
+      - img "TikTok Shop Logo"
+    - button "collapse-sidebar":
+    - button "Categories":
+      - generic: Categories
+    - button "Orders":
+      - generic: Orders
+    - button "销售":
+      - generic: 销售
+    - button "客户支持":
+      - generic: 客户支持
+    - button "更多":
+      - generic: 更多
+  - generic: 选购
+  - generic: 销售
+  - generic: 关于
+  - generic: 客户支持
+  - generic: 法律信息
+  - generic: © 2026 TikTok
+- textbox "Search":
+  - /placeholder: ""
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "Shilucheng Home":
+    - /url: https://shop.tiktok.com/us/store/shilucheng-home/7495541840241986289
+    - generic: Shilucheng Home
+- img "background preload poster image"
+- img "Shilucheng Home shop logo"
+- button "Shilucheng Home"
+- generic: 33.3K+
+- generic: 粉丝
+- generic: 688.2K
+- generic: 已售出
+- generic: "1093"
+- generic: 视频数
+- button "Follow":
+  - generic: Follow
+- region "Shop coupons":
+  - article "5% 折扣":
+    - generic: From Shilucheng Home
+    - strong: 5%
+    - generic: 折扣
+    - paragraph: 无最低消费金额
+    - button "View terms for 5% 折扣":
+    - button "Claim":
+      - generic: Claim
+- heading [level=2]
+- img "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant"
+- generic: Free shipping
+- link "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865
+  - heading "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 435.9K 已售出
+- generic: "-50%"
+- text: $32
+- generic: ".37"
+- text: $64.74
+- button:
+- img "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable"
+- generic: Free shipping
+- link "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657
+  - heading "Shilucheng Mattress Topper - Extra Thick Soft Mattress Protector, Cooling Down Alternative Fill, Bamboo Top Mattress Pad Cover with 8-21\" Deep Pocket, Breathable & Comfortable" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 70.8K 已售出
+- generic: "-50%"
+- text: $41
+- generic: ".90"
+- text: $83.80
+- button:
+- img "Shilucheng Bamboo Viscose Bedding Mattress Topper - Soft Mattress Pad, Extra Plush Cooling Breathable Quilted Supportive Bed Pad, Enhanced Support, Pressure Relief, Deep Pocket Fitted, Cloud-Like Comfort (Queen, California King)"
+- generic: Free shipping
+- link "Shilucheng Bamboo Viscose Bedding Mattress Topper - Soft Mattress Pad, Extra Plush Cooling Breathable Quilted Supportive Bed Pad, Enhanced Support, Pressure Relief, Deep Pocket Fitted, Cloud-Like Comfort (Queen, California King)":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-2-inch-soft-pillow-top-with-deep-pockets/1729572170269627121
+  - heading "Shilucheng Bamboo Viscose Bedding Mattress Topper - Soft Mattress Pad, Extra Plush Cooling Breathable Quilted Supportive Bed Pad, Enhanced Support, Pressure Relief, Deep Pocket Fitted, Cloud-Like Comfort (Queen, California King)" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 42.1K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $58
+- generic: ".37"
+- button:
+- img "Shilucheng 330gsm Flannel Fleece Throw Blanket - Cozy Warm Fluffy Blanket with Gentle Heat, Soft Lightweight Plush California King Textile for Couch, Bedroom Room & House Decor, Cozy Warm Blanket"
+- link "Shilucheng 330gsm Flannel Fleece Throw Blanket - Cozy Warm Fluffy Blanket with Gentle Heat, Soft Lightweight Plush California King Textile for Couch, Bedroom Room & House Decor, Cozy Warm Blanket":
+  - /url: https://shop.tiktok.com/us/pdp/faux-fur-blanket-by-shilucheng-ultra-soft-striped-throw-750gsm-comfort/1730403164818477809
+  - heading "Shilucheng 330gsm Flannel Fleece Throw Blanket - Cozy Warm Fluffy Blanket with Gentle Heat, Soft Lightweight Plush California King Textile for Couch, Bedroom Room & House Decor, Cozy Warm Blanket" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 29.5K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $34
+- generic: ".38"
+- button:
+- img "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option"
+- generic: Free shipping
+- link "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-silky-soft-4-6-piece-luxury-bed-set/1729487632333247217
+  - heading "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 28.6K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-40%"
+- text: $31
+- generic: ".04"
+- text: $51.74
+- button:
+- img "Shilucheng Natural French Flax Linen 4-Piece Queen Bedding Sheets Set - Farmhouse Style, Soft Comfy Bedding, Body-Safe Fabric, Self-Cleans Linen, Cooling, Moisture-Wicking, 16-in Deep Pocket, Anti-Tear, Eco-Friendly, Machine Wash Easy Care"
+- generic: Free shipping
+- link "Shilucheng Natural French Flax Linen 4-Piece Queen Bedding Sheets Set - Farmhouse Style, Soft Comfy Bedding, Body-Safe Fabric, Self-Cleans Linen, Cooling, Moisture-Wicking, 16-in Deep Pocket, Anti-Tear, Eco-Friendly, Machine Wash Easy Care":
+  - /url: https://shop.tiktok.com/us/pdp/linen-sheet-set-by-shilucheng-100-french-pure-linen-breathable-machine-washable/1729544357107110641
+  - heading "Shilucheng Natural French Flax Linen 4-Piece Queen Bedding Sheets Set - Farmhouse Style, Soft Comfy Bedding, Body-Safe Fabric, Self-Cleans Linen, Cooling, Moisture-Wicking, 16-in Deep Pocket, Anti-Tear, Eco-Friendly, Machine Wash Easy Care" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 13.3K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-50%"
+- text: $144
+- generic: ".90"
+- text: $289.80
+- button:
+- img "Shilucheng 7-Piece Soft Microfiber Bedding Set - Ultra Soft Fluffy All-Season Bed-in-a-Bag, Breathable Duvet Set with Sheets, Geometric Design for Home Decor, Cozy Lightweight Warmth (Multiple Colors)"
+- generic: Free shipping
+- link "Shilucheng 7-Piece Soft Microfiber Bedding Set - Ultra Soft Fluffy All-Season Bed-in-a-Bag, Breathable Duvet Set with Sheets, Geometric Design for Home Decor, Cozy Lightweight Warmth (Multiple Colors)":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-shilucheng-luxury-7-piece-king-all-season-ultra-soft-bed-in-a-bag/1730975464118194929
+  - heading "Shilucheng 7-Piece Soft Microfiber Bedding Set - Ultra Soft Fluffy All-Season Bed-in-a-Bag, Breathable Duvet Set with Sheets, Geometric Design for Home Decor, Cozy Lightweight Warmth (Multiple Colors)" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 6.6K 已售出
+- generic: "-50%"
+- text: $51
+- generic: ".87"
+- text: $103.74
+- button:
+- img "CozyQuil Neutral Vintage Style Sisal Flat Weave Indoor Area Rug - 0.24\" Velvet Soft, Absorbent, Non-Shedding, Durable, Machine Washable for Bedroom & House Decor"
+- generic: Free shipping
+- link "CozyQuil Neutral Vintage Style Sisal Flat Weave Indoor Area Rug - 0.24\" Velvet Soft, Absorbent, Non-Shedding, Durable, Machine Washable for Bedroom & House Decor":
+  - /url: https://shop.tiktok.com/us/pdp/neutral-washable-area-rug-by-shilucheng-stain-resistant-microfiber-carpet/1729542077187724017
+  - heading "CozyQuil Neutral Vintage Style Sisal Flat Weave Indoor Area Rug - 0.24\" Velvet Soft, Absorbent, Non-Shedding, Durable, Machine Washable for Bedroom & House Decor" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 5.8K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-50%"
+- text: $19
+- generic: ".37"
+- text: $38.74
+- button:
+- img "Natural Linen Bedding Sheet Set - Deep Pocket Cooling Flat Weave, Breathable, Temperature-Regulated, Durable, Eco-Friendly, Softens With Use, Easy Machine Wash, Fits All Sizes Including California King, King, Relaxed Farmhouse Texture"
+- generic: Free shipping
+- link "Natural Linen Bedding Sheet Set - Deep Pocket Cooling Flat Weave, Breathable, Temperature-Regulated, Durable, Eco-Friendly, Softens With Use, Easy Machine Wash, Fits All Sizes Including California King, King, Relaxed Farmhouse Texture":
+  - /url: https://shop.tiktok.com/us/pdp/ultra-soft-linen-bedding-sets-eco-friendly-design-easy-care/1729489737949288177
+  - heading "Natural Linen Bedding Sheet Set - Deep Pocket Cooling Flat Weave, Breathable, Temperature-Regulated, Durable, Eco-Friendly, Softens With Use, Easy Machine Wash, Fits All Sizes Including California King, King, Relaxed Farmhouse Texture" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 4.7K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $144
+- generic: ".90"
+- button:
+- img "Shilucheng Arc-Chill Cooling Queen Comforter (90\"x90\") - Q-Max >0.4 Nylon Flat Weave Fabric, All-Season Snow Ivory Down Alternative Soft Bed Cover, Lightweight Bedspreads, Breathable, Machine Washable Bedding, Wrinkle & Fade Resistant for Hot Sleepers"
+- link "Shilucheng Arc-Chill Cooling Queen Comforter (90\"x90\") - Q-Max >0.4 Nylon Flat Weave Fabric, All-Season Snow Ivory Down Alternative Soft Bed Cover, Lightweight Bedspreads, Breathable, Machine Washable Bedding, Wrinkle & Fade Resistant for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-comforter-shilucheng-q-max-0-4-technology-breathable-soft-blanket-perfect-for-hot-sleepers/1731085622329905905
+  - heading "Shilucheng Arc-Chill Cooling Queen Comforter (90\"x90\") - Q-Max >0.4 Nylon Flat Weave Fabric, All-Season Snow Ivory Down Alternative Soft Bed Cover, Lightweight Bedspreads, Breathable, Machine Washable Bedding, Wrinkle & Fade Resistant for Hot Sleepers" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 3.3K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $49
+- generic: ".90"
+- button:
+- img "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use"
+- generic: Free shipping
+- link "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use":
+  - /url: https://shop.tiktok.com/us/pdp/pure-bamboo-viscose-sheet-set-cool-comfortable-extra-deep/1732321993145422577
+  - heading "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 3.1K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $64
+- generic: ".87"
+- button:
+- img "Shilucheng Queen Size 1 Inch Bed Gap Filler Wedge Pillow - Cotton Flat Weave Breathable Removable Machine Wash Cover, Side Pocket, Firm Cozy Memory Foam Backrest for Reading, Leg Support"
+- link "Shilucheng Queen Size 1 Inch Bed Gap Filler Wedge Pillow - Cotton Flat Weave Breathable Removable Machine Wash Cover, Side Pocket, Firm Cozy Memory Foam Backrest for Reading, Leg Support":
+  - /url: https://shop.tiktok.com/us/pdp/shilucheng-wedge-pillow-for-bed-gap-filler-backrest/1731574289080685297
+  - heading "Shilucheng Queen Size 1 Inch Bed Gap Filler Wedge Pillow - Cotton Flat Weave Breathable Removable Machine Wash Cover, Side Pocket, Firm Cozy Memory Foam Backrest for Reading, Leg Support" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 2.8K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $35
+- generic: ".08"
+- button:
+- img "Bamboo Mattress Topper Lightweight Cooling Breathable, Deep Pocket Fitted, Back Pain Relief, Hotel-Level Plush, All Season Comfort (California King Size)"
+- generic: Free shipping
+- link "Bamboo Mattress Topper Lightweight Cooling Breathable, Deep Pocket Fitted, Back Pain Relief, Hotel-Level Plush, All Season Comfort (California King Size)":
+  - /url: https://shop.tiktok.com/us/pdp/shilucheng-bamboo-1200gsm-mattress-topper-back-pain-relief/1731974512079966961
+  - heading "Bamboo Mattress Topper Lightweight Cooling Breathable, Deep Pocket Fitted, Back Pain Relief, Hotel-Level Plush, All Season Comfort (California King Size)" [level=3]
+- generic: "4.1"
+- 'img "Rating: 4.1 out of 5 stars"':
+- generic: 2.6K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-50%"
+- text: $45
+- generic: ".37"
+- text: $90.74
+- button:
+- img "Shilucheng Bamboo Sheet Set, OEKO-TEX Certified, Queen/California King/Full Size, Dark Grey, 4/6-Piece, All-Season Cooling, 16\" Deep Pocket Fitted Sheets, Anti-Mite, Breathable, Wrinkle Resistant, Hot Sleeper Solution"
+- generic: Free shipping
+- link "Shilucheng Bamboo Sheet Set, OEKO-TEX Certified, Queen/California King/Full Size, Dark Grey, 4/6-Piece, All-Season Cooling, 16\" Deep Pocket Fitted Sheets, Anti-Mite, Breathable, Wrinkle Resistant, Hot Sleeper Solution":
+  - /url: https://shop.tiktok.com/us/pdp/shilucheng-bamboo-viscose-bed-set-soft-cool-oeko-tex/1729476060943192817
+  - heading "Shilucheng Bamboo Sheet Set, OEKO-TEX Certified, Queen/California King/Full Size, Dark Grey, 4/6-Piece, All-Season Cooling, 16\" Deep Pocket Fitted Sheets, Anti-Mite, Breathable, Wrinkle Resistant, Hot Sleeper Solution" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 2.3K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $49
+- generic: ".90"
+- button:
+- img "Shilucheng Multi-Size Rectangle Memory Foam Bath Rug - Soft Velvet, Ultra Absorbent, Anti-Slip Rubber Backing (Resists Wear), Water-Resistant, Machine Washable, Wrinkle-Resistant, Flat Weave for Bathroom/Floor Indoor Use, Shake-Fresh Upkeep"
+- generic: Free shipping
+- link "Shilucheng Multi-Size Rectangle Memory Foam Bath Rug - Soft Velvet, Ultra Absorbent, Anti-Slip Rubber Backing (Resists Wear), Water-Resistant, Machine Washable, Wrinkle-Resistant, Flat Weave for Bathroom/Floor Indoor Use, Shake-Fresh Upkeep":
+  - /url: https://shop.tiktok.com/us/pdp/cozy-memory-foam-bath-mat-by-shilucheng-ultra-absorbent-non-slip/1729467326750298865
+  - heading "Shilucheng Multi-Size Rectangle Memory Foam Bath Rug - Soft Velvet, Ultra Absorbent, Anti-Slip Rubber Backing (Resists Wear), Water-Resistant, Machine Washable, Wrinkle-Resistant, Flat Weave for Bathroom/Floor Indoor Use, Shake-Fresh Upkeep" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 1.3K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-21%"
+- text: $23
+- generic: ".60"
+- text: $29.80
+- button:
+- img "Shilucheng Memory Foam Mattress Topper - Double Fitted Mattress Pad, Quilted Surface, Flat Weave Cover, Cooling Mesh, Ergonomic Back Pain Relief, Improved Posture, All-Season Breathable, Certified Safe & Easy to Care, Deep Pocket (Fits 6-18 in Beds)"
+- link "Shilucheng Memory Foam Mattress Topper - Double Fitted Mattress Pad, Quilted Surface, Flat Weave Cover, Cooling Mesh, Ergonomic Back Pain Relief, Improved Posture, All-Season Breathable, Certified Safe & Easy to Care, Deep Pocket (Fits 6-18 in Beds)":
+  - /url: https://shop.tiktok.com/us/pdp/ergonomic-memory-foam-mattress-topper-bamboo-viscose-mesh/1731579417331995377
+  - heading "Shilucheng Memory Foam Mattress Topper - Double Fitted Mattress Pad, Quilted Surface, Flat Weave Cover, Cooling Mesh, Ergonomic Back Pain Relief, Improved Posture, All-Season Breathable, Certified Safe & Easy to Care, Deep Pocket (Fits 6-18 in Beds)" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 1.0K 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- text: $54
+- generic: ".90"
+- button:
+- img "Shilucheng Faux Rabbit Fur Fluffy Home Textile Blanket - Queen Size 50\"x70\", 850 GSM Plush Lofty Fur Top, 2-Texture Smooth, Breathable, Wrinkle-Resistant, Shake-Fluff Ready, for Bed & Couch"
+- generic: Free shipping
+- link "Shilucheng Faux Rabbit Fur Fluffy Home Textile Blanket - Queen Size 50\"x70\", 850 GSM Plush Lofty Fur Top, 2-Texture Smooth, Breathable, Wrinkle-Resistant, Shake-Fluff Ready, for Bed & Couch":
+  - /url: https://shop.tiktok.com/us/pdp/faux-blanket-by-shilucheng-super-soft-plush-comfort-for-home/1730314539146646257
+  - heading "Shilucheng Faux Rabbit Fur Fluffy Home Textile Blanket - Queen Size 50\"x70\", 850 GSM Plush Lofty Fur Top, 2-Texture Smooth, Breathable, Wrinkle-Resistant, Shake-Fluff Ready, for Bed & Couch" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 718 已售出
+- generic: "-50%"
+- text: $37
+- generic: ".90"
+- text: $75.80
+- button:
+- img "Shilucheng 100% Bamboo Cooling Pillowcases - 2-Pack Solid Color, Absorbent, Breathable, Durable, Wrinkle-Resistant, Fade-Resistant, Eco-Friendly Flat Weave Bedding for Hot Sleepers, Machine Washable, All Seasons (No Pillow Included)"
+- generic: Free shipping
+- link "Shilucheng 100% Bamboo Cooling Pillowcases - 2-Pack Solid Color, Absorbent, Breathable, Durable, Wrinkle-Resistant, Fade-Resistant, Eco-Friendly Flat Weave Bedding for Hot Sleepers, Machine Washable, All Seasons (No Pillow Included)":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-body-pillowcase-by-shilucheng-20x54-bamboo-moisture-wicking/1729544439011840753
+  - heading "Shilucheng 100% Bamboo Cooling Pillowcases - 2-Pack Solid Color, Absorbent, Breathable, Durable, Wrinkle-Resistant, Fade-Resistant, Eco-Friendly Flat Weave Bedding for Hot Sleepers, Machine Washable, All Seasons (No Pillow Included)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 694 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-42%"
+- text: $19
+- generic: ".37"
+- text: $33.54
+- button:
+- img "CozyQuil 8x10 Machine Washable Faux Wool Cozy Area Rug - 0.7mm Ultra-Thin, Stain-Resistant, Non-Slip Backing, Durable Vintage Boho Decorative Rug for Living Room, Bedroom"
+- generic: Free shipping
+- link "CozyQuil 8x10 Machine Washable Faux Wool Cozy Area Rug - 0.7mm Ultra-Thin, Stain-Resistant, Non-Slip Backing, Durable Vintage Boho Decorative Rug for Living Room, Bedroom":
+  - /url: https://shop.tiktok.com/us/pdp/abstract-area-rug-8x10-by-shilucheng-soft-indoor-modern-design/1730860186458428145
+  - heading "CozyQuil 8x10 Machine Washable Faux Wool Cozy Area Rug - 0.7mm Ultra-Thin, Stain-Resistant, Non-Slip Backing, Durable Vintage Boho Decorative Rug for Living Room, Bedroom" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 489 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-25%"
+- text: $19
+- generic: ".37"
+- text: $25.74
+- button:
+- img "Shilucheng 3-Piece Luxury Pure Natural French Linen Duvet Cover Set - Lightweight, Breathable, Durable, Comfy Bedding Set with Zipper Closure, Corner Ties, Bedroom Decor, Aesthetic & Designer Style for Daily Elegance"
+- generic: Free shipping
+- link "Shilucheng 3-Piece Luxury Pure Natural French Linen Duvet Cover Set - Lightweight, Breathable, Durable, Comfy Bedding Set with Zipper Closure, Corner Ties, Bedroom Decor, Aesthetic & Designer Style for Daily Elegance":
+  - /url: https://shop.tiktok.com/us/pdp/linen-duvet-cover-set-by-shilucheng-100-french-linen-king-size-soft-durable/1731509802921595633
+  - heading "Shilucheng 3-Piece Luxury Pure Natural French Linen Duvet Cover Set - Lightweight, Breathable, Durable, Comfy Bedding Set with Zipper Closure, Corner Ties, Bedroom Decor, Aesthetic & Designer Style for Daily Elegance" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 443 已售出
+- generic: Flash sale
+- generic: 03:19:52
+- generic: "-50%"
+- text: $168
+- generic: ".87"
+- text: $337.74
+- button:
+- button "查看更多"

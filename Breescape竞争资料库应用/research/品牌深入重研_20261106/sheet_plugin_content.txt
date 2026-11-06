@@ -1,0 +1,104 @@
+- dialog "标识 ·商品速览 关闭":
+  - img "标识"
+  - generic: ·
+  - generic: 商品速览
+  - img "关闭":
+  - generic: 世露城竹纤维床单套装 - 4/6 件套床上用品，16 英寸深口袋，轻盈斜纹，光滑贴身，凉爽透气，酒店级奢华超丝滑柔软，抗皱防褪色
+  - generic: 32.37 美元 | 已售 435.8k | 4.4 (46.2k)
+  - tablist:
+    - tab "概述":
+      - generic: 概述
+    - tab "评价":
+      - generic: 评价
+    - tab "内容" [active] [selected]:
+      - generic: 内容
+    - tab "竞品":
+      - generic: 竞品
+  - tabpanel "内容":
+    - generic: 官方AI总结
+    - button "translation":
+      - img "translation":
+    - text: · 标题
+    - generic: Shilucheng Bamboo Sheet Set, 16" Deep Pocket
+    - text: · 描述
+    - generic: Shilucheng Bamboo Sheet Set features a 16" deep pocket fit, soft twill weave, and breathable moisture control for cool, comfortable sleep.
+    - text: · 卖点
+    - generic: • Made with 60% rayon derived from bamboo and 40% polyester fiber
+    - generic: • Deep pocket fitted sheet stretches to fit mattresses up to 16 inches thick
+    - generic: • Twill weave creates a smooth, silky-soft feel
+    - generic: • Cooling and breathable design helps absorb moisture and heat
+    - generic: • Machine washable and easy to care for
+    - text: · 关键词
+    - generic: Shilucheng Bamboo Sheet Set
+    - generic: bamboo sheets
+    - generic: 16 deep pocket sheets
+    - generic: cooling breathable bedding
+    - generic: soft twill fitted sheets
+    - generic: queen bamboo sheet set
+    - generic: wrinkle resistant sheets
+    - generic: fade resistant bedding
+    - generic: 商品属性、素材
+    - button "translation":
+      - img "translation":
+    - table:
+      - rowgroup:
+        - row "品牌 Shilucheng":
+          - rowheader "品牌"
+          - cell "Shilucheng"
+        - row "Weave type Sateen":
+          - rowheader "Weave type"
+          - cell "Sateen"
+        - row "Included components Fitted sheet,Flat Sheet,Pillowcase":
+          - rowheader "Included components"
+          - cell "Fitted sheet,Flat Sheet,Pillowcase"
+        - row "Closure type Zipper,Envelope,Elastic":
+          - rowheader "Closure type"
+          - cell "Zipper,Envelope,Elastic"
+        - row "Theme Modern,Floral,Solid,Christmas":
+          - rowheader "Theme"
+          - cell "Modern,Floral,Solid,Christmas"
+        - row "Weave Flat weave":
+          - rowheader "Weave"
+          - cell "Flat weave"
+        - row "Sheets and pillowcases type Set":
+          - rowheader "Sheets and pillowcases type"
+          - cell "Set"
+        - row "Material Bamboo,Microfiber":
+          - rowheader "Material"
+          - cell "Bamboo,Microfiber"
+        - row "Feature Soft,Fade resistant":
+          - rowheader "Feature"
+          - cell "Soft,Fade resistant"
+        - row "Washing instructions Machine wash":
+          - rowheader "Washing instructions"
+          - cell "Machine wash"
+        - row "Style Modern":
+          - rowheader "Style"
+          - cell "Modern"
+        - row "Season Summer,All seasons,Spring,Fall":
+          - rowheader "Season"
+          - cell "Summer,All seasons,Spring,Fall"
+        - row "Quantity per pack 4/6":
+          - rowheader "Quantity per pack"
+          - cell "4/6"
+        - row "Pattern Plain":
+          - rowheader "Pattern"
+          - cell "Plain"
+        - row "Dangerous goods or hazardous materials No":
+          - rowheader "Dangerous goods or hazardous materials"
+          - cell "No"
+    - generic: 相关视频和达人（TOP15）
+    - button "file-excel" [disabled]:
+      - img "file-excel":
+    - button "download" [disabled]:
+      - img "download":
+    - table:
+      - rowgroup:
+        - row "封面 达人 点赞 操作":
+          - columnheader "封面"
+          - columnheader "达人"
+          - columnheader "点赞"
+          - columnheader "操作"
+      - rowgroup:
+        - row "暂无数据":
+          - cell "暂无数据"

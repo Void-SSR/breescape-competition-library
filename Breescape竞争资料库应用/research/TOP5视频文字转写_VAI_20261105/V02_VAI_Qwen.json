@@ -1,0 +1,81 @@
+{
+  "audio_seconds": 12.235,
+  "detection_seconds": 0.0375272500095889,
+  "asr_seconds": 0.4910893749911338,
+  "alignment_seconds": 0.20506399997975677,
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 1.1600000000000001,
+      "acoustic_interval": [
+        0.04,
+        1.76
+      ],
+      "text": "I.",
+      "language": "English",
+      "asr_seconds": 0.23482095799408853,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.36,
+          "end": 1.1600000000000001
+        }
+      ]
+    },
+    {
+      "start": 2.24,
+      "end": 2.88,
+      "acoustic_interval": [
+        1.76,
+        3.6
+      ],
+      "text": "Am an autumn.",
+      "language": "English",
+      "asr_seconds": 0.12835908299894072,
+      "words": [
+        {
+          "text": "Am",
+          "start": 2.24,
+          "end": 2.4
+        },
+        {
+          "text": "an",
+          "start": 2.4,
+          "end": 2.48
+        },
+        {
+          "text": "autumn",
+          "start": 2.56,
+          "end": 2.88
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 5.272,
+      "acoustic_interval": [
+        3.6,
+        5.272
+      ],
+      "text": "Oh, oh.",
+      "language": "English",
+      "asr_seconds": 0.12790933399810456,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 4.16,
+          "end": 4.24
+        },
+        {
+          "text": "oh",
+          "start": 4.24,
+          "end": 4.24
+        }
+      ],
+      "alignment_fallback": "逐词对齐出现空时长、逆序或越界，沿用语音检测区间"
+    }
+  ],
+  "text": "I.\nAm an autumn.\nOh, oh.",
+  "warnings": [],
+  "timeline_valid": true
+}

@@ -1,0 +1,39 @@
+﻿code,label,domain,include,exclude,example_review_id,example_quote,role
+T01,柔软／粗糙／僵硬,产品触感,明确soft、rough、scratchy、stiff等触感评价；保留条件和比较基准。,仅comfy、质量好、丝滑、对既往竞品的好评不能代入。,263,Soft,specific_theme
+T02,顺滑／丝滑,产品触感,明确silky、smooth及其否定。,柔软不是丝滑；黏皮肤单列黏附。,423,Nor silky,specific_theme
+T03,凉感／温度体验,热湿体验,实际凉、不凉、发热或出汗；子项保留时段与表现，汇总时同条同方向只计一次。,为凉感而买、包装未写凉感、单纯breathable不等于实际凉感。,221,keep us cool throughout the night without getting too hot.,specific_theme
+T04,透气体验,热湿体验,明确透气、airy、breathable或否定。,凉不自动等于透气；这里只记录自述，不宣称测试性能。,1331,They are not at all breathable,specific_theme
+T05,轻重,材料形态,明确重量或lightweight，态度另判。,薄不必然轻；中性描述不能计作认可。,296,Very light weight.,specific_theme
+T06,厚薄,材料形态,明确thin、thick；原文评价决定正负。,flimsy只说明脆弱感；thing疑似笔误先留未决。,277,but are very thin.,specific_theme
+T07,尺寸／深度适配,适配,明确大小、床垫覆盖或贴合尺寸。,错发另一规格属履约；脱角不自动等于尺寸错误。,1389,Doesn't fit my normal queen size bed at all.,specific_theme
+T08,固定性／滑脱,适配,stay in place、slip off、corners pop等明确固定表现。,单说fit不计；stretch out但未说明滑脱单列伸长；相对少滑不计正向。,859,sheets don’t stay tight. Pulling off the corners after just one night.,specific_theme
+T09,颜色喜好／搭配,外观,喜欢颜色、与室内搭配满意。,与图片不一致单列；购后喜欢颜色不能倒推购买理由。,1620,the color matches my accent wall perfectly!,specific_theme
+T10,颜色与展示一致,信息与实物感知,明确比较收到的颜色和图片展示。,颜色喜欢与否不同于色差；不据此证明拍摄或制造原因。,851,the color doesn’t match the picture.,specific_theme
+T11,起球,使用稳定性,明确已起球或使用后明确无起球。,未来担心peel不等于已起球；peel含义不明不强译。,28,No pilling!,specific_theme
+T12,褶皱,使用稳定性,明确皱或不皱。,白线未说明是褶皱；一般洗得好不能推断抗皱。,1142,It is not wrinkle free.,specific_theme
+T13,破裂／开线,使用稳定性,明确rip、tear及接缝开裂，保留发生位置。,勾丝单列；洗后发生不等于已证实洗涤导致。,1142,the fabric is already tearing at tge seams.,specific_theme
+T14,勾丝,使用稳定性,明确snag等勾丝。,未写破洞不并入破裂；原因不推定。,1622,all the sheets were snagged all over.,specific_theme
+T15,伸长／变形,使用稳定性,明确使用后stretch out等形态改变；正负须有具体评价，普通伸长描述可为中性。,仅滑脱不倒推变形；未观察到的缩水不硬填。,1331,stretch out like most sheets over a period of days.,specific_theme
+T16,黏附皮肤,产品触感,明确感觉粘身或黏附。,不丝滑、不透气不能自动变成黏附。,1331,My husband feels like he sticks to them.,specific_theme
+T17,同款不同规格体验一致性,商品一致性,明确同款不同颜色/套组对比存在差异。,其他品牌对比不算批次差；不推断已验证制造原因。,1284,the texture and feel of them are not the same at all.,specific_theme
+T18,材料说明／预期落差,信息与预期,消费者明确认为材料与广告、描述或原先预期不同。,只写polyester、Like cotton不代表不满或实际成分已核。,831,material not what description said,specific_theme
+T19,宣称文字一致／缺失,信息与预期,明确不同载体文字有差异，例如页面写凉感、包装未写。,已明确某性能不满意只编码该具体属性，宽泛false advertising作为情境。,1245,"The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",specific_theme
+T20,气味,到货体验,明确好闻、烟味等气味感知。,清洁不自动等于无气味；气味不证明实际污染源。,1245,it smelled like cigarette smoke intensely.,specific_theme
+T21,到货清洁／新旧状态,到货体验,明确clean、疑似拆封或使用过等到货观察；注明怀疑程度。,气味、错发单列；疑似退货件不写为卖家事实。,202,"looked like someone bought the sheets, didn't like the sheets, repackaged them and returned them.",specific_theme
+T22,发货规格准确性,履约,明确所订和收到规格不一致。,标签Queen却不合Queen床不等于发错Twin。,15,Ordered a queen and got a twin size,specific_theme
+T23,配送时效,履约,明确快慢配送感受。,未收到补发不算原订单配送；无具体发货/运输环节不细分。,3,fast shipping,specific_theme
+T24,客服沟通／响应,服务,明确客服友好、响应、沟通态度。,愿意补发不等于实际完成；改评要求单列。,1625,The seller was very nice to me and was willing to send me a new pair.,specific_theme
+T25,补发履约,服务,明确承诺后的补发是否收到。,卖家愿意寄但尚无结果不能记补发成功。,1619,Never sent new ones.,specific_theme
+T26,改评要求相关自述,服务,评论明确称收到改评要求，保留原话和未经独立核实标记。,对推广者泛指不等于本卖家改评；不将指控发布为核实事实。,1331,the seller messaged me asking to change my review in exchange for a 5% discount.,specific_theme
+T27,包装体验／用途,包装,有明确包装评价或保存再利用行为。,孤立表情无明确对象不猜主题。,1620,The packaging 👌🏽👌🏽👌🏽 I kept the box to store other things.,specific_theme
+T28,相对价格水平,价格价值,明确更便宜或更贵，保留参照对象与态度。,cheap feeling是质感；worth the price是价值判断；低星反讽不强判。,127,WAY CHEAPER THO!!,specific_theme
+T29,价格与所得价值,价格价值,明确值得该价格、性价比好或不值；正负按原文。,价格低不等于划算，物品不好不自动等于不值钱。,462,for the price they are very nice sheets.,specific_theme
+T30,睡眠体验变化,使用结果,明确自述睡得更好或更差。,舒适不自动等于改善睡眠；不能归因于凉感或医疗功效。,1625,Sheets has helped me sleep way better,specific_theme
+T31,外观瑕疵（未明细）,外观,明确白线等实际可见瑕疵且未能可靠细分。,白线不强判起球、皱、褪色；制造原因另标推测。,1625,"the sheets had, had white lines",specific_theme
+G01,一般质量感受,泛化评价,quality好坏、廉价感、结实感但未指明具体性能。,不得塞进厚薄、耐用、材料含量等主题。,233,very cheap feeling,general_assessment
+G02,一般舒适感受,泛化评价,comfy、cozy、总体触感好坏，未说明具体属性。,不自动变成柔软、凉或睡眠改善。,883,Comfortable material,general_assessment
+G03,一般耐用／保持情况,泛化评价,held up well等没有明确具体问题的保持评价。,若明确无起球另编码具体问题；不让笼统耐用和具体问题竞争排名。,28,has held up so well.,general_assessment
+G04,一般洗护评价,泛化评价,wash well但没说哪项性能变化。,不把洗涤作为与起球/缩水等并列的故障类别。,866,wash well,general_assessment
+G05,一般外观评价,泛化评价,looks nice而无明确颜色/形态属性。,不把一般好看等同具体颜色偏好。,123,looks nice,general_assessment
+G06,未细分的展示触感落差,泛化评价,声称texture与图片不同，但未明说粗糙/软等。,不得自行填入具体触感属性。,874,Product arrived and was a noticeably different color and texture than image showed.,general_assessment
+M01,材料词或类比，态度未明,描述未判,材料名词或Like cotton等类比，缺乏明确正负。,不依据一星判负面；不作为材料实测事实。,1082,polyester,unresolved_description

@@ -1,0 +1,40 @@
+{
+  "audio_seconds": 17.483,
+  "detection_seconds": 0.05346941700554453,
+  "asr_seconds": 0.15514424999128096,
+  "alignment_seconds": 0.05495220801094547,
+  "segments": [
+    {
+      "start": 1.224,
+      "end": 2.68,
+      "acoustic_interval": [
+        1.224,
+        2.68
+      ],
+      "text": "Oh, oh, oh.",
+      "language": "English",
+      "asr_seconds": 0.15514424999128096,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 1.784,
+          "end": 1.8639999999999999
+        },
+        {
+          "text": "oh",
+          "start": 2.104,
+          "end": 2.184
+        },
+        {
+          "text": "oh",
+          "start": 2.184,
+          "end": 2.184
+        }
+      ],
+      "alignment_fallback": "逐词对齐出现空时长、逆序或越界，沿用语音检测区间"
+    }
+  ],
+  "text": "Oh, oh, oh.",
+  "warnings": [],
+  "timeline_valid": true
+}

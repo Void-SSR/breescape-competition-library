@@ -1,0 +1,528 @@
+{
+  "id": 8128936804522,
+  "title": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options",
+  "handle": "elegear-black-cooling-blanket-arc-chill-3-0-q-max-0-5-multi-size-options",
+  "description": "<h4 data-section-id=\"1gcfk46\" data-start=\"0\" data-end=\"32\">Award-Winning Cooling Comfort</h4>\n<p data-start=\"34\" data-end=\"371\">Recognized by <strong data-start=\"48\" data-end=\"100\">Good Housekeeping’s Bedding Awards (2025 &amp; 2026)</strong>, the Elegear Cooling Blanket is designed for hot sleepers who struggle with night sweats and overheating. Powered by advanced Arc-Chill 3.0 technology (Q-Max &gt; 0.5), it quickly draws heat away from the body to deliver an instant cooling sensation and more restful sleep.</p>\n<h4 data-section-id=\"1w5umzh\" data-start=\"373\" data-end=\"407\">Dual-Sided Reversible Design</h4>\n<p data-start=\"408\" data-end=\"660\">One side features high-performance Arc-Chill cooling fabric for immediate cool-to-the-touch comfort, while the other side uses soft, breathable Egyptian cotton for natural everyday coziness. Perfect for adapting to changing temperatures across seasons.</p>\n<h4 data-section-id=\"tra6mx\" data-start=\"662\" data-end=\"691\">Lightweight &amp; Versatile</h4>\n<p data-start=\"692\" data-end=\"845\">Soft, breathable, and easy to carry, this blanket is ideal for bed, sofa, office naps, travel, camping, and flights—comfort wherever you go without bulk.</p>\n<h4 data-section-id=\"13b1gxt\" data-start=\"847\" data-end=\"874\">Easy Care &amp; Daily Use</h4>\n<p data-start=\"875\" data-end=\"1001\">Durable stitching and machine-washable fabric make it simple to maintain while staying soft and long-lasting for everyday use.</p>\n<h4 data-section-id=\"1b4hia\" data-start=\"1003\" data-end=\"1030\">Practical Gift Choice</h4>\n<p data-start=\"1031\" data-end=\"1179\" data-is-last-node=\"\" data-is-only-node=\"\">A thoughtful, award-winning gift for anyone who struggles with heat, night sweats, or restless sleep—combining real comfort with proven recognition.</p>",
+  "published_at": "2025-04-23T15:00:07+08:00",
+  "created_at": "2025-04-23T14:05:56+08:00",
+  "vendor": "Elegear",
+  "type": "冷感毯",
+  "tags": [
+    "Arc-Chill Pro",
+    "balance",
+    "cooling",
+    "Cooling Blanket",
+    "Elegear",
+    "Home",
+    "Throws"
+  ],
+  "price": 2999,
+  "price_min": 2999,
+  "price_max": 6799,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 46744282169514,
+      "title": "Twin 51\" x 67\"",
+      "option1": "Twin 51\" x 67\"",
+      "option2": null,
+      "option3": null,
+      "sku": "HT-BL-C028-BK-UIN-130-C",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 40064245760170,
+        "product_id": 8128936804522,
+        "position": 1,
+        "created_at": "2025-04-23T14:48:48+08:00",
+        "updated_at": "2026-01-23T14:25:34+08:00",
+        "alt": "#color_black",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+        "variant_ids": [
+          46744282169514,
+          46744282202282,
+          46744282235050,
+          46744282267818,
+          48219365179562
+        ]
+      },
+      "available": true,
+      "name": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options - Twin 51\" x 67\"",
+      "public_title": "Twin 51\" x 67\"",
+      "options": [
+        "Twin 51\" x 67\""
+      ],
+      "price": 2999,
+      "weight": 851,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "754204881018",
+      "featured_media": {
+        "alt": "#color_black",
+        "id": 32041798828202,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46744282202282,
+      "title": "Full 59\" x 79\"",
+      "option1": "Full 59\" x 79\"",
+      "option2": null,
+      "option3": null,
+      "sku": "HT-BL-C028-BK-UIN-150-C",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 40064245760170,
+        "product_id": 8128936804522,
+        "position": 1,
+        "created_at": "2025-04-23T14:48:48+08:00",
+        "updated_at": "2026-01-23T14:25:34+08:00",
+        "alt": "#color_black",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+        "variant_ids": [
+          46744282169514,
+          46744282202282,
+          46744282235050,
+          46744282267818,
+          48219365179562
+        ]
+      },
+      "available": true,
+      "name": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options - Full 59\" x 79\"",
+      "public_title": "Full 59\" x 79\"",
+      "options": [
+        "Full 59\" x 79\""
+      ],
+      "price": 3999,
+      "weight": 851,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "754204881025",
+      "featured_media": {
+        "alt": "#color_black",
+        "id": 32041798828202,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46744282235050,
+      "title": "Queen 79\"x 86\"",
+      "option1": "Queen 79\"x 86\"",
+      "option2": null,
+      "option3": null,
+      "sku": "HT-BL-C028-BK-UIN-220-C",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 40064245760170,
+        "product_id": 8128936804522,
+        "position": 1,
+        "created_at": "2025-04-23T14:48:48+08:00",
+        "updated_at": "2026-01-23T14:25:34+08:00",
+        "alt": "#color_black",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+        "variant_ids": [
+          46744282169514,
+          46744282202282,
+          46744282235050,
+          46744282267818,
+          48219365179562
+        ]
+      },
+      "available": true,
+      "name": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options - Queen 79\"x 86\"",
+      "public_title": "Queen 79\"x 86\"",
+      "options": [
+        "Queen 79\"x 86\""
+      ],
+      "price": 4999,
+      "weight": 851,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "754204881032",
+      "featured_media": {
+        "alt": "#color_black",
+        "id": 32041798828202,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 48219365179562,
+      "title": "90“x 90\"",
+      "option1": "90“x 90\"",
+      "option2": null,
+      "option3": null,
+      "sku": "HT-BL-C028-BK-EL-229",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 40064245760170,
+        "product_id": 8128936804522,
+        "position": 1,
+        "created_at": "2025-04-23T14:48:48+08:00",
+        "updated_at": "2026-01-23T14:25:34+08:00",
+        "alt": "#color_black",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+        "variant_ids": [
+          46744282169514,
+          46744282202282,
+          46744282235050,
+          46744282267818,
+          48219365179562
+        ]
+      },
+      "available": false,
+      "name": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options - 90“x 90\"",
+      "public_title": "90“x 90\"",
+      "options": [
+        "90“x 90\""
+      ],
+      "price": 5999,
+      "weight": 851,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "#color_black",
+        "id": 32041798828202,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 46744282267818,
+      "title": "King 90“x 108\"",
+      "option1": "King 90“x 108\"",
+      "option2": null,
+      "option3": null,
+      "sku": "HT-BL-C028-BK-UIN-274-A",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 40064245760170,
+        "product_id": 8128936804522,
+        "position": 1,
+        "created_at": "2025-04-23T14:48:48+08:00",
+        "updated_at": "2026-01-23T14:25:34+08:00",
+        "alt": "#color_black",
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+        "variant_ids": [
+          46744282169514,
+          46744282202282,
+          46744282235050,
+          46744282267818,
+          48219365179562
+        ]
+      },
+      "available": true,
+      "name": "Elegear Black Cooling Blanket – Arc-Chill 3.0, Q-Max>0.5, Multi-Size Options - King 90“x 108\"",
+      "public_title": "King 90“x 108\"",
+      "options": [
+        "King 90“x 108\""
+      ],
+      "price": 6799,
+      "weight": 851,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "754204881049",
+      "featured_media": {
+        "alt": "#color_black",
+        "id": 32041798828202,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1500,
+          "width": 1500,
+          "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/813yP5UFJ9L._AC_SL1500.jpg?v=1778831317",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/71BHzxal5mL._AC_SL1500.jpg?v=1778831317",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/image_1_84b089c1-fa31-47f1-8801-49ab913b371b.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/81j5et4bS3L._AC_SL1500.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/image_5_8c139003-dc37-48d6-a2af-2529409c1045.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/81chr7FfSnL._AC_SL1500.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/71ruwb77_hL._AC_SL1500.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/81tn9By9ciL._AC_SL1500.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/71SAZYkv63L._AC_SL1500.jpg?v=1769149534",
+    "//cdn.shopify.com/s/files/1/0405/5420/1256/files/image_6_c0bba40c-54ed-4b53-b471-67e5f7ff211e.jpg?v=1769149534"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "Twin 51\" x 67\"",
+        "Full 59\" x 79\"",
+        "Queen 79\"x 86\"",
+        "90“x 90\"",
+        "King 90“x 108\""
+      ]
+    }
+  ],
+  "url": "/products/elegear-black-cooling-blanket-arc-chill-3-0-q-max-0-5-multi-size-options",
+  "media": [
+    {
+      "alt": "#color_black",
+      "id": 32041798828202,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_7_a757e034-66e0-4ef6-9b9d-2baef31f93fd.jpg?v=1769149534",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 36027168194730,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/813yP5UFJ9L._AC_SL1500.jpg?v=1778831317"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/813yP5UFJ9L._AC_SL1500.jpg?v=1778831317",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 36027168161962,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71BHzxal5mL._AC_SL1500.jpg?v=1778831317"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71BHzxal5mL._AC_SL1500.jpg?v=1778831317",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 32041798664362,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1600,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_1_84b089c1-fa31-47f1-8801-49ab913b371b.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_1_84b089c1-fa31-47f1-8801-49ab913b371b.jpg?v=1769149534",
+      "width": 1600
+    },
+    {
+      "alt": "#color_black",
+      "id": 32794738917546,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.889,
+        "height": 1500,
+        "width": 1333,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81j5et4bS3L._AC_SL1500.jpg?v=1769149534"
+      },
+      "aspect_ratio": 0.889,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81j5et4bS3L._AC_SL1500.jpg?v=1769149534",
+      "width": 1333
+    },
+    {
+      "alt": "#color_black",
+      "id": 32041798860970,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1600,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_5_8c139003-dc37-48d6-a2af-2529409c1045.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_5_8c139003-dc37-48d6-a2af-2529409c1045.jpg?v=1769149534",
+      "width": 1600
+    },
+    {
+      "alt": "#color_black",
+      "id": 35324594946218,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81chr7FfSnL._AC_SL1500.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81chr7FfSnL._AC_SL1500.jpg?v=1769149534",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 35324594978986,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71ruwb77_hL._AC_SL1500.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71ruwb77_hL._AC_SL1500.jpg?v=1769149534",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 35324594913450,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81tn9By9ciL._AC_SL1500.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/81tn9By9ciL._AC_SL1500.jpg?v=1769149534",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 32794738589866,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1500,
+        "width": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71SAZYkv63L._AC_SL1500.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/71SAZYkv63L._AC_SL1500.jpg?v=1769149534",
+      "width": 1500
+    },
+    {
+      "alt": "#color_black",
+      "id": 32041798795434,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1600,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_6_c0bba40c-54ed-4b53-b471-67e5f7ff211e.jpg?v=1769149534"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0405/5420/1256/files/image_6_c0bba40c-54ed-4b53-b471-67e5f7ff211e.jpg?v=1769149534",
+      "width": 1600
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "changed_tables": {
+    "materials": {
+      "added": [
+        89,
+        90,
+        91
+      ],
+      "changed": [],
+      "removed": []
+    },
+    "material_links": {
+      "added": [
+        162,
+        163,
+        164
+      ],
+      "changed": [],
+      "removed": []
+    },
+    "records": {
+      "added": [],
+      "changed": [
+        12,
+        68
+      ],
+      "removed": []
+    },
+    "brand_reports": {
+      "added": [],
+      "changed": [
+        "shilucheng"
+      ],
+      "removed": []
+    }
+  },
+  "protected_files": 202,
+  "unchanged_tables": [
+    "meta",
+    "brands",
+    "products",
+    "observations",
+    "reviews",
+    "imports",
+    "events"
+  ]
+}

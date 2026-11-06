@@ -1,0 +1,18 @@
+{
+  "stage": "v1.2定向修正及独立底稿完成，等待独立验收",
+  "rule_version": "1.2",
+  "full_scope": 1628,
+  "encoded": 1628,
+  "remaining": 0,
+  "blind_reread": 163,
+  "blind_reread_version": "v1.1历史记录，本轮未重跑",
+  "annotation_rows": 5150,
+  "targeted_review_sets": {
+    "purchase_history": 73,
+    "T07_negative": 110,
+    "components": 11,
+    "elastic": 10
+  },
+  "distinct_annotation_change_reviews": 45,
+  "app_modified": false
+}

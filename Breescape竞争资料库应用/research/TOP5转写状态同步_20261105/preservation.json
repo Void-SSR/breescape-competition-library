@@ -1,0 +1,53 @@
+{
+  "materials": {
+    "changed": [],
+    "added": [
+      80,
+      81,
+      82
+    ],
+    "removed": []
+  },
+  "material_links": {
+    "changed": [],
+    "added": [
+      146,
+      147,
+      148,
+      149,
+      150,
+      151
+    ],
+    "removed": []
+  },
+  "records": {
+    "changed": [
+      18,
+      55
+    ],
+    "added": [
+      76
+    ],
+    "removed": []
+  },
+  "events": {
+    "changed": [],
+    "added": [
+      40
+    ],
+    "removed": []
+  },
+  "brand_reports": {
+    "changed": [
+      "shilucheng"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "preservation": {
+    "protected_files_unchanged": 95,
+    "other_five_sections_unchanged": true,
+    "original_transcript_files_in_zip": 28,
+    "raw_reviews_observations_other_tables_unchanged": true
+  }
+}

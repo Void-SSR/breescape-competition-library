@@ -1,0 +1,9 @@
+{
+  "productUrls": [
+    "1729438233542234865",
+    "1729439070512124657"
+  ],
+  "maxReviewsPerProduct": 5000,
+  "maxResults": 10000,
+  "includeReviewImages": false
+}

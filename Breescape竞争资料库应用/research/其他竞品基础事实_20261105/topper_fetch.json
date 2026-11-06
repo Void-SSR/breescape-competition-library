@@ -1,0 +1,26 @@
+[
+  {
+    "key": "topper_tiktok",
+    "url": "https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657",
+    "final_url": "https://shop.tiktok.com/us/pdp/cooling-mattress-topper-by-shilucheng-extra-down-alternative-fill/1729439070512124657",
+    "status": 200,
+    "retrieved_at": "2026-11-05T14:36:13.426952+08:00",
+    "bytes": 481652
+  },
+  {
+    "key": "topper_official",
+    "url": "https://shilucheng.com/products/bamboo-mattress-topper",
+    "final_url": "https://shilucheng.com/products/bamboo-mattress-topper",
+    "status": 200,
+    "retrieved_at": "2026-11-05T14:36:16.468305+08:00",
+    "bytes": 663543
+  },
+  {
+    "key": "topper_variants",
+    "url": "https://shilucheng.com/products/bamboo-mattress-topper.js",
+    "final_url": "https://shilucheng.com/products/bamboo-mattress-topper.js",
+    "status": 200,
+    "retrieved_at": "2026-11-05T14:36:18.117945+08:00",
+    "bytes": 57108
+  }
+]

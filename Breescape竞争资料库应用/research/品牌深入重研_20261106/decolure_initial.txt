@@ -1,0 +1,363 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床单与枕套":
+    - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+    - generic: 床单与枕套
+  - link "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set":
+    - /url: https://shop.tiktok.com/us/pdp/organic-viscose-sheets-by-decolure-twin-size-17-deep-pockets-hypoallergenic/1729916842555707699
+    - generic: DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Decolure Home Goods":
+  - /url: https://shop.tiktok.com/us/store/decolure-home-goods/7495955043847670067
+- heading "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set" [level=1]
+- generic: $
+- generic: "114"
+- generic: ".99"
+- generic: 免费运送
+- generic: "4.8"
+- generic: (2.5K)
+- generic: 已售 28.5K
+- button "成交件数":
+- generic: "color:"
+- generic: Black
+- img "White"
+- generic: White
+- img "Creme"
+- generic: Creme
+- img "Grey"
+- generic: Grey
+- img "Light Grey"
+- generic: Light Grey
+- img "Taupe"
+- generic: Taupe
+- img "Charcoal"
+- generic: Charcoal
+- img "Black"
+- generic: Black
+- img "Light Blue"
+- generic: Light Blue
+- img "Midgrey"
+- generic: Midgrey
+- img "Olive"
+- generic: Olive
+- img "Sage Green"
+- generic: Sage Green
+- img "Light Pink"
+- generic: Light Pink
+- img "Light Olive"
+- generic: Light Olive
+- img "Burgundy"
+- generic: Burgundy
+- img "Navy Blue"
+- generic: Navy Blue
+- img "Purple"
+- generic: Purple
+- generic: "size:"
+- generic: Queen
+- generic: Twin
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: California King
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "Decolure Home Goods Decolure Home Goods Decolure Home Goods identify logo 官方店铺 4.7 79.6K 已售出 3.2K+ Followers 93% 好评 <10 小时 问题解决 88% 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/decolure-home-goods/7495955043847670067
+  - img "Decolure Home Goods"
+  - generic: Decolure Home Goods
+  - img "Decolure Home Goods identify logo"
+  - generic: 官方店铺
+  - generic: "4.7"
+  - text: 79.6K
+  - generic: 已售出
+  - generic: 3.2K+ Followers
+  - generic: 93%
+  - generic: 好评
+  - generic: <10 小时
+  - generic: 问题解决
+  - generic: 88%
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 尺码指南
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: 100% viscose from bamboo for a soft, silky feel
+- generic: •
+- generic: Breathable, moisture-wicking fabric designed for hot sleepers
+- generic: •
+- generic: 6-piece Queen set includes 1 flat sheet, 1 fitted sheet, and 4 pillowcases
+- generic: •
+- generic: 17" deep pocket fitted sheet fits standard and extra-thick mattresses
+- generic: •
+- generic: Oeko-Tex Certified and hypoallergenic for sensitive skin
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 DECOLURE":
+      - cell "品牌"
+      - cell "DECOLURE"
+    - row "Fiber content 100% Viscose from Bamboo":
+      - cell "Fiber content"
+      - cell "100% Viscose from Bamboo"
+    - row "Thread count 300":
+      - cell "Thread count"
+      - cell "300"
+    - row "Weave type Sateen":
+      - cell "Weave type"
+      - cell "Sateen"
+    - row "Included components 1 Flat Sheet,1 Fitted Sheet,4 Pillowcases":
+      - cell "Included components"
+      - cell "1 Flat Sheet,1 Fitted Sheet,4 Pillowcases"
+    - row "Closure type Envelope,Zipper":
+      - cell "Closure type"
+      - cell "Envelope,Zipper"
+- generic: 查看更多
+- generic: 商品描述
+- generic: Upgrade your sleep with the DECOLURE 100% Viscose from Bamboo Sheet Set engineered for people who run hot at night and refuse to compromise on softness. Made from high-grade bamboo viscose, these Queen sheets feel buttery-smooth against your skin and only get better wash after wash.
+- generic: "Why you'll love them:"
+- generic: Naturally Cooling for Hot Sleepers – Breathable bamboo fabric with moisture-wicking Breezweave technology pulls heat and sweat away, so you stay cool and dry all night.
+- generic: Ultra-Soft, Silky Feel – Luxuriously smooth, wrinkle-resistant texture that mimics premium hotel bedding at an affordable price.
+- generic: Deep 17" Pockets – Fits All Beds – Designed for standard Queen mattresses and extra-thick mattresses up to 17". Fitted sheet with elastic corners stays snug and secure, even on adjustable beds.
+- generic: Built to Last – Precise double stitching for lasting strength and durability. Fade-resistant fabric that holds up to longer, more frequent wash cycles.
+- generic: ️ Oeko-Tex Certified & Hypoallergenic – Naturally hypoallergenic and made with chemicals safer for skin and the environment. Perfect for sensitive skin and allergy-prone sleepers.
+- generic: ️ Extra Pillowcases – 6-Piece Value Set – Includes 4 pillowcases so you always have a fresh, matching pair on hand between washes.
+- generic: "What's Included (6-Piece Queen Set):"
+- generic: ·
+- generic: 1 x Flat Sheet — 90" x 96"
+- generic: ·
+- generic: 1 x Fitted Sheet — 60" x 80" (deep 17" pocket)
+- generic: ·
+- generic: 4 x Pillowcases — 20" x 30"
+- generic: "Find Your Perfect Fit – Full Size Guide (6-Piece):"
+- generic: (Flat Sheet / Fitted Sheet / Pillowcase / Pillowcase Count)
+- generic: ·
+- generic: "Twin: 66\" x 96\" / 39\" x 75\" / 20\" x 30\" / 2 Pillowcases"
+- generic: ·
+- generic: "Full: 81\" x 96\" / 54\" x 75\" / 20\" x 30\" / 4 Pillowcases"
+- generic: ·
+- generic: "Queen: 90\" x 96\" / 60\" x 80\" / 20\" x 30\" / 4 Pillowcases"
+- generic: ·
+- generic: "King: 108\" x 102\" / 78\" x 80\" / 20\" x 40\" / 4 Pillowcases"
+- generic: ·
+- generic: "California King: 108\" x 102\" / 72\" x 84\" / 20\" x 40\" / 4 Pillowcases"
+- generic: All fitted sheets feature a deep 17" pocket to fit standard and extra-thick mattresses.
+- generic: "Perfect for: Hot sleepers, deep mattresses, adjustable beds, sensitive skin, and anyone wanting cooling, luxury bedding without the luxury price tag."
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: The DECOLURE Bamboo Cooling Sheets 6pc Set is designed for sleepers who want a softer, cooler night’s rest. Made from 100% viscose from bamboo, these Queen bed sheets offer a silky feel and breathable comfort that works well for hot sleepers and all-season use. This set includes one flat sheet, one fitted sheet with a 17" deep pocket, and four pillowcases, giving you extra pillowcase coverage in a matching set. The fitted sheet is made to stay snug on standard and thicker mattresses, including adjustable beds. With wrinkle-resistant, fade-resistant fabric and double stitching for added durability, these sheets are built for everyday use. They are also Oeko-Tex Certified, hypoallergenic, and machine washable in cold water, making them a practical choice for sensitive skin and easy care.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What does the set include? A:The 6-piece Queen set includes 1 flat sheet, 1 fitted sheet, and 4 pillowcases.
+- generic: •
+- generic: What material are the sheets made from? A:They are made from 100% viscose from bamboo.
+- generic: •
+- generic: What size is this set? A:This product is a Queen size sheet set.
+- generic: •
+- generic: How deep is the fitted sheet pocket? A:The fitted sheet has a 17" deep pocket.
+- generic: •
+- generic: Is this sheet set suitable for sensitive skin? A:Yes. The sheets are Oeko-Tex Certified and hypoallergenic.
+- generic: •
+- generic: How should these sheets be washed? A:The washing instructions state machine wash cold.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Ecotero LLC
+- generic: •
+- generic: 公司地址：North Carolina,United States
+- generic: "4.8"
+- generic: 2489 条全球评价
+- generic: "5"
+- generic: "2234"
+- generic: "4"
+- generic: "134"
+- generic: "3"
+- generic: "44"
+- generic: "2"
+- generic: "29"
+- generic: "1"
+- generic: "48"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "A**a G**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "A**a G**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "A**a G**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "A**a G**a"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "c**1"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "c**1"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 6"
+- generic "c**1"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 7"
+- generic "c**1"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 8"
+- generic "🫧**🫧"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 9"
+- generic "🫧**🫧"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 10"
+- generic "🫧**🫧"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 11"
+- generic "🫧**🫧"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 2489 条评价（共 2489 条）
+- generic: 重置筛选条件
+- generic: A**a G**a
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Yall I am obsessed with the shit I love them. They are so soft with a luxurious. Feel cool to the touch when you touch it. It kinda has a slight satin feel to it definitely can’t wait to go get more in different colors.
+- generic: "商品:"
+- text: Light Grey, Queen
+- generic: 2026-07-27
+- generic: c**1
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Me encantan!!!!! Ya es la segunda qué compro 😍
+- generic: "商品:"
+- text: Olive, California King
+- generic: 2026-05-03
+- generic: 🫧**🫧
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Beautiful, bold color and super luxurious feel. I am super impressed with the quality and the luxuriousness of this sheet set. I paired it with a new, plush mattress topper - and owweeee - it’s like sleeping on a cloud! This sheet set is THE BOMB! I purchased the sage green color in the queen size. I also purchased the matching comforter set in sage, but I couldn’t wait for the comforter set to arrive. I immediately put the sheets in the dryer and voila - pure heaven! Come off the fence and make the purchase. You WILL NOT be disappointed!
+- generic: "商品:"
+- text: Sage Green, Queen
+- generic: 2025-10-14
+- generic: L**3
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Love these sheets!! I can definitely feel the difference and i am no longer hot at night. Comes in this beautiful packaging and the color is amazing. I got these in creme. Def would recommend these for a cool nights sleep.
+- generic: "商品:"
+- text: Creme, California King
+- generic: 2026-09-14
+- generic: "@**6"
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Very nice and comfortable,high quality material, pretty design, just love it 🥰 thank you for your support 🙏
+- generic: "商品:"
+- text: Taupe, King
+- generic: 2026-08-23
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "498"
+- generic: 下一步

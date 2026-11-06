@@ -1,0 +1,632 @@
+- link "优惠价15美元起":
+  - /url: /october-sale
+  - generic: 优惠价15美元起
+- link "绩效表 150 美元":
+  - /url: /october-sale?group=sheet-sets
+  - generic: 绩效表 150 美元
+- link "→演出用床单 150 美元 · 羽绒被套 80 美元":
+  - /url: /october-sale
+  - generic: →
+  - generic: 演出用床单 150 美元 · 羽绒被套 80 美元
+- paragraph:
+  - generic: 设计和发货地：科罗拉多州丹佛市
+- banner:
+  - link "睡眠云之家":
+    - /url: /
+    - img "睡眠云"
+  - navigation:
+    - link "销售":
+      - /url: /october-sale
+      - generic: 销售
+    - link "床单":
+      - /url: /collections/sheets
+      - generic: 床单
+    - link "被子":
+      - /url: /collections/comforters
+      - generic: 被子
+    - link "枕头":
+      - /url: /collections/pillows
+      - generic: 枕头
+    - link "床垫垫":
+      - /url: /collections/mattress-pads
+      - generic: 床垫垫
+    - link "休息室":
+      - /url: /collections/lounge
+      - generic: 休息室
+    - link "洗澡 新的":
+      - /url: /collections/bath
+      - generic: 洗澡
+      - generic: 新的
+    - link "艾维克 姐妹品牌":
+      - /url: /collections/avec
+      - generic: 艾维克
+      - generic: 姐妹品牌
+  - search:
+    - textbox "搜索产品":
+      - /placeholder: 正在搜索什么？试试“床单”或“凉枕”
+    - button "搜索":
+  - link "帐户":
+    - /url: https://account.slumbercloud.com
+  - button "购物车内有 0 件商品":
+- main:
+  - button "Expand Slumber 云朵性能天丝™床单套装":
+    - img "睡眠云性能天丝™床单套装"
+  - button "查看图片 1"
+  - button "查看图片 2"
+  - button "查看图片 3"
+  - button "查看图片 4"
+  - button "查看图片 5"
+  - button "查看图片 6"
+  - button "查看图片 7"
+  - button "查看图片 8"
+  - paragraph:
+    - generic: 促销活动即将结束
+  - paragraph:
+    - generic: 精选床上用品和枕头优惠。
+  - generic "剩余时间":
+    - generic: "00"
+    - generic: 天
+    - generic: ：
+    - generic: "16"
+    - generic: 小时
+    - generic: ：
+    - generic: "55"
+    - generic: 米
+    - generic: ：
+    - generic: "05"
+    - generic: 秒
+  - heading "高性能天丝™床单套装" [level=1]:
+    - generic: 高性能天丝™床单套装
+  - button "双温控技术":
+    - generic: 双温控技术
+  - button "丝滑柔软的手感":
+    - generic: 丝滑柔软的手感
+  - button "吸湿排汗":
+    - generic: 吸湿排汗
+  - link "4.5 分（满分 5 分） 超过 3 万条已验证评论":
+    - /url: "#reviews"
+    - generic: 4.5 分（满分 5 分）
+    - generic: 超过 3 万条已验证评论
+  - group "选择尺码 ·女王 包含床笠、床单和2个标准枕套 尺码指南":
+    - generic: 选择尺码
+    - generic: ·
+    - generic: 女王
+    - generic: 包含床笠、床单和2个标准枕套
+    - button "尺码指南":
+      - generic: 尺码指南
+    - button "女王":
+      - generic: 女王
+    - button "国王":
+      - generic: 国王
+    - button "加州国王":
+      - generic: 加州国王
+    - button "满的":
+      - generic: 满的
+    - button "双人加大号":
+      - generic: 双人加大号
+    - button "双":
+      - generic: 双
+  - group "选择颜色 ·白色的":
+    - generic: 选择颜色
+    - generic: ·
+    - generic: 白色的
+    - button "颜色：白色" [pressed]
+    - button "颜色：鸽灰色"
+    - button "颜色：海军蓝"
+    - button "颜色：沙色"
+    - button "颜色：爱丽丝蓝"
+    - button "颜色：石板灰（已售罄）"
+    - button "颜色：奶油色（已售罄）"
+  - checkbox "买一套，第二套只需150美元。 同样尺寸（加大双人床）——第二套床品可以选择任何颜色。"
+  - generic: 买一套，第二套只需
+  - generic: 150美元。
+  - generic: 同样尺寸
+  - generic: （加大双人床）
+  - generic: ——第二套床品可以选择任何颜色。
+  - generic: 150.00 美元
+  - generic: 269.00美元
+  - paragraph:
+    - generic: 限时特价——购买此尺码可节省
+    - strong:
+      - generic: 119 美元
+  - paragraph:
+    - generic: 完成您的冷藏床
+  - paragraph:
+    - generic: 精心搭配，与您选择的尺码相匹配。
+  - checkbox "高性能天丝™羽绒被套"
+  - paragraph:
+    - generic: 高性能天丝™羽绒被套
+    - link "细节":
+      - /url: /products/performance-duvet-cover
+      - generic: 细节
+  - paragraph:
+    - generic: 专利 Outlast® 纤维和 TENCEL™ 莱赛尔纤维混纺，每次洗涤后都会变得更加柔软，并具有双重温度调节功能。
+  - paragraph:
+    - generic: 80美元
+    - generic: 129美元
+  - checkbox "添加高性能棉床单套装"
+  - paragraph:
+    - generic: 高性能棉质床单套装
+    - link "细节":
+      - /url: /products/performance-cotton-blend-sheet-set-copy
+      - generic: 细节
+  - paragraph:
+    - generic: 专利Outlast®纤维和优质棉料实现了舒适度和温度调节的理想平衡。
+  - paragraph:
+    - generic: 150美元
+    - generic: 269美元
+  - button "减少":
+  - generic: "1"
+  - button "增加":
+  - button "添加到购物车 150.00 美元· 您节省了 119 美元":
+    - generic: 添加到购物车
+    - generic: 150.00 美元
+    - generic: · 您节省了 119 美元
+  - paragraph:
+    - generic: 美国境内免运费，并提供 30 晚试用。
+  - generic "概述":
+    - generic: 概述
+  - paragraph:
+    - generic: 如丝般柔软，比棉质更透气，这得益于两项温度调节技术的结合：主动式 Outlast® 粘胶纤维和 TENCEL™ 莱赛尔纤维卓越的吸湿排汗性能。二者强强联合，打造出市面上性能最佳、最柔软的床单套装。为您带来值得信赖的舒适睡眠体验。
+  - generic "功能与优势":
+    - generic: 功能与优势
+  - generic "材料、织物技术与护理":
+    - generic: 材料、织物技术与护理
+  - generic "Sizing & Dimensions":
+    - text: Sizing & Dimensions
+  - generic "Shipping, Returns & Price Match":
+    - text: Shipping, Returns & Price Match
+  - paragraph: Made for cooler, deeper sleep
+  - heading "Why you'll love it" [level=2]
+  - article:
+    - generic: Soft & smooth
+    - generic: Patented Outlast® fibers and TENCEL™ lyocell blend gets softer with each wash
+  - article:
+    - generic: Adaptive cooling
+    - generic: Dual temperature regulation technologies
+  - article:
+    - generic: 4 Piece Set
+    - generic: "4 Piece Set Includes: One Flat Sheet, One Fitted Sheet, and Two Pillowcases (Twin & Twin XL include one pillowcase)."
+  - img "高性能天丝™床单套装"
+  - generic "凉爽夜晚 • 更深沉睡眠 • Outlast®":
+    - generic: Outlast®
+  - paragraph: Inside the product
+  - heading "Materials chosen for cooler, more comfortable sleep." [level=2]
+  - paragraph: From what touches your skin to how it performs overnight, every detail below comes directly from this product’s materials and care information.
+  - article:
+    - generic: "01"
+    - heading "Materials" [level=3]
+    - list:
+      - listitem: 300 thread count 30% Outlast® viscose / 70% TENCEL™ lyocell
+  - article:
+    - generic: "02"
+    - heading "Technology & benefits" [level=3]
+    - list:
+      - listitem: Patented Outlast® fibers and TENCEL™ lyocell blend gets softer with each wash
+      - listitem: Dual temperature regulation technologies
+      - listitem: "4 Piece Set Includes: One Flat Sheet, One Fitted Sheet, and Two Pillowcases (Twin & Twin XL include one pillowcase)."
+      - listitem: Built in fitted sheet corner straps to hold it in place
+      - listitem: Fits mattresses up to 16'' deep
+      - listitem: "OEKO-TEX® STANDARD 100 Certified Technology. Certification Number: SH025 151577 TESTEX"
+  - article:
+    - generic: "03"
+    - heading "Care" [level=3]
+    - paragraph: "Basic Care: Machine wash cold water on a gentle cycle with a mild detergent and with like colors only. Do not use fabric softener. Only use non-chlorine bleach when needed. Tumble dry low heat until completely dry. Remove from dryer immediately. Do not dry clean. Do not iron."
+    - paragraph: "Pro Tip: Wash this every 1-2 weeks. Reduce wrinkles by removing these from the dryer immediately."
+  - paragraph: What the press says
+  - blockquote: “For truly hot sleepers, leave it to NASA engineering to figure out a way to help you finally stay cool at night.”
+  - paragraph: — Real Simple
+  - paragraph: The only NASA-derived bedding
+  - paragraph: Outlast® technology, originally developed for NASA
+  - paragraph: Award-winning sleep
+  - paragraph: Recognized by sleep and home editors
+  - paragraph: Independently lab tested
+  - paragraph: Improves sleep by 20%, reduces sweat by 50%
+  - paragraph: Verified Yotpo reviews
+  - paragraph: Real ratings from 30K+ sleepers
+  - paragraph: Good to know
+  - heading "Frequently asked questions" [level=2]
+  - generic "How does this bedding help with temperature?":
+    - text: How does this bedding help with temperature?
+  - generic "Can I wash it at home?":
+    - text: Can I wash it at home?
+  - generic "如果它不适合我怎么办？":
+    - generic: 如果它不适合我怎么办？
+  - paragraph:
+    - generic: 真正的睡眠者，真正的效果
+  - heading "顾客评价" [level=2]:
+    - generic: 顾客评价
+  - paragraph:
+    - generic: 由 Yotpo 提供支持的 3 万多条已验证评论。
+  - region "Customer Reviews":
+    - heading "Customer Reviews" [level=2]
+    - generic: "4.5"
+    - img "4.5 out of 5 stars":
+    - generic: Based on 823 reviews
+    - list:
+      - button "Apply filter for 5 star review by 600 users":
+        - generic: "5"
+        - generic: "600"
+      - button "Apply filter for 4 star review by 109 users":
+        - generic: "4"
+        - generic: "109"
+      - button "Apply filter for 3 star review by 86 users":
+        - generic: "3"
+        - generic: "86"
+      - button "Apply filter for 2 star review by 15 users":
+        - generic: "2"
+        - generic: "15"
+      - button "Apply filter for 1 star review by 13 users":
+        - generic: "1"
+        - generic: "13"
+    - button "Write A Review"
+    - heading "Customers say" [level=3]:
+      - strong: Customers say
+    - paragraph:
+      - generic: AI-generated from customer reviews.
+    - paragraph: The Performance TENCEL™ Sheet Set is highly regarded for its silky feel, excellent temperature regulation, and superior comfort, making it a top choice for a restful night's sleep. Customers praise its soft blue color, silky texture, and the cooling effect that ensures a comfortable slumber. The sheets are made from high-quality materials, providing a breathable and moisture-wicking experience.
+    - button "Read summary by topics – detailed reviews summary":
+      - generic: Read summary by topics
+    - search:
+      - generic: Search reviews
+      - searchbox "Search reviews"
+      - button "Search reviews":
+    - generic: Rating
+    - combobox "Rating":
+      - generic: Rating
+      - generic: All ratings
+    - button "Filter with media":
+      - generic: With media
+    - group "Popular topics":
+      - generic: Popular topics
+      - list:
+        - button "color"
+        - button "fit"
+        - button "size"
+        - button "problem"
+        - button "feel"
+        - button "shipping"
+        - button "quality"
+        - button "works"
+        - button "Show more popular topics": Show more
+    - generic: Sort by
+    - combobox "Sort by":
+      - generic: Sort by
+      - generic: ":"
+      - generic: Highest rating
+    - list:
+      - 'group "Review by Brooke Rating: 5 out of 5 stars."':
+        - generic "Brooke":
+          - generic: Brooke
+        - generic: Verified Buyer
+        - img "5 out of 5 stars":
+        - paragraph: Matches the sheets perfectly. Wish it came with tabs to tie the duvet to it to prevent shifting
+        - generic: "Product reviewed:"
+        - link "Performance TENCEL™ Duvet Cover opens in a new window.":
+          - /url: https://yotpo.com/go/Atizisli
+          - generic: Performance TENCEL™ Duvet Cover
+        - generic: Published date
+        - generic: 10/21/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Brooke Rating: 5 out of 5 stars."':
+        - generic "Brooke":
+          - generic: Brooke
+        - generic: Verified Buyer
+        - img "5 out of 5 stars":
+        - paragraph: Soft, cool sheets! Very well made and worth the investment. I usually wake up at night hot, but I haven’t at all since getting these sheets!
+        - generic: Published date
+        - generic: 10/21/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Isa Rating: 5 out of 5 stars."':
+        - generic "Isa":
+          - generic: Isa
+          - generic: 🇨🇦
+        - generic: Verified Buyer
+        - generic: Type Of Mattress
+        - generic: Sleep Habits
+        - generic: I Struggle With
+        - generic: Other
+        - generic: Always With a Partner
+        - generic: Night Sweats
+        - img "5 out of 5 stars":
+        - heading "Game changer" [level=3]:
+          - strong: Game changer
+        - paragraph: After 15 plus years of suffering from severe night sweets and trying absolutely everything that there is on the market without seeing results, those sheets are an absolute game changer for me. Excellent quality and comfort too. Highly recommend. Worth every penny.
+        - generic: Published date
+        - generic: 10/20/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Ahang A. Rating: 5 out of 5 stars."':
+        - generic "Ahang A.":
+          - generic: Ahang A.
+          - generic: 🇺🇸
+        - generic: Verified Buyer
+        - generic: Incentivized review
+        - generic: Type Of Mattress
+        - generic: Sleep Habits
+        - generic: Age
+        - generic: Memory Foam
+        - generic: Always With a Partner
+        - generic: 30-39
+        - button "See more of Ahang A.'s review": See more
+        - img "5 out of 5 stars":
+        - heading "Brilliant sheets that actually improve your sleep" [level=3]:
+          - strong: Brilliant sheets that actually improve your sleep
+        - paragraph: These sheets actually surprised me, I was skeptical at first whether this 20% sleep improvement is true but after a month of using them I actually can notice the difference. There were nights my body would be just too hot and I would wake up before and that hasn't happened. I do feel like my tempera...
+        - button "Read more about Brilliant sheets that actually improve your sleep review by Ahang A.": Read more
+        - generic: Published date
+        - generic: 10/04/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Brendan T. Rating: 5 out of 5 stars."':
+        - generic "Brendan T.":
+          - generic: Brendan T.
+          - generic: 🇺🇸
+        - generic: Verified Buyer
+        - generic: Incentivized review
+        - generic: Type Of Mattress
+        - generic: Sleep Habits
+        - generic: Age
+        - generic: Memory Foam
+        - generic: Always With a Partner
+        - generic: 30-39
+        - button "See more of Brendan T.'s review": See more
+        - img "5 out of 5 stars":
+        - heading "Very nice!" [level=3]:
+          - strong: Very nice!
+        - paragraph: They’re smooth and silky, lightweight, and consistently feel cool.
+        - generic: Published date
+        - generic: 10/03/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Krystine G. Rating: 5 out of 5 stars."':
+        - generic "Krystine G.":
+          - generic: Krystine G.
+          - generic: 🇺🇸
+        - generic: Verified Buyer
+        - generic: Incentivized review
+        - generic: Type Of Mattress
+        - generic: Sleep Habits
+        - generic: Age
+        - generic: Memory Foam
+        - generic: Always With a Partner
+        - generic: 30-39
+        - button "See more of Krystine G.'s review": See more
+        - img "5 out of 5 stars":
+        - heading "Best sheets ever" [level=3]:
+          - strong: Best sheets ever
+        - paragraph: After years of sleeping on cheap sheets and overheating every night, I knew it was time for a big upgrade. I did a LOT of research and found Slumber Cloud, and these sheets have exceeded my every expectation!!! SO soft, very much cooling, and the most comfortable sheets I have ever used, anywhere. M...
+        - button "Read more about Best sheets ever review by Krystine G.": Read more
+        - generic: Published date
+        - generic: 09/30/26
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+    - navigation "Reviews pagination":
+      - list:
+        - button "Navigate to previous page" [disabled]:
+        - button "Navigate to page 1 of comments": "1"
+        - button "Navigate to page 2 of comments": "2"
+        - button "Navigate to page 3 of comments": "3"
+        - button "Navigate to page 4 of comments": "4"
+        - button "Navigate to page 5 of comments": "5"
+        - button "Navigate to next page":
+  - img "睡在 Slumber Cloud 床上用品上，醒来神清气爽。"
+  - paragraph:
+    - generic: 经过测试，而非空口声称。
+  - heading "Outlast® 寝具的独立睡眠测试。" [level=2]:
+    - generic: Outlast® 寝具的独立睡眠测试。
+  - paragraph:
+    - generic: 50%
+  - paragraph:
+    - generic: 汗液减少
+  - paragraph:
+    - generic: 20%
+  - paragraph:
+    - generic: 睡眠改善
+  - paragraph:
+    - generic: 3万+
+  - paragraph:
+    - generic: 快乐睡眠者
+  - heading "您可能也喜欢" [level=2]:
+    - generic: 您可能也喜欢
+  - article:
+    - link "Slumber Cloud Core羽绒替代枕头 - 最终促销":
+      - /url: /products/core-down-alternative-pillow
+      - img "Slumber Cloud Core羽绒替代枕头 - 最终促销"
+    - generic: 50美元
+    - button "快速添加":
+      - generic: 快速添加
+    - paragraph:
+      - generic: 枕头
+    - link "羽绒替代枕头 - 最终促销":
+      - /url: /products/core-down-alternative-pillow
+      - heading "羽绒替代枕头 - 最终促销" [level=3]:
+        - generic: 羽绒替代枕头 - 最终促销
+    - paragraph:
+      - generic: 双面采用 NASA 研发的优质 Outlast® 面料，有效隔热。
+    - generic: 50美元
+    - generic: 109-129美元
+  - article:
+    - link "睡眠云超凉爽枕头":
+      - /url: /products/ultracool-pillow-1
+      - img "睡眠云超凉爽枕头"
+    - generic: 50美元
+    - button "快速添加":
+      - generic: 快速添加
+    - paragraph:
+      - generic: 枕头
+    - link "超酷枕头":
+      - /url: /products/ultracool-pillow-1
+      - heading "超酷枕头" [level=3]:
+        - generic: 超酷枕头
+    - paragraph:
+      - generic: 双面采用 NASA 研发的优质 Outlast® 面料，有效隔热。
+    - generic: 50美元
+    - generic: 109-129美元
+  - article:
+    - link "睡眠云超凉爽抱枕":
+      - /url: /products/ultracool-body-pillow
+      - img "睡眠云超凉爽抱枕"
+    - generic: 50美元
+    - button "快速添加":
+      - generic: 快速添加
+    - paragraph:
+      - generic: 枕头
+    - link "超酷抱枕":
+      - /url: /products/ultracool-body-pillow
+      - heading "超酷抱枕" [level=3]:
+        - generic: 超酷抱枕
+    - paragraph:
+      - generic: 一面采用 NASA 研发的优质 Outlast® 面料，可有效散热。
+    - generic: 50美元
+    - generic: 129美元
+  - article:
+    - link "睡眠云混合枕头":
+      - /url: /products/hybrid-pillow
+      - img "睡眠云混合枕头"
+    - generic: 50美元
+    - button "快速添加":
+      - generic: 快速添加
+    - paragraph:
+      - generic: 枕头
+    - link "混合枕头":
+      - /url: /products/hybrid-pillow
+      - heading "混合枕头" [level=3]:
+        - generic: 混合枕头
+    - paragraph:
+      - generic: 二合一枕头：羽绒替代填充物 + 可拆卸碎记忆海绵芯
+    - generic: 50美元
+    - generic: 99美元至129美元
+  - paragraph:
+    - generic: 高性能天丝™床单套装
+  - button:
+    - generic: 尺寸：加大双人床 · 颜色：白色
+  - strong:
+    - generic: 150.00 美元
+  - generic: 269.00美元
+  - button:
+    - generic: 添加到购物车
+- contentinfo:
+  - heading "绝不错过 Slumber Cloud 的促销、新品发布或重大公告！" [level=2]:
+    - generic: 绝不错过 Slumber Cloud 的促销、新品发布或重大公告！
+  - textbox "请输入您的邮箱"
+  - button "提交":
+  - img "睡眠云"
+  - link "电子邮件":
+    - /url: mailto:info@slumbercloud.com
+  - link "电话":
+    - /url: tel:+18552415495
+  - link "Facebook":
+    - /url: https://www.facebook.com/slumbercloud/
+  - link "Instagram":
+    - /url: https://www.instagram.com/slumbercloud/
+  - link "Pinterest":
+    - /url: https://www.pinterest.com/slumbercloud/
+  - link "TikTok":
+    - /url: https://www.tiktok.com/@slumber.cloud
+  - link "X":
+    - /url: https://twitter.com/SlumberCloud
+  - paragraph:
+    - generic: 店铺
+  - link "销售":
+    - /url: /october-sale
+    - generic: 销售
+  - link "床单":
+    - /url: /collections/sheets
+    - generic: 床单
+  - link "被子":
+    - /url: /collections/comforters
+    - generic: 被子
+  - link "枕头":
+    - /url: /collections/pillows
+    - generic: 枕头
+  - link "床垫垫":
+    - /url: /collections/mattress-pads
+    - generic: 床垫垫
+  - paragraph:
+    - generic: 更多的
+  - link "艾维克":
+    - /url: /collections/avec
+    - generic: 艾维克
+  - link "畅销书":
+    - /url: /collections/best-sellers
+    - generic: 畅销书
+  - link "家居服":
+    - /url: /collections/lounge
+    - generic: 家居服
+  - link "洗澡":
+    - /url: /collections/bath
+    - generic: 洗澡
+  - link "查看所有商品":
+    - /url: /collections/all
+    - generic: 查看所有商品
+  - paragraph:
+    - generic: 支持
+  - link "关于我们":
+    - /url: /about
+    - generic: 关于我们
+  - link "常问问题":
+    - /url: /faq
+    - generic: 常问问题
+  - link "联系我们":
+    - /url: /contact
+    - generic: 联系我们
+  - link "退货与换货":
+    - /url: /shipping-returns
+    - generic: 退货与换货
+  - link "评论":
+    - /url: /reviews
+    - generic: 评论
+  - link "工作原理":
+    - /url: /how-it-works
+    - generic: 工作原理
+  - link "购买指南":
+    - /url: /buying-guides
+    - generic: 购买指南
+  - link "无障碍声明":
+    - /url: /accessibility-statement
+    - generic: 无障碍声明
+  - link "隐私政策":
+    - /url: /privacy-policy
+    - generic: 隐私政策
+  - link "条款及细则":
+    - /url: /terms-conditions
+    - generic: 条款及细则
+  - generic: ©
+  - generic: "2026"
+  - generic: Slumber Cloud®。唯一一款NASA认证的床上用品。
+  - link "无障碍":
+    - /url: /accessibility-statement
+    - generic: 无障碍
+  - link "隐私":
+    - /url: /privacy-policy
+    - generic: 隐私
+  - link "条款":
+    - /url: /terms-conditions
+    - generic: 条款

@@ -1,0 +1,1475 @@
+{
+  "id": 7130660438199,
+  "title": "Evercool® Cooling Comforter",
+  "handle": "evercool-comforter",
+  "description": "<p>As a<span> 4</span><em>-time Good Housekeeping Bedding Award winner</em><strong>,<span> </span></strong>our<strong><span> </span></strong><a href=\"https://rest.com/products/evercool-comforter\" title=\"Evercool® Cooling Comforter\"><strong>Evercool® Cooling Comforter</strong></a><span> </span>is crafted with proprietary Evercool® fabric for a sleep experience that’s as advanced as it is indulgent. The cool-to-the-touch surface regulates temperature seamlessly through the night, while moisture-wicking performance keeps you dry and comfortable. With its luxuriously soft, smooth finish, every night becomes effortless restoration.<br><br><a href=\"https://rest.com/products/evercool-comforter\" title=\"Evercool® Cooling Comforter\">How It Feels</a></p>\n<p>Refreshingly cool and luxuriously soft — perfect for hot sleepers</p>",
+  "published_at": "2022-04-20T01:02:55-07:00",
+  "created_at": "2022-04-20T01:01:51-07:00",
+  "vendor": "Rest",
+  "type": "Comforter",
+  "tags": [
+    "comforters",
+    "evercool",
+    "MCF",
+    "purple-dot-live-waitlist"
+  ],
+  "price": 14900,
+  "price_min": 14900,
+  "price_max": 18600,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 19900,
+  "compare_at_price_min": 19900,
+  "compare_at_price_max": 24900,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 41179257667767,
+      "title": "Aqua Blue / Twin/Twin XL",
+      "option1": "Aqua Blue",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD00T",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131608945,
+        "product_id": 7130660438199,
+        "position": 1,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-08-15T17:42:03-07:00",
+        "alt": "Aqua Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+        "variant_ids": [
+          41179257602231,
+          41179257634999,
+          41179257667767
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Aqua Blue / Twin/Twin XL",
+      "public_title": "Aqua Blue / Twin/Twin XL",
+      "options": [
+        "Aqua Blue",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 2920,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135019",
+      "featured_media": {
+        "alt": "Aqua Blue",
+        "id": 66677765079409,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41179257602231,
+      "title": "Aqua Blue / Full/Queen",
+      "option1": "Aqua Blue",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD00Q",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131608945,
+        "product_id": 7130660438199,
+        "position": 1,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-08-15T17:42:03-07:00",
+        "alt": "Aqua Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+        "variant_ids": [
+          41179257602231,
+          41179257634999,
+          41179257667767
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Aqua Blue / Full/Queen",
+      "public_title": "Aqua Blue / Full/Queen",
+      "options": [
+        "Aqua Blue",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135026",
+      "featured_media": {
+        "alt": "Aqua Blue",
+        "id": 66677765079409,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41179257634999,
+      "title": "Aqua Blue / King/Cali King",
+      "option1": "Aqua Blue",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD00K",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131608945,
+        "product_id": 7130660438199,
+        "position": 1,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-08-15T17:42:03-07:00",
+        "alt": "Aqua Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+        "variant_ids": [
+          41179257602231,
+          41179257634999,
+          41179257667767
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Aqua Blue / King/Cali King",
+      "public_title": "Aqua Blue / King/Cali King",
+      "options": [
+        "Aqua Blue",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3910,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135033",
+      "featured_media": {
+        "alt": "Aqua Blue",
+        "id": 66677765079409,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41917465067703,
+      "title": "Arctic White / Twin/Twin XL",
+      "option1": "Arctic White",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD06T-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131510641,
+        "product_id": 7130660438199,
+        "position": 4,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:04-08:00",
+        "alt": "Arctic White",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464",
+        "variant_ids": [
+          41917465002167,
+          41917465034935,
+          41917465067703
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Arctic White / Twin/Twin XL",
+      "public_title": "Arctic White / Twin/Twin XL",
+      "options": [
+        "Arctic White",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 3570,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6941601142741",
+      "featured_media": {
+        "alt": "Arctic White",
+        "id": 66677764882801,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41917465002167,
+      "title": "Arctic White / Full/Queen",
+      "option1": "Arctic White",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD06Q-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131510641,
+        "product_id": 7130660438199,
+        "position": 4,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:04-08:00",
+        "alt": "Arctic White",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464",
+        "variant_ids": [
+          41917465002167,
+          41917465034935,
+          41917465067703
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Arctic White / Full/Queen",
+      "public_title": "Arctic White / Full/Queen",
+      "options": [
+        "Arctic White",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6941601142734",
+      "featured_media": {
+        "alt": "Arctic White",
+        "id": 66677764882801,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41917465034935,
+      "title": "Arctic White / King/Cali King",
+      "option1": "Arctic White",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD06K-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131510641,
+        "product_id": 7130660438199,
+        "position": 4,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:04-08:00",
+        "alt": "Arctic White",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464",
+        "variant_ids": [
+          41917465002167,
+          41917465034935,
+          41917465067703
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Arctic White / King/Cali King",
+      "public_title": "Arctic White / King/Cali King",
+      "options": [
+        "Arctic White",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3570,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6941601142727",
+      "featured_media": {
+        "alt": "Arctic White",
+        "id": 66677764882801,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41519180513463,
+      "title": "Snow Ivory / Twin/Twin XL",
+      "option1": "Snow Ivory",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD02T",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131903857,
+        "product_id": 7130660438199,
+        "position": 7,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Snow Ivory",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41519180447927,
+          41519180480695,
+          41519180513463
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Snow Ivory / Twin/Twin XL",
+      "public_title": "Snow Ivory / Twin/Twin XL",
+      "options": [
+        "Snow Ivory",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 2920,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6941601136290",
+      "featured_media": {
+        "alt": "Snow Ivory",
+        "id": 66677765276017,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41519180447927,
+      "title": "Snow Ivory / Full/Queen",
+      "option1": "Snow Ivory",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD02Q",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131903857,
+        "product_id": 7130660438199,
+        "position": 7,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Snow Ivory",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41519180447927,
+          41519180480695,
+          41519180513463
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Snow Ivory / Full/Queen",
+      "public_title": "Snow Ivory / Full/Queen",
+      "options": [
+        "Snow Ivory",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6941601136283",
+      "featured_media": {
+        "alt": "Snow Ivory",
+        "id": 66677765276017,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41519180480695,
+      "title": "Snow Ivory / King/Cali King",
+      "option1": "Snow Ivory",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD02K",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131903857,
+        "product_id": 7130660438199,
+        "position": 7,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Snow Ivory",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41519180447927,
+          41519180480695,
+          41519180513463
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Snow Ivory / King/Cali King",
+      "public_title": "Snow Ivory / King/Cali King",
+      "options": [
+        "Snow Ivory",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3910,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6941601136276",
+      "featured_media": {
+        "alt": "Snow Ivory",
+        "id": 66677765276017,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41314797945015,
+      "title": "Cool Gray / Twin/Twin XL",
+      "option1": "Cool Gray",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD03T",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576132493681,
+        "product_id": 7130660438199,
+        "position": 10,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Cool Gray",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41314797879479,
+          41314797912247,
+          41314797945015
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Cool Gray / Twin/Twin XL",
+      "public_title": "Cool Gray / Twin/Twin XL",
+      "options": [
+        "Cool Gray",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 2920,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135613",
+      "featured_media": {
+        "alt": "Cool Gray",
+        "id": 66677765898609,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41314797879479,
+      "title": "Cool Gray / Full/Queen",
+      "option1": "Cool Gray",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD03Q",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576132493681,
+        "product_id": 7130660438199,
+        "position": 10,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Cool Gray",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41314797879479,
+          41314797912247,
+          41314797945015
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Cool Gray / Full/Queen",
+      "public_title": "Cool Gray / Full/Queen",
+      "options": [
+        "Cool Gray",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135606",
+      "featured_media": {
+        "alt": "Cool Gray",
+        "id": 66677765898609,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41314797912247,
+      "title": "Cool Gray / King/Cali King",
+      "option1": "Cool Gray",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD03K",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576132493681,
+        "product_id": 7130660438199,
+        "position": 10,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Cool Gray",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          41314797879479,
+          41314797912247,
+          41314797945015
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Cool Gray / King/Cali King",
+      "public_title": "Cool Gray / King/Cali King",
+      "options": [
+        "Cool Gray",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3910,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6941601135590",
+      "featured_media": {
+        "alt": "Cool Gray",
+        "id": 66677765898609,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42688395739319,
+      "title": "Lavender Breeze / Twin/Twin XL",
+      "option1": "Lavender Breeze",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD08T-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131740017,
+        "product_id": 7130660438199,
+        "position": 13,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Lavender Breeze",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42688395739319,
+          42688395772087,
+          42688395804855
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Lavender Breeze / Twin/Twin XL",
+      "public_title": "Lavender Breeze / Twin/Twin XL",
+      "options": [
+        "Lavender Breeze",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 3570,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6977490290195",
+      "featured_media": {
+        "alt": "Lavender Breeze",
+        "id": 66677765112177,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42688395772087,
+      "title": "Lavender Breeze / Full/Queen",
+      "option1": "Lavender Breeze",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD08Q-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131740017,
+        "product_id": 7130660438199,
+        "position": 13,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Lavender Breeze",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42688395739319,
+          42688395772087,
+          42688395804855
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Lavender Breeze / Full/Queen",
+      "public_title": "Lavender Breeze / Full/Queen",
+      "options": [
+        "Lavender Breeze",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6977490290188",
+      "featured_media": {
+        "alt": "Lavender Breeze",
+        "id": 66677765112177,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42688395804855,
+      "title": "Lavender Breeze / King/Cali King",
+      "option1": "Lavender Breeze",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD08K-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131740017,
+        "product_id": 7130660438199,
+        "position": 13,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Lavender Breeze",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42688395739319,
+          42688395772087,
+          42688395804855
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Lavender Breeze / King/Cali King",
+      "public_title": "Lavender Breeze / King/Cali King",
+      "options": [
+        "Lavender Breeze",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3570,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6977490290171",
+      "featured_media": {
+        "alt": "Lavender Breeze",
+        "id": 66677765112177,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42024823029943,
+      "title": "Midnight Blue / Twin/Twin XL",
+      "option1": "Midnight Blue",
+      "option2": "Twin/Twin XL",
+      "option3": null,
+      "sku": "REST-SCD07T-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131641713,
+        "product_id": 7130660438199,
+        "position": 16,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Midnight Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42024822964407,
+          42024822997175,
+          42024823029943
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Midnight Blue / Twin/Twin XL",
+      "public_title": "Midnight Blue / Twin/Twin XL",
+      "options": [
+        "Midnight Blue",
+        "Twin/Twin XL"
+      ],
+      "price": 14900,
+      "weight": 3570,
+      "compare_at_price": 19900,
+      "inventory_management": "shopify",
+      "barcode": "6941601143137",
+      "featured_media": {
+        "alt": "Midnight Blue",
+        "id": 66677764981105,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42024822964407,
+      "title": "Midnight Blue / Full/Queen",
+      "option1": "Midnight Blue",
+      "option2": "Full/Queen",
+      "option3": null,
+      "sku": "REST-SCD07Q-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131641713,
+        "product_id": 7130660438199,
+        "position": 16,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Midnight Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42024822964407,
+          42024822997175,
+          42024823029943
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Midnight Blue / Full/Queen",
+      "public_title": "Midnight Blue / Full/Queen",
+      "options": [
+        "Midnight Blue",
+        "Full/Queen"
+      ],
+      "price": 17100,
+      "weight": 3570,
+      "compare_at_price": 22900,
+      "inventory_management": "shopify",
+      "barcode": "6941601143120",
+      "featured_media": {
+        "alt": "Midnight Blue",
+        "id": 66677764981105,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42024822997175,
+      "title": "Midnight Blue / King/Cali King",
+      "option1": "Midnight Blue",
+      "option2": "King/Cali King",
+      "option3": null,
+      "sku": "REST-SCD07K-N",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 77576131641713,
+        "product_id": 7130660438199,
+        "position": 16,
+        "created_at": "2025-08-15T16:45:54-07:00",
+        "updated_at": "2025-11-27T01:41:34-08:00",
+        "alt": "Midnight Blue",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494",
+        "variant_ids": [
+          42024822964407,
+          42024822997175,
+          42024823029943
+        ]
+      },
+      "available": true,
+      "name": "Evercool® Cooling Comforter - Midnight Blue / King/Cali King",
+      "public_title": "Midnight Blue / King/Cali King",
+      "options": [
+        "Midnight Blue",
+        "King/Cali King"
+      ],
+      "price": 18600,
+      "weight": 3570,
+      "compare_at_price": 24900,
+      "inventory_management": "shopify",
+      "barcode": "6941601143113",
+      "featured_media": {
+        "alt": "Midnight Blue",
+        "id": 66677764981105,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 2048,
+          "width": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_02_2x_b3a28546-c6b8-4ca1-bf0e-5a65af4bc4e4.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_03_2x_dbe8e6e1-e29c-42e2-8994-d8046365d39d.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_03_2x_98b3f989-e6e0-4302-9278-74dc03f0650b.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_02_2x_1292b3a6-8859-4eb7-9800-5d76f70e9d3d.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_03_2x_5d4ca138-0248-422c-8529-18b34c96f92e.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_02_2x_f2eff713-7ef6-48be-b978-5371043ac58e.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_03_2x_cdd51906-04ec-426f-8980-f987ca1d412f.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_02_2x_54ac3931-953e-4a9f-93aa-2f81236d04db.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_03_2x_e57e5a1f-b7ba-483b-9658-f981798f55db.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_02_2x_36a4b720-d8ee-425a-95e0-63e1a3df0ae4.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_03_2x_a330d001-e398-4e3c-a9f1-2bab2537ded6.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_02_2x_a0fd10f5-6da9-49c5-8ab1-2a145bbc24bb.webp?v=1764236494",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_01_2x_559960a8-0155-40cb-b070-d0d2d37c3175.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_comforter_02_2x_44a7b2fa-6ffa-4c2f-a3e9-4e7b65210e26.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_05_2x_961b4f4c-fff6-44ca-bc6d-3df7763d5f53.webp?v=1764236464",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp-comforter-review-2col.webp?v=1781776408",
+    "//cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_drew_f14054d7-2b9c-4d37-8aae-5e0f738acc51.webp?v=1764236464"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Aqua Blue",
+        "Arctic White",
+        "Snow Ivory",
+        "Cool Gray",
+        "Lavender Breeze",
+        "Midnight Blue"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Twin/Twin XL",
+        "Full/Queen",
+        "King/Cali King"
+      ]
+    }
+  ],
+  "url": "/products/evercool-comforter",
+  "media": [
+    {
+      "alt": "Aqua Blue",
+      "id": 66677765079409,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AB_G_01.jpg?v=1755304923",
+      "width": 2048
+    },
+    {
+      "alt": "Aqua Blue",
+      "id": 67450626703729,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_02_2x_b3a28546-c6b8-4ca1-bf0e-5a65af4bc4e4.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_02_2x_b3a28546-c6b8-4ca1-bf0e-5a65af4bc4e4.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": "Aqua Blue",
+      "id": 67450626736497,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_03_2x_dbe8e6e1-e29c-42e2-8994-d8046365d39d.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_aqua_03_2x_dbe8e6e1-e29c-42e2-8994-d8046365d39d.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": "Arctic White",
+      "id": 66677764882801,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_AW_C_01.jpg?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": "Arctic White",
+      "id": 67450626802033,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_03_2x_98b3f989-e6e0-4302-9278-74dc03f0650b.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_03_2x_98b3f989-e6e0-4302-9278-74dc03f0650b.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": "Arctic White",
+      "id": 67450626933105,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_02_2x_1292b3a6-8859-4eb7-9800-5d76f70e9d3d.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_white_02_2x_1292b3a6-8859-4eb7-9800-5d76f70e9d3d.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": "Snow Ivory",
+      "id": 66677765276017,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_SI_C_01.jpg?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Snow Ivory",
+      "id": 67450626834801,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_03_2x_5d4ca138-0248-422c-8529-18b34c96f92e.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_03_2x_5d4ca138-0248-422c-8529-18b34c96f92e.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Snow Ivory",
+      "id": 67450626998641,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_02_2x_f2eff713-7ef6-48be-b978-5371043ac58e.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_ivory_02_2x_f2eff713-7ef6-48be-b978-5371043ac58e.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Cool Gray",
+      "id": 66677765898609,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_CG_C_01.jpg?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Cool Gray",
+      "id": 67450626900337,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_03_2x_cdd51906-04ec-426f-8980-f987ca1d412f.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_03_2x_cdd51906-04ec-426f-8980-f987ca1d412f.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Cool Gray",
+      "id": 67450627064177,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_02_2x_54ac3931-953e-4a9f-93aa-2f81236d04db.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_gray_02_2x_54ac3931-953e-4a9f-93aa-2f81236d04db.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Lavender Breeze",
+      "id": 66677765112177,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_LB_C_01.jpg?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Lavender Breeze",
+      "id": 67450626867569,
+      "position": 14,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_03_2x_e57e5a1f-b7ba-483b-9658-f981798f55db.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_03_2x_e57e5a1f-b7ba-483b-9658-f981798f55db.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Lavender Breeze",
+      "id": 67450627031409,
+      "position": 15,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_02_2x_36a4b720-d8ee-425a-95e0-63e1a3df0ae4.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_lavender_02_2x_36a4b720-d8ee-425a-95e0-63e1a3df0ae4.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Midnight Blue",
+      "id": 66677764981105,
+      "position": 16,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/C_MB_C_01.jpg?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Midnight Blue",
+      "id": 67450626769265,
+      "position": 17,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_03_2x_a330d001-e398-4e3c-a9f1-2bab2537ded6.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_03_2x_a330d001-e398-4e3c-a9f1-2bab2537ded6.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": "Midnight Blue",
+      "id": 67450626965873,
+      "position": 18,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_02_2x_a0fd10f5-6da9-49c5-8ab1-2a145bbc24bb.webp?v=1764236494"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_comforter_midnight_02_2x_a0fd10f5-6da9-49c5-8ab1-2a145bbc24bb.webp?v=1764236494",
+      "width": 2048
+    },
+    {
+      "alt": null,
+      "id": 67450649018737,
+      "position": 19,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_01_2x_559960a8-0155-40cb-b070-d0d2d37c3175.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_01_2x_559960a8-0155-40cb-b070-d0d2d37c3175.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": null,
+      "id": 67450649051505,
+      "position": 20,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_comforter_02_2x_44a7b2fa-6ffa-4c2f-a3e9-4e7b65210e26.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_comforter_02_2x_44a7b2fa-6ffa-4c2f-a3e9-4e7b65210e26.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": null,
+      "id": 67450649117041,
+      "position": 21,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_05_2x_961b4f4c-fff6-44ca-bc6d-3df7763d5f53.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/property_1_pdp_science_05_2x_961b4f4c-fff6-44ca-bc6d-3df7763d5f53.webp?v=1764236464",
+      "width": 2048
+    },
+    {
+      "alt": null,
+      "id": 69298852823409,
+      "position": 22,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp-comforter-review-2col.webp?v=1781776408"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp-comforter-review-2col.webp?v=1781776408",
+      "width": 2048
+    },
+    {
+      "alt": null,
+      "id": 67450613105009,
+      "position": 23,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 2048,
+        "width": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_drew_f14054d7-2b9c-4d37-8aae-5e0f738acc51.webp?v=1764236464"
+      },
+      "aspect_ratio": 1.0,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0563/5276/8183/files/pdp_drew_f14054d7-2b9c-4d37-8aae-5e0f738acc51.webp?v=1764236464",
+      "width": 2048
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

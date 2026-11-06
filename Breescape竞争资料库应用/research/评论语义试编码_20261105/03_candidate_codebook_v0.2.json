@@ -1,0 +1,382 @@
+[
+  {
+    "code": "T01",
+    "label": "柔软／粗糙／僵硬",
+    "domain": "产品触感",
+    "include": "明确soft、rough、scratchy、stiff等触感评价；保留条件和比较基准。",
+    "exclude": "仅comfy、质量好、丝滑、对既往竞品的好评不能代入。",
+    "example_review_id": 263,
+    "example_quote": "Soft",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T02",
+    "label": "顺滑／丝滑",
+    "domain": "产品触感",
+    "include": "明确silky、smooth及其否定。",
+    "exclude": "柔软不是丝滑；黏皮肤单列黏附。",
+    "example_review_id": 423,
+    "example_quote": "Nor silky",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T03",
+    "label": "凉感／温度体验",
+    "domain": "热湿体验",
+    "include": "实际凉、不凉、发热或出汗；子项保留时段与表现，汇总时同条同方向只计一次。",
+    "exclude": "为凉感而买、包装未写凉感、单纯breathable不等于实际凉感。",
+    "example_review_id": 221,
+    "example_quote": "keep us cool throughout the night without getting too hot.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T04",
+    "label": "透气体验",
+    "domain": "热湿体验",
+    "include": "明确透气、airy、breathable或否定。",
+    "exclude": "凉不自动等于透气；这里只记录自述，不宣称测试性能。",
+    "example_review_id": 1331,
+    "example_quote": "They are not at all breathable",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T05",
+    "label": "轻重",
+    "domain": "材料形态",
+    "include": "明确重量或lightweight，态度另判。",
+    "exclude": "薄不必然轻；中性描述不能计作认可。",
+    "example_review_id": 296,
+    "example_quote": "Very light weight.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T06",
+    "label": "厚薄",
+    "domain": "材料形态",
+    "include": "明确thin、thick；原文评价决定正负。",
+    "exclude": "flimsy只说明脆弱感；thing疑似笔误先留未决。",
+    "example_review_id": 277,
+    "example_quote": "but are very thin.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T07",
+    "label": "尺寸／深度适配",
+    "domain": "适配",
+    "include": "明确大小、床垫覆盖或贴合尺寸。",
+    "exclude": "错发另一规格属履约；脱角不自动等于尺寸错误。",
+    "example_review_id": 1389,
+    "example_quote": "Doesn't fit my normal queen size bed at all.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T08",
+    "label": "固定性／滑脱",
+    "domain": "适配",
+    "include": "stay in place、slip off、corners pop等明确固定表现。",
+    "exclude": "单说fit不计；stretch out但未说明滑脱单列伸长；相对少滑不计正向。",
+    "example_review_id": 859,
+    "example_quote": "sheets don’t stay tight. Pulling off the corners after just one night.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T09",
+    "label": "颜色喜好／搭配",
+    "domain": "外观",
+    "include": "喜欢颜色、与室内搭配满意。",
+    "exclude": "与图片不一致单列；购后喜欢颜色不能倒推购买理由。",
+    "example_review_id": 1620,
+    "example_quote": "the color matches my accent wall perfectly!",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T10",
+    "label": "颜色与展示一致",
+    "domain": "信息与实物感知",
+    "include": "明确比较收到的颜色和图片展示。",
+    "exclude": "颜色喜欢与否不同于色差；不据此证明拍摄或制造原因。",
+    "example_review_id": 851,
+    "example_quote": "the color doesn’t match the picture.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T11",
+    "label": "起球",
+    "domain": "使用稳定性",
+    "include": "明确已起球或使用后明确无起球。",
+    "exclude": "未来担心peel不等于已起球；peel含义不明不强译。",
+    "example_review_id": 28,
+    "example_quote": "No pilling!",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T12",
+    "label": "褶皱",
+    "domain": "使用稳定性",
+    "include": "明确皱或不皱。",
+    "exclude": "白线未说明是褶皱；一般洗得好不能推断抗皱。",
+    "example_review_id": 1142,
+    "example_quote": "It is not wrinkle free.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T13",
+    "label": "破裂／开线",
+    "domain": "使用稳定性",
+    "include": "明确rip、tear及接缝开裂，保留发生位置。",
+    "exclude": "勾丝单列；洗后发生不等于已证实洗涤导致。",
+    "example_review_id": 1142,
+    "example_quote": "the fabric is already tearing at tge seams.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T14",
+    "label": "勾丝",
+    "domain": "使用稳定性",
+    "include": "明确snag等勾丝。",
+    "exclude": "未写破洞不并入破裂；原因不推定。",
+    "example_review_id": 1622,
+    "example_quote": "all the sheets were snagged all over.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T15",
+    "label": "伸长／变形",
+    "domain": "使用稳定性",
+    "include": "明确使用后stretch out等形态改变；正负须有具体评价，普通伸长描述可为中性。",
+    "exclude": "仅滑脱不倒推变形；未观察到的缩水不硬填。",
+    "example_review_id": 1331,
+    "example_quote": "stretch out like most sheets over a period of days.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T16",
+    "label": "黏附皮肤",
+    "domain": "产品触感",
+    "include": "明确感觉粘身或黏附。",
+    "exclude": "不丝滑、不透气不能自动变成黏附。",
+    "example_review_id": 1331,
+    "example_quote": "My husband feels like he sticks to them.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T17",
+    "label": "同款不同规格体验一致性",
+    "domain": "商品一致性",
+    "include": "明确同款不同颜色/套组对比存在差异。",
+    "exclude": "其他品牌对比不算批次差；不推断已验证制造原因。",
+    "example_review_id": 1284,
+    "example_quote": "the texture and feel of them are not the same at all.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T18",
+    "label": "材料说明／预期落差",
+    "domain": "信息与预期",
+    "include": "消费者明确认为材料与广告、描述或原先预期不同。",
+    "exclude": "只写polyester、Like cotton不代表不满或实际成分已核。",
+    "example_review_id": 831,
+    "example_quote": "material not what description said",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T19",
+    "label": "宣称文字一致／缺失",
+    "domain": "信息与预期",
+    "include": "明确不同载体文字有差异，例如页面写凉感、包装未写。",
+    "exclude": "已明确某性能不满意只编码该具体属性，宽泛false advertising作为情境。",
+    "example_review_id": 1245,
+    "example_quote": "The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T20",
+    "label": "气味",
+    "domain": "到货体验",
+    "include": "明确好闻、烟味等气味感知。",
+    "exclude": "清洁不自动等于无气味；气味不证明实际污染源。",
+    "example_review_id": 1245,
+    "example_quote": "it smelled like cigarette smoke intensely.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T21",
+    "label": "到货清洁／新旧状态",
+    "domain": "到货体验",
+    "include": "明确clean、疑似拆封或使用过等到货观察；注明怀疑程度。",
+    "exclude": "气味、错发单列；疑似退货件不写为卖家事实。",
+    "example_review_id": 202,
+    "example_quote": "looked like someone bought the sheets, didn't like the sheets, repackaged them and returned them.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T22",
+    "label": "发货规格准确性",
+    "domain": "履约",
+    "include": "明确所订和收到规格不一致。",
+    "exclude": "标签Queen却不合Queen床不等于发错Twin。",
+    "example_review_id": 15,
+    "example_quote": "Ordered a queen and got a twin size",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T23",
+    "label": "配送时效",
+    "domain": "履约",
+    "include": "明确快慢配送感受。",
+    "exclude": "未收到补发不算原订单配送；无具体发货/运输环节不细分。",
+    "example_review_id": 3,
+    "example_quote": "fast shipping",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T24",
+    "label": "客服沟通／响应",
+    "domain": "服务",
+    "include": "明确客服友好、响应、沟通态度。",
+    "exclude": "愿意补发不等于实际完成；改评要求单列。",
+    "example_review_id": 1625,
+    "example_quote": "The seller was very nice to me and was willing to send me a new pair.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T25",
+    "label": "补发履约",
+    "domain": "服务",
+    "include": "明确承诺后的补发是否收到。",
+    "exclude": "卖家愿意寄但尚无结果不能记补发成功。",
+    "example_review_id": 1619,
+    "example_quote": "Never sent new ones.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T26",
+    "label": "改评要求相关自述",
+    "domain": "服务",
+    "include": "评论明确称收到改评要求，保留原话和未经独立核实标记。",
+    "exclude": "对推广者泛指不等于本卖家改评；不将指控发布为核实事实。",
+    "example_review_id": 1331,
+    "example_quote": "the seller messaged me asking to change my review in exchange for a 5% discount.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T27",
+    "label": "包装体验／用途",
+    "domain": "包装",
+    "include": "有明确包装评价或保存再利用行为。",
+    "exclude": "孤立表情无明确对象不猜主题。",
+    "example_review_id": 1620,
+    "example_quote": "The packaging 👌🏽👌🏽👌🏽 I kept the box to store other things.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T28",
+    "label": "相对价格水平",
+    "domain": "价格价值",
+    "include": "明确更便宜或更贵，保留参照对象与态度。",
+    "exclude": "cheap feeling是质感；worth the price是价值判断；低星反讽不强判。",
+    "example_review_id": 127,
+    "example_quote": "WAY CHEAPER THO!!",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T29",
+    "label": "价格与所得价值",
+    "domain": "价格价值",
+    "include": "明确值得该价格、性价比好或不值；正负按原文。",
+    "exclude": "价格低不等于划算，物品不好不自动等于不值钱。",
+    "example_review_id": 462,
+    "example_quote": "for the price they are very nice sheets.",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T30",
+    "label": "睡眠体验变化",
+    "domain": "使用结果",
+    "include": "明确自述睡得更好或更差。",
+    "exclude": "舒适不自动等于改善睡眠；不能归因于凉感或医疗功效。",
+    "example_review_id": 1625,
+    "example_quote": "Sheets has helped me sleep way better",
+    "role": "specific_theme"
+  },
+  {
+    "code": "T31",
+    "label": "外观瑕疵（未明细）",
+    "domain": "外观",
+    "include": "明确白线等实际可见瑕疵且未能可靠细分。",
+    "exclude": "白线不强判起球、皱、褪色；制造原因另标推测。",
+    "example_review_id": 1625,
+    "example_quote": "the sheets had, had white lines",
+    "role": "specific_theme"
+  },
+  {
+    "code": "G01",
+    "label": "一般质量感受",
+    "domain": "泛化评价",
+    "include": "quality好坏、廉价感、结实感但未指明具体性能。",
+    "exclude": "不得塞进厚薄、耐用、材料含量等主题。",
+    "example_review_id": 233,
+    "example_quote": "very cheap feeling",
+    "role": "general_assessment"
+  },
+  {
+    "code": "G02",
+    "label": "一般舒适感受",
+    "domain": "泛化评价",
+    "include": "comfy、cozy、总体触感好坏，未说明具体属性。",
+    "exclude": "不自动变成柔软、凉或睡眠改善。",
+    "example_review_id": 883,
+    "example_quote": "Comfortable material",
+    "role": "general_assessment"
+  },
+  {
+    "code": "G03",
+    "label": "一般耐用／保持情况",
+    "domain": "泛化评价",
+    "include": "held up well等没有明确具体问题的保持评价。",
+    "exclude": "若明确无起球另编码具体问题；不让笼统耐用和具体问题竞争排名。",
+    "example_review_id": 28,
+    "example_quote": "has held up so well.",
+    "role": "general_assessment"
+  },
+  {
+    "code": "G04",
+    "label": "一般洗护评价",
+    "domain": "泛化评价",
+    "include": "wash well但没说哪项性能变化。",
+    "exclude": "不把洗涤作为与起球/缩水等并列的故障类别。",
+    "example_review_id": 866,
+    "example_quote": "wash well",
+    "role": "general_assessment"
+  },
+  {
+    "code": "G05",
+    "label": "一般外观评价",
+    "domain": "泛化评价",
+    "include": "looks nice而无明确颜色/形态属性。",
+    "exclude": "不把一般好看等同具体颜色偏好。",
+    "example_review_id": 123,
+    "example_quote": "looks nice",
+    "role": "general_assessment"
+  },
+  {
+    "code": "G06",
+    "label": "未细分的展示触感落差",
+    "domain": "泛化评价",
+    "include": "声称texture与图片不同，但未明说粗糙/软等。",
+    "exclude": "不得自行填入具体触感属性。",
+    "example_review_id": 874,
+    "example_quote": "Product arrived and was a noticeably different color and texture than image showed.",
+    "role": "general_assessment"
+  },
+  {
+    "code": "M01",
+    "label": "材料词或类比，态度未明",
+    "domain": "描述未判",
+    "include": "材料名词或Like cotton等类比，缺乏明确正负。",
+    "exclude": "不依据一星判负面；不作为材料实测事实。",
+    "example_review_id": 1082,
+    "example_quote": "polyester",
+    "role": "unresolved_description"
+  }
+]

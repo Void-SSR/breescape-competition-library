@@ -1,0 +1,179 @@
+{
+  "base": "v0.2试编码完整保留于原目录",
+  "approved_changes": [
+    "明确先前同款体验恢复进入主题分子，保留阶段字段",
+    "320凉感限于枕套",
+    "375相对无凉感优势，不称绝对无效",
+    "正负泛评统一补记"
+  ],
+  "manual_generic_additions": {
+    "82": [
+      [
+        "G01",
+        "positive",
+        "I cannot get over the quality of these!!"
+      ]
+    ],
+    "128": [
+      [
+        "G00",
+        "neutral",
+        "The sheets are okay to me."
+      ]
+    ],
+    "147": [
+      [
+        "G00",
+        "positive",
+        "no complaints here"
+      ]
+    ],
+    "221": [
+      [
+        "G00",
+        "positive",
+        "Highly recommend!"
+      ]
+    ],
+    "375": [
+      [
+        "G00",
+        "neutral",
+        "These sheets are ok."
+      ]
+    ],
+    "590": [
+      [
+        "G00",
+        "negative",
+        "These sheets are terrible"
+      ]
+    ],
+    "641": [
+      [
+        "G00",
+        "positive",
+        "Absolutely love them."
+      ]
+    ],
+    "774": [
+      [
+        "G00",
+        "negative",
+        "Disappointed 😔"
+      ]
+    ],
+    "831": [
+      [
+        "G00",
+        "negative",
+        "not very happy"
+      ]
+    ],
+    "857": [
+      [
+        "G00",
+        "negative",
+        "i would NOT recommend this at ALL!!!"
+      ]
+    ],
+    "859": [
+      [
+        "G00",
+        "negative",
+        "Very disappointing!!!"
+      ]
+    ],
+    "866": [
+      [
+        "G00",
+        "positive",
+        "These sheets are REALLY GOOD."
+      ]
+    ],
+    "987": [
+      [
+        "G00",
+        "neutral",
+        "The sheets are ok"
+      ]
+    ],
+    "1245": [
+      [
+        "G00",
+        "negative",
+        "already disappointed."
+      ]
+    ],
+    "1284": [
+      [
+        "G00",
+        "negative",
+        "I am disappointed."
+      ]
+    ],
+    "1289": [
+      [
+        "G00",
+        "negative",
+        "they are garbage."
+      ]
+    ],
+    "1331": [
+      [
+        "G00",
+        "negative",
+        "They’re trash."
+      ]
+    ],
+    "1389": [
+      [
+        "G00",
+        "negative",
+        "well that was a mistake."
+      ]
+    ],
+    "1404": [
+      [
+        "G00",
+        "negative",
+        "The worst sheets I have ever bought!!!"
+      ]
+    ],
+    "1409": [
+      [
+        "G00",
+        "negative",
+        "Very disappointed."
+      ]
+    ],
+    "1568": [
+      [
+        "G00",
+        "negative",
+        "These just aren’t good."
+      ]
+    ],
+    "1619": [
+      [
+        "G07",
+        "negative",
+        "This is the worst company to buy from."
+      ]
+    ],
+    "1620": [
+      [
+        "G00",
+        "positive",
+        "I Love these sheets!!!"
+      ]
+    ],
+    "1627": [
+      [
+        "G00",
+        "negative",
+        "Terrible!"
+      ]
+    ]
+  }
+}

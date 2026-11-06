@@ -1,0 +1,66 @@
+{
+  "routes": [
+    {
+      "route": "#overview/shilucheng",
+      "questions": 58,
+      "chapters": 6,
+      "overflow": false
+    },
+    {
+      "route": "#overview/cozy-bliss",
+      "questions": 47,
+      "chapters": 6,
+      "overflow": false
+    },
+    {
+      "route": "#overview/sheex",
+      "questions": 47,
+      "chapters": 6,
+      "overflow": false
+    },
+    {
+      "route": "#product-report/sheets",
+      "coreQuestions": 11,
+      "overflow": false
+    },
+    {
+      "route": "#product-report/topper",
+      "coreQuestions": 10,
+      "overflow": false
+    },
+    {
+      "route": "#product-report/cozy-comforter",
+      "coreQuestions": 10,
+      "overflow": false
+    },
+    {
+      "route": "#product-report/sheex-sheets",
+      "coreQuestions": 10,
+      "overflow": false
+    },
+    {
+      "route": "390px/overview/shilucheng",
+      "overflow": false
+    }
+  ],
+  "interactions": [
+    "销量驱动跳转对应视频",
+    "术语解释",
+    "关联视频加载",
+    "来源查验展开",
+    "汇报视图",
+    "离线报告包含两款产品及术语解释",
+    "完整报告打印"
+  ],
+  "exports": [
+    {
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/协作/品牌总览按框架重整_20261105/验收/Shilucheng品牌总览.html",
+      "bytes": 10050037
+    },
+    {
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/协作/品牌总览按框架重整_20261105/验收/Shilucheng报告与证据.zip",
+      "bytes": 21764632
+    }
+  ],
+  "errors": []
+}

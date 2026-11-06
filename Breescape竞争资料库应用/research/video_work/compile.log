@@ -1,0 +1,15 @@
+research/video_work/frames.swift:7:38: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+ 5 | for name in ["V01","V02","V03","V04","V05"] {
+ 6 |  let asset=AVURLAsset(url:base.appendingPathComponent(name+".mp4"))
+ 7 |  let duration=CMTimeGetSeconds(asset.duration)
+   |                                      `- warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+ 8 |  let generator=AVAssetImageGenerator(asset:asset);generator.appliesPreferredTrackTransform=true
+ 9 |  generator.maximumSize=CGSize(width:260,height:400)
+
+research/video_work/frames.swift:15:28: warning: 'copyCGImage(at:actualTime:)' was deprecated in macOS 15.0: Use generateCGImageAsynchronouslyForTime:completionHandler: instead
+13 |  NSColor.white.setFill();NSRect(x:0,y:0,width:cols*cellW,height:rows*cellH).fill()
+14 |  for (i,t) in times.enumerated(){
+15 |   if let cg=try? generator.copyCGImage(at:CMTime(seconds:t,preferredTimescale:600),actualTime:nil){
+   |                            `- warning: 'copyCGImage(at:actualTime:)' was deprecated in macOS 15.0: Use generateCGImageAsynchronouslyForTime:completionHandler: instead
+16 |    let x=(i%cols)*cellW;let y=(rows-1-i/cols)*cellH
+17 |    NSImage(cgImage:cg,size:.zero).draw(in:NSRect(x:x+5,y:y+22,width:260,height:400))

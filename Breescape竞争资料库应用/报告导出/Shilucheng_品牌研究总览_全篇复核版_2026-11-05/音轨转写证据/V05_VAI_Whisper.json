@@ -1,0 +1,391 @@
+{
+  "text": " Yeah, yeah, uh Yeah, yeah, yeah That's the way everyday goes Every time we've no control If the sky is pink and white If the ground is black and yellow It's the same way you showed me",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 100,
+      "start": 3.2000000000000006,
+      "end": 4.08,
+      "text": " Yeah, yeah, uh",
+      "tokens": [
+        50365,
+        865,
+        11,
+        1338,
+        11,
+        2232,
+        50527
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 3.2000000000000006,
+          "end": 3.72,
+          "probability": 0.509765625
+        },
+        {
+          "word": " yeah,",
+          "start": 3.72,
+          "end": 3.82,
+          "probability": 0.900390625
+        },
+        {
+          "word": " uh",
+          "start": 3.82,
+          "end": 4.08,
+          "probability": 0.262451171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 100,
+      "start": 4.760000000000001,
+      "end": 6.66,
+      "text": " Yeah, yeah, yeah",
+      "tokens": [
+        50527,
+        865,
+        11,
+        1338,
+        11,
+        1338,
+        50660
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 4.760000000000001,
+          "end": 5.28,
+          "probability": 0.55078125
+        },
+        {
+          "word": " yeah,",
+          "start": 6.14,
+          "end": 6.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " yeah",
+          "start": 6.4,
+          "end": 6.66,
+          "probability": 0.9912109375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 100,
+      "start": 8.040000000000001,
+      "end": 9.7,
+      "text": " That's the way everyday goes",
+      "tokens": [
+        50660,
+        663,
+        311,
+        264,
+        636,
+        7429,
+        1709,
+        50818
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " That's",
+          "start": 8.040000000000001,
+          "end": 8.56,
+          "probability": 0.9130859375
+        },
+        {
+          "word": " the",
+          "start": 8.56,
+          "end": 8.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " way",
+          "start": 8.6,
+          "end": 8.84,
+          "probability": 1.0
+        },
+        {
+          "word": " everyday",
+          "start": 8.84,
+          "end": 9.26,
+          "probability": 0.54248046875
+        },
+        {
+          "word": " goes",
+          "start": 9.26,
+          "end": 9.7,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 100,
+      "start": 9.7,
+      "end": 11.46,
+      "text": " Every time we've no control",
+      "tokens": [
+        50818,
+        2048,
+        565,
+        321,
+        600,
+        572,
+        1969,
+        50900
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " Every",
+          "start": 9.7,
+          "end": 10.34,
+          "probability": 0.90478515625
+        },
+        {
+          "word": " time",
+          "start": 10.34,
+          "end": 10.68,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " we've",
+          "start": 10.68,
+          "end": 10.98,
+          "probability": 0.98828125
+        },
+        {
+          "word": " no",
+          "start": 10.98,
+          "end": 11.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " control",
+          "start": 11.06,
+          "end": 11.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 100,
+      "start": 11.46,
+      "end": 13.34,
+      "text": " If the sky is pink and white",
+      "tokens": [
+        50900,
+        759,
+        264,
+        5443,
+        307,
+        7022,
+        293,
+        2418,
+        50994
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " If",
+          "start": 11.46,
+          "end": 12.06,
+          "probability": 0.998046875
+        },
+        {
+          "word": " the",
+          "start": 12.06,
+          "end": 12.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " sky",
+          "start": 12.2,
+          "end": 12.42,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 12.42,
+          "end": 12.76,
+          "probability": 1.0
+        },
+        {
+          "word": " pink",
+          "start": 12.76,
+          "end": 12.98,
+          "probability": 0.76611328125
+        },
+        {
+          "word": " and",
+          "start": 12.98,
+          "end": 13.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " white",
+          "start": 13.14,
+          "end": 13.34,
+          "probability": 0.98486328125
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 100,
+      "start": 13.34,
+      "end": 15.18,
+      "text": " If the ground is black and yellow",
+      "tokens": [
+        50994,
+        759,
+        264,
+        2727,
+        307,
+        2211,
+        293,
+        5566,
+        51080
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " If",
+          "start": 13.34,
+          "end": 13.88,
+          "probability": 0.99609375
+        },
+        {
+          "word": " the",
+          "start": 13.88,
+          "end": 14.04,
+          "probability": 1.0
+        },
+        {
+          "word": " ground",
+          "start": 14.04,
+          "end": 14.28,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 14.28,
+          "end": 14.54,
+          "probability": 1.0
+        },
+        {
+          "word": " black",
+          "start": 14.54,
+          "end": 14.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 14.76,
+          "end": 14.94,
+          "probability": 1.0
+        },
+        {
+          "word": " yellow",
+          "start": 14.94,
+          "end": 15.18,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 100,
+      "start": 15.18,
+      "end": 17.18,
+      "text": " It's the same way you showed me",
+      "tokens": [
+        51080,
+        467,
+        311,
+        264,
+        912,
+        636,
+        291,
+        4712,
+        385,
+        51178
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20206213805635095,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.46908313035964966,
+      "words": [
+        {
+          "word": " It's",
+          "start": 15.18,
+          "end": 15.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 15.7,
+          "end": 15.8,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 15.8,
+          "end": 16.1,
+          "probability": 1.0
+        },
+        {
+          "word": " way",
+          "start": 16.1,
+          "end": 16.36,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 16.36,
+          "end": 16.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " showed",
+          "start": 16.58,
+          "end": 16.92,
+          "probability": 0.5732421875
+        },
+        {
+          "word": " me",
+          "start": 16.92,
+          "end": 17.18,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

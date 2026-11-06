@@ -1,0 +1,217 @@
+{
+  "started_at": "2026-11-05T02:10:41.535589+00:00",
+  "method": "VAI installed local SpeechCore (Qwen3 ASR + forced alignment), independent full-audio Whisper large-v3 pass; no API; no network; no queue changes",
+  "app_release": "/Users/voidengine/Library/Application Support/VAI/releases/20261021.47",
+  "runtime": "/Users/voidengine/Library/Application Support/VAI/runtime/20261012.6/video-env/bin/python",
+  "code_sha256": "5414ae0745d02064ba7c7bdbc404eac133dca502259d0efb9b6cddbc67687cd7",
+  "models": [
+    "/Users/voidengine/Library/Application Support/VAI/releases/20261021.47/work/models/qwen3-asr",
+    "/Users/voidengine/Library/Application Support/VAI/releases/20261021.47/work/models/qwen3-aligner",
+    "/Users/voidengine/Library/Application Support/VAI/releases/20261021.47/work/models/whisper-large-v3"
+  ],
+  "sources": [
+    {
+      "id": "V01",
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/data/attachments/Shilucheng_床单_V01_视频.mp4",
+      "sha256_before": "6bd7fec2afbe913399359ffb1ef485196de33d563731a10371523f820bebde6d"
+    },
+    {
+      "id": "V02",
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/data/attachments/Shilucheng_床单_V02_视频.mp4",
+      "sha256_before": "ac002e5aa5c0ddffa6ee6b20f2874e188be82b55d70c193087202282163fc8bb"
+    },
+    {
+      "id": "V03",
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/data/attachments/Shilucheng_床单_V03_视频.mp4",
+      "sha256_before": "2a9c5989878ef555ce4b4d74d71bae9b037b7539e91ccf64a923f279814f1590"
+    },
+    {
+      "id": "V04",
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/data/attachments/Shilucheng_床单_V04_视频.mp4",
+      "sha256_before": "69f3cd6b43b70aad97eb7be4238957b15b538a0092523054fef1b5cc72a066b9"
+    },
+    {
+      "id": "V05",
+      "file": "/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用/data/attachments/Shilucheng_床单_V05_视频.mp4",
+      "sha256_before": "410aebf09b222ff62c131a06e1536a4466883c9ebea4ba5827e7d741d366a785"
+    }
+  ],
+  "results": [
+    {
+      "id": "V01",
+      "audio_seconds": 7.916,
+      "elapsed_seconds": 5.13,
+      "qwen_text": "",
+      "whisper_text": " you",
+      "qwen_timeline_valid": true,
+      "qwen_warnings": [],
+      "source_unchanged": true
+    },
+    {
+      "id": "V02",
+      "audio_seconds": 12.235,
+      "elapsed_seconds": 1.38,
+      "qwen_text": "I.\nAm an autumn.\nOh, oh.",
+      "whisper_text": " I am an autumn.",
+      "qwen_timeline_valid": true,
+      "qwen_warnings": [],
+      "source_unchanged": true
+    },
+    {
+      "id": "V03",
+      "audio_seconds": 16.09,
+      "elapsed_seconds": 3.59,
+      "qwen_text": "",
+      "whisper_text": " Yeah, yeah, oh, yeah, yeah, yeah That's the way every day goes, every time we've no control If the sky is pink and white, if the ground is black and yellow This is",
+      "qwen_timeline_valid": true,
+      "qwen_warnings": [],
+      "source_unchanged": true
+    },
+    {
+      "id": "V04",
+      "audio_seconds": 20.71,
+      "elapsed_seconds": 0.76,
+      "qwen_text": "Oh, oh, oh.",
+      "whisper_text": "",
+      "qwen_timeline_valid": true,
+      "qwen_warnings": [],
+      "source_unchanged": true
+    },
+    {
+      "id": "V05",
+      "audio_seconds": 17.483,
+      "elapsed_seconds": 2.08,
+      "qwen_text": "Oh, oh, oh.",
+      "whisper_text": " Yeah, yeah, uh Yeah, yeah, yeah That's the way everyday goes Every time we've no control If the sky is pink and white If the ground is black and yellow It's the same way you showed me",
+      "qwen_timeline_valid": true,
+      "qwen_warnings": [],
+      "source_unchanged": true
+    }
+  ],
+  "finished_at": "2026-11-05T02:10:58.274240+00:00",
+  "validation": {
+    "checked_at": "2026-11-05T02:13:27.732736+00:00",
+    "source_hashes_unchanged": true,
+    "total_audio_seconds": 74.434,
+    "all_segment_times_within_audio": true,
+    "human_listening": false,
+    "additional_pass": "Full audio with installed VAI Qwen model; no VAD; preserve full JSON per video",
+    "notes": {
+      "V01": "不稳定识别。语音分段未得到正文；两次全音轨识别结果不同。不能据此确立一句可引用口播，也不能断言没有人声。",
+      "V02": "两模型全音轨一致识别 I am an autumn.（我是秋季型／我是秋天，具体语义取决于画面情境）。分段结果还出现 Oh，未作为可靠产品信息。可靠句约0.0–2.9秒；模型时间点有差异。",
+      "V03": "Qwen全音轨与Whisper识别出高度相近的韵文式内容，疑似背景歌词，与商品功效、价格、促销无直接关系。Qwen语音活动分段漏掉这些文字；末尾截断。不能把机器文字标作人工听辨。",
+      "V04": "Whisper没有输出正文；Qwen全音轨识别到与V03/V05重合的疑似歌词。全句文字及尾句仅单模型支持，不作为可靠口播或产品主张，时间只定位整条音轨。",
+      "V05": "Qwen全音轨与Whisper识别出高度相近的疑似背景歌词；语音活动分段仅截取哼唱。未识别出新的产品主张。不得根据文本推断音乐节奏、音效或销量作用。"
+    }
+  },
+  "artifacts": [
+    {
+      "file": "V01_VAI_Qwen.json",
+      "sha256": "a55e123bea96f9194db78e7e909b7ab58491cd2674b4940b57775e8e18b8b640"
+    },
+    {
+      "file": "V01_VAI_Qwen.srt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "V01_VAI_Qwen_full.json",
+      "sha256": "6ebc4d657e4a8e4b86ae84960b977b4fb7bdc126d53bd6b8bfbf68d8a15f6e6a"
+    },
+    {
+      "file": "V01_VAI_Whisper.json",
+      "sha256": "b7cc7cb73eca4a984ba4c32004a60b4eb6f072488eea2fd55cdce89d66bc6efb"
+    },
+    {
+      "file": "V01_VAI_Whisper.srt",
+      "sha256": "87be91558adaa960dc2e6718d56eec82fa7573ca8ef468774986c0ab2ef9b34b"
+    },
+    {
+      "file": "V02_VAI_Qwen.json",
+      "sha256": "2ebe4829c8573220b987fa3fea6ef5b3ca61e6a6ca04776ecc45a3bf5d263810"
+    },
+    {
+      "file": "V02_VAI_Qwen.srt",
+      "sha256": "11e4f48d377e46e118fcb70907f8f4de5a320c288fa5656afb070983f82ce3f7"
+    },
+    {
+      "file": "V02_VAI_Qwen_full.json",
+      "sha256": "4a2db09550020b6a34f2dafbaf316584ca57c7fea14571b7dacd5b4682c5ae3a"
+    },
+    {
+      "file": "V02_VAI_Whisper.json",
+      "sha256": "f7ee42d3643eac48cd3a3d003fb2afa36ef786cc66bae8ae5e14f3d25892d920"
+    },
+    {
+      "file": "V02_VAI_Whisper.srt",
+      "sha256": "118351213d60c388abdba0a0d2539bfa84abc5edb5c8ceb401c8b26ee4b6aabf"
+    },
+    {
+      "file": "V03_VAI_Qwen.json",
+      "sha256": "8100772c7f442264375f24f2c1cd1866dafa7f73eeb0f22cb43c497a2b4300f8"
+    },
+    {
+      "file": "V03_VAI_Qwen.srt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "V03_VAI_Qwen_full.json",
+      "sha256": "6e006de8240c8e10dcc6b13b8d4f312e7834054d114cdb3397ebdbbc38de8d42"
+    },
+    {
+      "file": "V03_VAI_Whisper.json",
+      "sha256": "37d7cc5312250116bce2a123d16c6c43fea2b666b360b21b5dfca23ce7f7801d"
+    },
+    {
+      "file": "V03_VAI_Whisper.srt",
+      "sha256": "56e9260345296bb2a4c2c23022c581bc4701ba4ea05e7e3a1a1159682c37f298"
+    },
+    {
+      "file": "V04_VAI_Qwen.json",
+      "sha256": "579fd7549da5c0146b4d375c4aa1837d7e519cf26cfdb5b68529fc1cab769e67"
+    },
+    {
+      "file": "V04_VAI_Qwen.srt",
+      "sha256": "bda93bdc64d64ab19e4482bbcc39d55ff841faa1e0b12b003e6232df7fdae062"
+    },
+    {
+      "file": "V04_VAI_Qwen_full.json",
+      "sha256": "6042c8e4fdcea9dae86a9fab39d23e8c2e45530d1e78347c73d6553a95b73cd7"
+    },
+    {
+      "file": "V04_VAI_Whisper.json",
+      "sha256": "e767e57b2600dff2e3184c7d775963c2452dcb257bfd1ed0129a1c4997bbdfa0"
+    },
+    {
+      "file": "V04_VAI_Whisper.srt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "V05_VAI_Qwen.json",
+      "sha256": "effc5a53a808723a5296fbb573ff5f03305a62127359e60df54a861f4074e3b2"
+    },
+    {
+      "file": "V05_VAI_Qwen.srt",
+      "sha256": "bda93bdc64d64ab19e4482bbcc39d55ff841faa1e0b12b003e6232df7fdae062"
+    },
+    {
+      "file": "V05_VAI_Qwen_full.json",
+      "sha256": "84d92887487dd479ee2e8f93966dfa34dcfb83a9af315bfea8c54ea58d2c330e"
+    },
+    {
+      "file": "V05_VAI_Whisper.json",
+      "sha256": "4f0470e2dde7b0c1204acbe0d244408c2694709ff6418742a1d8a0691ccc920e"
+    },
+    {
+      "file": "V05_VAI_Whisper.srt",
+      "sha256": "8d0301ea5aa5d31e70c2d36403a9650d7684df5c1d2437a6b502a41cdfdcb868"
+    },
+    {
+      "file": "转写核验说明.md",
+      "sha256": "b4d061b8369b0e3def3959af1a09b1d5411a83fa5377f34848e3f819432689ea"
+    },
+    {
+      "file": "逐视频转写与分歧.txt",
+      "sha256": "9348679e4f96392d9f26d0d179f23e4afb40b1a48978310a2dc0122244b6202c"
+    }
+  ]
+}

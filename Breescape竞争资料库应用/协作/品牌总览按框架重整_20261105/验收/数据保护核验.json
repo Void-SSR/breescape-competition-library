@@ -1,0 +1,19 @@
+{
+  "原样保留": {
+    "brands": 3,
+    "products": 4,
+    "reviews": 2628,
+    "materials": 173,
+    "material_links": 240,
+    "observations": 27,
+    "industry_documents": 2
+  },
+  "研究记录变化": [
+    68
+  ],
+  "框架状态": {
+    "部分回答": 50,
+    "已回答": 19,
+    "资料不足": 82
+  }
+}

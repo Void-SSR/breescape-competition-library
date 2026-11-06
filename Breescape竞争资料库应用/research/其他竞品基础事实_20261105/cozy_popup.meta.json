@@ -1,0 +1,497 @@
+{
+  "key": "cozy_popup",
+  "url": "https://www.sunwinglobalco.com/news/sunwin-global-gets-into-the-holiday-spirit-with-its-1st-pop-up-shop",
+  "retrieved_at": "2026-11-05T14:40:26+08:00",
+  "status": 200,
+  "final_url": "https://www.sunwinglobalco.com/news/sunwin-global-gets-into-the-holiday-spirit-with-its-1st-pop-up-shop",
+  "bytes": 346666,
+  "links": [
+    {
+      "url": "/cart",
+      "label": "0"
+    },
+    {
+      "url": "#page",
+      "label": "Skip to Content"
+    },
+    {
+      "url": "/about",
+      "label": "About"
+    },
+    {
+      "url": "#own-brands",
+      "label": "Own Brands"
+    },
+    {
+      "url": "/amelie-home",
+      "label": "Amelie Home"
+    },
+    {
+      "url": "/snuggle-sac",
+      "label": "Snuggle Sac"
+    },
+    {
+      "url": "/cozy-bliss",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "/dream-valley",
+      "label": "Dream Valley"
+    },
+    {
+      "url": "#licensed-brands",
+      "label": "Licensed Brands"
+    },
+    {
+      "url": "/isotoner",
+      "label": "Isotoner"
+    },
+    {
+      "url": "/lego",
+      "label": "Lego"
+    },
+    {
+      "url": "/vitality",
+      "label": "Vitality"
+    },
+    {
+      "url": "/sunwin-home",
+      "label": "Home"
+    },
+    {
+      "url": "/sunwin-home/throw",
+      "label": "Throw"
+    },
+    {
+      "url": "/sunwin-home/pillow",
+      "label": "Pillow"
+    },
+    {
+      "url": "/sunwin-home/comforter",
+      "label": "Comforter"
+    },
+    {
+      "url": "/sunwin-home/outdoor",
+      "label": "Outdoor"
+    },
+    {
+      "url": "/apparel",
+      "label": "Apparel"
+    },
+    {
+      "url": "/apparel/sleepwear",
+      "label": "Sleepwear"
+    },
+    {
+      "url": "/apparel/loungewear",
+      "label": "Loungewear"
+    },
+    {
+      "url": "/apparel/activewear",
+      "label": "Activewear"
+    },
+    {
+      "url": "/accessory",
+      "label": "Accessory"
+    },
+    {
+      "url": "/accessory/hat",
+      "label": "Hat"
+    },
+    {
+      "url": "/accessory/sock",
+      "label": "Sock"
+    },
+    {
+      "url": "/accessory/bag",
+      "label": "Bag"
+    },
+    {
+      "url": "#Others",
+      "label": "OTHERS"
+    },
+    {
+      "url": "/baby-kids",
+      "label": "Baby & Kids"
+    },
+    {
+      "url": "/pets",
+      "label": "Pets"
+    },
+    {
+      "url": "/news",
+      "label": "News"
+    },
+    {
+      "url": "/",
+      "label": ""
+    },
+    {
+      "url": "/location",
+      "label": "Contact us"
+    },
+    {
+      "url": "/location",
+      "label": "Contact us"
+    },
+    {
+      "url": "/about",
+      "label": "About"
+    },
+    {
+      "url": "#own-brands",
+      "label": "Own Brands"
+    },
+    {
+      "url": "/amelie-home",
+      "label": "Amelie Home"
+    },
+    {
+      "url": "/snuggle-sac",
+      "label": "Snuggle Sac"
+    },
+    {
+      "url": "/cozy-bliss",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "/dream-valley",
+      "label": "Dream Valley"
+    },
+    {
+      "url": "#licensed-brands",
+      "label": "Licensed Brands"
+    },
+    {
+      "url": "/isotoner",
+      "label": "Isotoner"
+    },
+    {
+      "url": "/lego",
+      "label": "Lego"
+    },
+    {
+      "url": "/vitality",
+      "label": "Vitality"
+    },
+    {
+      "url": "/sunwin-home",
+      "label": "Home"
+    },
+    {
+      "url": "/sunwin-home/throw",
+      "label": "Throw"
+    },
+    {
+      "url": "/sunwin-home/pillow",
+      "label": "Pillow"
+    },
+    {
+      "url": "/sunwin-home/comforter",
+      "label": "Comforter"
+    },
+    {
+      "url": "/sunwin-home/outdoor",
+      "label": "Outdoor"
+    },
+    {
+      "url": "/apparel",
+      "label": "Apparel"
+    },
+    {
+      "url": "/apparel/sleepwear",
+      "label": "Sleepwear"
+    },
+    {
+      "url": "/apparel/loungewear",
+      "label": "Loungewear"
+    },
+    {
+      "url": "/apparel/activewear",
+      "label": "Activewear"
+    },
+    {
+      "url": "/accessory",
+      "label": "Accessory"
+    },
+    {
+      "url": "/accessory/hat",
+      "label": "Hat"
+    },
+    {
+      "url": "/accessory/sock",
+      "label": "Sock"
+    },
+    {
+      "url": "/accessory/bag",
+      "label": "Bag"
+    },
+    {
+      "url": "#Others",
+      "label": "OTHERS"
+    },
+    {
+      "url": "/baby-kids",
+      "label": "Baby & Kids"
+    },
+    {
+      "url": "/pets",
+      "label": "Pets"
+    },
+    {
+      "url": "/news",
+      "label": "News"
+    },
+    {
+      "url": "/",
+      "label": ""
+    },
+    {
+      "url": "/about",
+      "label": "About"
+    },
+    {
+      "url": "/new-dropdown",
+      "label": "Folder: \n                 Brands"
+    },
+    {
+      "url": "/",
+      "label": "Back"
+    },
+    {
+      "url": "#own-brands",
+      "label": "Own Brands"
+    },
+    {
+      "url": "/amelie-home",
+      "label": "Amelie Home"
+    },
+    {
+      "url": "/snuggle-sac",
+      "label": "Snuggle Sac"
+    },
+    {
+      "url": "/cozy-bliss",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "/dream-valley",
+      "label": "Dream Valley"
+    },
+    {
+      "url": "#licensed-brands",
+      "label": "Licensed Brands"
+    },
+    {
+      "url": "/isotoner",
+      "label": "Isotoner"
+    },
+    {
+      "url": "/lego",
+      "label": "Lego"
+    },
+    {
+      "url": "/vitality",
+      "label": "Vitality"
+    },
+    {
+      "url": "/new-dropdown-1",
+      "label": "Folder: \n                 Category"
+    },
+    {
+      "url": "/",
+      "label": "Back"
+    },
+    {
+      "url": "/sunwin-home",
+      "label": "Home"
+    },
+    {
+      "url": "/sunwin-home/throw",
+      "label": "Throw"
+    },
+    {
+      "url": "/sunwin-home/pillow",
+      "label": "Pillow"
+    },
+    {
+      "url": "/sunwin-home/comforter",
+      "label": "Comforter"
+    },
+    {
+      "url": "/sunwin-home/outdoor",
+      "label": "Outdoor"
+    },
+    {
+      "url": "/apparel",
+      "label": "Apparel"
+    },
+    {
+      "url": "/apparel/sleepwear",
+      "label": "Sleepwear"
+    },
+    {
+      "url": "/apparel/loungewear",
+      "label": "Loungewear"
+    },
+    {
+      "url": "/apparel/activewear",
+      "label": "Activewear"
+    },
+    {
+      "url": "/accessory",
+      "label": "Accessory"
+    },
+    {
+      "url": "/accessory/hat",
+      "label": "Hat"
+    },
+    {
+      "url": "/accessory/sock",
+      "label": "Sock"
+    },
+    {
+      "url": "/accessory/bag",
+      "label": "Bag"
+    },
+    {
+      "url": "#Others",
+      "label": "OTHERS"
+    },
+    {
+      "url": "/baby-kids",
+      "label": "Baby & Kids"
+    },
+    {
+      "url": "/pets",
+      "label": "Pets"
+    },
+    {
+      "url": "/news",
+      "label": "News"
+    },
+    {
+      "url": "/location",
+      "label": "Contact us"
+    },
+    {
+      "url": "/news?author=68e669126312205d54061ac4",
+      "label": "Yutong Gao"
+    },
+    {
+      "url": "https://sunwinnyc-official.com/",
+      "label": "Sunwin Global Industry"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/snuggle-sac/",
+      "label": "Snuggle Sac"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/cozy-bliss/",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/amelie-home/",
+      "label": "Amelie Home"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/retail/",
+      "label": "retail"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/space/",
+      "label": "space"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/sunwin-global-industry/",
+      "label": "Sunwin Global Industry"
+    },
+    {
+      "url": "https://www.themaker.com/press",
+      "label": "Maker Hotel"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/tag/retailer/",
+      "label": "retailer"
+    },
+    {
+      "url": "https://www.hometextilestoday.com/brands-amp-marketing/sunwin-global-gets-into-the-holiday-spirit-with-its-1st-pop-up-shop/",
+      "label": "https://www.hometextilestoday.com/brands-amp-marketing/sunwin-global-gets-into-the-holiday-spirit-with-its-1st-pop-up-shop/"
+    },
+    {
+      "url": "/news?author=68e669126312205d54061ac4",
+      "label": "Yutong Gao"
+    },
+    {
+      "url": "/news/sunwin-celebrates-a-year-of-growth",
+      "label": "Previous \n         Previous \n        \n         Sunwin celebrates a year of growth"
+    },
+    {
+      "url": "/news/sunwin-sets-the-stage-for-luxe-innovation",
+      "label": "Next \n         Next \n        \n         Sunwin sets the stage for luxe innovation"
+    },
+    {
+      "url": "/leadership-team",
+      "label": "OUR TEAM"
+    },
+    {
+      "url": "/location",
+      "label": "CONTACT US"
+    },
+    {
+      "url": "/career",
+      "label": "CAREER"
+    },
+    {
+      "url": "/sunwin-home",
+      "label": "Home"
+    },
+    {
+      "url": "/apparel",
+      "label": "Apparel"
+    },
+    {
+      "url": "/accessory",
+      "label": "Accessory"
+    },
+    {
+      "url": "/about",
+      "label": "ABOUT"
+    },
+    {
+      "url": "/news",
+      "label": "NEWS"
+    },
+    {
+      "url": "/dream-valley",
+      "label": "Dream Valley"
+    },
+    {
+      "url": "/amelie-home",
+      "label": "Amelie Home"
+    },
+    {
+      "url": "/cozy-bliss",
+      "label": "Cozy Bliss"
+    },
+    {
+      "url": "/snuggle-sac",
+      "label": "Snuggle Sac"
+    },
+    {
+      "url": "/isotoner",
+      "label": "Isotoner"
+    },
+    {
+      "url": "/lego",
+      "label": "Lego"
+    },
+    {
+      "url": "/vitality",
+      "label": "Vitality"
+    }
+  ],
+  "images": [
+    "<meta property=\"og:image\" content=\"http://static1.squarespace.com/static/68e66914651fa003d2aa0f21/68e66915651fa003d2aa0f70/697cf8b8bab1902af306c66a/1769798001637/Sunwin-pop-up-CANVA.webp?format=1500w\"/>"
+  ]
+}

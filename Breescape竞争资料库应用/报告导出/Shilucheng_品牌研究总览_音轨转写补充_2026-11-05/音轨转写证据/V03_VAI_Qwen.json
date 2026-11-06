@@ -1,0 +1,10 @@
+{
+  "audio_seconds": 16.09,
+  "detection_seconds": 0.047341041994513944,
+  "asr_seconds": 0,
+  "alignment_seconds": 0,
+  "segments": [],
+  "text": "",
+  "warnings": [],
+  "timeline_valid": true
+}

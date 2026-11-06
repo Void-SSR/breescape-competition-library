@@ -1,0 +1,52 @@
+{
+  "text": " I am an autumn.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.76,
+      "text": " I am an autumn.",
+      "tokens": [
+        50365,
+        286,
+        669,
+        364,
+        24604,
+        13,
+        50511
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6248719692230225,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.1638036072254181,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.8,
+          "probability": 0.8076171875
+        },
+        {
+          "word": " am",
+          "start": 0.8,
+          "end": 2.2,
+          "probability": 0.78857421875
+        },
+        {
+          "word": " an",
+          "start": 2.2,
+          "end": 2.4,
+          "probability": 0.92333984375
+        },
+        {
+          "word": " autumn.",
+          "start": 2.4,
+          "end": 2.76,
+          "probability": 0.7705078125
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

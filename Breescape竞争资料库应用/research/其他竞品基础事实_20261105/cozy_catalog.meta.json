@@ -1,0 +1,10 @@
+{
+  "key": "cozy_catalog",
+  "url": "https://cozybliss.com/products.json?limit=250",
+  "retrieved_at": "2026-11-05T14:38:57+08:00",
+  "status": 200,
+  "final_url": "https://cozybliss.com/products.json?limit=250",
+  "bytes": 8529627,
+  "links": [],
+  "images": []
+}

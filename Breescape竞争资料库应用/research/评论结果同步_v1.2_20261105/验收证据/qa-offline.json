@@ -1,0 +1,29 @@
+{
+  "isolated_offline_context": true,
+  "live_service_not_stopped_for_test": true,
+  "all_screenshots_embedded": true,
+  "relative_links_with_chinese_and_spaces": true,
+  "evidence_files": [
+    "05_分来源主题统计.csv",
+    "01_rules_v1.2.md",
+    "04_逐条评论与编码.csv",
+    "04_全部证据标注.csv",
+    "05_behavior_counts.json",
+    "07_关键证据与反例.md",
+    "08_研究结论与机制修订建议.md"
+  ],
+  "download_csv_matches": true,
+  "quote_jump_and_audit_expand": true,
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "page_errors": [],
+  "network_requests": []
+}

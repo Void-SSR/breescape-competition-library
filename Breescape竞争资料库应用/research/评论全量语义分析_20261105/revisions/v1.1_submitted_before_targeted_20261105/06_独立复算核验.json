@@ -1,0 +1,5 @@
+{
+  "method": "从导出的CSV重建review_id集合，与JSON统计逐组逐主题比对；不调用原统计函数",
+  "all_source_specific_theme_counts_match": true,
+  "semantic_accuracy_claim": false
+}

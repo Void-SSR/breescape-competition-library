@@ -1,0 +1,101 @@
+{
+  "brands_unchanged": 3,
+  "products_unchanged": 4,
+  "reviews_unchanged": 1628,
+  "observations_unchanged": 12,
+  "imports_unchanged": 1,
+  "record_changed_fields": {
+    "10": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "11": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "12": [
+      "body",
+      "status",
+      "evidence",
+      "updated_at"
+    ],
+    "13": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "14": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "21": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "40": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "52": [
+      "title",
+      "body",
+      "kind",
+      "status",
+      "evidence",
+      "updated_at"
+    ],
+    "53": [
+      "title",
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "54": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "58": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "59": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "66": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "67": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "68": [
+      "body",
+      "evidence",
+      "updated_at"
+    ],
+    "72": [
+      "body",
+      "evidence",
+      "updated_at"
+    ]
+  },
+  "other_records_unchanged": 59,
+  "old_files_unchanged": 180,
+  "seven_publication_copies_exact": true,
+  "other_brand_reports_unchanged": true,
+  "sections_1_3_4_6_unchanged": true,
+  "section_5_content_unchanged": true,
+  "topper_outline_unchanged": true
+}

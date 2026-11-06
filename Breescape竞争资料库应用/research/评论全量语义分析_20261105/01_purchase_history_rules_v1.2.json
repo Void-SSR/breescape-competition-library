@@ -1,0 +1,8 @@
+{
+  "explicit_repeat_report": "明示购买次数/不同订单，或先前体验与已发生的追加购买动作形成明确叙述；只表示评论者自述，不等于核验交易。",
+  "possible_repeat_sequence_uncertain": "ordinal set/pair、前后套组比较或扩展用途提示可能再购，但不足区分分次购买、同单多套或未来意图；保留弱线索。",
+  "multiple_sets_only": "明确已买/持有多套、多色，没有可确认订单顺序；不自动否定可能发生过再购。",
+  "store_repeat_product_uncertain": "同店先前下单与本次明确，不能确认同款。",
+  "store_multiple_sequence_uncertain": "同店套数序号，既不能确认同款，也不能确认订单顺序。",
+  "intentions_and_gifts": "未来意愿、赠礼用途、同单多件独立保留；不计已发生分次购买，可与历史类共存。"
+}

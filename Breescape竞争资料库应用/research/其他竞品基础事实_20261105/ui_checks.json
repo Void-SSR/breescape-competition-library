@@ -1,0 +1,30 @@
+{
+  "checks": [
+    {
+      "brand": "cozy-bliss",
+      "chapters": 6,
+      "tables": 18,
+      "questions": 28,
+      "links": 87
+    },
+    {
+      "brand": "sheex",
+      "chapters": 6,
+      "tables": 16,
+      "questions": 26,
+      "links": 81
+    },
+    {
+      "brand": "shilucheng",
+      "chapters": 6,
+      "tables": 44,
+      "questions": 47,
+      "links": 213
+    },
+    {
+      "topper_reviews": 1000,
+      "pagination": true
+    }
+  ],
+  "errors": []
+}

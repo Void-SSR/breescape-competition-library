@@ -1,0 +1,728 @@
+- banner:
+  - button:
+  - paragraph:
+    - strong: 5 years
+    - text: special financing
+    - superscript: "2"
+    - link:
+      - /url: /pages/financing
+      - text: See details
+  - button:
+  - link:
+    - /url: "#main"
+    - generic: 跳过导航
+  - navigation:
+    - link:
+      - /url: tel:+18777733641
+      - generic: 1-877-773-3641
+    - link:
+      - /url: /
+      - generic: 睡眠号码之家
+    - button:
+      - generic: Open until 8 PM
+      - generic: Glendale, CA
+    - button:
+    - button:
+    - link:
+      - /url: /cart
+    - link:
+      - /url: /categories/mattresses
+      - generic: 床垫
+    - link:
+      - /url: /categories/bundles
+      - generic: 捆绑包
+    - link:
+      - /url: /categories/bedding
+      - generic: 寝具
+    - link:
+      - /url: /categories/all-pillows
+      - generic: 枕头
+    - link:
+      - /url: /categories/furniture
+      - generic: 家具
+    - link:
+      - /url: https://www.sleepnumber.com/find-your-perfect-mattress
+      - generic: 床位测试
+    - link:
+      - /url: /categories/holiday
+      - generic: 节日礼物
+    - link:
+      - /url: /categories/black-friday-deals
+      - generic: 黑色星期五促销
+- main:
+  - heading [level=2]:
+    - generic: True Temp
+    - superscript:
+      - generic: ™
+  - button:
+    - generic: 特征
+  - button:
+    - generic: 评论
+  - generic: 209.99美元
+  - button:
+    - generic: 添加到购物车
+  - region:
+    - tabpanel:
+    - tabpanel:
+    - tabpanel:
+    - tabpanel:
+    - tabpanel:
+    - tabpanel:
+      - button:
+        - button:
+    - tabpanel:
+      - button:
+        - button:
+    - tablist:
+      - tab [selected]:
+      - tab:
+      - tab:
+      - tab:
+      - tab:
+      - tab:
+      - tab:
+  - button:
+    - list:
+    - generic: "4.5"
+    - generic: 星级评分
+    - generic: （
+    - generic: "12308"
+    - generic: ）
+    - generic: 评论
+  - heading [level=1]: True Temp™ sheet set
+  - generic: 当前价格：
+  - generic: 209.99美元
+  - generic: 选择颜色：
+  - generic: 沙丘
+  - radiogroup:
+    - radio:
+    - radio:
+    - radio:
+    - radio:
+    - radio [checked]:
+    - radio:
+  - generic: 选择尺寸
+  - button:
+    - generic: 女王
+  - generic: Free shipping on all bedding
+  - generic: 当前价格：
+  - generic: 209.99美元
+  - generic: 数量：
+  - generic: "1"
+  - button [disabled]:
+  - generic: "1"
+  - button:
+  - button:
+    - generic: 添加到购物车
+  - button:
+    - generic: 查看更多付款方式
+  - generic: 零利率
+  - generic: 或者使用Affirm
+  - text: 付款，最低每月只需
+  - generic: 18 美元
+  - text: 。
+  - link:
+    - /url: javascript:void(0)
+    - text: 看看你是否符合条件
+  - heading [level=2]:
+    - button:
+      - generic: 细节
+  - heading [level=2]:
+    - button:
+      - generic: 尺寸
+  - heading [level=2]:
+    - button [expanded]:
+      - generic: 面料及护理
+  - region:
+    - paragraph: Fabric
+    - paragraph: Blend of 76% cotton, 22% 37.5® polyester and 2% spandex. 300-thread-count sateen weave. Made in China.
+    - paragraph: Washing
+    - text: Machine wash gentle cycle in cold water with mild detergent.
+    - paragraph: Do not pour detergent directly on sheets and avoid chlorine bleach or detergents with added bleach or whiteners.
+    - paragraph: Do not use fabric softener, overload washing machine, or wash with non-bedding items. Doing so increases friction which can break down fabrics or cause pilling.
+    - paragraph: Drying
+    - text: Tumble dry on low heat or line dry.
+    - paragraph: Remove from dryer while slightly damp to prevent wrinkles. Do not use dryer sheets as they may weaken and break down the yarns.
+    - paragraph: Storage
+    - paragraph: Store sheets in a cool, dry, well-ventilated area. Do not store in plastic containers as this may cause fabric to discolor.
+  - heading [level=2]:
+    - button:
+      - generic: 认证
+  - heading [level=2]:
+    - generic: 你为什么会喜欢它
+  - button:
+    - generic: 播放
+    - generic: 视频
+  - heading [level=3]:
+    - generic: 随床移动
+  - generic: ExactFit
+  - superscript:
+    - generic: ™
+  - generic: 床单设计可随您的可调节智能床伸展，并在两次使用之间恢复原状，实现平滑、完美的贴合。
+  - heading [level=3]:
+    - generic: 床单会脱落吗？
+  - heading [level=3]:
+    - generic: 我们的 SmartFit
+    - superscript:
+      - generic: ™
+    - generic: 设计采用全弹性边缘、弹性角缝和固定带，可使床笠保持在原位。
+  - button:
+    - generic: 播放
+    - generic: 视频
+  - heading [level=3]:
+    - generic: 整理床铺对你来说是一件苦差事吗？
+  - generic: 将 Sleep Number® 床品的Logic
+  - superscript:
+    - generic: ™
+  - generic: 标签对齐到右下角，可以让你从一开始就轻松看出床品的正确安装方向。
+  - heading [level=3]:
+    - generic: 温度失控了吗？
+  - heading [level=3]:
+    - generic: 37.5® 技术中的活性颗粒能够散发热量和湿气，帮助您在适宜的温度下安然入睡。37.5® 是 Cocona, Inc. 的商标。
+  - generic: 更多爱上我们床上用品的理由
+  - list:
+    - heading [level=3]:
+      - generic: 安息吧
+    - generic: 我们为 True Temp
+    - superscript:
+      - generic: ™
+    - generic: 床单套装提供
+    - link:
+      - /url: /pages/legal-warranty
+      - generic: 一年有限保修。
+    - heading [level=3]:
+      - generic: 退货与换货
+    - generic: 我们的床上用品可供您试用长达 100 晚，如果您不满意，可以退货或换货。
+    - heading [level=3]:
+      - generic: 免运费
+    - generic: 大多数床上用品每天都能快速免费发货。
+    - heading [level=3]:
+      - generic: 温度平衡
+    - generic: 天气热的时候让你感到凉爽，天气冷的时候让你感到温暖。
+  - generic: 为您推荐
+  - link:
+    - /url: /products/true-temp-pillowcases
+    - generic: BOGO 50% OFF
+  - button:
+  - link:
+    - /url: /products/true-temp-pillowcases
+    - generic: True Temp™ pillowcase set
+  - generic: "sale price:"
+  - text: $25.00 - $49.99
+  - generic: "regular price:"
+  - text: $44.99 - $49.99
+  - list:
+  - text: "4.7"
+  - generic: rating stars
+  - text: (856)
+  - generic: reviews
+  - radiogroup:
+    - radio [checked]:
+    - radio:
+    - radio:
+    - radio:
+    - radio:
+    - text: +1 more
+    - generic: colors available
+  - generic: Buy One, Get One 50% Off
+  - link:
+    - /url: /products/true-temp-plush-mattress-layer
+  - button:
+  - link:
+    - /url: /products/true-temp-plush-mattress-layer
+    - generic: True Temp™ Plush Mattress layer
+  - generic: "sale price:"
+  - text: $179.99 - $279.99
+  - list:
+  - text: "4.2"
+  - generic: rating stars
+  - text: (60)
+  - generic: reviews
+  - link:
+    - /url: /products/true-temp-plush-pillow
+    - generic: BOGO 50% OFF
+  - button:
+  - link:
+    - /url: /products/true-temp-plush-pillow
+    - generic: True Temp™ Plush pillow
+  - paragraph: Adapts to your temperature throughout the night
+  - generic: "sale price:"
+  - text: $109.99 - $179.99
+  - list:
+  - text: "4.6"
+  - generic: rating stars
+  - text: (380)
+  - generic: reviews
+  - generic: Buy One, Get One 50% Off
+  - link:
+    - /url: /products/lyocell-ultra-sheets-set
+    - generic: BOGO 50% OFF
+  - button:
+  - link:
+    - /url: /products/lyocell-ultra-sheets-set
+    - generic: Lyocell Ultra sheet set
+  - paragraph: Silky-soft Lyocell blend made from sustainable botanical fibers
+  - generic: "sale price:"
+  - text: $229.99 - $359.99
+  - list:
+  - text: "4.6"
+  - generic: rating stars
+  - text: (10577)
+  - generic: reviews
+  - radiogroup:
+    - radio [checked]:
+    - radio:
+    - radio:
+    - radio:
+    - radio:
+    - text: +2 more
+    - generic: colors available
+  - generic: Buy One, Get One 50% Off
+  - heading [level=2]: Sleep Number True Temp™ sheet set Reviews
+  - generic: See why smart sleepers choose Sleep Number
+  - heading [level=2]: Ratings Snapshot
+  - list:
+  - generic: 4.55 out of 5 Stars
+  - link:
+    - /url: /reviews/true-temp-sheets/write?referer=%2Fproducts%2Ftrue-temp-sheets
+    - text: Write a review
+  - list:
+    - button:
+      - generic: 5 Star
+      - generic: "7410"
+    - button:
+      - generic: 4 Star
+      - generic: "1376"
+    - button:
+      - generic: 3 Star
+      - generic: "504"
+    - button:
+      - generic: 2 Star
+      - generic: "253"
+    - button:
+      - generic: 1 Star
+      - generic: "311"
+  - generic: "Sort by:"
+  - button:
+    - generic: Highest to Lowest
+  - generic: 1 - 8 of 9854 Reviews
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Tia Anderson|
+  - generic: 3 days ago
+  - heading [level=3]: A cooling comfort
+  - paragraph: You will want multiple of these sheets. Once you sleep in them it will be hard to go back to a regular sheet. Keeps your warm but has a cooling affect where you will not over heat.
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 3 days ago
+  - text: Thank you for sharing, Tia. We're so glad your True Temp™ sheet set keeps you comfortable through the night. 😊
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Liz M|
+  - generic: 4 days ago
+  - heading [level=3]: Fantastic cooling!
+  - paragraph: Had this for about a week and the cooling is amazing. No matter where on the pillow it’s cool. We always sleep hot so it’s been amazing for our sleep.
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 4 days ago
+  - text: Liz, thank you for sharing. We're so glad you're enjoying the cooling comfort of your pillow and having a great experience with it 😊
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Trevor S|
+  - generic: 7 days ago
+  - heading [level=3]: So nice
+  - paragraph: Best sheets for summer. Very soft, cool and quiet.
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 7 days ago
+  - text: Trevor, thank you for sharing your experience. We’re glad the True Temp sheet set feels soft, cool, and quiet for summer.
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Sean F|
+  - generic: 7 days ago
+  - heading [level=3]: SO SOFT AND COOLING
+  - paragraph: These sheets are my favorite from sleep number and have a cool touch!
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 7 days ago
+  - text: Thank you for your feedback, Sean! ❄️ We're thrilled to hear the True Temp™ sheet set is your favorite and that you're enjoying the cool-to-the-touch feel. Here's to staying comfortable and sleeping cool all night long! 🌙
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Leslie O|
+  - generic: 23 days ago
+  - heading [level=3]: Light as air
+  - paragraph: Love the weight and feel! Makes me look forward to going to bed each night.
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 23 days ago
+  - text: When going to bed becomes the highlight of your evening, you know you've found something great.
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Cathryn G|
+  - generic: 24 days ago
+  - heading [level=3]: Sheets stay cool
+  - paragraph: We love our Climate 360 split king bed our temp sheets stay cool through the night
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 24 days ago
+  - text: Sounds like a winning combination, Cathryn!
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Rebecca|
+  - generic: 25 days ago
+  - heading [level=3]: My favorite sheets!
+  - paragraph: I love these sheets, they wash up great and have stayed like new for years.
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 25 days ago
+  - text: Great sheets are an investment Rebecca, and we're so glad these have continued to look and feel like new for years!
+  - generic: 5 out of 5 stars
+  - list:
+  - generic: Rita|
+  - generic: 29 days ago
+  - heading [level=3]: true temp sheets adjust to your temperature
+  - paragraph: these adjust, usually col when you get in then adjust once your in and during the night. Great sheets
+  - generic: Helpful?
+  - button: "Yes"
+  - alert: 0 YES responses
+  - text: (0)
+  - generic: "Response from Sleep Number:"
+  - list:
+    - listitem: Sleep Number Corporation|
+    - time: 29 days ago
+  - text: Starting out cool and then adjusting as you sleep sounds like the best of both worlds!
+  - navigation:
+    - button [disabled]:
+      - text: Prev
+    - list:
+      - listitem: "1"
+      - button: "2"
+      - button: "3"
+      - button: "4"
+      - button: "5"
+      - listitem: …
+      - button: "1232"
+    - button:
+      - text: Next
+  - generic: Reviews without comments have been omitted from this list.
+  - heading [level=2]: Questions & answers
+  - generic: "Sort by:"
+  - button:
+    - generic: Most Recent
+  - link:
+    - /url: /questions/ask/true-temp-sheets
+    - text: Ask a question
+  - generic: 1 - 8 of 169 Questions
+  - list:
+    - button [expanded]:
+      - generic: How do you wash these sheets?
+      - generic: Jena
+      - time: 25 days ago
+      - generic: 1 answer
+    - generic: "Response from Sleep Number:"
+    - list:
+      - listitem: Sleep Number Corporation|
+      - time: 25 days ago
+    - text: Machine wash gentle cycle in cold water with mild detergent. Do not pour detergent directly on sheets and avoid chlorine bleach or detergents with added bleach or whiteners. Do not use fabric softener, overload washing machine, or wash with non-bedding items. Doing so increases friction which can break down fabrics or cause pilling.
+    - button:
+      - generic: When will the Queen set be in stock? Every time I check it’s out of stock.
+    - text: "|"
+    - button:
+      - generic: Is there a way to get standard size pillow cases with the Cal King sheet set? We use standard size pillows for sleeping.
+    - text: "|"
+    - button:
+      - generic: I can’t eat on my Sleep Number mattress before I put my waterproof sleep mattress cover on it. How do I get the smell in the stain out of my Sleep Number mattress?
+    - text: "|"
+    - button:
+      - generic: I need flex top king True Temp sheets. When will you be stocking? How can I get notified when they are restocked? My local store is out of stock as well.
+    - text: "|"
+    - button:
+      - generic: Do pillow cases come with the sheets
+    - text: "|"
+    - button:
+      - generic: I need to order the 360 true temp sheets king size split top, but every color is out of stock and unable to be ordered. When will the sheets be back in stock?
+    - button:
+      - generic: I like flannel sheets in the winter. Do these sheets keep you warm in cooler climates.
+    - text: "|"
+  - navigation:
+    - button [disabled]:
+      - text: Prev
+    - list:
+      - listitem: "1"
+      - button: "2"
+      - button: "3"
+      - button: "4"
+      - button: "5"
+      - listitem: …
+      - button: "22"
+    - button:
+      - text: Next
+- contentinfo:
+  - navigation:
+    - list:
+      - link:
+        - /url: /
+        - text: Home
+      - link:
+        - /url: /categories/bedding
+        - text: Bedding
+      - link:
+        - /url: /categories/sheets-pillowcases
+        - text: Sheets & Pillowcases
+      - text: True Temp
+      - superscript: ™
+      - text: sheet set
+  - paragraph:
+    - generic: 店铺
+  - list:
+    - link:
+      - /url: /categories/mattresses
+      - text: Mattresses
+    - link:
+      - /url: /categories/bed-bases
+      - text: Adjustable Beds
+    - link:
+      - /url: /categories/bedding
+      - text: Bedding
+    - link:
+      - /url: /categories/sheets-pillowcases
+      - text: Sheets
+    - link:
+      - /url: /categories/all-pillows
+      - text: Pillows
+    - link:
+      - /url: /categories/furniture
+      - text: Furniture
+    - link:
+      - /url: /pages/military
+      - text: Military & Veteran Offers
+    - link:
+      - /url: /pages/first-responders
+      - text: First Responders
+    - link:
+      - /url: /pages/health-care-community
+      - text: Health Care Professionals
+    - link:
+      - /url: /pages/events-educators
+      - text: Educators
+  - paragraph:
+    - generic: 按尺码选购
+  - list:
+    - link:
+      - /url: /categories/mattresses/twin
+      - text: Twin
+    - link:
+      - /url: /categories/mattresses/twin-xl
+      - text: Twin XL
+    - link:
+      - /url: /categories/mattresses/full
+      - text: Full
+    - link:
+      - /url: /categories/mattresses/queen
+      - text: Queen
+    - link:
+      - /url: /categories/mattresses/king
+      - text: King
+    - link:
+      - /url: /categories/mattresses/california-king
+      - text: Cal King
+    - link:
+      - /url: /pages/mattress-size-chart
+      - text: Mattress Size Guide
+  - paragraph:
+    - generic: 资源
+  - list:
+    - link:
+      - /url: /pages/sleep-number-app
+      - text: Sleep Number
+      - superscript: ®
+      - text: App
+    - link:
+      - /url: /find-your-perfect-mattress
+      - text: Mattress Quiz
+    - link:
+      - /url: /compare/comfortmode,comfortnext,climatecool
+      - text: Compare Mattresses
+    - link:
+      - /url: /pages/is-sleep-number-worth-it
+      - text: Is Sleep Number Worth It
+    - link:
+      - /url: /reviews-testimonials
+      - text: Reviews
+    - link:
+      - /url: /pages/how-to-sleep-better#bedding-guides
+      - text: Product Guides
+    - link:
+      - /url: /find-best-pillow
+      - text: Pillow Quiz
+    - link:
+      - /url: /pages/smart-beds
+      - text: What is a Smart bed
+    - link:
+      - /url: /blog
+      - text: Blog
+    - link:
+      - /url: /pages/sleep-science
+      - text: Sleep Health
+  - paragraph:
+    - generic: 服务
+  - list:
+    - link:
+      - /url: /pages/contact-us
+      - text: Contact Us
+    - link:
+      - /url: https://support.sleepnumber.com/hc/en-us
+      - text: Support
+    - link:
+      - /url: https://support.sleepnumber.com/hc/en-us/articles/235185607-Returns-exchanges
+      - text: Returns
+    - link:
+      - /url: /orders/status
+      - text: Order Status
+    - link:
+      - /url: /pages/financing
+      - text: Financing
+    - link:
+      - /url: /pages/hsa-fsa-eligibility
+      - text: HSA/FSA
+    - link:
+      - /url: /categories/parts
+      - text: Replacement Parts
+    - link:
+      - /url: /pages/wholesale-mattresses
+      - text: Commercial Sales
+  - paragraph:
+    - generic: 公司
+  - list:
+    - link:
+      - /url: https://careers.sleepnumber.com
+      - text: Careers
+    - link:
+      - /url: https://www.sleepnumber.com/stores
+      - text: Stores
+    - link:
+      - /url: /pages/legal-notices#accessibility
+      - text: Accessibility
+    - link:
+      - /url: https://suppliers.sleepnumber.com/
+      - text: Suppliers
+    - link:
+      - /url: https://cdn.sleepnumber.com/image/upload/q_auto:low/v1785342189/Sleep-Number-Corporate-Sustainability-Report.pdf
+      - text: Sustainability
+  - generic: 订阅邮件更新
+  - textbox
+  - button [disabled]:
+    - generic: 发送
+  - list:
+    - link:
+      - /url: tel:+18884112188
+      - generic: 1-888-411-2188
+    - button:
+      - generic: 在线聊天服务时间：中部时间每日上午6点至晚上11点
+    - link:
+      - /url: /stores
+      - generic: 查找门店
+  - list:
+    - link:
+      - /url: https://www.facebook.com/SleepNumber
+    - link:
+      - /url: https://twitter.com/SleepNumber
+    - link:
+      - /url: https://www.youtube.com/user/Sleepnumber
+    - link:
+      - /url: https://www.instagram.com/sleepnumber/
+  - list:
+    - link:
+      - /url: https://www.sleepnumber.com/pages/legal-notices
+      - generic: 合法的
+    - link:
+      - /url: https://www.sleepnumber.com/pages/legal-terms-of-use
+      - generic: 使用条款
+    - link:
+      - /url: https://www.sleepnumber.com/pages/legal-privacy-policy
+      - generic: 隐私
+    - link:
+      - /url: https://cdn.sleepnumber.com/image/upload/v1785761591/Sleep_Health_Data_Privacy_Policy_August_2026_vtr59y.pdf
+      - generic: 睡眠健康数据隐私政策
+    - link:
+      - /url: https://www.sleepnumber.com/privacy-form?opt-out
+      - generic: 请勿出售或分享我的个人信息
+    - button:
+      - generic: Cookie 偏好设置
+    - link:
+      - /url: /pages/legal-promotional-details
+      - generic: 请查看优惠详情页面
+    - generic: 了解完整的促销详情和限制条件。
+  - paragraph:
+    - text: 我们或我们的第三方服务提供商使用 Cookie 和类似的在线追踪工具来收集信息，以启用我们网站的功能、评估和改进我们的网站和服务，并在某些情况下向您投放广告。详情请参阅我们的
+    - link:
+      - /url: /pages/legal-privacy-policy
+      - text: 隐私政策
+    - text: 和
+    - link:
+      - /url: /pages/legal-terms-of-use
+      - text: 使用条款
+    - text: 。
+  - paragraph:
+    - text: 如果您正在使用屏幕阅读器，并且在使用本网站时遇到问题，请拨打
+    - link:
+      - /url: tel:+18884112188
+      - text: 1-888-411-2188
+    - text: 寻求帮助。
+  - paragraph:
+    - generic: © 2000 -
+    - generic: "2026"
+    - generic: SNBR Inc. 和 Sleep Number Retail Corporation；SLEEP NUMBER、SELECT COMFORT、SLEEPIQ 和双箭头设计是 SNBR Inc. 的注册商标。
+- status:
+  - button "关闭"
+  - img "图片代表已保存的购物车"
+  - generic: 黑色星期五促销！
+  - generic: 浏览2026年假日礼物指南
+  - link "立即购买":
+    - /url: https://www.sleepnumber.com/categories/holiday
+    - generic: 立即购买
+- dialog:
+  - button "Close" [active]:
+  - region:
+    - region "Disclaimer":
+      - paragraph:
+        - text: By submitting your email address you agree to receive promotional emails from Sleep Number
+        - superscript: ®
+        - text: . Enter your email address before closing this window. Offer valid within 12 days of receipt.
+        - superscript: "*"
+        - text: Exclusions apply.

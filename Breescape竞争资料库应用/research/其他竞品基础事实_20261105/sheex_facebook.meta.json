@@ -1,0 +1,12 @@
+{
+  "key": "sheex_facebook",
+  "url": "https://www.facebook.com/SHEEX",
+  "retrieved_at": "2026-11-05T14:50:14+08:00",
+  "status": 200,
+  "final_url": "https://www.facebook.com/SHEEX",
+  "bytes": 504802,
+  "links": [],
+  "images": [
+    "<meta property=\"og:image\" content=\"https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/245458601_10159929561754228_8374946683760519383_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx315x315&amp;ctp=s315x315&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=3ab345&amp;_nc_ohc=mKPgot1Zv20Q7kNvwH3upNW&amp;_nc_oc=Adr2ranq-9Xzn93QJ17DG01HGZnpcx5nKYDxEjrE97NjEOKyC83X6kP17kiEuUoWIOo&amp;_nc_zt=24&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=pybH01Ldh9EF1F6rhxoubQ&amp;_nc_ss=7020f&amp;oh=00_AQRSQDhSb5mE3wU4JK4HRQ6bwejwYluZviMIwYWy2MfnKw&amp;oe=6AF1E632\" />"
+  ]
+}

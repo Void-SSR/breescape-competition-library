@@ -1,0 +1,356 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床单与枕套":
+    - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+    - generic: 床单与枕套
+  - link "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)":
+    - /url: https://shop.tiktok.com/us/pdp/mellanni-iconic-4-pc-bed-sheets-set-soft-breathable-cooling/1729408552029229334
+    - generic: Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: 可减免
+- generic: $ 5 coupon
+- generic: From mellanni.
+- generic: 订单金额满 $49 时可用.
+- button "条款"
+- button "查看符合条件的商品":
+  - generic: 查看符合条件的商品
+- button "Claim":
+  - generic: Claim
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 mellanni":
+  - /url: https://shop.tiktok.com/us/store/mellanni/7495074741705017622
+- heading "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)" [level=1]
+- generic: $
+- generic: "70"
+- generic: ".16"
+- generic: 免费运送
+- generic: "4.5"
+- generic: (2.1K)
+- generic: 已售 27.1K
+- button "成交件数":
+- generic: "Color:"
+- generic: White
+- img "White"
+- generic: White
+- img "Gray"
+- generic: Gray
+- img "Black"
+- generic: Black
+- img "Brown"
+- generic: Brown
+- img "Emerald Green"
+- generic: Emerald Green
+- img "Light Gray"
+- generic: Light Gray
+- img "Blush Pink"
+- generic: Blush Pink
+- img "Coral"
+- generic: Coral
+- img "Golden Ivory"
+- generic: Golden Ivory
+- img "Sage"
+- generic: Sage
+- img "Sand"
+- generic: Sand
+- img "Spa Blue"
+- generic: Spa Blue
+- img "Tan"
+- generic: Tan
+- img "Oxford Stripe Sage"
+- generic: Oxford Stripe Sage
+- img "Oxford Stripe Blue Nova"
+- generic: Oxford Stripe Blue Nova
+- img "Oxford Stripe Hazy Lilac"
+- generic: Oxford Stripe Hazy Lilac
+- img "Pistachio"
+- generic: Pistachio
+- generic: "Bedding Size:"
+- generic: Twin
+- generic: Twin
+- generic: Twin XL
+- generic: Full
+- generic: Queen
+- generic: King
+- generic: Cal King
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "mellanni mellanni 4.4 43.4K 已售出 4.8K+ Followers 83% 好评 <7 小时 问题解决 一般 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/mellanni/7495074741705017622
+  - img "mellanni"
+  - generic: mellanni
+  - generic: "4.4"
+  - text: 43.4K
+  - generic: 已售出
+  - generic: 4.8K+ Followers
+  - generic: 83%
+  - generic: 好评
+  - generic: <7 小时
+  - generic: 问题解决
+  - generic: 一般
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: Complete 4-piece set includes 1 fitted sheet, 1 flat sheet, and 2 pillowcases
+- generic: •
+- generic: Double-brushed microfiber delivers soft, silky comfort with durable construction
+- generic: •
+- generic: Breathable, moisture-wicking feel helps provide all-season comfort
+- generic: •
+- generic: 16-inch deep pocket fitted sheet with all-around elastic for a secure fit
+- generic: •
+- generic: "Easy care: fade, stain, wrinkle, and shrink resistant; machine washable on cold, gentle cycle"
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "Weave type Sateen":
+      - cell "Weave type"
+      - cell "Sateen"
+    - row "Closure type Envelope,Zipper":
+      - cell "Closure type"
+      - cell "Envelope,Zipper"
+    - row "Theme Christmas,Solid,Stripe":
+      - cell "Theme"
+      - cell "Christmas,Solid,Stripe"
+    - row "Style Contemporary,Modern":
+      - cell "Style"
+      - cell "Contemporary,Modern"
+    - row "Material Microfiber":
+      - cell "Material"
+      - cell "Microfiber"
+    - row "Washing instructions Machine wash":
+      - cell "Washing instructions"
+      - cell "Machine wash"
+- generic: 查看更多
+- generic: 商品描述
+- generic: Add everyday comfort to your bedroom with the Mellanni Iconic Collection 4-Piece Sheet Set. Crafted from silky double-brushed microfiber, these sheets are soft, breathable, and built to last.
+- generic: "Key Benefits:"
+- generic: ·
+- generic: "Complete 4-Piece Set: Includes 1 fitted sheet, 1 flat sheet, and 2 pillowcases."
+- generic: ·
+- generic: "Deep Pockets: Fitted sheet fits mattresses up to 16 inches with all-around elastic for a secure fit."
+- generic: ·
+- generic: "Soft & Durable: Double-brushed microfiber for silky comfort and long-lasting strength."
+- generic: ·
+- generic: "Temperature Regulating: Breathable and moisture-wicking for all-season comfort."
+- generic: ·
+- generic: "Easy Care: Fade, stain, wrinkle, and shrink resistant; machine washable."
+- generic: "Product Specifications:"
+- generic: ·
+- generic: "Collection: Mellanni Iconic Collection"
+- generic: ·
+- generic: "Material: Double-brushed microfiber"
+- generic: ·
+- generic: "Pocket Depth: Fits up to 16 inches"
+- generic: ·
+- generic: "Brand: Mellanni"
+- generic: "What’s Included:"
+- generic: ·
+- generic: 1 × Fitted sheet
+- generic: ·
+- generic: 1 × Flat sheet
+- generic: ·
+- generic: 2 × Pillowcases
+- generic: "Care Instructions:"
+- generic: ·
+- generic: Machine wash cold, gentle cycle
+- generic: ·
+- generic: Tumble dry low
+- generic: ·
+- generic: Do not bleach
+- generic: Our Promise Is Simple, Every Mellanni product is backed by a lifetime warranty - no fine print, no nonsense. We know our customers lead busy lives, so we never compromise on quality, value, or trust. Our products are made to last and stay with you for life.If you’re not completely in love with your Mellanni purchase, we’ll make it right. Returns and exchanges are always hassle-free - just contact us with your order number. The warranty is designed to cover your original item, so you can rest easy knowing we stand behind your purchase for life.With over 300,000 5-star reviews and millions of happy sleepers, we’re here to help you feel extra cozy - every night, for life.
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: Refresh your bedroom with the Mellanni Iconic Collection 4-Piece Sheet Set, made from silky double-brushed microfiber. This set is designed for everyday comfort, combining a soft hand feel with a breathable, moisture-wicking construction for all-season comfort. The fitted sheet features a 16-inch deep pocket and all-around elastic to help it stay securely in place on mattresses up to 16 inches. Complete with 1 fitted sheet, 1 flat sheet, and 2 pillowcases, it’s an easy way to build a coordinated bed setup. For convenience, these sheets are machine washable and engineered to resist fading, stains, wrinkles, and shrinkage. Multiple color options are available, letting you choose a look that matches your space.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What is included in the Mellanni 4-piece sheet set? A:It includes 1 fitted sheet, 1 flat sheet, and 2 pillowcases.
+- generic: •
+- generic: What material are these sheets made from? A:They are made from double-brushed microfiber.
+- generic: •
+- generic: How deep is the fitted sheet pocket? A:The fitted sheet has a pocket depth that fits mattresses up to 16 inches.
+- generic: •
+- generic: Are the sheets breathable and designed for temperature comfort? A:Yes. The sheets are described as breathable and moisture-wicking for all-season comfort.
+- generic: •
+- generic: Are they easy to care for? How should I wash them? A:Machine wash cold on a gentle cycle, tumble dry low, and do not bleach. They are described as fade, stain, wrinkle, and shrink resistant.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Alirm LLC
+- generic: •
+- generic: 公司地址：New Jersey,The United States
+- generic: "4.5"
+- generic: 2116 条全球评价
+- generic: "5"
+- generic: "1633"
+- generic: "4"
+- generic: "157"
+- generic: "3"
+- generic: "121"
+- generic: "2"
+- generic: "70"
+- generic: "1"
+- generic: "135"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "A**🌙"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 1"
+- generic "A**🌙"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 2"
+- generic "A**🌙"
+- 'img "Rating: 4 out of 5 stars"':
+- img "review image 3"
+- generic "C**f S**n"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "C**f S**n"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "C**f S**n"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 6"
+- generic "N**e A**s"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 7"
+- generic "N**e A**s"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 2116 条评价（共 2116 条）
+- generic: 重置筛选条件
+- generic: l**9
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: I order or what link I clicked on was for Bamboo sheets. What I received was microfiber. BIG DIFFERENCE
+- generic: "商品:"
+- text: Brown, King
+- generic: 2026-08-11
+- generic: A**🌙
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 4 out of 5 stars"':
+- generic: 4 out of 5 stars. The only reason it’s not a 5 is because they’re not as cooling as advertised. They are super soft and comfortable, and they do feel cool to the touch—just not icy cold. For the price, they’re absolutely worth it. I’d recommend them and would buy again! Picture of dogoo for extra a.
+- generic: "商品:"
+- text: Spa Blue, King
+- generic: 2026-05-09
+- generic: C**f S**n
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: The sheets are beautiful. The color is giving color. I love my chocolate sheets. They are very soft very quality.
+- generic: "商品:"
+- text: Brown, King
+- generic: 2026-04-21
+- generic: C**f S**n
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Very soft, very light beautiful color love it. You definitely won’t be disappointed
+- generic: "商品:"
+- text: Pistachio, King
+- generic: 2026-03-04
+- generic: N**e A**s
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: Very soft, did wash when I bought it. But it’s definitely soft and I can’t wait to lay on it.
+- generic: "商品:"
+- text: Brick Red, King
+- generic: 2025-03-23
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "424"
+- generic: 下一步

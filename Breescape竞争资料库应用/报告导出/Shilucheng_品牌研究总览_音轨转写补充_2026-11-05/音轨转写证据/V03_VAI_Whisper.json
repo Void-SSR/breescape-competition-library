@@ -1,0 +1,314 @@
+{
+  "text": " Yeah, yeah, oh, yeah, yeah, yeah That's the way every day goes, every time we've no control If the sky is pink and white, if the ground is black and yellow This is",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.7200000000000006,
+      "end": 6.58,
+      "text": " Yeah, yeah, oh, yeah, yeah, yeah",
+      "tokens": [
+        50365,
+        865,
+        11,
+        1338,
+        11,
+        1954,
+        11,
+        1338,
+        11,
+        1338,
+        11,
+        1338,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.08716094122992621,
+      "compression_ratio": 5.436507936507937,
+      "no_speech_prob": 0.6986261010169983,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 2.7200000000000006,
+          "end": 3.26,
+          "probability": 0.224853515625
+        },
+        {
+          "word": " yeah,",
+          "start": 3.36,
+          "end": 3.48,
+          "probability": 0.734375
+        },
+        {
+          "word": " oh,",
+          "start": 3.48,
+          "end": 3.76,
+          "probability": 0.3466796875
+        },
+        {
+          "word": " yeah,",
+          "start": 3.88,
+          "end": 5.52,
+          "probability": 0.8525390625
+        },
+        {
+          "word": " yeah,",
+          "start": 5.9,
+          "end": 6.22,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " yeah",
+          "start": 6.22,
+          "end": 6.58,
+          "probability": 0.94482421875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.880000000000001,
+      "end": 11.46,
+      "text": " That's the way every day goes, every time we've no control",
+      "tokens": [
+        50715,
+        663,
+        311,
+        264,
+        636,
+        633,
+        786,
+        1709,
+        11,
+        633,
+        565,
+        321,
+        600,
+        572,
+        1969,
+        50950
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.08716094122992621,
+      "compression_ratio": 5.436507936507937,
+      "no_speech_prob": 0.6986261010169983,
+      "words": [
+        {
+          "word": " That's",
+          "start": 7.880000000000001,
+          "end": 8.42,
+          "probability": 0.8740234375
+        },
+        {
+          "word": " the",
+          "start": 8.42,
+          "end": 8.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " way",
+          "start": 8.46,
+          "end": 8.72,
+          "probability": 1.0
+        },
+        {
+          "word": " every",
+          "start": 8.72,
+          "end": 9.06,
+          "probability": 0.83447265625
+        },
+        {
+          "word": " day",
+          "start": 9.06,
+          "end": 9.28,
+          "probability": 1.0
+        },
+        {
+          "word": " goes,",
+          "start": 9.28,
+          "end": 9.66,
+          "probability": 1.0
+        },
+        {
+          "word": " every",
+          "start": 9.94,
+          "end": 10.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " time",
+          "start": 10.28,
+          "end": 10.68,
+          "probability": 1.0
+        },
+        {
+          "word": " we've",
+          "start": 10.68,
+          "end": 10.94,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " no",
+          "start": 10.94,
+          "end": 11.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " control",
+          "start": 11.04,
+          "end": 11.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.46,
+      "end": 15.34,
+      "text": " If the sky is pink and white, if the ground is black and yellow",
+      "tokens": [
+        50950,
+        759,
+        264,
+        5443,
+        307,
+        7022,
+        293,
+        2418,
+        11,
+        498,
+        264,
+        2727,
+        307,
+        2211,
+        293,
+        5566,
+        51140
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.08716094122992621,
+      "compression_ratio": 5.436507936507937,
+      "no_speech_prob": 0.6986261010169983,
+      "words": [
+        {
+          "word": " If",
+          "start": 11.46,
+          "end": 12.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 12.04,
+          "end": 12.22,
+          "probability": 1.0
+        },
+        {
+          "word": " sky",
+          "start": 12.22,
+          "end": 12.44,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 12.44,
+          "end": 12.8,
+          "probability": 1.0
+        },
+        {
+          "word": " pink",
+          "start": 12.8,
+          "end": 13.02,
+          "probability": 0.982421875
+        },
+        {
+          "word": " and",
+          "start": 13.02,
+          "end": 13.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " white,",
+          "start": 13.18,
+          "end": 13.4,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " if",
+          "start": 13.68,
+          "end": 14.0,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 14.0,
+          "end": 14.14,
+          "probability": 1.0
+        },
+        {
+          "word": " ground",
+          "start": 14.14,
+          "end": 14.4,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 14.4,
+          "end": 14.64,
+          "probability": 1.0
+        },
+        {
+          "word": " black",
+          "start": 14.64,
+          "end": 14.9,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 14.9,
+          "end": 15.06,
+          "probability": 1.0
+        },
+        {
+          "word": " yellow",
+          "start": 15.06,
+          "end": 15.34,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1534,
+      "start": 15.34,
+      "end": 15.96,
+      "text": " This is",
+      "tokens": [
+        50365,
+        639,
+        307,
+        50401
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.49885902404785154,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.8276331424713135,
+      "words": [
+        {
+          "word": " This",
+          "start": 15.34,
+          "end": 15.88,
+          "probability": 0.2244873046875
+        },
+        {
+          "word": " is",
+          "start": 15.88,
+          "end": 15.96,
+          "probability": 0.97998046875
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

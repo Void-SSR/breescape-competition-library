@@ -1,0 +1,34 @@
+{
+  "brands": {
+    "count": 3,
+    "sha256": "dd9bd94963f8793e3f55079a4857cdfa381710ff0680060a50ae91305985d3d1"
+  },
+  "products": {
+    "count": 4,
+    "sha256": "699198352be68214f37df4e0b6886bfcdb86034c16f40cbfb2a3b28668d3ab16"
+  },
+  "reviews": {
+    "count": 2628,
+    "sha256": "5b568129fce467d967754dc5f1343ffc991a94cf2c0ad34d2f5422020d0854e2"
+  },
+  "records": {
+    "count": 135,
+    "sha256": "fedc02215038ce5f16bf2eddb505846b5886320ead033b7aa954d2306a5235b4"
+  },
+  "materials": {
+    "count": 173,
+    "sha256": "0e120d17f447382ed4ccf659f5d7a6c3af4b91ba5c1ad34f680a8147cefa504e"
+  },
+  "material_links": {
+    "count": 240,
+    "sha256": "f7c738d540382e91c5c5c093af5dee1cf9cd767439f254fa99e73b4006dd39f5"
+  },
+  "observations": {
+    "count": 27,
+    "sha256": "9428873e01b59bfb662b45d0ca421fdb376b05d46cbe7621ce5dc03e4c1361b7"
+  },
+  "industry_documents": {
+    "count": 2,
+    "sha256": "42dd90a312ddf8b44b8872df3db9b1485a5121ce6caf4388954152c9d996601e"
+  }
+}

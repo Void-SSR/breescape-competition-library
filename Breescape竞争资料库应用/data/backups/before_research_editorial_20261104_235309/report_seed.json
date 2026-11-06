@@ -1,0 +1,548 @@
+{
+  "title": "Shilucheng 品牌研究总览",
+  "summary": "Shilucheng以舒适、材料选择和可负担性表达品牌价值，公开产品布局覆盖床单、褥垫、凉被、枕头及其他家居品类。已确认独立站、Amazon、TikTok和Walmart入口；本次以TikTok美国站竹混纺床单为单品研究切口。",
+  "scope": "本报告基于截至2026-11-04的已收录资料。品牌层面覆盖经营入口、产品目录、渠道账号和公开历程；单品研究目前聚焦TikTok美国站竹混纺凉床单，商品ID 1729438233542234865。褥垫尚未开展完整单品研究。",
+  "summary_record_ids": [
+    1,
+    3,
+    5,
+    29,
+    7
+  ],
+  "updated_at": "2026-11-04T23:33:53+08:00",
+  "reviewed_revisions": {
+    "1": "3aad026fda49f5180ee50ebdd855c3b2d650592cd0e7a546d9fead0de64cb14f",
+    "2": "b8c46292ef3156f13c0bcfb156d60d9d1d6c1dacd153c904988ec10cc35460f8",
+    "3": "37d0e98df98e88a83d2dc3a23c1b5849427b7311ef8b56340747e96a867a185b",
+    "4": "7cae5ad7f2929286721759e9b0d06ecaf8236213f29374df97e91330870711a4",
+    "5": "0e1f3ed48898aa600f3520b811901c1bb125b11d5c991ce4b7cc93dcb9821726",
+    "6": "9236d9f9d957d0919fb6c768d23a92e12c574ec3f9ae6c0dca8dbfaef1594bc1"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "headline": "床品为主、家居延伸；舒适与可负担性是主要价值表达",
+      "summary": "网站按品类和材料组织商品，床单、褥垫、毯等共同陈列。多渠道入口和多品类布局已经可见；经营收入集中在哪个渠道、哪个品类，仍需同口径销售数据。",
+      "boundary": "渠道入口不等于直营渠道；目录条目不等于销量贡献。品牌成立时间、跨渠道销售额和增长率仍缺可靠证据。",
+      "topics": [
+        {
+          "topic": "1. 品牌信息",
+          "product_id": null,
+          "finding": "品牌希望消费者记住舒适睡眠、材料选择和可负担性。成立年份与经营主体仍需区分核实。",
+          "record_ids": [
+            1,
+            2,
+            3,
+            28,
+            34,
+            44,
+            48
+          ],
+          "featured": [],
+          "bullets": [
+            "品牌自述：希望消费者获得舒适、自然感与可负担的床品；尚无实际消费者画像数据。",
+            "美国商标于2017年注册，当前登记持有人为SUZHOU SHUOTANG；这不是品牌成立日期。",
+            "卖家自述“公司成立于2003年”；网站、平台和商标主体之间的关系尚未完全对齐。"
+          ],
+          "coverage": "部分回答",
+          "gap": "品牌创立背景、主体关系、实际消费者画像及消费者认知尚缺可靠依据。",
+          "impact": "影响品牌沿革、定位有效性与品牌差异化判断。",
+          "answer_type": "事实概括",
+          "figures": []
+        },
+        {
+          "topic": "2. 经营规模与渠道结构",
+          "product_id": null,
+          "finding": "四类渠道已有公开入口，尚不能按入口数量或商品累计销量判断品牌的收入结构。",
+          "record_ids": [
+            4,
+            29,
+            35
+          ],
+          "featured": [
+            {
+              "record_id": 29,
+              "mode": "table"
+            }
+          ],
+          "bullets": [],
+          "coverage": "部分回答",
+          "gap": "品牌总收入、同期间渠道销售额与增长率尚无可靠数据。",
+          "impact": "不能计算渠道份额或判断最大、增长最快的渠道。",
+          "answer_type": "事实概括",
+          "figures": []
+        },
+        {
+          "topic": "3. 产品矩阵与核心产品销量",
+          "product_id": null,
+          "finding": "网站目录覆盖多个品类；在已观察的同店商品中，目标床单的累计售出展示高于列出的褥垫与毯类链接。",
+          "record_ids": [
+            5,
+            6,
+            31,
+            32,
+            33
+          ],
+          "featured": [
+            {
+              "record_id": 31,
+              "mode": "table"
+            },
+            {
+              "record_id": 33,
+              "mode": "table"
+            }
+          ],
+          "bullets": [
+            "目录共30个产品条目，其中25个品牌标签为Shilucheng；其中3个链接含其他品牌名称，归属待核实。",
+            "床单有竹混纺、竹源粘胶及亚麻等材料路线；不同材料和规格的价格不直接用于判断溢价。"
+          ],
+          "coverage": "部分回答",
+          "gap": "同期间单品收入和品牌总收入缺失；网站部分条目的品牌归属待核实。",
+          "impact": "不能由多品类在售推出均衡增长，也不能计算单品贡献与爆款依赖。",
+          "answer_type": "事实概括",
+          "figures": [
+            {
+              "material_id": 47,
+              "source_id": 6,
+              "caption": "首页产品陈列局部：床单、褥垫与毯共同出现。截图经过浏览器中文翻译；展示价不作同规格比较。"
+            }
+          ]
+        }
+      ],
+      "images": [],
+      "reviewed_revision": "3aad026fda49f5180ee50ebdd855c3b2d650592cd0e7a546d9fead0de64cb14f",
+      "updated_at": "2026-11-04T23:33:53+08:00",
+      "current_revision": "3aad026fda49f5180ee50ebdd855c3b2d650592cd0e7a546d9fead0de64cb14f",
+      "stale": false
+    },
+    {
+      "number": 2,
+      "headline": "竹混纺床单已积累成交，消费者选择它的原因尚待验证",
+      "summary": "目标链接已有435.5K累计售出展示，商家以柔滑、凉爽透气、深口袋和可负担的酒店感组织购买理由。库内1,628条有效文本可用于后续主题分析；采样包含一星补充，不能代表总体意见比例。",
+      "boundary": "全部指标属于这个多规格商品链接，观察日期为2026-11-04。累计销量不是月销；含一星补充的本地评论样本不能代表全体买家比例。",
+      "topics": [
+        {
+          "topic": "4. 核心产品基本信息",
+          "product_id": "sheets",
+          "finding": "竹源人造丝与聚酯混纺，以材料、体感与床垫适配共同组织购买理由；目前尚未证明这些构成竞争优势。",
+          "record_ids": [
+            7,
+            8,
+            9,
+            10,
+            36,
+            37,
+            38,
+            39
+          ],
+          "featured": [
+            {
+              "record_id": 36,
+              "mode": "table"
+            }
+          ],
+          "bullets": [
+            "商品描述：60%竹源人造丝＋40%聚酯；14英寸口袋可拉伸适配至16英寸床垫，属于商家参数。",
+            "平台首屏：4.4/5、累计售出435.5K；达人精灵另显示435,492件和46,170条评价，保留各自来源。",
+            "同色同日比价：Twin/3PC $32.37，Queen/4PC $42.37，Queen/6PC $45.37；是页面价，非最终结算价。"
+          ],
+          "coverage": "部分回答",
+          "gap": "同规格竞争对照、实物/检测依据与织法描述冲突尚未解决。",
+          "impact": "只能说明购买理由设计，不能认定比竞争产品更凉、更好或有溢价。",
+          "answer_type": "事实概括",
+          "figures": [
+            {
+              "material_id": 48,
+              "source_id": 3,
+              "caption": "商品首屏｜Bamboo-Dark Grey / Twin / 3PC，展示价$32.37。顶部为达人精灵，商品区为TikTok平台；截图经过浏览器中文翻译。"
+            }
+          ]
+        },
+        {
+          "topic": "5. 消费者评论分析",
+          "product_id": "sheets",
+          "finding": "评论语料已准备好，认可点、痛点和购买理由仍需逐条编码。当前先说明样本从哪里来、能回答什么。",
+          "record_ids": [
+            11,
+            12,
+            13,
+            40
+          ],
+          "featured": [
+            {
+              "record_id": 40,
+              "mode": "table"
+            }
+          ],
+          "bullets": [
+            "样本1,628条，评论日期覆盖2025-08-20至2026-11-04；规范化文本无重复。",
+            "共820条一星评论，包含专门补采批次；后续主题占比必须注明分母与采样范围。",
+            "购买前的选择理由与购买后的使用体验将分别标注；缺少购买前表述时不倒推动机。"
+          ],
+          "coverage": "部分回答",
+          "gap": "主题TOP3、购买动机与未满足需求尚未完成编码。",
+          "impact": "无法报告认可/不认可主题占比，也不能据此判断总体差评率。",
+          "answer_type": "事实概括"
+        },
+        {
+          "topic": "6. 产品卖得好的原因",
+          "product_id": "sheets",
+          "finding": "目前能够确认成交积累和商家的购买理由设计。产品、价格、品牌、内容与渠道各自贡献多少，现有证据尚不足以归因。",
+          "record_ids": [
+            14
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "评论主题、同规格竞争对照与内容转化证据尚缺。",
+          "impact": "尚不能确定成交主要由产品、价格、品牌还是营销驱动。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "4. 核心产品基本信息",
+          "product_id": "topper",
+          "finding": "",
+          "record_ids": [],
+          "featured": [],
+          "bullets": [],
+          "coverage": "尚未研究",
+          "gap": "该产品尚未进入本轮研究。",
+          "impact": "不与床单样本混合。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "5. 消费者评论分析",
+          "product_id": "topper",
+          "finding": "",
+          "record_ids": [],
+          "featured": [],
+          "bullets": [],
+          "coverage": "尚未研究",
+          "gap": "该产品尚未进入本轮研究。",
+          "impact": "不与床单样本混合。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "6. 产品卖得好的原因",
+          "product_id": "topper",
+          "finding": "",
+          "record_ids": [],
+          "featured": [],
+          "bullets": [],
+          "coverage": "尚未研究",
+          "gap": "该产品尚未进入本轮研究。",
+          "impact": "不与床单样本混合。",
+          "answer_type": "研究问题"
+        }
+      ],
+      "images": [],
+      "reviewed_revision": "b8c46292ef3156f13c0bcfb156d60d9d1d6c1dacd153c904988ec10cc35460f8",
+      "updated_at": "2026-11-04T23:25:46+08:00",
+      "current_revision": "b8c46292ef3156f13c0bcfb156d60d9d1d6c1dacd153c904988ec10cc35460f8",
+      "stale": false
+    },
+    {
+      "number": 3,
+      "headline": "商品关联视频前五条已确定，3条来自同一作者",
+      "summary": "五条均有佣金合作标识。可见画面与文案覆盖铺床体验、柔软凉感，以及从缎面床单转向竹床单的替换表达。它们是内容研究样本，尚不能说明品牌整体投放策略或销售转化。",
+      "boundary": "选样范围是这一个商品页展示的前五条，不是全平台销量TOP5。点赞不等于播放或成交；当前素材观察不替代完整视频分析。",
+      "topics": [
+        {
+          "topic": "7. 渠道基础信息",
+          "product_id": null,
+          "finding": "目标TikTok店铺显示33.2K+粉丝、687.6K累计售出和1,093个视频；视频数口径未说明。其他已核实账号如下，账号数量不代表完整矩阵。",
+          "record_ids": [
+            15,
+            16,
+            41,
+            42,
+            46
+          ],
+          "featured": [
+            {
+              "record_id": 46,
+              "mode": "table"
+            }
+          ],
+          "bullets": [],
+          "coverage": "部分回答",
+          "gap": "发布频率、完整账号矩阵、自营/达人及直播/短视频销售占比缺失。",
+          "impact": "不能比较渠道效率或销售构成。",
+          "answer_type": "事实概括",
+          "figures": [
+            {
+              "material_id": 24,
+              "source_id": 4,
+              "caption": "TikTok店铺公开页面；累计售出为全店口径，不能当作目标床单销量。"
+            }
+          ]
+        },
+        {
+          "topic": "8. TOP5爆款内容分析",
+          "product_id": null,
+          "finding": "按已确认口径选入V01—V05；其中Ben占3条。先固定研究对象，再补完整内容与效果资料。",
+          "record_ids": [
+            17,
+            43
+          ],
+          "featured": [
+            {
+              "record_id": 17,
+              "mode": "table"
+            }
+          ],
+          "bullets": [],
+          "coverage": "部分回答",
+          "gap": "独立作品链接、发布时间、完整视频解读及播放/互动/转化数据待补。",
+          "impact": "能描述选样与表层表达，尚不能解释为什么爆或证明能带货。",
+          "answer_type": "事实概括",
+          "figures": [
+            {
+              "material_id": 49,
+              "source_id": 3,
+              "caption": "商品页关联视频TOP5（页面展示前五条）。从左至右为V01—V05；数字为点赞量。"
+            }
+          ]
+        },
+        {
+          "topic": "9. 渠道内容总结",
+          "product_id": null,
+          "finding": "待完整视频研究后，再归纳值得模仿的表达形式及适用条件。",
+          "record_ids": [
+            18
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "完整内容研究及可验证的效果证据尚未齐备。",
+          "impact": "暂不将高点赞或重复作者直接当作营销成功机制。",
+          "answer_type": "研究问题"
+        }
+      ],
+      "images": [
+        41,
+        42
+      ],
+      "reviewed_revision": "37d0e98df98e88a83d2dc3a23c1b5849427b7311ef8b56340747e96a867a185b",
+      "updated_at": "2026-11-04T23:27:14+08:00",
+      "current_revision": "37d0e98df98e88a83d2dc3a23c1b5849427b7311ef8b56340747e96a867a185b",
+      "stale": false
+    },
+    {
+      "number": 4,
+      "headline": "商标与公开传播时间线已建立，关键增长事件仍缺成效证据",
+      "summary": "已核实2016年商标申请、2017年注册及2024年商标权利转让；也能追溯到2023年材料内容、黑五推广和2025年竹凉感床单文章。它们是可确认的活动记录，尚不能说明增长因果。",
+      "boundary": "商标申请或首次使用申报不等于品牌成立；文章日期不等于产品上市。商标转让仅证明该件美国商标权利变化。",
+      "topics": [
+        {
+          "topic": "10. 关键发展历程",
+          "product_id": null,
+          "finding": "公开记录提供了以下时间节点。另有2023-11-15黑五床单推广帖；官网的2025净零等目标未见完成证明，未列为已实现成果。",
+          "record_ids": [
+            19,
+            45,
+            47
+          ],
+          "featured": [
+            {
+              "record_id": 19,
+              "mode": "table"
+            }
+          ],
+          "bullets": [],
+          "coverage": "部分回答",
+          "gap": "重要产品首发、渠道进入、定位变更的明确日期及背景仍缺。",
+          "impact": "现有时间线能核查事件，尚不能还原完整发展阶段。",
+          "answer_type": "事实概括"
+        },
+        {
+          "topic": "11. 关键增长动作",
+          "product_id": null,
+          "finding": "尚缺能对应具体动作的品牌销售序列、渠道进入时间与投放成效，暂不判断哪次动作推动了快速增长或增长方式如何变化。",
+          "record_ids": [
+            20
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "动作前后的销售变化与投放、渠道资料缺失。",
+          "impact": "事件发生不等于事件推动增长。",
+          "answer_type": "研究问题"
+        }
+      ],
+      "images": [],
+      "reviewed_revision": "7cae5ad7f2929286721759e9b0d06ecaf8236213f29374df97e91330870711a4",
+      "updated_at": "2026-11-04T23:27:27+08:00",
+      "current_revision": "7cae5ad7f2929286721759e9b0d06ecaf8236213f29374df97e91330870711a4",
+      "stale": false
+    },
+    {
+      "number": 5,
+      "headline": "品牌选择理由与持续壁垒，尚未达到可下结论的证据要求",
+      "summary": "品牌和商家有清晰的价值与能力自述，但消费者是否把这些价值归因于品牌、是否愿意为品牌溢价，仍未得到验证。当前保留问题与已有依据。",
+      "boundary": "单品成交积累不能直接证明品牌心智；商标、Lab页面名称及一体化制造自述，都不足以证明难以复制的能力。",
+      "topics": [
+        {
+          "topic": "12. 消费者为什么选择品牌",
+          "product_id": null,
+          "finding": "需要把品牌主张、评论中的购买前理由与同规格价格比较对齐。现有单品评论尚未编码，不能据此认定品牌认知或支付溢价。",
+          "record_ids": [
+            21
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "消费者购买动机、竞争比较及品牌能力证据尚未齐备。",
+          "impact": "现阶段不认定品牌心智、溢价或长期壁垒。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "13. 品牌能力与竞争壁垒",
+          "product_id": null,
+          "finding": "目前没有充分的研发、供应链、组织效率或持续盈利证据，无法识别长期壁垒；已保留相关自述，等待独立验证。",
+          "record_ids": [
+            22
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "消费者购买动机、竞争比较及品牌能力证据尚未齐备。",
+          "impact": "现阶段不认定品牌心智、溢价或长期壁垒。",
+          "answer_type": "研究问题"
+        }
+      ],
+      "images": [],
+      "reviewed_revision": "0e1f3ed48898aa600f3520b811901c1bb125b11d5c991ce4b7cc93dcb9821726",
+      "updated_at": "2026-11-04T23:27:27+08:00",
+      "current_revision": "0e1f3ed48898aa600f3520b811901c1bb125b11d5c991ce4b7cc93dcb9821726",
+      "stale": false
+    },
+    {
+      "number": 6,
+      "headline": "目前尚无经过证据验证、可正式推荐的增长机会",
+      "summary": "这一阶段先保留值得继续研究的问题。前置的消费者、竞争与渠道证据尚未齐备，因此尚不向Breescape提出确定的产品创新、营销借鉴或市场进入建议。",
+      "boundary": "机会需同时考虑需求、竞争、市场规模、支付意愿及我方能力；个别投诉或商家卖点不能直接升级为机会。",
+      "topics": [
+        {
+          "topic": "产品创新",
+          "product_id": null,
+          "finding": "待同规格产品比较和消费者反馈编码完成后，判断哪些设计有实际借鉴价值。",
+          "record_ids": [
+            23
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "同规格竞品比较与消费者主题编码待补。",
+          "impact": "仅保留研究问题，尚不作为正式建议。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "营销与渠道借鉴",
+          "product_id": null,
+          "finding": "TOP5已确定；待完整内容、转化效果与我方适用条件核实后，再提出营销借鉴。",
+          "record_ids": [
+            24
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "完整视频、转化效果与我方适用条件待补。",
+          "impact": "仅保留研究问题，尚不作为正式建议。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "竞争短板",
+          "product_id": null,
+          "finding": "页面描述冲突已保留；消费者体验短板仍需评论、实物或检测支持。",
+          "record_ids": [
+            25
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "消费者体验或实物/检测证据待补。",
+          "impact": "仅保留研究问题，尚不作为正式建议。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "潜在市场机会",
+          "product_id": null,
+          "finding": "需求缺口、市场规模、竞争强度与支付意愿尚未形成完整证据链。",
+          "record_ids": [
+            26
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "需求规模、竞争强度、支付意愿与我方能力待补。",
+          "impact": "仅保留研究问题，尚不作为正式建议。",
+          "answer_type": "研究问题"
+        },
+        {
+          "topic": "对我方的战略启示",
+          "product_id": null,
+          "finding": "待前置研究充分后，只保留能支持Breescape产品、品牌或渠道增长的少数结论。",
+          "record_ids": [
+            27
+          ],
+          "featured": [],
+          "bullets": [],
+          "coverage": "等待前置研究",
+          "gap": "前五板块的充分证据与优先级比较待补。",
+          "impact": "仅保留研究问题，尚不作为正式建议。",
+          "answer_type": "研究问题"
+        }
+      ],
+      "images": [],
+      "reviewed_revision": "9236d9f9d957d0919fb6c768d23a92e12c574ec3f9ae6c0dca8dbfaef1594bc1",
+      "updated_at": "2026-11-04T23:27:27+08:00",
+      "current_revision": "9236d9f9d957d0919fb6c768d23a92e12c574ec3f9ae6c0dca8dbfaef1594bc1",
+      "stale": false
+    }
+  ],
+  "brand_id": "shilucheng",
+  "summary_stale": false,
+  "cover_figure": {
+    "material_id": 46,
+    "source_id": 6,
+    "caption": "官网首页｜亚麻床单的睡眠场景与材料表达。截图经过浏览器中文翻译；不作为材料性能验证。"
+  },
+  "profile": [
+    {
+      "label": "卖什么",
+      "value": "床品延伸至家居",
+      "detail": "床单、褥垫、凉被、枕头，以及毯、窗帘和地毯等；目录布局不代表收入贡献。",
+      "record_ids": [
+        5,
+        31
+      ]
+    },
+    {
+      "label": "面向谁",
+      "value": "追求舒适与可负担性",
+      "detail": "这是品牌希望传递的价值；床单商品另明确面向怕热及夜间出汗人群。",
+      "record_ids": [
+        3,
+        9
+      ]
+    },
+    {
+      "label": "在哪里卖",
+      "value": "4类已确认渠道入口",
+      "detail": "独立站、Amazon、TikTok、Walmart；各渠道销售占比未知。",
+      "record_ids": [
+        29
+      ]
+    },
+    {
+      "label": "先研究什么",
+      "value": "TikTok竹混纺床单",
+      "detail": "商品ID 1729438233542234865。其他平台同名商品不自动视为同款。",
+      "record_ids": [
+        7
+      ]
+    }
+  ]
+}

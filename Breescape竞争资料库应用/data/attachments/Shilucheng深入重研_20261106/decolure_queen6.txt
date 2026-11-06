@@ -1,0 +1,1101 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: 类别
+    - button:
+    - generic: 订单
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "搜索":
+  - /placeholder: electric scooters for adults over 300lbs
+- button "搜索":
+  - generic: 搜索
+- link "优惠券中心":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "优惠券中心":
+    - generic: 优惠券中心
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- generic: ·
+- generic: 商品速览
+- generic: ID：
+- generic: "1729916842555707699"
+- button "标题翻译":
+  - generic: 标题翻译
+- button "图片下载":
+  - generic: 图片下载
+- button "视频下载":
+  - generic: 视频下载
+- button "导出评论":
+  - generic: 导出评论
+- button "AI商品分析":
+  - generic: AI商品分析
+- button "完整分析":
+  - generic: 完整分析
+- generic: 累计销量
+- generic: 28,474
+- generic: 可售库存
+- generic: 7,215
+- generic: SKU
+- generic: 80 · 114.99 美元 - 155.99 美元
+- generic: 评分
+- generic: 4.8 · 2,489
+- generic: 评价 vs 差评
+- generic: 95.1% · 3.1%
+- list:
+  - link "TikTok商店":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok商店
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床单与枕套":
+    - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+    - generic: 床单与枕套
+  - link "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽":
+    - /url: https://shop.tiktok.com/us/pdp/organic-viscose-sheets-by-decolure-twin-size-17-deep-pockets-hypoallergenic/1729916842555707699
+    - generic: DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽
+- img "白色的"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- heading "优惠券中心" [level=2]:
+  - generic: 优惠券中心
+- paragraph:
+  - generic: 领取您的专属优惠。具体条款适用。
+- generic: 暂无优惠券
+- generic: 抱歉，您的优惠券均不适用于此商品。您可以点击“优惠券中心”查看TikTok商城所有可用优惠券。
+- heading "运输和进口" [level=2]:
+  - generic: 运输和进口
+- link "发货和发货 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和发货" [level=3]:
+    - generic: 发货和发货
+  - generic: 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。
+- link "30天轻松免费回归 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30天轻松免费回归" [level=3]:
+    - generic: 30天轻松免费回归
+  - generic: 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。
+- link "TikTok 店铺保障 安全支付 数据隐私 退款保障 产品保障 应用内部支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok 店铺保障" [level=2]:
+    - generic: TikTok 店铺保障
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 产品保障
+  - generic: 应用内部支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Decolure Home Goods":
+  - /url: https://shop.tiktok.com/us/store/decolure-home-goods/7495955043847670067
+  - generic: 销售店铺 Decolure Home Goods
+- heading "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽" [level=1]:
+  - generic: DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽
+- generic: $
+- generic: "114"
+- generic: "99"
+- generic: 免费运送
+- generic: "4.8"
+- generic: （
+- generic: 2.5K
+- generic: ）
+- generic: 已售 28.5K
+- button "成交件数":
+- generic: 颜色
+- generic: ：
+- generic: 白色的
+- button "查看更多":
+  - generic: 查看更多
+- img "白色的"
+- generic: 白色的
+- img "乳霜"
+- generic: 乳霜
+- img "灰色的"
+- generic: 灰色的
+- img "浅灰色"
+- generic: 浅灰色
+- img "灰褐色"
+- generic: 灰褐色
+- img "木炭"
+- generic: 木炭
+- img "黑色的"
+- generic: 黑色的
+- img "浅蓝色"
+- generic: 浅蓝色
+- img "中灰色"
+- generic: 中灰色
+- img "橄榄"
+- generic: 橄榄
+- img "鼠尾草绿"
+- generic: 鼠尾草绿
+- img "浅粉色"
+- generic: 浅粉色
+- img "浅橄榄色"
+- generic: 浅橄榄色
+- img "勃艮第"
+- generic: 勃艮第
+- img "海军蓝"
+- generic: 海军蓝
+- img "紫色的"
+- generic: 紫色的
+- generic: 尺寸
+- generic: ：
+- generic: 女王
+- generic: 双
+- generic: 满的
+- generic: 女王
+- generic: 国王
+- generic: 加州国王
+- generic: 数量
+- generic: ":"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "德科勒家居用品 德科勒家居用品 Decolure家居用品标识 官方店铺 4.7 79.6K 已售出 3.2K+粉丝 93% 后悔 <10小时 问题解决 88% 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/decolure-home-goods/7495955043847670067
+  - img "德科勒家居用品"
+  - generic: 德科勒家居用品
+  - img "Decolure家居用品标识"
+  - generic: 官方店铺
+  - generic: "4.7"
+  - generic: 79.6K
+  - generic: 已售出
+  - generic: 3.2K+
+  - generic: 粉丝
+  - generic: 93%
+  - generic: 后悔
+  - generic: <10小时
+  - generic: 问题解决
+  - generic: 88%
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 此商品的相关视频
+- generic: Creator earns commission
+- 'img "#Sábanas y #fundasdealmohada de viscosa orgánica Decolure derivadas del bambú - Ultra suaves y lujosamente refrescantes, bolsillo de 43 cm de profundidad, doble costura. #Sheet #juegodecama #cuarto #DecolureHomeGoods #homedecor #room #tiktokshop #superventas #ofertas #comprar #latina @Decolure Home Goods"'
+- generic: Kent Kinberly
+- generic: 125.2K
+- generic: Creator earns commission
+- 'img "Why don’t they make all sheets this way 😅 #fittedsheet #bamboosheets #beddingsets #bedding #kingsize #coolingsheets"'
+- generic: roscozyhome
+- generic: 98.9K
+- generic: Creator earns commission
+- 'img "Favorite sheets all year round, especially summer 🌞#cooling #sheets #sheetset #bedding #beddingsets #bamboo #fittedsheet #bedroom #mattress"'
+- generic: roscozyhome
+- generic: 30.9K
+- generic: Creator earns commission
+- 'img "This 6-piece bamboo sheet set is ultra-soft, cooling, and actually stays on thanks to the deep pockets and double stitching. I got the taupe — it’s stunning — and they wash like a dream. Hot sleepers, this is your sign. Linked them before they sell out again! @Decolure Home Goods #coolingsheets #bamboosheets #bedding #tiktokshopcreatorpicks #tiktokshopbacktoschool"'
+- generic: Kim’sDailyFinds🦢
+- generic: 26.7K
+- generic: Creator earns commission
+- 'img "These are by far the best cooling sheets we have found online, these sheets are freezing cold at night and help in our mobile home #coolingsheets #sheetset #bamboosheets #sheetsets"'
+- generic: Josh Morris
+- generic: 8.6K
+- generic: Creator earns commission
+- 'img "Picale al 2 abajo! Tendre que encargar MAs porque estan 100000 de 10!!!!! #Tiktokmademebuyit #tiktokshopcreatorpicks #tiktokshopfinds"'
+- generic: Lazsiari81
+- generic: 8.1K
+- generic: Creator earns commission
+- 'img "Aesthetic cozy and cooling! #bamboocottonsheets #sheets #coolingsheets #tiktokshopblackfriday #decolurehomegoods"'
+- generic: Sade✨Your Social Bestie
+- generic: 6.9K
+- generic: Creator earns commission
+- 'img "My favorite set of sheets I’ve ever owned, hands down 🙌 #coolingsheets #cooling #bamboo #sheetset #bedding #beddingsets #bedroomessentials"'
+- generic: roscozyhome
+- generic: 6.0K
+- generic: Creator earns commission
+- 'img "Sheets that actually stay on all night AND keep me cool🤯 #sheets #sheetset #beddingsets #bedding #kingsize #fittedsheet #coolingsheets"'
+- generic: roscozyhome
+- generic: 5.6K
+- generic: Creator earns commission
+- img "Replying to @kilee.ross"
+- generic: 𝕃𝕠𝕣𝕖𝕟 𝔼𝕝𝕚𝕫𝕒𝕓𝕖𝕥𝕙
+- generic: 3.7K
+- generic: Creator earns commission
+- 'img "Thank me later 🫶🏻 #tiktokshopblackfriday #tiktokshopfinds"'
+- generic: 𝕃𝕠𝕣𝕖𝕟 𝔼𝕝𝕚𝕫𝕒𝕓𝕖𝕥𝕙
+- generic: 2.9K
+- generic: Creator earns commission
+- 'img "Replying to @Little Gemini let me give you a little demonstration 🤠 #sheets #bedding #beddingset #coolingsheets #cooling #bamboo @Decolure Home Goods"'
+- generic: roscozyhome
+- generic: 2.7K
+- generic: Creator earns commission
+- 'img "mi colchon es el 14” de Costco #Tiktokmademebuyit #tiktokshopcreatorpicks #tiktokshopfinds #TikTokShopBacktoSchool"'
+- generic: Lazsiari81
+- generic: 2.6K
+- generic: Creator earns commission
+- 'img "Sábanas organicas derivadas de bambú, suaves, confortables, cómodas para un buen descanso🍃 #pillows #pillowcase #bedroom #bedroomdesign #bedroomdecor #organicpillow #rest #decor #bedroomcheck #bedroomideas #bedroomaesthetic"'
+- generic: Wilindris Vasquez
+- generic: 2.0K
+- generic: Creator earns commission
+- 'img "This 6-piece bamboo sheet set is ultra-soft, cooling, and actually stays on thanks to the deep pockets, extra band and double stitching. Hot sleepers, this is your sign😌Linked them before they sell out again! @Decolure Home Goods #coolingsheets #bamboosheets #bedding #tiktokshoprestock #tiktokshopcreatorpicks"'
+- generic: Mrs. Goal Chaser
+- generic: 2.0K
+- generic: Creator earns commission
+- 'img "Upgrading my small apartment into a luxury tropical hotel resort aesthetic and I’m getting everything from TikTok shop pt. 8 🩷🫧 #apartmentfinds #homefinds #homedecor #tiktokshopholidayhaul #tiktokshopcreatorspicks"'
+- generic: Sharon’s Life 🫧
+- generic: 2.0K
+- generic: Creator earns commission
+- 'img "Bedding bamboo bed sheets to keep you cool this summer#bedsheets #bedding #bedset #sabanas #summer #verano #cama #bed #sleep"'
+- generic: Juliana
+- generic: 1.8K
+- generic: Creator earns commission
+- 'img "Ok but these are legit #bedding #bed #tiktokshopfalldealsforyou #tiktokshopblackfriday #TikTokShopCyberMonday"'
+- generic: Heather Savagemomlife
+- generic: 1.8K
+- generic: Creator earns commission
+- 'img "De lujo, de hotel, pura finesa #sabanas #luxury #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #arruinateconmigo"'
+- generic: Cuqui la Mora
+- generic: 1.7K
+- generic: 尺码指南
+- img "DECOLURE 六件套竹纤维凉感床上用品套装 - 透气柔软，丝滑粘胶纤维，17 英寸深口袋床笠/床单，4 个枕套，免熨烫，低过敏性，通过 Oeko-Tex 认证，可机洗，四季皆宜，助您睡得舒适凉爽"
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: 100%竹纤维粘胶，触感柔软丝滑。
+- generic: •
+- generic: 透气吸湿面料，专为怕热人士设计
+- generic: •
+- generic: 6件套皇后尺寸床品包括1张床单、1张床笠和4个枕套。
+- generic: •
+- generic: 17英寸深口袋床笠适用于标准厚度和加厚床垫。
+- generic: •
+- generic: 通过 Oeko-Tex 认证，低致敏性，适合敏感肌肤
+- generic: 此信息由人工智能生成。
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 褪色":
+      - cell "品牌":
+        - generic: 品牌
+      - cell "褪色":
+        - generic: 褪色
+    - row "纤维含量 100%竹纤维粘胶":
+      - cell "纤维含量":
+        - generic: 纤维含量
+      - cell "100%竹纤维粘胶":
+        - generic: 100%竹纤维粘胶
+    - row "线程数 300":
+      - cell "线程数":
+        - generic: 线程数
+      - cell "300":
+        - generic: "300"
+    - row "织造类型 缎纹":
+      - cell "织造类型":
+        - generic: 织造类型
+      - cell "缎纹":
+        - generic: 缎纹
+    - row "包含组件 1张床单，1张床笠，4个枕套":
+      - cell "包含组件":
+        - generic: 包含组件
+      - cell "1张床单，1张床笠，4个枕套":
+        - generic: 1张床单，1张床笠，4个枕套
+    - row "闭合类型 信封，拉链":
+      - cell "闭合类型":
+        - generic: 闭合类型
+      - cell "信封，拉链":
+        - generic: 信封，拉链
+- generic: 查看更多
+- generic: 商品描述
+- generic: DECOLURE 100% 竹纤维床单套装，专
+- generic: 为夜间怕热且追求极致柔软触感的人士设计，助您提升睡眠质量。这款皇后尺寸床单采用优质竹纤维制成，触感如丝般柔滑，越洗越柔软舒适。
+- generic: 你为什么会爱上它们：
+- generic: 自然凉爽，适合怕热的睡眠者
+- generic: ——透气竹纤维面料结合吸湿排汗的 Breezweave 技术，能迅速带走热量和汗水，让您整晚保持凉爽干爽。
+- generic: 超柔软丝滑触感
+- generic: ——奢华顺滑、抗皱的质地，以实惠的价格媲美高档酒店床品。
+- generic: 17 英寸深口袋 – 适合所有床型
+- generic: – 专为标准皇后床垫和厚度达 17 英寸的加厚床垫设计。带弹性角的床笠即使在可调节床上也能保持贴合牢固。
+- generic: 经久耐用
+- generic: ——采用精准的双缝线工艺，确保持久牢固耐用。面料不易褪色，可经受更长时间、更频繁的洗涤。
+- generic: ️
+- generic: 通过Oeko-Tex认证且低致敏
+- generic: ——天然低致敏，采用对皮肤和环境更安全的化学成分制成。非常适合敏感肌肤和易过敏睡眠者。
+- generic: ️
+- generic: 额外枕套 – 6 件超值套装
+- generic: – 包含 4 个枕套，让您在两次洗涤之间始终有干净、匹配的枕套可用。
+- generic: 套装包含物品（6 件套皇后尺寸床品）：
+- generic: ·
+- generic: 1 张平板床单 — 90 英寸 x 96 英寸
+- generic: ·
+- generic: 1 x 床笠 — 60 英寸 x 80 英寸（深 17 英寸口袋）
+- generic: ·
+- generic: 4 个枕套 — 20 英寸 x 30 英寸
+- generic: 找到最适合您的尺码——完整尺码指南（6 件套）：
+- generic: （床单/床笠/枕套/枕套数量）
+- generic: ·
+- generic: 单人床：
+- generic: 66英寸 x 96英寸 / 39英寸 x 75英寸 / 20英寸 x 30英寸 / 2个枕套
+- generic: ·
+- generic: 全尺寸：
+- generic: 81英寸 x 96英寸 / 54英寸 x 75英寸 / 20英寸 x 30英寸 / 4个枕套
+- generic: ·
+- generic: 皇后尺寸：
+- generic: 90英寸 x 96英寸 / 60英寸 x 80英寸 / 20英寸 x 30英寸 / 4个枕套
+- generic: ·
+- generic: 特大号：
+- generic: 108 英寸 x 102 英寸 / 78 英寸 x 80 英寸 / 20 英寸 x 40 英寸 / 4 个枕套
+- generic: ·
+- generic: 加州特大号：
+- generic: 108 英寸 x 102 英寸 / 72 英寸 x 84 英寸 / 20 英寸 x 40 英寸 / 4 个枕套
+- generic: 所有床笠均采用 17 英寸深的口袋设计，可适配标准厚度和加厚床垫。
+- generic: 非常适合：
+- generic: 怕热的人、厚床垫、可调节床、敏感肌肤，以及任何想要凉爽、奢华的床上用品但又不想支付高昂价格的人。
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: 这款 DECOLURE 竹纤维凉感床单六件套专为追求柔软凉爽睡眠体验的您而设计。床单采用 100% 竹纤维粘胶制成，触感丝滑透气，尤其适合怕热人士，四季皆宜。套装包含一张床单、一张 17 英寸深的床笠和四个枕套，让您拥有更多枕套选择。床笠可紧密贴合标准尺寸及加厚床垫，包括可调节床。床单采用抗皱、防褪色面料，并经双缝线加固，经久耐用，适合日常使用。此外，床单还通过了 Oeko-Tex 认证，低致敏性，可机洗（冷水），是敏感肌肤的理想之选，易于打理。
+- generic: 此信息由人工智能生成。
+- generic: 常见问题
+- generic: •
+- generic: 套装包含哪些物品？答：6 件套皇后尺寸套装包含 1 张床单、1 张床笠和 4 个枕套。
+- generic: •
+- generic: 床单是什么材质的？答：床单由100%竹纤维粘胶制成。
+- generic: •
+- generic: 答：这套床单是什么尺寸的？答：这是一款标准双人床（Queen size）床单套装。
+- generic: •
+- generic: 床笠口袋有多深？答：床笠口袋深17英寸。
+- generic: •
+- generic: 这款床单套装适合敏感肌肤吗？答：是的。这款床单通过了Oeko-Tex认证，并且具有低致敏性。
+- generic: •
+- generic: 答：这些床单应该怎么洗？洗涤说明上写着冷水机洗。
+- generic: 此信息由人工智能生成。
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Ecotro LLC
+- generic: •
+- generic: 公司地址：美国北卡罗来纳州
+- generic: 店铺评价
+- button:
+- img "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers"
+- link "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-bamboo-sheets-set-3-piece-hypoallergenic-cooling/1729917395976425779
+  - heading "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 17.9K 已售出
+- text: $110
+- generic: ".49"
+- img "K**y"
+- generic: Oh my GOODNESS, these are HEAVENLY sheets! We are going to order more colors. They are wrapped so beautifully and after you wash them and dry them for the first time… SO SOFT. Then when you slip into bed, they are cool and so soft, encasing your body so luxuriously! Great purchase. LOVE the color.
+- generic: ...
+- button "查看更多"
+- img "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding"
+- link "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheets-by-decolure-twin-set-hypoallergenic-soft-durable/1729917202458054963
+  - heading "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 6.3K 已售出
+- text: $32
+- generic: ".00"
+- img "T**a"
+- generic: "Comfort: These sheets are so smooth and soft. I really can’t get over that, and the fact that the sheets came in less than 3 days. Overall, these sheets are gorgeous and extremely comfortable!!!!."
+- generic: ...
+- button "查看更多"
+- img "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers"
+- link "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-sheets-california-king-size-temperature-control/1731578060025729331
+  - heading "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 3.7K 已售出
+- text: $109
+- generic: ".19"
+- img "M**a D** L** Á**s A**o D**s"
+- generic: Me encantó súper cómoda y bien bonitas muy suave la tela y se mantiene bien fría espectacular 🥰🥰🥰🥰
+- generic: ...
+- button "查看更多"
+- img "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift"
+- link "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift":
+  - /url: https://shop.tiktok.com/us/pdp/sleephoria-cooling-comforter-king-size-soft-breathable/1731586678769422643
+  - heading "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 781 已售出
+- text: $112
+- generic: ".65"
+- img "A**A"
+- generic: Ayer me llegó y muy contenta porque es suave y fría. Hoy la lavaré para usarla en la noche. También me sirve como cubrecama. Divina para esas noches calurosas y con el frio del aire mas les cubrecama una noche agradable al dormir.
+- generic: ...
+- button "查看更多"
+- img "DECOLURE 2 Panels True Blackouts Linen Look Curtains - 100% Linen Solid Texture, Thermal Insulation, 3-in-1 Back Tab-Rod Pocket-Ring Clips, 235 GSM, OEKO-TEX Certified, Neutral for Bedrooms/Living, Modern Home Decor"
+- link "DECOLURE 2 Panels True Blackouts Linen Look Curtains - 100% Linen Solid Texture, Thermal Insulation, 3-in-1 Back Tab-Rod Pocket-Ring Clips, 235 GSM, OEKO-TEX Certified, Neutral for Bedrooms/Living, Modern Home Decor":
+  - /url: https://shop.tiktok.com/us/pdp/blackout-curtains-decolure-linen-textured-thermal-insulated-3-ways-to-hang-235-gsm-oeko-tex-certified/1732625626410422579
+  - heading "DECOLURE 2 Panels True Blackouts Linen Look Curtains - 100% Linen Solid Texture, Thermal Insulation, 3-in-1 Back Tab-Rod Pocket-Ring Clips, 235 GSM, OEKO-TEX Certified, Neutral for Bedrooms/Living, Modern Home Decor" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 42 已售出
+- text: $39
+- generic: ".90"
+- img "🌸**🌸"
+- generic: Me encantaron estas cortinas. La tela tiene una textura tipo lino muy bonita y hacen que el cuarto se vea mucho más elegante y acogedor. Además, cuando las cierras, bloquean muy bien la luz y dan bastante privacidad. Me gustó también que se puedan colocar de diferentes maneras. Se sienten bonitas, prácticas y de buena calidad.
+- generic: ...
+- button "查看更多"
+- img "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts"
+- link "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-satin-bed-sheets-soft-cool-6-piece-set-full-size/1732166615782756659
+  - heading "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 1.0K 已售出
+- generic: "-15%"
+- text: $49
+- generic: ".99"
+- text: $58.81
+- img "🌸**🌸"
+- generic: Estas sábanas tienen una tela súper suave y un acabado satinado muy bonito. Me gustó especialmente que la sábana ajustable tiene elástico para que quede bien sujeta al colchón y no se mueva fácilmente. El set trae 6 piezas y la cama queda con un acabado elegante y muy bonito. ✨🛏️
+- generic: ...
+- button "查看更多"
+- img "SLEEPHORIA Modern Solid Diamond 3-Piece Household Microfibre Bedding Set with Shams - Lightweight All-Season Soft & Cozy Cloud Quilted Reversible Coverlet, Machine Washable, Stitched Home Decor"
+- link "SLEEPHORIA Modern Solid Diamond 3-Piece Household Microfibre Bedding Set with Shams - Lightweight All-Season Soft & Cozy Cloud Quilted Reversible Coverlet, Machine Washable, Stitched Home Decor":
+  - /url: https://shop.tiktok.com/us/pdp/sleephoria-quilt-set-reversible-lightweight-all-season-bedding-soft-microfiber-machine-washable/1732516082808951091
+  - heading "SLEEPHORIA Modern Solid Diamond 3-Piece Household Microfibre Bedding Set with Shams - Lightweight All-Season Soft & Cozy Cloud Quilted Reversible Coverlet, Machine Washable, Stitched Home Decor" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 166 已售出
+- text: $116
+- generic: ".99"
+- img "C**y ⚡**"
+- generic: Very soft and excellent quality. Vibrant navy blue and the classic diamond pattern looks so clean and neat. Thin enough for summer and perfect for hot sleepers. Layer in colder months if need be. Excellent!
+- generic: ...
+- button "查看更多"
+- img "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking"
+- link "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-bed-sheets-twin-set-by-decolure-ultra-soft-viscose-deep-pockets-easy-care/1731054900601131315
+  - heading "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 2.6K 已售出
+- text: $64
+- generic: ".99"
+- img "J**e"
+- generic: I love these sheets. Definitely help me sleep better at night
+- img "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)"
+- link "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)":
+  - /url: https://shop.tiktok.com/us/pdp/silk-pillowcase-by-decolure-100-mulberry-30-momme-hypoallergenic-standard-size/1730907987957682483
+  - heading "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 1.2K 已售出
+- text: $59
+- generic: ".99"
+- img "T**a K**r"
+- generic: I only sleep on 30 momme pillowcase . Exquisite and beautiful. I am extremely pleased and I highly recommend. I will most certainly order more for my guest's suite.
+- generic: ...
+- button "查看更多"
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- link "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/organic-viscose-sheets-by-decolure-twin-size-17-deep-pockets-hypoallergenic/1729916842555707699
+  - heading "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 28.5K 已售出
+- text: $114
+- generic: ".99"
+- img "C**t"
+- generic: They feel soo nice and exactly how I wanted and expected them to feel. Cozy and cool💙 Cat approved as well 😂😅
+- generic: ...
+- button "查看更多"
+- generic: "4.8"
+- generic: 2489 条全球评价
+- generic: "5"
+- generic: "2234"
+- generic: "4"
+- generic: "134"
+- generic: "3"
+- generic: "44"
+- generic: "2"
+- generic: "29"
+- generic: "1"
+- generic: "48"
+- generic: 评价中的照片
+- button "查看全部照片":
+  - generic: 查看全部照片
+- button:
+- img "查看图片 0"
+- generic "A**a G**a":
+  - generic: A**a G**a
+- img "评分：5星（满分5星）":
+- img "查看图片 1"
+- generic "A**a G**a":
+  - generic: A**a G**a
+- img "评分：5星（满分5星）":
+- img "查看图片 2"
+- generic "A**a G**a":
+  - generic: A**a G**a
+- img "评分：5星（满分5星）":
+- img "查看图片 3"
+- generic "A**a G**a":
+  - generic: A**a G**a
+- img "评分：5星（满分5星）":
+- img "查看图片 4"
+- generic "c**1":
+  - generic: c**1
+- img "评分：5星（满分5星）":
+- img "查看图片 5"
+- generic "c**1":
+  - generic: c**1
+- img "评分：5星（满分5星）":
+- img "查看图片 6"
+- generic "c**1":
+  - generic: c**1
+- img "评分：5星（满分5星）":
+- img "查看图片 7"
+- generic "c**1":
+  - generic: c**1
+- img "评分：5星（满分5星）":
+- img "查看图片 8"
+- generic "🫧**🫧":
+  - generic: 🫧**🫧
+- img "评分：5星（满分5星）":
+- img "查看图片 9"
+- generic "🫧**🫧":
+  - generic: 🫧**🫧
+- img "评分：5星（满分5星）":
+- img "查看图片 10"
+- generic "🫧**🫧":
+  - generic: 🫧**🫧
+- img "评分：5星（满分5星）":
+- img "查看图片 11"
+- generic "🫧**🫧":
+  - generic: 🫧**🫧
+- img "评分：5星（满分5星）":
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示2489条评价（共2489条）
+- generic: 重置筛选条件
+- generic: A**a G**a
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 天哪，我简直太爱这些东西了！它们超级柔软，质感奢华。摸起来凉凉的，有点像缎子一样。我迫不及待地想去买更多不同颜色的。
+- generic: 商品
+- generic: ：
+- generic: 浅灰色，皇后
+- generic: 2026-07-27
+- generic: c**1
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 我恩坎坦！！！！ Ya es la segunda qué compro 😍
+- generic: 商品
+- generic: ：
+- generic: 加州国王橄榄
+- generic: 2026-05-03
+- generic: 🫧**🫧
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 颜色漂亮又大胆，触感超级奢华。这套床单的品质和奢华程度都让我惊艳不已。我搭配了一个新的超柔软床垫套——哇哦——简直像睡在云朵上一样！这套床单简直太棒了！我买的是鼠尾草绿色的加大双人床尺寸。我还买了配套的鼠尾草绿色被套，但是被套还没到，我迫不及待地就把床单放进了烘干机，哇——简直是人间天堂！别再犹豫了，赶紧下单吧。你绝对不会后悔的！
+- generic: 商品
+- generic: ：
+- generic: 鼠尾草绿，女王
+- generic: 2025-10-14
+- generic: L**3
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 太喜欢这些床单了！！我能明显感觉到差别，晚上睡觉再也不觉得热了。包装也很漂亮，颜色也很赞。我买的是米白色。强烈推荐，想要睡个凉爽觉？
+- generic: 商品
+- generic: ：
+- generic: 奶油，加州国王
+- generic: 2026-09-14
+- generic: "@**6"
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 非常漂亮舒适，材质优质，设计精美，太喜欢了🥰 谢谢支持🙏
+- generic: 商品
+- generic: ：
+- generic: 灰褐色，国王
+- generic: 2026-08-23
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "498"
+- generic: 下一步
+- generic: 探索Decolure Home Goods的更多商品
+- button:
+- img "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-sheets-california-king-size-temperature-control/1731578060025729331
+  - heading "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 3.7K 已售出
+- generic: Limited time deal
+- text: $109
+- generic: ".19"
+- button:
+- img "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-satin-bed-sheets-soft-cool-6-piece-set-full-size/1732166615782756659
+  - heading "DECOLURE Full 6-Piece Satin Bedsheet Sets - 15in Deep Fit Fitted Sheet, Wrinkle-Resistant, Fade-Resistant, Machine Washable, Hair-Safe, Cooling, All Seasons, Smooth Glide, Less Rubbing, 29 Colors, Women's Gifts" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 1.0K 已售出
+- generic: Limited time deal
+- generic: "-15%"
+- text: $49
+- generic: ".99"
+- text: $58.81
+- button:
+- img "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift":
+  - /url: https://shop.tiktok.com/us/pdp/sleephoria-cooling-comforter-king-size-soft-breathable/1731586678769422643
+  - heading "SLEEPHORIA Smart Cooling Fabric Duvet - 1-Piece Reversible Lightweight Quilt, BreezeWeave Fabric (Q Max Over 0.45), Breathable, Skin-Friendly, All-Seasons Use, Wicks Moisture, Stays Dry, Machine Washable, Twin/King Sizes, Ideal Gift" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 781 已售出
+- generic: Limited time deal
+- text: $112
+- generic: ".65"
+- button:
+- img "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-bed-sheets-twin-set-by-decolure-ultra-soft-viscose-deep-pockets-easy-care/1731054900601131315
+  - heading "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 2.6K 已售出
+- generic: Limited time deal
+- text: $64
+- generic: ".99"
+- button:
+- img "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheets-by-decolure-twin-set-hypoallergenic-soft-durable/1729917202458054963
+  - heading "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 6.3K 已售出
+- generic: Limited time deal
+- text: $32
+- generic: ".00"
+- button:
+- img "DECOLURE Satin Fitted Sheet 1 PC – Silky Soft Deep Pocket Sheet for Hair & Skin, Cooling Breathable Satin Bed Sheet, Fits 15\" Mattresses Secure Snug Fit, Elastic Corner Straps"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Satin Fitted Sheet 1 PC – Silky Soft Deep Pocket Sheet for Hair & Skin, Cooling Breathable Satin Bed Sheet, Fits 15\" Mattresses Secure Snug Fit, Elastic Corner Straps":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-satin-fitted-sheet-silky-soft-15-deep-pocket/1731054919322669363
+  - heading "DECOLURE Satin Fitted Sheet 1 PC – Silky Soft Deep Pocket Sheet for Hair & Skin, Cooling Breathable Satin Bed Sheet, Fits 15\" Mattresses Secure Snug Fit, Elastic Corner Straps" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 1.3K 已售出
+- generic: Limited time deal
+- text: $31
+- generic: ".99"
+- button:
+- img "SLEEPHORIA Cooling Pillow Cases, 2-Pack Hypoallergenic Silky Fabric Pillow Case Covers, Robust Durable Zipper, Gentle on Hair & Skin, Ideal for Hot Sleepers, Stays Cool All Night"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "SLEEPHORIA Cooling Pillow Cases, 2-Pack Hypoallergenic Silky Fabric Pillow Case Covers, Robust Durable Zipper, Gentle on Hair & Skin, Ideal for Hot Sleepers, Stays Cool All Night":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-pillow-cases-for-hot-sleepers-2-pack-light-grey/1731586689167429939
+  - heading "SLEEPHORIA Cooling Pillow Cases, 2-Pack Hypoallergenic Silky Fabric Pillow Case Covers, Robust Durable Zipper, Gentle on Hair & Skin, Ideal for Hot Sleepers, Stays Cool All Night" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.2K 已售出
+- generic: Limited time deal
+- text: $43
+- generic: ".32"
+- button:
+- img "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)":
+  - /url: https://shop.tiktok.com/us/pdp/silk-pillowcase-by-decolure-100-mulberry-30-momme-hypoallergenic-standard-size/1730907987957682483
+  - heading "DECOLURE 100% Pure Mulberry Silk Pillowcase - 6A+ Grade, 30 Momme, Solid Color, Modern Rectangular, Satin Weave, Luxuriously Soft, Cooling, Anti-Allergic, Breathable, Durable, Hidden Zipper, Fits Standard/Queen/King Sizes (Hair & Skin Care Bedding)" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 1.2K 已售出
+- text: $59
+- generic: ".99"
+- button:
+- img "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-bamboo-sheets-set-3-piece-hypoallergenic-cooling/1729917395976425779
+  - heading "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 17.9K 已售出
+- generic: Limited time deal
+- text: $110
+- generic: ".49"
+- button:
+- generic: 你可能也喜欢
+- img "【Black Friday early bird sale】Bedsure GentleSoft Cozy Blanket-Patio Furniture Decor,Classic Stripe Pattern, Ideal for Bed,Couch, Travel,Camping, All Seasons,Home Bedroom Decor"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure GentleSoft Cozy Blanket-Patio Furniture Decor,Classic Stripe Pattern, Ideal for Bed,Couch, Travel,Camping, All Seasons,Home Bedroom Decor":
+  - /url: https://shop.tiktok.com/us/pdp/flannel-fleece-blanket-by-bedsure-ultra-soft-king-size-with-stripes/1729436032662278390
+  - heading "【Black Friday early bird sale】Bedsure GentleSoft Cozy Blanket-Patio Furniture Decor,Classic Stripe Pattern, Ideal for Bed,Couch, Travel,Camping, All Seasons,Home Bedroom Decor" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 423.3K 已售出
+- text: $35
+- generic: ".99"
+- button:
+- img "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-bedsure-7-piece-queen-pintuck-ultra-soft-multi-color-bedding/1729434299173409014
+  - heading "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 143.1K 已售出
+- generic: "-49%"
+- text: $81
+- generic: ".99"
+- text: $161.99
+- button:
+- img "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear"
+- generic: Mellow Sleep
+- link "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear":
+  - /url: https://shop.tiktok.com/us/pdp/mellowsleep-soft-hooded-robe-double-sided-plush-fleece/1732291442888511569
+  - heading "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 9.2K 已售出
+- generic: "-29%"
+- text: $55
+- generic: ".99"
+- text: $79.00
+- button:
+- img "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-cooling-pillowcase-2-pack-silky-smooth-wrinkle-free/1732043725840027729
+  - heading "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 62.1K 已售出
+- text: $38
+- generic: ".99"
+- button:
+- img "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-cgk-linens-soft-striped-microfiber-with-deep-pockets/1729433847815639756
+  - heading "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 10.5K 已售出
+- generic: Limited time deal
+- generic: 08:41:50
+- text: $38
+- generic: ".99"
+- button:
+- img "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-pintuck-comforter-set-7-piece-queen-soft-multi-color-design/1730936115309678838
+  - heading "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 7.5K 已售出
+- generic: Limited time deal
+- generic: 09:41:50
+- text: $36
+- generic: ".39"
+- button:
+- img "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable"
+- generic: Mellow Sleep
+- link "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/double-stuffed-ultra-soft-comforter-oeko-tex-certified/1732017379984117841
+  - heading "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 172.7K 已售出
+- generic: Limited time deal
+- generic: "-49%"
+- text: $106
+- generic: ".98"
+- text: $210.00
+- button:
+- img "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable"
+- generic: Free shipping
+- link "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheet-set-by-madison-park-6-piece-luxurious-bedding-fits-16-mattress/1729419709331181905
+  - heading "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 143.9K 已售出
+- generic: Flash sale
+- generic: 01:42:49
+- generic: "-45%"
+- text: $29
+- generic: ".99"
+- text: $54.53
+- button:
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- generic: Free shipping
+- link "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)":
+  - /url: https://shop.tiktok.com/us/pdp/mellanni-iconic-4-pc-bed-sheets-set-soft-breathable-cooling/1729408552029229334
+  - heading "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 27.1K 已售出
+- text: $70
+- generic: ".16"
+- button:
+- img "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed":
+  - /url: https://shop.tiktok.com/us/pdp/sofa-cover-cushion-by-bedsure-cozy-flannel-striped-ultra-soft-design/1729479724015915254
+  - heading "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 72.6K 已售出
+- text: $26
+- generic: ".39"
+- button:
+- img "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)":
+  - /url: https://shop.tiktok.com/us/pdp/solid-bed-sheets-by-ldc-lux-decor-4-pc-brushed-microfiber-set/1729590912873370233
+  - heading "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 193.2K 已售出
+- generic: "-21%"
+- text: $18
+- generic: ".99"
+- text: $23.99
+- button:
+- img "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-lux-decor-6-pc-microfiber-queen-fitted-pillowcases/1729405875146363513
+  - heading "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 231.3K 已售出
+- generic: "-28%"
+- text: $20
+- generic: ".99"
+- text: $28.99
+- button:
+- img "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-king-size-cooling-sheets-set-soft-breathable/1732297575939412214
+  - heading "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 4.2K 已售出
+- text: $106
+- generic: ".99"
+- button:
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- link "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-luxclub-6pc-deep-pocket-eco-friendly-silky-soft-wrinkle-free/1729385256317981042
+  - heading "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 141.0K 已售出
+- text: $57
+- generic: ".98"
+- button:
+- img "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-cooling-comforter-dual-sided-silk-knit-fabric/1731648900804284497
+  - heading "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 82.9K 已售出
+- generic: Limited time deal
+- generic: "-50%"
+- text: $64
+- generic: ".99"
+- text: $130.00
+- button:
+- img "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately"
+- generic: Mellow Sleep
+- link "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-cloud-cooling-pillowcase-silky-smooth-cool/1732043652800811089
+  - heading "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 45.7K 已售出
+- text: $26
+- generic: ".98"
+- button:
+- img "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces"
+- generic: Free shipping
+- link "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces":
+  - /url: https://shop.tiktok.com/us/pdp/extra-deep-sheet-set-by-mellanni-4-pc-iconic-collection-21-pocket/1729408567901393174
+  - heading "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.7K 已售出
+- text: $90
+- generic: ".96"
+- button:
+- img "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033
+  - heading "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 14.7K 已售出
+- generic: "-27%"
+- text: $23
+- generic: ".99"
+- text: $32.99
+- button:
+- img "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheet-set-by-ldc-lux-decor-collection-4-pcs-queen-microfiber-floral/1729445212463796857
+  - heading "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 55.4K 已售出
+- generic: Flash sale
+- generic: 01:42:49
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- button:
+- img "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-ldc-lux-decor-reversible-microfiber-all-season-bedding/1729406666096480889
+  - heading "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 23.3K 已售出
+- generic: Limited time deal
+- generic: "-22%"
+- text: $24
+- generic: ".99"
+- text: $31.99
+- button:
+- img "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-bamboo-sheets-set-3-piece-hypoallergenic-cooling/1729917395976425779
+  - heading "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 17.9K 已售出
+- generic: Limited time deal
+- text: $110
+- generic: ".49"
+- button:
+- img "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheets-by-decolure-twin-set-hypoallergenic-soft-durable/1729917202458054963
+  - heading "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 6.3K 已售出
+- generic: Limited time deal
+- text: $32
+- generic: ".00"
+- button:
+- generic: 相关搜索
+- link "bamboo viscose sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-viscose-sheets
+- link "best bamboo bed sheets":
+  - /url: https://shop.tiktok.com/us/k/best-bamboo-bed-sheets
+- link "cooling bamboo pile and fitted sheet king":
+  - /url: https://shop.tiktok.com/us/k/cooling-bamboo-pile-and-fitted-sheet-king
+- link "bamboo rayon sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-rayon-sheets
+- link "bamboo sheet set 6 piece":
+  - /url: https://shop.tiktok.com/us/k/bamboo-sheet-set-6-piece
+- link "bambo fitted king sheet":
+  - /url: https://shop.tiktok.com/us/k/bambo-fitted-king-sheet
+- link "deep fitted cotton sheet":
+  - /url: https://shop.tiktok.com/us/k/deep-fitted-cotton-sheet
+- link "bamboo linen sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-linen-sheets
+- link "bamboo cotton sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-cotton-sheets
+- link "bamboo sheet set":
+  - /url: https://shop.tiktok.com/us/k/bamboo-sheet-set
+- link "rayon bamboo sheets":
+  - /url: https://shop.tiktok.com/us/k/rayon-bamboo-sheets
+- link "bamboo silk sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-silk-sheets
+- link "bamboo viscose sheets black":
+  - /url: https://shop.tiktok.com/us/k/bamboo-viscose-sheets-black
+- link "Bamboo fitted sheet":
+  - /url: https://shop.tiktok.com/us/k/bamboo-fitted-sheet
+- button:

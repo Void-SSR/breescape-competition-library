@@ -1,0 +1,64 @@
+{
+  "source": "分析师核定的指标显示文案；数值由现有observations读取",
+  "observations": {
+    "26": {
+      "card_label": "页面价格",
+      "unit_display": "美元",
+      "variant_display": "白色双人床（Queen）四件套",
+      "short_scope": "公开页面价，非账号券后价",
+      "date_display": "2026年11月5日",
+      "table_note": "公开页面价"
+    },
+    "21": {
+      "card_label": "官网活动价",
+      "unit_display": "美元",
+      "variant_display": "亮白色双人床（Queen）四件套",
+      "short_scope": "官网活动价",
+      "date_display": "2026年11月5日",
+      "table_note": "官网活动价"
+    },
+    "17": {
+      "card_label": "页面价格",
+      "unit_display": "美元",
+      "variant_display": "灰蓝色双人被（Queen），约229×229厘米",
+      "short_scope": "Amazon商品页报价",
+      "date_display": "2026年11月5日",
+      "table_note": "商品页报价"
+    },
+    "25": {
+      "card_label": "TikTok链接累计售出",
+      "unit_display": "件",
+      "variant_display": "全部规格合计",
+      "short_scope": "全球累计，扣除退货",
+      "date_display": "2026年11月5日"
+    },
+    "20": {
+      "card_label": "Amazon近月购买提示",
+      "unit_display": "",
+      "variant_display": "灰蓝色双人被（Queen）商品页",
+      "short_scope": "门槛提示，非精确月销量",
+      "date_display": "2026年11月5日"
+    }
+  },
+  "category_labels": {
+    "common": "共用",
+    "sheets": "床单",
+    "covers": "被子"
+  },
+  "question_labels": {
+    "": "未分类",
+    "market": "市场与细分",
+    "price": "价格与溢价",
+    "products": "研究对象",
+    "technology": "材料与技术",
+    "consumer": "消费者需求与认知"
+  },
+  "labels": {
+    "source_appendix": "来源与统计说明",
+    "raw_observation": "原始指标记录",
+    "scope": "统计范围",
+    "observed_at": "观察时间",
+    "retrieved_at": "收录时间",
+    "source": "原始来源"
+  }
+}

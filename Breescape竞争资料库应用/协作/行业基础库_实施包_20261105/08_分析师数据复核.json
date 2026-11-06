@@ -1,0 +1,36 @@
+{
+  "brands": {
+    "count": 3,
+    "unchanged": true
+  },
+  "products": {
+    "count": 4,
+    "unchanged": true
+  },
+  "reviews": {
+    "count": 2628,
+    "unchanged": true
+  },
+  "records": {
+    "count": 135,
+    "unchanged": true
+  },
+  "observations": {
+    "count": 27,
+    "unchanged": true
+  },
+  "material_links": {
+    "count": 240,
+    "unchanged": true
+  },
+  "brand_reports": {
+    "count": 3,
+    "unchanged": true
+  },
+  "original_materials": {
+    "count": 137,
+    "unchanged": true
+  },
+  "integrity": "ok",
+  "content_matches": true
+}

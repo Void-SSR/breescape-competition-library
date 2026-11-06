@@ -1,0 +1,27 @@
+{
+  "method": "从封存v1.1重放已批准人工修正，再生成CSV/统计，并由独立集合计数脚本复核；不重新阅读或自动分类评论。",
+  "generated_files_checked": 19,
+  "changed_on_replay": [],
+  "all_generated_hashes_stable": true,
+  "sha256": {
+    "02_annotations.jsonl": "a3757ebcb6c137189b0898df9801409fba7ced279d56360b21084c50c6b6e85a",
+    "01_theme_rules_v1.2.json": "e238f618ae55e686950dece79ec16d2eb7acea09573391285568ee3d5d1ee26c",
+    "01_purchase_history_rules_v1.2.json": "f76ac660d8a9950f3460bf7b07d389052eee79115e3d5504aa67f98d76f85aaa",
+    "01_主题规则表.csv": "24f5e652ae85017a2060f8102c3c9cd2489f774eed97a25442c6c47992eae764",
+    "09_v1.2_change_log.json": "359380267b09aff0ac81be34d1d2390bafd44e5de65649999bb9f242d2e04e11",
+    "09_v1.2_review_decisions.json": "222f1396ad8ef0f4953bd71828808f1b10084a6cd6eec57e30a8c33261ce1afd",
+    "09_v1.2_scope.json": "486a39e0233288f694b61f9e503480c0cf84c40e6b7afc268dd97d6aaf271b46",
+    "06_validation.json": "3bfa55844b7a981ec7e253a913e1fda3840a44beeddfdeac62be3833fa1c308b",
+    "06_独立复算核验.json": "b8854566d09d5b075b9fbd924565ee279cb5b3d8a997276bd08fd4db2e2d2f8b",
+    "09_v1.2_统计变化.json": "edf5376d734ea4218b60814e86aaa934d4122a6221c9874be11a8329da7cf0a7",
+    "09_v1.2_文字修订.diff": "c9df899ae300f8b8ad9d53cb3e1caa5869e1946e9ad48d3e314011678a52f2fb",
+    "04_逐条评论与编码.csv": "65e0f25792a340d07b83e9fe2187150078b0078ca29d7dfa0ef5eef6fbf89108",
+    "04_行为与使用情境.csv": "279fec92d6a17a003711240ef9cc8bc80e7382b4539389e88fa67541365fe2a9",
+    "04_全部证据标注.csv": "fd72cd59bdb350db03c365c32bb1cc861b8701b261d1ac619e55f145124b2bd4",
+    "04_购买线索.csv": "6ca437f44f130524e2b1061bee2a73b518ede8361328c7dfa4c04a574282324f",
+    "05_分来源主题统计.csv": "6956fd14b064aaf5eae3c1de689e4cef094d045af0cda261f18225439054790c",
+    "05_sensitivity.json": "5fbe135f2dd6376be3d5fb3b3598cb53a7260a786a324dd86b7009f65ff14e0e",
+    "05_statistics.json": "e66ec81c22a1f5f24cfddc4b32e247a80ede81833143191daecc282384cdaa62",
+    "05_behavior_counts.json": "766ad3b96c14071a72e13c15082850d0e516944dd14828dbbc0e5d170c914ef2"
+  }
+}

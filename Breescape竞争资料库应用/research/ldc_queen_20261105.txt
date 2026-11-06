@@ -1,0 +1,1157 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: 类别
+    - button:
+    - generic: 订单
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "搜索":
+  - /placeholder: women's casual 2 piece sets
+- button "搜索":
+  - generic: 搜索
+- link "优惠券中心":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "优惠券中心":
+    - generic: 优惠券中心
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- generic: ·
+- generic: 商品速览
+- generic: ID：
+- generic: "1729539387064423033"
+- button "标题翻译":
+  - generic: 标题翻译
+- button "图片下载":
+  - generic: 图片下载
+- button "视频下载":
+  - generic: 视频下载
+- button "导出评论":
+  - generic: 导出评论
+- button "AI商品分析":
+  - generic: AI商品分析
+- button "完整分析":
+  - generic: 完整分析
+- generic: 累计销量
+- generic: 14,715
+- generic: 可售库存
+- generic: 12.9k
+- generic: SKU
+- generic: 72 · 23.99美元-49.99美元
+- generic: 评分
+- generic: 4.4 · 1,675
+- generic: 反应 vs 差评
+- generic: 83.3% · 11.1%
+- list:
+  - link "TikTok商店":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok商店
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床单与枕套":
+    - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+    - generic: 床单与枕套
+  - link "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色":
+    - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033
+    - generic: LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色
+- img "白色的"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- heading "优惠券中心" [level=2]:
+  - generic: 优惠券中心
+- paragraph:
+  - generic: 领取您的专属优惠。具体条款适用。
+- generic: 可减免
+- generic: 2美元
+- generic: 优惠券
+- generic: 来自
+- generic: LDC LUX DECOR COLLECTION
+- generic: 。
+- generic: 订单金额满 $35 时可用
+- generic: 。
+- button "条款":
+  - generic: 条款
+- button "查看符合条件的商品":
+  - generic: 查看符合条件的商品
+- button "宣称":
+  - generic: 宣称
+- generic: 可减免
+- generic: 3美元
+- generic: 优惠券
+- generic: 来自
+- generic: LDC LUX DECOR COLLECTION
+- generic: 。
+- generic: 订单金额满$60 时可用
+- generic: 。
+- button "条款":
+  - generic: 条款
+- button "查看符合条件的商品":
+  - generic: 查看符合条件的商品
+- button "宣称":
+  - generic: 宣称
+- heading "运输和进口" [level=2]:
+  - generic: 运输和进口
+- link "发货和发货 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和发货" [level=3]:
+    - generic: 发货和发货
+  - generic: 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。
+- link "30天轻松免费回归 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30天轻松免费回归" [level=3]:
+    - generic: 30天轻松免费回归
+  - generic: 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。
+- link "TikTok 店铺保障 安全支付 数据隐私 退款保障 产品保障 应用内部支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok 店铺保障" [level=2]:
+    - generic: TikTok 店铺保障
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 产品保障
+  - generic: 应用内部支持
+  - generic: 轻松退货和退款
+- link "销售店铺 LDC LUX DECOR COLLECTION":
+  - /url: https://shop.tiktok.com/us/store/ldc-lux-decor-collection/7495196088353196665
+  - generic: 销售店铺 LDC LUX DECOR COLLECTION
+- heading "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色" [level=1]:
+  - generic: LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色
+- generic: "-31%"
+- generic: $
+- generic: "30"
+- generic: "99"
+- generic: $44.99
+- generic: 免费运送
+- generic: "4.4"
+- generic: （
+- generic: 1.7K
+- generic: ）
+- generic: 已售 14.7K
+- button "成交件数":
+- generic: 颜色
+- generic: ：
+- generic: 白色的
+- button "查看更多":
+  - generic: 查看更多
+- img "黑色的"
+- generic: 黑色的
+- img "灰色的"
+- generic: 灰色的
+- img "白色的"
+- generic: 白色的
+- img "浅褐色的"
+- generic: 浅褐色的
+- img "海军蓝"
+- generic: 海军蓝
+- img "紫色的"
+- generic: 紫色的
+- img "蓝色的"
+- generic: 蓝色的
+- img "圣人"
+- generic: 圣人
+- img "勃艮第"
+- generic: 勃艮第
+- img "炭"
+- generic: 炭
+- img "紫丁香"
+- generic: 紫丁香
+- img "海玻璃"
+- generic: 海玻璃
+- generic: 床品尺寸
+- generic: ：
+- generic: Queen
+- generic: 双
+- generic: 双人加大号
+- generic: 满的
+- generic: 女王
+- generic: 国王
+- generic: 卡尔·金
+- generic: 数量
+- generic: ":"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "LDC LUX 装饰系列 LDC LUX 装饰系列 LDC LUX DECOR COLLECTION 标识标志 官方店铺 4.5 793.9K 已售出 10.4万+粉丝 87% 后悔 <5小时 问题解决 76% 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/ldc-lux-decor-collection/7495196088353196665
+  - img "LDC LUX 装饰系列"
+  - generic: LDC LUX 装饰系列
+  - img "LDC LUX DECOR COLLECTION 标识标志"
+  - generic: 官方店铺
+  - generic: "4.5"
+  - generic: 793.9K
+  - generic: 已售出
+  - generic: 10.4万+
+  - generic: 粉丝
+  - generic: 87%
+  - generic: 后悔
+  - generic: <5小时
+  - generic: 问题解决
+  - generic: 76%
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 此商品的相关视频
+- generic: Creator earns commission
+- 'img "I’m telling you Lorenda’s sheets are softer than mine are!!! She’s gonna sleep good tonight!! The deep pockets are what sells it for me!!! #foryoupage #tiktokshop #bamboosheets @Lorenda Welch"'
+- generic: colesmom21
+- generic: 11.3K
+- generic: Creator earns commission
+- img "i can’t believe i’ve waited this long to get a king size bed 🫣 i love it so much"
+- generic: ☠︎︎HORRORHAILEY☠︎︎
+- generic: 4.4K
+- generic: Creator earns commission
+- 'img "Replying to @Brxbaby ♡ I have attached all the bedding items to the videos. All the bedrooms finds in this video are my favorites. I hope I was able to answer your question. #bedroomdecor #bedroomfinds #bedding #beddingsets #foruu #forup #foru #forupageシ #forup #forurpage #fypage #fypシ #CapCut"'
+- generic: M&G
+- generic: 2.1K
+- generic: Creator earns commission
+- 'img "Replying to @ginberry2175 deeeeeeeep pockets!!! These sheets are perfect!!! The price is😲😲😲😲#foryoupage #tiktokshop #bamboosheets #restockdays #tiktokrestock @Lux Decor Collection @Lorenda Welch"'
+- generic: colesmom21
+- generic: 1.6K
+- generic: Creator earns commission
+- 'img "Replying to @MrsBetsyJane y’all better get some bamboo sheets before the run out!!!#foryoupage #tiktokshop #restockdeals #flashsale #tiktokrestock #bamboosheets @Lux Decor Collection"'
+- generic: colesmom21
+- generic: 1.6K
+- generic: Creator earns commission
+- 'img "#sheets #bedding #bedsheets #tiktokshoprestock #goalcrusher #tiktokshoploveatfirstfind"'
+- generic: The Bender Fam
+- generic: 1.6K
+- generic: Creator earns commission
+- 'img "Blancas me encantan #sabanas #arruinateconmigo #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #foryoupage"'
+- generic: Cuqui la Mora
+- generic: 1.7K
+- generic: Creator earns commission
+- 'img "feels like a cloud ☁️🤍 #aestheticbedroom #cloudbedframe #cozybedding #cloudbed #hombck @HOMBCK"'
+- generic: L I L Y
+- generic: 1.5K
+- generic: Creator earns commission
+- 'img "Little home things haul 😊 #newhome #homethings #ttshophome #homeandliving #homedecor #flamelesscandle #sheets #cuttingboards #blankets"'
+- generic: Shelby Mariaa
+- generic: 1.4K
+- generic: Creator earns commission
+- 'img "Hot sleepers unite!!!! #bamboosheets #sheetset #luxdecorsheetset #bamboo #bedding #hotnatured #hotsleeper #tiktokshopcreatorpicks #tiktokshopmusthaves"'
+- generic: Susan Luckhardt
+- generic: 1.3K
+- generic: Creator earns commission
+- 'img "#bamboosheets #coolingsheets #nightsweats #tiktokshopblackfriday"'
+- generic: TLP
+- generic: 2.0K
+- generic: Creator earns commission
+- 'img "Juego de sábanas #juegodesabanas4piezas #juegodesabanasalaventa"'
+- generic: babyacostaruiz
+- generic: 1.1K
+- generic: Creator earns commission
+- 'img "If you’ve never had deep pocket sheets, it’s a game changer, bamboo sheets are so comfortble! #bamboosheets #deeppocketsheets #sheetset #softsheets"'
+- generic: 🩷🍭Bari | NOT A SAHM🦄✨
+- generic: "857"
+- generic: Creator earns commission
+- 'img "Replying to @Susan LuckhardtCORRECTION: 10,000 that was bad math 😂 butttt if you’re looking for softer sheets, the other set is the best, but COOLING COLD sheets, these are 😍👏🏼 #luxdecor #luxdecorsheetset #TikTokMadeMeBuyIt #SleepTok #HomeEssentials #CoolGirlFinds #TikTokFinds #LifeChanging #SummerMustHaves #HotSleeper #BedroomGoals #BambooSheets #CoolingSheets #SleepCool #HotSleeperHack #BambooBedding #LuxurySleep #SleepUpgrade #StayCoolAtNight #CozyBedroom #SheetsThatSlap"'
+- generic: Susan Luckhardt
+- generic: "767"
+- generic: Creator earns commission
+- 'img "So excited about these!!! #bamboosheets #tiktokshop #tiktokshopfinds #ttshop #ttsfinds #bamboosheetset"'
+- generic: Madison Paige
+- generic: "736"
+- generic: Creator earns commission
+- 'img "Bamboo sheets on sale #sheets #bedsheets #bamboo #fyp #foryou"'
+- generic: Mike 🫣
+- generic: "720"
+- generic: Creator earns commission
+- 'img "One hour pre-weekend clean up / reset!#reset #homereset #weekendrestock #resetwithme #homerestock #organizaedhome #soeedcleaning #CapCut"'
+- generic: Alexis Pressley
+- generic: "556"
+- generic: Creator earns commission
+- img "#CapCut"
+- generic: Dïmïno 🦋
+- generic: "543"
+- generic: Creator earns commission
+- 'img "It’s official every bed is wrapped in bamboo sheets 🫶🏼 #bamboosheets #sheets #bedding"'
+- generic: 𝙹𝚊𝚢𝚍𝚎 𝚕𝚊𝚞𝚛𝚎𝚗
+- generic: "530"
+- generic: Creator earns commission
+- img "These sheets are so soft and have some sort of magic in them that help you stay cool at night"
+- generic: kimberly78raern🦋🦋🦋
+- generic: "589"
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: 超柔软竹混纺面料，触感如丝般顺滑。
+- generic: •
+- generic: 凉爽透气的设计有助于调节体温。
+- generic: •
+- generic: 深口袋床笠适用于厚度达 16 英寸的床垫。
+- generic: •
+- generic: 不易褪色，且经多次洗涤仍保持柔软。
+- generic: •
+- generic: 可机洗，方便日常护理。
+- generic: 此信息由人工智能生成。
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 LDC LUX 装饰系列":
+      - cell "品牌":
+        - generic: 品牌
+      - cell "LDC LUX 装饰系列":
+        - generic: LDC LUX 装饰系列
+    - row "织造类型 缎纹，精梳棉":
+      - cell "织造类型":
+        - generic: 织造类型
+      - cell "缎纹，精梳棉":
+        - generic: 缎纹，精梳棉
+    - row "包含组件 枕套、床单、床笠":
+      - cell "包含组件":
+        - generic: 包含组件
+      - cell "枕套、床单、床笠":
+        - generic: 枕套、床单、床笠
+    - row "闭合类型 信封、拉链、松紧带":
+      - cell "闭合类型":
+        - generic: 闭合类型
+      - cell "信封、拉链、松紧带":
+        - generic: 信封、拉链、松紧带
+    - row "编织 平织":
+      - cell "编织":
+        - generic: 编织
+      - cell "平织":
+        - generic: 平织
+    - row "床单和枕套类型 放":
+      - cell "床单和枕套类型":
+        - generic: 床单和枕套类型
+      - cell "放":
+        - generic: 放
+- generic: 查看更多
+- generic: 商品描述
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- generic: Lux Decor 竹混纺凉感床单套装
+- generic: 这款超柔软的竹纤维混纺床单专为怕热人士设计，让您睡得更凉爽舒适。
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- generic: 特点：
+- generic: •
+- generic: 材质：
+- generic: 竹混纺
+- generic: •
+- generic: 柔软度：
+- generic: 超柔软面料，触感如丝般顺滑。
+- generic: •
+- generic: 凉爽透气：
+- generic: 促进空气流通，帮助调节温度，带来凉爽清爽的睡眠体验。
+- generic: •
+- generic: 舒适：
+- generic: 酒店级舒适体验，专为日常奢华而设计。
+- generic: •
+- generic: 耐用：
+- generic: 不易褪色，经久耐用，多次洗涤后依然柔软。
+- generic: •
+- generic: 深口袋设计：
+- generic: 适用于厚度达 16 英寸的床垫，确保稳固贴合。
+- generic: •
+- generic: 易于护理：
+- generic: 可机洗，方便打理。
+- generic: • 表面：
+- generic: 光滑抗皱
+- generic: 。
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- generic: •
+- generic: 方面：
+- generic: 单人床：床单尺寸 66x96 英寸 | 床笠尺寸 39x75 英寸 | 枕套尺寸 20x30 英寸
+- generic: 加大单人床：床单尺寸 66x102 英寸 | 床笠尺寸 39x80 英寸 | 枕套尺寸 20x30 英寸
+- generic: 全尺寸：床单 81x96 英寸 | 床笠 54x75 英寸 | 枕套 20x30 英寸
+- generic: 皇后尺寸：床单 90x102 英寸 | 床笠 60x80 英寸 | 枕套 20x30 英寸
+- generic: 特大号：床单尺寸 105x102 英寸 | 床笠尺寸 78x80 英寸 | 枕套尺寸 20x40 英寸
+- generic: 加州特大号：床单尺寸 108x102 英寸 | 床笠尺寸 72x84 英寸 | 枕套尺寸 20x40 英寸
+- generic: 包装内含：
+- generic: 单人床和单人加大床：1 张床单，1 张床笠，1 个枕套
+- generic: ；双人床、大号双人床、特大号双人床和加州特大号双人床：1 张床单，1 张床笠，2 个枕套。
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- img "LDC LUX DECOR COLLECTION 多尺寸竹纤维床单套装 - 3-4 件套柔软透气床单，16 英寸深口袋设计，深口袋贴合床垫，带来凉爽舒适的酒店级睡眠体验，适合怕热人士，可机洗，不易褪色"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: Lux Decor 竹纤维混纺凉感床单，触感柔滑细腻，透气性极佳，专为舒适睡眠而设计。这款床品套装专为怕热人士打造，有助于促进空气流通，让您享受更凉爽、更清爽的睡眠。它拥有酒店级的舒适体验，适合日常使用，同时还具有抗皱和防褪色等优点。床笠可完美贴合厚度达 16 英寸的床垫，确保稳固贴合。易于打理，可机洗，让日常维护轻松便捷。这款床品套装提供多种尺寸选择，包括单人床、单人加大床、双人床、大号双人床、特大号双人床和加州特大号双人床，是您用柔软凉爽的床单和简洁精致的外观焕新卧室的理想之选。
+- generic: 此信息由人工智能生成。
+- generic: 常见问题
+- generic: •
+- generic: 答：这些床单是什么材质的？产品描述中说，床单是由竹纤维混纺面料制成的。
+- generic: •
+- generic: 这些床单是专为怕热的人设计的吗？答：是的。它们主打凉爽透气，旨在帮助怕热的人保持舒适。
+- generic: •
+- generic: 床笠有多深？答：床笠的设计适用于厚度不超过16英寸的床垫。
+- generic: •
+- generic: 有哪些尺寸可供选择？答：该套装提供单人床、单人加大床、双人床、大号双人床、特大号双人床和加州特大号双人床尺寸。
+- generic: •
+- generic: 套装包含哪些物品？答：单人床和单人加大床套装包含1张床单、1张床笠和1个枕套。双人床、大号双人床、特大号双人床和加州特大号双人床套装包含1张床单、1张床笠和2个枕套。
+- generic: •
+- generic: 答：这些床单应该如何保养？ 可机洗，方便打理。
+- generic: 此信息由人工智能生成。
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Lux Decor Collection Inc
+- generic: •
+- generic: 公司地址：美国德克萨斯州
+- generic: 店铺评价
+- button:
+- img "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set"
+- link "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-lux-decor-6-pc-microfiber-queen-fitted-pillowcases/1729405875146363513
+  - heading "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 231.1K 已售出
+- generic: "-28%"
+- text: $20
+- generic: ".99"
+- text: $28.99
+- img "l**e"
+- generic: Great color for my queen size pillow topped mattress with a mattress topper. There was still a few inches of space. The sheets are very soft. I washed them first no sign of defect. Great buy for the quality.
+- generic: ...
+- button "查看更多"
+- img "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases"
+- link "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-ldc-lux-decor-collection-microfiber-queen-6-pcs-with-16-deep-pockets/1729436372927025785
+  - heading "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 25.5K 已售出
+- generic: "-26%"
+- text: $24
+- generic: ".99"
+- text: $33.99
+- img "b**s"
+- generic: Deep pockets. Fits perfectly. Love the color. 4 pillowcases is awesome 🤩 Washed before use and they are still just as soft
+- generic: ...
+- button "查看更多"
+- img "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts"
+- link "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-ldc-lux-decor-4-pc-brushed-microfiber-deep-pocket/1729404881321693817
+  - heading "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 24.4K 已售出
+- generic: "-41%"
+- text: $16
+- generic: ".51"
+- text: $27.99
+- img "J**n W**❌"
+- generic: "Soft and comfortable washes well. They have deep side pockets for mattress’s so it doesn’t pop off when rolling over we’ll order again! Color: Deep Gray. Shape and size: King. Comfort: Soft."
+- generic: ...
+- button "查看更多"
+- img "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh"
+- link "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheet-set-by-ldc-lux-decor-collection-4-pcs-queen-microfiber-floral/1729445212463796857
+  - heading "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 55.4K 已售出
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- img "l** c**a"
+- generic: Tiene un color precioso, es amplio y las fundas son bordadas .me encanta el juego de sábanas gracias....
+- generic: ...
+- button "查看更多"
+- 'img "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)"'
+- 'link "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)"':
+  - /url: https://shop.tiktok.com/us/pdp/paisley-bed-sheets-set-by-ldc-lux-decor-king-16-inch-deep-pocket/1729590946068730489
+  - 'heading "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)" [level=3]'
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 17.5K 已售出
+- generic: "-33%"
+- text: $27
+- generic: ".46"
+- text: $40.99
+- generic: Mepedi este fuego de cubre cama esta muy bonito es una tela suave fresquita para la calor esde buena tela nose arruga esta super linda me encantó
+- generic: ...
+- button "查看更多"
+- img "LDC Lux Decor Collection 4pc Satin Bed Sheets Set - 1 Flat, 1 Fitted, 2 Pillowcases, 16\" Deep Fit, Silk-Smooth, Cooling, Breathable All-Season Bedding Sets, Wrinkle-Resistant, Crease-Resist, Smooth Satin Helps Reduce Friction"
+- link "LDC Lux Decor Collection 4pc Satin Bed Sheets Set - 1 Flat, 1 Fitted, 2 Pillowcases, 16\" Deep Fit, Silk-Smooth, Cooling, Breathable All-Season Bedding Sets, Wrinkle-Resistant, Crease-Resist, Smooth Satin Helps Reduce Friction":
+  - /url: https://shop.tiktok.com/us/pdp/lux-decor-4pc-satin-sheet-set-ultra-soft-breathable/1731461756208452217
+  - heading "LDC Lux Decor Collection 4pc Satin Bed Sheets Set - 1 Flat, 1 Fitted, 2 Pillowcases, 16\" Deep Fit, Silk-Smooth, Cooling, Breathable All-Season Bedding Sets, Wrinkle-Resistant, Crease-Resist, Smooth Satin Helps Reduce Friction" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 1.5K 已售出
+- generic: "-40%"
+- text: $17
+- generic: ".99"
+- text: $30.00
+- img "c**🦭"
+- generic: super silky and soft! nice and cooling! very sheer, but looked really nice with my bedding! arrived super fast!
+- generic: ...
+- button "查看更多"
+- img "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift"
+- link "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-ldc-lux-decor-collection-6-pcs-king-microfiber/1729404875856253561
+  - heading "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 34.0K 已售出
+- generic: "-39%"
+- text: $19
+- generic: ".99"
+- text: $32.99
+- img "N**z"
+- generic: Fast shipping, safely arrived,fabric soft & good color,but ensure to wash first before use because too many particel fabric fall off from the sheet so its sticky to you bed/skin. But the product really recommended! Thanks seller.
+- generic: ...
+- button "查看更多"
+- img "LDC LUX DECOR COLLECTION 4-Pc Quatrefoil, Floral & Paisley Decorative Bedding Set - Multi-Size, 16\" Deep Fit Sheets with Pillowcases - Polyester, Wrinkle-Free, Breathe Easy, Cooling Hotel Luxury Summer Gift"
+- link "LDC LUX DECOR COLLECTION 4-Pc Quatrefoil, Floral & Paisley Decorative Bedding Set - Multi-Size, 16\" Deep Fit Sheets with Pillowcases - Polyester, Wrinkle-Free, Breathe Easy, Cooling Hotel Luxury Summer Gift":
+  - /url: https://shop.tiktok.com/us/pdp/bedding-set-by-lux-decor-quatrefoil-floral-4-pc-deep-pocket-microfiber/1729405349984113273
+  - heading "LDC LUX DECOR COLLECTION 4-Pc Quatrefoil, Floral & Paisley Decorative Bedding Set - Multi-Size, 16\" Deep Fit Sheets with Pillowcases - Polyester, Wrinkle-Free, Breathe Easy, Cooling Hotel Luxury Summer Gift" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 9.2K 已售出
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- img "🇵**🇺"
+- generic: LOVE THEM LOVE THEM🫶🏼🫶🏼🥰 Will definitely buy more colors, soooo soft. I’m one happy customer 🫶🏼🫶🏼SORRY ABOUT THE MESSY BED 🫣 did not feel like making my bed 👏🏼👏🏼😂
+- generic: ...
+- button "查看更多"
+- img "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors"
+- link "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors":
+  - /url: https://shop.tiktok.com/us/pdp/bathtub-mat-by-ldc-lux-decor-non-slip-pvc-40-x-16-inches-water-absorbent/1729398431965811321
+  - heading "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 34.4K 已售出
+- text: $14
+- generic: ".99"
+- img "k** S**💚"
+- generic: It's a good mat & Great price! It's not too big for my tube & it's not too small, like just pair of feet standing, ya knw. I chose the blue. It's a see-through blue. While showering🚿, u don't slip. It has a gd grip to it but it's NOT rough like it's gonna exfoliate bottom of ur feet. I'd buy again
+- generic: ...
+- button "查看更多"
+- img "LDC LUX DECOR COLLECTION 10-Pc Reversible Bed Comforter Set - Super Fluffy Cloth Crinkle Texture Duvet Insert, Breathable Seersucker Polyester Bedding, Zipper Closure, All Season Hotel Quality, Machine Washable (Queen, King Options), Bed Comforter Sets, S"
+- link "LDC LUX DECOR COLLECTION 10-Pc Reversible Bed Comforter Set - Super Fluffy Cloth Crinkle Texture Duvet Insert, Breathable Seersucker Polyester Bedding, Zipper Closure, All Season Hotel Quality, Machine Washable (Queen, King Options), Bed Comforter Sets, S":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-by-ldc-lux-decor-10-pc-all-season-down-alternative-bedding/1729429182660776569
+  - heading "LDC LUX DECOR COLLECTION 10-Pc Reversible Bed Comforter Set - Super Fluffy Cloth Crinkle Texture Duvet Insert, Breathable Seersucker Polyester Bedding, Zipper Closure, All Season Hotel Quality, Machine Washable (Queen, King Options), Bed Comforter Sets, S" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 1.9K 已售出
+- text: $55
+- generic: ".84"
+- img "S**1"
+- generic: La cobija es gruesa, tiene sábanas para la cama, esquinero, la cuadrada, tiene un forro por si tienes base 4 funda para las almohadas dos cojines pequeño y la cobija grande está increíble de verdad
+- generic: ...
+- button "查看更多"
+- generic: "4.4"
+- generic: 1675 条全球评价
+- generic: "5"
+- generic: "1216"
+- generic: "4"
+- generic: "180"
+- generic: "3"
+- generic: "93"
+- generic: "2"
+- generic: "44"
+- generic: "1"
+- generic: "142"
+- generic: 评价中的照片
+- button "查看全部照片":
+  - generic: 查看全部照片
+- button:
+- img "查看图片 0"
+- generic "O** L**e":
+  - generic: O** L**e
+- img "评分：4星（满分5星）":
+- img "查看图片 1"
+- generic "O** L**e":
+  - generic: O** L**e
+- img "评分：4星（满分5星）":
+- img "查看图片 2"
+- generic "O** L**e":
+  - generic: O** L**e
+- img "评分：4星（满分5星）":
+- img "查看图片 3"
+- generic "S** H**n":
+  - generic: S** H**n
+- img "评分：5星（满分5星）":
+- img "查看图片 4"
+- generic "S** H**n":
+  - generic: S** H**n
+- img "评分：5星（满分5星）":
+- img "查看图片 5"
+- generic "S** H**n":
+  - generic: S** H**n
+- img "评分：5星（满分5星）":
+- img "查看图片 6"
+- generic "B**💖":
+  - generic: B**💖
+- img "评分：5星（满分5星）":
+- img "查看图片 7"
+- generic "B**💖":
+  - generic: B**💖
+- img "评分：5星（满分5星）":
+- img "查看图片 8"
+- generic "** ￴**":
+  - generic: "** ￴**"
+- img "评分：5星（满分5星）":
+- img "查看图片 9"
+- generic "** ￴**":
+  - generic: "** ￴**"
+- img "评分：5星（满分5星）":
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示1675条评价（共1675条）
+- generic: 重置筛选条件
+- generic: O** L**e
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：4星（满分5星）":
+- generic: 轻薄透气，床单和枕套都很薄。透气性不错，但感觉质量还可以更好一些，特别是缝线部分。我很喜欢这套搭配，虽然毯子不是同一款，但我同时从另一家店买了一条，感觉很舒服。
+- generic: 商品
+- generic: ：
+- generic: 格雷，女王
+- generic: 2026-07-21
+- generic: S** H**n
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 我太喜欢我的床单了！它们超级柔软，而且一点也不皱。我用手轻轻一抚，就跟熨烫过一样平整。触感真的太棒了！跟纯棉或者棉混纺的床单完全不一样。它摸起来很顺滑，又不会像丝绸那样滑来滑去。我强烈推荐！
+- generic: 商品
+- generic: ：
+- generic: 海军蓝，国王
+- generic: 2025-10-11
+- generic: B**💖
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 我觉得萨巴纳斯是一个令人着迷的、温柔的、温柔的人，在萨巴纳斯的身边，我对拉斯萨巴纳斯的朋友很着迷。
+- generic: 商品
+- generic: ：
+- generic: 白王
+- generic: 2026-06-30
+- generic: "** ￴**"
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 说实话，这床单真不错！而且发货也很快。我不太确定竹纤维的含量，所以就试了一下，结果发现它们不是100%竹纤维的，哈哈。是35%竹纤维和65%涤纶。不过我可以说它们真的很舒服！正好可以搭配我从亚马逊买的凉感枕头！
+- generic: 商品
+- generic: ：
+- generic: 黑色，双胞胎
+- generic: 2026-05-05
+- generic: g**4
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：1 星（满分 5 星）":
+- generic: 这张床单看起来像是用过的，皱巴巴的，可能是退货的。
+- generic: 商品
+- generic: ：
+- generic: 鼠尾草色，Twin XL
+- generic: 2025-08-17
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "335"
+- generic: 下一步
+- generic: 探索LDC LUX DECOR COLLECTION的更多商品
+- button:
+- img "LDC LUX DECOR COLLECTION Room Darkening Curtains (2 Panels) - Grommet Drapery Style, Low Iron Elegant Fabric, Wrinkle Resistant, Thermal Insulated, Soundproof, Heavy-Duty Home Goods - Curtains for Bedroom, House Decor"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Room Darkening Curtains (2 Panels) - Grommet Drapery Style, Low Iron Elegant Fabric, Wrinkle Resistant, Thermal Insulated, Soundproof, Heavy-Duty Home Goods - Curtains for Bedroom, House Decor":
+  - /url: https://shop.tiktok.com/us/pdp/blackout-curtains-by-ldc-lux-decor-collection-thermal-insulated-grommet-drapes/1729406887810404985
+  - heading "LDC LUX DECOR COLLECTION Room Darkening Curtains (2 Panels) - Grommet Drapery Style, Low Iron Elegant Fabric, Wrinkle Resistant, Thermal Insulated, Soundproof, Heavy-Duty Home Goods - Curtains for Bedroom, House Decor" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 17.2K 已售出
+- generic: Limited time deal
+- generic: "-14%"
+- text: $22
+- generic: ".35"
+- text: $25.99
+- button:
+- img "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-ldc-lux-decor-reversible-microfiber-all-season-bedding/1729406666096480889
+  - heading "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 23.2K 已售出
+- generic: Limited time deal
+- generic: "-22%"
+- text: $24
+- generic: ".99"
+- text: $31.99
+- button:
+- img "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-ldc-lux-decor-collection-microfiber-queen-6-pcs-with-16-deep-pockets/1729436372927025785
+  - heading "LDC LUX DECOR COLLECTION Decorative Bedding Set - 6-Pc Paisley & Solid Hotel Quality Bed Sheets, Fade-Resistant, Cool & Breathable, Wrinkle-Resistant, Hypoallergenic, Antimicrobial, 16\" Deep Pocket Queen/King Sheets & Pillowcases" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 25.5K 已售出
+- generic: Limited time deal
+- generic: "-26%"
+- text: $24
+- generic: ".99"
+- text: $33.99
+- button:
+- img "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)":
+  - /url: https://shop.tiktok.com/us/pdp/solid-bed-sheets-by-ldc-lux-decor-4-pc-brushed-microfiber-set/1729590912873370233
+  - heading "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 192.9K 已售出
+- generic: Limited time deal
+- generic: "-21%"
+- text: $18
+- generic: ".99"
+- text: $23.99
+- button:
+- img "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors":
+  - /url: https://shop.tiktok.com/us/pdp/bathtub-mat-by-ldc-lux-decor-non-slip-pvc-40-x-16-inches-water-absorbent/1729398431965811321
+  - heading "LUX Décor Non-Slip Bathtub Mat – Extra Large 40x16 Inches, Anti-Slip Shower Mat with Suction Cups & Drain Holes – Machine Washable – Available in Multiple Colors" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 34.4K 已售出
+- text: $14
+- generic: ".99"
+- button:
+- img "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-ldc-lux-decor-collection-6-pcs-king-microfiber/1729404875856253561
+  - heading "LDC Lux Decor Collection 6-Pc Solid Crochet Embroidered Decorative Bedsheet Set - 16\" Deep Pocket, Eco-Friendly, Breathable Sheets, Fade Resistant, Hotel Luxury Bedding Set, Machine Wash Easy Care for Queen/King/Cal King Summer Home Goods Gift" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 34.0K 已售出
+- generic: Limited time deal
+- generic: "-39%"
+- text: $19
+- generic: ".99"
+- text: $32.99
+- button:
+- img "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-ldc-lux-decor-4-pc-brushed-microfiber-deep-pocket/1729404881321693817
+  - heading "Lux Decor 4 Pc Striped Bed Sheets Set - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Breathable & Cooling Bedding Set with Pillowcases - Fade & Stain Resistant Bedding Accessories - Bedding Supplies - All Season Bed Sheet Sets - Summer Gifts" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 24.4K 已售出
+- generic: Limited time deal
+- generic: "-41%"
+- text: $16
+- generic: ".51"
+- text: $27.99
+- button:
+- 'img "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)"'
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- 'link "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)"':
+  - /url: https://shop.tiktok.com/us/pdp/paisley-bed-sheets-set-by-ldc-lux-decor-king-16-inch-deep-pocket/1729590946068730489
+  - 'heading "LDC LUX DECOR COLLECTION Paisley Print Bed Sheet Sets, 4-Piece & 6-Piece, 100% Polyester Bedding Set, Hotel-Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle Resistant, Fade Resistant, 6 Sizes & Various Colors Available (Twin & Twin XL: 3 or 4 PC)" [level=3]'
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 17.5K 已售出
+- generic: "-33%"
+- text: $27
+- generic: ".46"
+- text: $40.99
+- button:
+- img "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheet-set-by-ldc-lux-decor-collection-4-pcs-queen-microfiber-floral/1729445212463796857
+  - heading "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 55.4K 已售出
+- generic: Limited time deal
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- button:
+- img "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-lux-decor-6-pc-microfiber-queen-fitted-pillowcases/1729405875146363513
+  - heading "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 231.1K 已售出
+- generic: Limited time deal
+- generic: "-28%"
+- text: $20
+- generic: ".99"
+- text: $28.99
+- button:
+- generic: 你可能也喜欢
+- img "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-bedsure-7-piece-queen-pintuck-ultra-soft-multi-color-bedding/1729434299173409014
+  - heading "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 142.8K 已售出
+- generic: "-49%"
+- text: $81
+- generic: ".99"
+- text: $161.99
+- button:
+- img "CGK | DeepFit Fitted Sheet ONLY – Extra Deep Pocket, Pocket Ultra-Soft Microfiber, Wrinkle-Free, Fits Up to 24\" Mattress (SINGLE SHEET) Soft Comfy Bedding"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | DeepFit Fitted Sheet ONLY – Extra Deep Pocket, Pocket Ultra-Soft Microfiber, Wrinkle-Free, Fits Up to 24\" Mattress (SINGLE SHEET) Soft Comfy Bedding":
+  - /url: https://shop.tiktok.com/us/pdp/fitted-deep-pocket-sheet-by-cgk-linens-fits-18-24-inch-mattresses/1729433847537832652
+  - heading "CGK | DeepFit Fitted Sheet ONLY – Extra Deep Pocket, Pocket Ultra-Soft Microfiber, Wrinkle-Free, Fits Up to 24\" Mattress (SINGLE SHEET) Soft Comfy Bedding" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 44.4K 已售出
+- generic: Limited time deal
+- text: $25
+- generic: ".99"
+- button:
+- img "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-cgk-linens-soft-striped-microfiber-with-deep-pockets/1729433847815639756
+  - heading "CGK | Printed 4-Piece Stripe Sheet Set – Soft Microfiber Bedding, Deep Pocket, Wrinkle-Free, Cooling, Chic Design Bedsheet Sets" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 10.5K 已售出
+- generic: Limited time deal
+- text: $38
+- generic: ".99"
+- button:
+- img "CGK | DeepFit Sheet Set – Extra Deep Pocket Sheet Set, Easily Fits 18-24 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | DeepFit Sheet Set – Extra Deep Pocket Sheet Set, Easily Fits 18-24 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric":
+  - /url: https://shop.tiktok.com/us/pdp/deep-pocket-microfiber-sheet-set-by-cgk-linens-for-18-24-inch-mattresses/1729433846424048332
+  - heading "CGK | DeepFit Sheet Set – Extra Deep Pocket Sheet Set, Easily Fits 18-24 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 9.4K 已售出
+- generic: Limited time deal
+- text: $39
+- generic: ".99"
+- button:
+- img "CGK | Bloom Collection Sheet Set – Ultra Soft with Deep Pockets, Wrinkle-Free, Stylish Flower Prints Bed Linens"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Bloom Collection Sheet Set – Ultra Soft with Deep Pockets, Wrinkle-Free, Stylish Flower Prints Bed Linens":
+  - /url: https://shop.tiktok.com/us/pdp/floral-sheet-set-by-cgk-linens-deep-pocket-microfiber-for-comfort/1730657233263694540
+  - heading "CGK | Bloom Collection Sheet Set – Ultra Soft with Deep Pockets, Wrinkle-Free, Stylish Flower Prints Bed Linens" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 2.9K 已售出
+- generic: Limited time deal
+- text: $42
+- generic: ".89"
+- button:
+- img "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-pintuck-comforter-set-7-piece-queen-soft-multi-color-design/1730936115309678838
+  - heading "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 7.5K 已售出
+- generic: Limited time deal
+- text: $36
+- generic: ".39"
+- button:
+- img "CGK | Soft Essentials Sheet Set – 4 Piece Sheet Set, Easily Fits 8-16 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Soft Essentials Sheet Set – 4 Piece Sheet Set, Easily Fits 8-16 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-cgk-linens-soft-cooling-microfiber-deep-pocket-luxury/1729430902407074508
+  - heading "CGK | Soft Essentials Sheet Set – 4 Piece Sheet Set, Easily Fits 8-16 Inch Mattresses - Ultra Soft Wrinkle & Fade Resistant Fabric" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 8.2K 已售出
+- text: $40
+- generic: ".00"
+- button:
+- img "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable"
+- generic: Free shipping
+- link "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheet-set-by-madison-park-6-piece-luxurious-bedding-fits-16-mattress/1729419709331181905
+  - heading "Satin Bedsheet Sets - 6-Piece Solid Color Satin Bedding Set (Cal King, 1 Flat Sheet, 1 Fitted Sheet, 4 Pillowcases), 90g Flat Weave, Soft, Skin-Friendly, Wrinkle Resistant, Luxurious Natural Sheen, Silky Glide on Skin, Hair-Protecting, Machine Washable" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 143.8K 已售出
+- generic: Flash sale
+- generic: 07:20:20
+- generic: "-45%"
+- text: $29
+- generic: ".99"
+- text: $54.53
+- button:
+- img "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable"
+- generic: Mellow Sleep
+- link "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/double-stuffed-ultra-soft-comforter-oeko-tex-certified/1732017379984117841
+  - heading "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 171.9K 已售出
+- generic: Limited time deal
+- generic: "-49%"
+- text: $106
+- generic: ".98"
+- text: $210.00
+- button:
+- img "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)"
+- generic: Free shipping
+- link "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)":
+  - /url: https://shop.tiktok.com/us/pdp/mellanni-iconic-4-pc-bed-sheets-set-soft-breathable-cooling/1729408552029229334
+  - heading "Mellanni 4-Pc Iconic Bedding Set - Premium Double-Brushed Microfiber Sheets, 16\" Deep Pocket Fitted Sheet, Cooling, Soft, Skin-Friendly, Breathable Durable Bedding, Stain Resistant, Machine Washable (Multiple Queen Sizes Available)" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 27.1K 已售出
+- text: $70
+- generic: ".16"
+- button:
+- img "California King Antimicrobial Microfiber Bed Cover Set - 2 Standard Shams, 1 Oblong Pillow, 1 Square Pillow, Silver Metallic Modern Geometric Embroidery, Hypoallergenic Fill, Wrinkle-Resistant, Machine Wash, All Seasons Bedding Collection"
+- generic: Free shipping
+- link "California King Antimicrobial Microfiber Bed Cover Set - 2 Standard Shams, 1 Oblong Pillow, 1 Square Pillow, Silver Metallic Modern Geometric Embroidery, Hypoallergenic Fill, Wrinkle-Resistant, Machine Wash, All Seasons Bedding Collection":
+  - /url: https://shop.tiktok.com/us/pdp/raina-comforter-set-by-intelligent-design-aqua-metallic-geometric-print/1729428288410587473
+  - heading "California King Antimicrobial Microfiber Bed Cover Set - 2 Standard Shams, 1 Oblong Pillow, 1 Square Pillow, Silver Metallic Modern Geometric Embroidery, Hypoallergenic Fill, Wrinkle-Resistant, Machine Wash, All Seasons Bedding Collection" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.5K 已售出
+- generic: Flash sale
+- generic: 07:20:20
+- text: $74
+- generic: ".99"
+- button:
+- img "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)":
+  - /url: https://shop.tiktok.com/us/pdp/solid-bed-sheets-by-ldc-lux-decor-4-pc-brushed-microfiber-set/1729590912873370233
+  - heading "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 192.9K 已售出
+- generic: Limited time deal
+- generic: "-21%"
+- text: $18
+- generic: ".99"
+- text: $23.99
+- button:
+- img "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheets-set-by-lux-decor-6-pc-microfiber-queen-fitted-pillowcases/1729405875146363513
+  - heading "LUX DECOR 6-Pc Paisley Sheets & Solid Embroidered Bedsheet Set- Queen Sheets & Pillowcases - Upto 16\" Deep Pocket Hotel Luxury Sheets Comfy Cozy all Season bedsheet - Decorative Bedsheet Set" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 231.1K 已售出
+- generic: Limited time deal
+- generic: "-28%"
+- text: $20
+- generic: ".99"
+- text: $28.99
+- button:
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- link "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-luxclub-6pc-deep-pocket-eco-friendly-silky-soft-wrinkle-free/1729385256317981042
+  - heading "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 141.0K 已售出
+- text: $57
+- generic: ".98"
+- button:
+- img "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-king-size-cooling-sheets-set-soft-breathable/1732297575939412214
+  - heading "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 4.2K 已售出
+- text: $106
+- generic: ".99"
+- button:
+- img "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces"
+- generic: Free shipping
+- link "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces":
+  - /url: https://shop.tiktok.com/us/pdp/extra-deep-sheet-set-by-mellanni-4-pc-iconic-collection-21-pocket/1729408567901393174
+  - heading "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.7K 已售出
+- text: $90
+- generic: ".96"
+- button:
+- img "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033
+  - heading "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 14.7K 已售出
+- generic: Limited time deal
+- generic: "-27%"
+- text: $23
+- generic: ".99"
+- text: $32.99
+- button:
+- img "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheet-set-by-ldc-lux-decor-collection-4-pcs-queen-microfiber-floral/1729445212463796857
+  - heading "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 55.4K 已售出
+- generic: Limited time deal
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- button:
+- img "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-ldc-lux-decor-reversible-microfiber-all-season-bedding/1729406666096480889
+  - heading "Lux Decor All Season Quilted 1pc Comforter, Box Stitching Down Alternative Duvet Insert, Machine Washable, Oeko TEX Certified, Available in 6 Colors Gentle Soft Down Alternative Bedding Blanket with Corner Tabs" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 23.2K 已售出
+- generic: Limited time deal
+- generic: "-22%"
+- text: $24
+- generic: ".99"
+- text: $31.99
+- button:
+- img "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-bamboo-sheets-set-3-piece-hypoallergenic-cooling/1729917395976425779
+  - heading "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 17.9K 已售出
+- generic: Limited time deal
+- text: $110
+- generic: ".49"
+- button:
+- img "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding":
+  - /url: https://shop.tiktok.com/us/pdp/satin-sheets-by-decolure-twin-set-hypoallergenic-soft-durable/1729917202458054963
+  - heading "DECOLURE Satin Bed Sheet Set 4 Pc 6 Pc 1Pc - Silky Fitted Sheet, Hypoallergenic, Double Stitched, Wrinkle-Free, 15\" Deep Pockets, Elastic Edges for Secure Fit, Luxuriously Soft Bedding" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 6.3K 已售出
+- generic: Limited time deal
+- text: $32
+- generic: ".00"
+- button:
+- img "【Black Friday early bird sale】Bedsure Checkered Farmhouse Shabby Chic Comforter Set ,Boho Tufted Bed Set, King Size Bedding, 3 Pieces, 1 Plaid Geometric Comforter and 2 Pillow Shams,Jacquard Design Soft Breathable Lightweight All-Season Filling OEKO-TEX C"
+- generic: Free shipping
+- link "【Black Friday early bird sale】Bedsure Checkered Farmhouse Shabby Chic Comforter Set ,Boho Tufted Bed Set, King Size Bedding, 3 Pieces, 1 Plaid Geometric Comforter and 2 Pillow Shams,Jacquard Design Soft Breathable Lightweight All-Season Filling OEKO-TEX C":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-king-size-comforter-set-soft-cozy-machine-washable/1731581268302533093
+  - heading "【Black Friday early bird sale】Bedsure Checkered Farmhouse Shabby Chic Comforter Set ,Boho Tufted Bed Set, King Size Bedding, 3 Pieces, 1 Plaid Geometric Comforter and 2 Pillow Shams,Jacquard Design Soft Breathable Lightweight All-Season Filling OEKO-TEX C" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 32.3K 已售出
+- generic: Limited time deal
+- generic: "-38%"
+- text: $48
+- generic: ".01"
+- text: $77.99
+- button:
+- generic: 相关搜索
+- link "20cm bamboo bedding sheet":
+  - /url: https://shop.tiktok.com/us/k/20cm-bamboo-bedding-sheet
+- link "Lux club bamboo bed sheets":
+  - /url: https://shop.tiktok.com/us/k/lux-club-bamboo-bed-sheets
+- link "bamboo sheet sets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-sheet-sets
+- link "best bamboo bed sheets":
+  - /url: https://shop.tiktok.com/us/k/best-bamboo-bed-sheets
+- link "brushed cotton deep fitted sheets":
+  - /url: https://shop.tiktok.com/us/k/brushed-cotton-deep-fitted-sheets
+- link "bamboo sheets queen deep pocket":
+  - /url: https://shop.tiktok.com/us/k/bamboo-sheets-queen-deep-pocket
+- link "bamboo bed sheets":
+  - /url: https://shop.tiktok.com/us/k/bamboo-bed-sheets
+- link "hotel quality bed linen":
+  - /url: https://shop.tiktok.com/us/k/hotel-quality-bed-linen
+- link "bamboo sheet set 6 piece":
+  - /url: https://shop.tiktok.com/us/k/bamboo-sheet-set-6-piece
+- link "egyptian cotton bed sheets":
+  - /url: https://shop.tiktok.com/us/k/egyptian-cotton-bed-sheets
+- link "brushed cotton deep fitted sheet double":
+  - /url: https://shop.tiktok.com/us/k/brushed-cotton-deep-fitted-sheet-double
+- link "bamboo queen fitted sheet only":
+  - /url: https://shop.tiktok.com/us/k/bamboo-queen-fitted-sheet-only
+- link "bambo fitted king sheet":
+  - /url: https://shop.tiktok.com/us/k/bambo-fitted-king-sheet
+- link "brushed cotton fitted sheet":
+  - /url: https://shop.tiktok.com/us/k/brushed-cotton-fitted-sheet
+- button:

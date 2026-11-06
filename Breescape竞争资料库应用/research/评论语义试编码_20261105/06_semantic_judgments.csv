@@ -1,0 +1,242 @@
+﻿review_id,platform_review_id,source_group,rating,date,dimension,code,label,valence,quote,quote_start,quote_end,subject,primary_count_eligible,count_exclusion_reason,qualifier,count_unit_key,version
+3,7700767746358871821,main_recent,5,2026-11-04,themes,T07,尺寸／深度适配,positive,Perfect size,0,12,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,3|T07|positive,0.2
+3,7700767746358871821,main_recent,5,2026-11-04,themes,T01,柔软／粗糙／僵硬,positive,so soft,17,24,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,3|T01|positive,0.2
+3,7700767746358871821,main_recent,5,2026-11-04,themes,T23,配送时效,positive,fast shipping,26,39,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,3|T23|positive,0.2
+3,7700767746358871821,main_recent,5,2026-11-04,behaviors,repeat_intent,,not_applicable,will order again,41,57,see_context,False,非具体主题计数项,,,0.2
+15,7703337078377203469,main_recent,5,2026-11-03,themes,T22,发货规格准确性,negative,Ordered a queen and got a twin size,0,35,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,15|T22|negative,0.2
+15,7703337078377203469,main_recent,5,2026-11-03,themes,G01,一般质量感受,uncertain,amazing quality.,36,52,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,15|G01|uncertain,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,themes,G03,一般耐用／保持情况,positive,The last set I bought 6 months ago has held up so well.,83,138,explicit_prior_target_set_or_variant,False,先前套组/颜色单列；不混为当前款认可,消费者自述；不是独立性能或事实验证,28|G03|positive,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,themes,T11,起球,positive,No pilling!,139,150,explicit_prior_target_set_or_variant,False,先前套组/颜色单列；不混为当前款认可,消费者自述；不是独立性能或事实验证,28|T11|positive,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,themes,T01,柔软／粗糙／僵硬,positive,The sheets are so soft,151,173,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,28|T01|positive,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,themes,G01,一般质量感受,positive,the quality is excellent,178,202,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,28|G01|positive,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,themes,T03,凉感／温度体验,positive,The cooling feature is legitimate.,204,238,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,28|T03|positive,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,motives,color_repeat_motive,明确再次购买理由,not_applicable,I came back for another color for winter.,41,82,see_context,False,非具体主题计数项, 既往套组耐用及不起球另留，不自动计作本次购买款体验。,,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,behaviors,repeat_actual,,not_applicable,This is my 2nd purchase of these sheets.,0,40,see_context,False,非具体主题计数项, 既往套组耐用及不起球另留，不自动计作本次购买款体验。,,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,behaviors,household_replace_intent,,not_applicable,I will be replacing all of the sheet sets in my house with these.,239,304,see_context,False,非具体主题计数项, 既往套组耐用及不起球另留，不自动计作本次购买款体验。,,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,contexts,prior_target_set,,not_applicable,The last set I bought 6 months ago,83,117,see_context,False,非具体主题计数项, 既往套组耐用及不起球另留，不自动计作本次购买款体验。,,0.2
+28,7703775579224475405,main_recent,5,2026-11-03,contexts,season,,not_applicable,for winter,71,81,see_context,False,非具体主题计数项, 既往套组耐用及不起球另留，不自动计作本次购买款体验。,,0.2
+48,7703365496313825038,main_recent,2,2026-11-02,themes,G01,一般质量感受,negative,Low quality,20,31,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,48|G01|negative,0.2
+48,7703365496313825038,main_recent,2,2026-11-02,themes,T01,柔软／粗糙／僵硬,negative,very rough to touch.,36,56,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,48|T01|negative,0.2
+82,7702830618270517006,main_recent,5,2026-10-31,themes,G02,一般舒适感受,positive,The material is pure comfort and luxury.,41,81,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,82|G02|positive,0.2
+82,7702830618270517006,main_recent,5,2026-10-31,themes,T03,凉感／温度体验,negative,I wouldn’t say they are cooling per se,82,120,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,82|T03|negative,0.2
+82,7702830618270517006,main_recent,5,2026-10-31,themes,T01,柔软／粗糙／僵硬,positive,they are incredibly soft,126,150,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,82|T01|positive,0.2
+82,7702830618270517006,main_recent,5,2026-10-31,behaviors,repeat_intent,,not_applicable,We will totally be purchasing more.,153,188,see_context,False,非具体主题计数项,,,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,themes,T07,尺寸／深度适配,positive,Fit our bed great,0,17,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,123|T07|positive,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,themes,G05,一般外观评价,positive,looks nice,22,32,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,123|G05|positive,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,themes,T03,凉感／温度体验,negative,there isn't any cooling effect to them.,38,77,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,123|T03|negative,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,themes,T03,凉感／温度体验,negative,we have been both waking up hot.,86,118,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,123|T03|negative,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,themes,T01,柔软／粗糙／僵硬,negative,Not as soft as I thought they would be.,119,158,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,123|T01|negative,0.2
+123,7702047348075202318,main_recent,3,2026-10-29,contexts,night_use,,not_applicable,waking up hot,104,117,see_context,False,非具体主题计数项,,,0.2
+127,7701965974647654158,main_recent,3,2026-10-29,themes,T01,柔软／粗糙／僵硬,negative,they aren’t as soft as my other sets of bamboo sheets.,28,82,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,127|T01|negative,0.2
+127,7701965974647654158,main_recent,3,2026-10-29,themes,T28,相对价格水平,positive,WAY CHEAPER THO!!,83,100,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,127|T28|positive,0.2
+127,7701965974647654158,main_recent,3,2026-10-29,behaviors,return_in_progress,,not_applicable,I’m returning these,0,19,see_context,False,非具体主题计数项,,,0.2
+127,7701965974647654158,main_recent,3,2026-10-29,contexts,competitor_comparison,,not_applicable,my other sets of bamboo sheets,51,81,see_context,False,非具体主题计数项,,,0.2
+128,7701903740124301069,main_recent,4,2026-10-29,themes,T01,柔软／粗糙／僵硬,positive,they are somewhat soft,87,109,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,128|T01|positive,0.2
+128,7701903740124301069,main_recent,4,2026-10-29,themes,T01,柔软／粗糙／僵硬,negative,they are somewhat soft but not like advertised.,87,134,current_or_general_target,True,,实际有些柔软，但低于广告预期；同主题可正负并存,128|T01|negative,0.2
+128,7701903740124301069,main_recent,4,2026-10-29,contexts,washed_before_use,,not_applicable,washed the sheets before use,57,85,see_context,False,非具体主题计数项,,,0.2
+128,7701903740124301069,main_recent,4,2026-10-29,noncoded,not_inferred,,not_applicable,I’m crossing my fingers that they don’t peel.,135,180,see_context,False,非具体主题计数项,只是未来担忧，未发生；peel也不能直接等同起球。,,0.2
+147,7701619628195415822,main_recent,5,2026-10-28,themes,T04,透气体验,positive,Nice an airy,0,12,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,147|T04|positive,0.2
+147,7701619628195415822,main_recent,5,2026-10-28,themes,T03,凉感／温度体验,positive,keeps you cool,13,27,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,147|T03|positive,0.2
+147,7701619628195415822,main_recent,5,2026-10-28,themes,G02,一般舒适感受,positive,comfy,31,36,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,147|G02|positive,0.2
+202,7700766983515719437,main_recent,1,2026-10-26,themes,T21,到货清洁／新旧状态,negative,"looked like someone bought the sheets, didn't like the sheets, repackaged them and returned them.",21,118,current_or_general_target,True,,疑似使用/重新包装；未经独立核实,202|T21|negative,0.2
+202,7700766983515719437,main_recent,1,2026-10-26,behaviors,return_requested,,not_applicable,I am requesting a return,120,144,see_context,False,非具体主题计数项,这是对到货状态的怀疑，不证明卖家实际寄送二手货。,,0.2
+202,7700766983515719437,main_recent,1,2026-10-26,contexts,not_used,,not_applicable,I won't sleep.in something that looks like they have been slept on by someone else.,153,236,see_context,False,非具体主题计数项,这是对到货状态的怀疑，不证明卖家实际寄送二手货。,,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,T01,柔软／粗糙／僵硬,positive,incredibly soft,20,35,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,221|T01|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,G02,一般舒适感受,positive,cozy,40,44,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,221|G02|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,T08,固定性／滑脱,positive,the fitted sheet actually stays on our thick Tempur-Pedic mattress without constantly popping off the corners!,81,191,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,221|T08|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,T05,轻重,positive,They’re lightweight,195,214,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,221|T05|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,T04,透气体验,positive,breathable,216,226,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,221|T04|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,themes,T03,凉感／温度体验,positive,keep us cool throughout the night without getting too hot.,232,290,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,221|T03|positive,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,behaviors,repeat_actual,,not_applicable,we actually went back and ordered a SECOND set!,318,365,see_context,False,非具体主题计数项,,,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,behaviors,replace_old_intent,,not_applicable,We’ll officially be tossing out our old sheets and replacing them with these!,369,446,see_context,False,非具体主题计数项,,,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,contexts,thick_mattress,,not_applicable,thick Tempur-Pedic mattress,120,147,see_context,False,非具体主题计数项,,,0.2
+221,7700351197425108750,main_recent,5,2026-10-24,contexts,night_use,,not_applicable,throughout the night,245,265,see_context,False,非具体主题计数项,,,0.2
+233,7700033881659098894,main_recent,1,2026-10-24,themes,T01,柔软／粗糙／僵硬,negative,Not soft,0,8,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,233|T01|negative,0.2
+233,7700033881659098894,main_recent,1,2026-10-24,themes,G01,一般质量感受,negative,very cheap feeling,13,31,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,233|G01|negative,0.2
+238,7699968910183253773,main_recent,4,2026-10-23,themes,T08,固定性／滑脱,negative,They slip off a bit,0,19,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,238|T08|negative,0.2
+238,7699968910183253773,main_recent,4,2026-10-23,contexts,competitor_comparison,,not_applicable,the last set of pottery barn sheets,42,77,see_context,False,非具体主题计数项,相对旧床单改善，但仍会滑脱。,,0.2
+238,7699968910183253773,main_recent,4,2026-10-23,contexts,relative_improvement,,not_applicable,nothing wild like the last set of pottery barn sheets did,24,81,see_context,False,非具体主题计数项,相对旧床单改善，但仍会滑脱。,,0.2
+263,7699579251957860109,main_recent,5,2026-10-22,themes,T01,柔软／粗糙／僵硬,positive,Soft,0,4,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,263|T01|positive,0.2
+277,7699332721671341838,main_recent,2,2026-10-22,themes,T07,尺寸／深度适配,positive,They fit,0,8,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,277|T07|positive,0.2
+277,7699332721671341838,main_recent,2,2026-10-22,themes,T06,厚薄,negative,but are very thin.,9,27,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,277|T06|negative,0.2
+296,7699182740861781773,main_recent,3,2026-10-21,themes,T05,轻重,neutral,Very light weight.,0,18,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,296|T05|neutral,0.2
+296,7699182740861781773,main_recent,3,2026-10-21,contexts,not_used,,not_applicable,I haven’t had the chance to use them yet.,19,60,see_context,False,非具体主题计数项,仅描述重量且未使用，未明示轻薄是优点或缺点。,,0.2
+320,7698640821360330510,main_recent,5,2026-10-20,themes,G02,一般舒适感受,positive,Super comfy,0,11,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,320|G02|positive,0.2
+320,7698640821360330510,main_recent,5,2026-10-20,themes,T03,凉感／温度体验,positive,pillow cases are amazing great at keeping the cool,12,62,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,320|T03|positive,0.2
+320,7698640821360330510,main_recent,5,2026-10-20,contexts,component_pillowcase,,not_applicable,pillow cases,12,24,see_context,False,非具体主题计数项,,,0.2
+375,7697813854377494285,main_recent,3,2026-10-18,themes,T03,凉感／温度体验,negative,They don’t seem to be any cooler than another sheets.,21,74,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,375|T03|negative,0.2
+375,7697813854377494285,main_recent,3,2026-10-18,contexts,unspecified_comparison,,not_applicable,another sheets,59,73,see_context,False,非具体主题计数项,不比其他床单更凉，不等于实测升温。,,0.2
+423,7696951785820260110,main_recent,1,2026-10-15,themes,T02,顺滑／丝滑,negative,Nor silky,0,9,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,423|T02|negative,0.2
+423,7696951785820260110,main_recent,1,2026-10-15,themes,T01,柔软／粗糙／僵硬,negative,nor soft,10,18,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,423|T01|negative,0.2
+462,7696347296239781646,main_recent,4,2026-10-14,themes,T29,价格与所得价值,positive,for the price they are very nice sheets.,17,57,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,462|T29|positive,0.2
+462,7696347296239781646,main_recent,4,2026-10-14,contexts,composition_uncertain,,not_applicable,I'm not sure the bamboo content,58,89,see_context,False,非具体主题计数项,不知道竹含量不等于不满成分。,,0.2
+462,7696347296239781646,main_recent,4,2026-10-14,noncoded,not_inferred,,not_applicable,I'm not sure the bamboo content,58,89,see_context,False,非具体主题计数项,未表达不满，不编码材料预期落差。,,0.2
+477,7696137949748479757,main_recent,2,2026-10-13,themes,T01,柔软／粗糙／僵硬,positive,Super soft,0,10,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,477|T01|positive,0.2
+477,7696137949748479757,main_recent,2,2026-10-13,themes,T07,尺寸／深度适配,negative,don’t fit matresss very well,12,40,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,477|T07|negative,0.2
+477,7696137949748479757,main_recent,2,2026-10-13,themes,T03,凉感／温度体验,negative,definitely not cooling.,45,68,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,477|T03|negative,0.2
+477,7696137949748479757,main_recent,2,2026-10-13,contexts,claim_gap,,not_applicable,False advertising,114,131,see_context,False,非具体主题计数项,,,0.2
+477,7696137949748479757,main_recent,2,2026-10-13,noncoded,not_inferred,,not_applicable,But what did I really expect for the price.,69,112,see_context,False,非具体主题计数项,自嘲/反讽方向不确定，不计低价认可或价值满意。,,0.2
+564,7694860952000546574,main_recent,5,2026-10-10,themes,G02,一般舒适感受,positive,Cozy,0,4,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,564|G02|positive,0.2
+564,7694860952000546574,main_recent,5,2026-10-10,themes,T21,到货清洁／新旧状态,positive,clean.,7,13,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,564|T21|positive,0.2
+564,7694860952000546574,main_recent,5,2026-10-10,themes,T20,气味,positive,Right out of the box it smelled good.,14,51,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,564|T20|positive,0.2
+564,7694860952000546574,main_recent,5,2026-10-10,behaviors,repeat_intent,,not_applicable,I would definitely buy again.,52,81,see_context,False,非具体主题计数项,,,0.2
+564,7694860952000546574,main_recent,5,2026-10-10,contexts,unboxing,,not_applicable,Right out of the box,14,34,see_context,False,非具体主题计数项,,,0.2
+590,7694434334833461005,main_recent,1,2026-10-08,themes,T01,柔软／粗糙／僵硬,negative,"Material is not soft, it’s kind of stiff",0,40,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,590|T01|negative,0.2
+590,7694434334833461005,main_recent,1,2026-10-08,themes,G02,一般舒适感受,negative,not comfortable,45,60,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,590|G02|negative,0.2
+590,7694434334833461005,main_recent,1,2026-10-08,themes,T03,凉感／温度体验,negative,the sheets are not cooling at all.,66,100,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,590|T03|negative,0.2
+637,7693624665247483662,main_recent,3,2026-10-06,themes,G02,一般舒适感受,positive,Comfortable,0,11,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,637|G02|positive,0.2
+637,7693624665247483662,main_recent,3,2026-10-06,themes,T09,颜色喜好／搭配,positive,the color is great,17,35,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,637|T09|positive,0.2
+637,7693624665247483662,main_recent,3,2026-10-06,themes,T01,柔软／粗糙／僵硬,negative,not quite as soft as I,38,60,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,637|T01|negative,0.2
+640,7693574059104896782,main_recent,5,2026-10-06,themes,T01,柔软／粗糙／僵硬,positive,These are the softest sheets I’ve ever owned.,0,45,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,640|T01|positive,0.2
+640,7693574059104896782,main_recent,5,2026-10-06,themes,G01,一般质量感受,positive,Quality is amazing!!,72,92,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,640|G01|positive,0.2
+640,7693574059104896782,main_recent,5,2026-10-06,behaviors,multiple_sets_timing_unknown,,not_applicable,I have bought 3 sets now.,46,71,see_context,False,非具体主题计数项,,,0.2
+640,7693574059104896782,main_recent,5,2026-10-06,noncoded,not_inferred,,not_applicable,I have bought 3 sets now.,46,71,see_context,False,非具体主题计数项,已购买多套，不知道是否同单或重复购买；不计确定复购。,,0.2
+641,7693573873489266445,main_recent,5,2026-10-06,themes,T01,柔软／粗糙／僵硬,positive,These are the softest sheets I’ve ever owned.,0,45,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,641|T01|positive,0.2
+641,7693573873489266445,main_recent,5,2026-10-06,themes,G01,一般质量感受,positive,Quality is amazing!,128,147,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,641|G01|positive,0.2
+641,7693573873489266445,main_recent,5,2026-10-06,behaviors,multiple_sets_timing_unknown,,not_applicable,I now have 3 sets,46,63,see_context,False,非具体主题计数项,,,0.2
+641,7693573873489266445,main_recent,5,2026-10-06,behaviors,family_purchase,,not_applicable,bought one for my daughter as well!!,68,104,see_context,False,非具体主题计数项,,,0.2
+641,7693573873489266445,main_recent,5,2026-10-06,noncoded,not_inferred,,not_applicable,bought one for my daughter as well!!,68,104,see_context,False,非具体主题计数项,为家人购买不等于送礼，也不知道是否同单。,,0.2
+665,7693155954208048910,main_recent,4,2026-10-05,themes,T01,柔软／粗糙／僵硬,positive,Buttery soft!!,0,14,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,665|T01|positive,0.2
+719,7692268304833726221,main_recent,5,2026-10-03,themes,T01,柔软／粗糙／僵硬,positive,Very soft,0,9,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,719|T01|positive,0.2
+719,7692268304833726221,main_recent,5,2026-10-03,themes,T10,颜色与展示一致,positive,Exactly like what is shown,69,95,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,719|T10|positive,0.2
+719,7692268304833726221,main_recent,5,2026-10-03,behaviors,multiple_colors_timing_unknown,,not_applicable,We got the dark green and dark blue color.,26,68,see_context,False,非具体主题计数项,,,0.2
+774,7691499948805981983,main_recent,2,2026-10-01,themes,T03,凉感／温度体验,negative,Not cooling,0,11,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,774|T03|negative,0.2
+774,7691499948805981983,main_recent,2,2026-10-01,themes,T08,固定性／滑脱,negative,keep falling off on corners.,17,45,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,774|T08|negative,0.2
+831,7690744598776301326,main_recent,2,2026-09-29,themes,T18,材料说明／预期落差,negative,material not what description said,18,52,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,831|T18|negative,0.2
+851,7690402536598259470,main_recent,4,2026-09-28,themes,G02,一般舒适感受,positive,Feels awesome.,0,14,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,851|G02|positive,0.2
+851,7690402536598259470,main_recent,4,2026-09-28,themes,T29,价格与所得价值,positive,Great sheets for the cost!,15,41,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,851|T29|positive,0.2
+851,7690402536598259470,main_recent,4,2026-09-28,themes,T03,凉感／温度体验,positive,Nice and cool in warm weather.,42,72,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,851|T03|positive,0.2
+851,7690402536598259470,main_recent,4,2026-09-28,themes,T10,颜色与展示一致,negative,the color doesn’t match the picture. Much darker in person than the photo.,93,167,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,851|T10|negative,0.2
+851,7690402536598259470,main_recent,4,2026-09-28,contexts,warm_weather,,not_applicable,in warm weather,56,71,see_context,False,非具体主题计数项,,,0.2
+857,7690312613473879822,main_recent,1,2026-09-27,themes,G01,一般质量感受,negative,it feels so cheap!,0,18,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,857|G01|negative,0.2
+857,7690312613473879822,main_recent,1,2026-09-27,themes,T18,材料说明／预期落差,negative,i thought it would be like mostly bamboo and something else like cotton but NOOOOOO it was with microfiber.,19,126,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,857|T18|negative,0.2
+857,7690312613473879822,main_recent,1,2026-09-27,themes,T03,凉感／温度体验,negative,it sucks in heat and stays HOT,180,210,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,857|T03|negative,0.2
+857,7690312613473879822,main_recent,1,2026-09-27,themes,G02,一般舒适感受,negative,feels so disgusting to sleep on.,216,248,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,857|G02|negative,0.2
+857,7690312613473879822,main_recent,1,2026-09-27,motives,composition_expectation,期待，未证明选择原因,not_applicable,i thought it would be like mostly bamboo and something else like cotton,19,90,see_context,False,非具体主题计数项,消费者预期和材料认知，不是实际成分检测；也未明确说此预期导致选择购买。,,0.2
+859,7690311103508203278,main_recent,1,2026-09-27,themes,T01,柔软／粗糙／僵硬,negative,Material feels rough,0,20,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,859|T01|negative,0.2
+859,7690311103508203278,main_recent,1,2026-09-27,themes,T08,固定性／滑脱,negative,sheets don’t stay tight. Pulling off the corners after just one night.,22,92,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,859|T08|negative,0.2
+859,7690311103508203278,main_recent,1,2026-09-27,contexts,first_night,,not_applicable,after just one night,71,91,see_context,False,非具体主题计数项,,,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,G03,一般耐用／保持情况,positive,they’ve held up beautifully.,142,170,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,866|G03|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,T01,柔软／粗糙／僵硬,positive,They’re soft,172,184,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,866|T01|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,G02,一般舒适感受,positive,comfortable,189,200,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,866|G02|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,G01,一般质量感受,positive,without feeling flimsy,201,223,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,866|G01|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,G04,一般洗护评价,positive,wash well,225,234,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,866|G04|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,T07,尺寸／深度适配,positive,They fit the mattress properly,277,307,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,866|T07|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,T08,固定性／滑脱,positive,stay in place,309,322,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,866|T08|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,themes,T12,褶皱,positive,"don’t turn into a wrinkled, tangled mess overnight.",328,379,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,866|T12|positive,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,behaviors,repeat_intent,,not_applicable,Definitely a set we would purchase again.,575,616,see_context,False,非具体主题计数项,比较曾用床单不等于本品牌再次购买。,,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,contexts,repeated_use,,not_applicable,after repeated use,257,275,see_context,False,非具体主题计数项,比较曾用床单不等于本品牌再次购买。,,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,contexts,washing,,not_applicable,wash well,225,234,see_context,False,非具体主题计数项,比较曾用床单不等于本品牌再次购买。,,0.2
+866,7690233669950539534,main_recent,5,2026-09-27,noncoded,not_inferred,,not_applicable,We’ve bought plenty of sheets over the years,383,427,see_context,False,非具体主题计数项,未指明这些既往购买是本品牌，不计本产品复购。,,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,themes,T10,颜色与展示一致,negative,noticeably different color,26,52,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,874|T10|negative,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,themes,G06,未细分的展示触感落差,negative,Product arrived and was a noticeably different color and texture than image showed.,0,83,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,874|G06|negative,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,themes,T18,材料说明／预期落差,negative,Marketed as bamboo sheets but is a polyester blend.,84,135,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,874|T18|negative,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,themes,T03,凉感／温度体验,negative,Little to no cooling effect.,136,164,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,874|T03|negative,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,themes,T26,改评要求相关自述,negative,they tried bribing me to leave a 5 star review in exchange for not having to return the sheets.,229,324,current_or_general_target,True,,消费者对改评要求的指控，未经独立核实,874|T26|negative,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,behaviors,return_requested,,not_applicable,asking to return product for a refund,191,228,see_context,False,非具体主题计数项,卖家改评指控未经独立核实，不把评论指控写成商家已实施事实。,,0.2
+874,7689998087384860430,main_recent,3,2026-09-27,contexts,unverified_allegation,,not_applicable,they tried bribing me,229,250,see_context,False,非具体主题计数项,卖家改评指控未经独立核实，不把评论指控写成商家已实施事实。,,0.2
+883,7689902398492116749,main_recent,5,2026-09-26,themes,G02,一般舒适感受,positive,Comfortable material,0,20,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,883|G02|positive,0.2
+883,7689902398492116749,main_recent,5,2026-09-26,themes,T01,柔软／粗糙／僵硬,positive,soft,21,25,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,883|T01|positive,0.2
+883,7689902398492116749,main_recent,5,2026-09-26,contexts,night_use,,not_applicable,feel good at night,28,46,see_context,False,非具体主题计数项,,,0.2
+916,7689464296824325902,main_recent,3,2026-09-25,themes,T03,凉感／温度体验,negative,These sheets are not cooling at all!,0,36,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,916|T03|negative,0.2
+916,7689464296824325902,main_recent,3,2026-09-25,themes,T03,凉感／温度体验,negative,the moment I layed down on these I started sweating!,47,99,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,916|T03|negative,0.2
+916,7689464296824325902,main_recent,3,2026-09-25,behaviors,repeat_reject,,not_applicable,Will not be purchasing these again at all!,120,162,see_context,False,非具体主题计数项,,,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,themes,T03,凉感／温度体验,negative,they have no cooling or temperature regulation to them.,191,246,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,971|T03|negative,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,themes,T03,凉感／温度体验,negative,They actually keep me hotter.,247,276,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,971|T03|negative,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,motives,cooling_reason,明确购买理由,not_applicable,I purchased these bamboo sheets because they are “supposed to be cooling and temperature regulating”.,0,101,see_context,False,非具体主题计数项,,,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,behaviors,reduce_use_intent,,not_applicable,will not be using very often in my rotation.,344,388,see_context,False,非具体主题计数项,,,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,contexts,washed_before_use,,not_applicable,I washed them first as recommended.,102,137,see_context,False,非具体主题计数项,,,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,contexts,three_days_use,,not_applicable,Have been using them for 3 days now,138,173,see_context,False,非具体主题计数项,,,0.2
+971,7683852500130416414,extra_one_star,1,2026-09-10,contexts,competitor_comparison,,not_applicable,performance cotton sheets,294,319,see_context,False,非具体主题计数项,,,0.2
+987,7682808744709146382,extra_one_star,1,2026-09-07,themes,G02,一般舒适感受,neutral,"not the most comfortable, but also not the least.",19,68,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,987|G02|neutral,0.2
+987,7682808744709146382,extra_one_star,1,2026-09-07,themes,T03,凉感／温度体验,negative,they were supposed to be cooling sheets and they are not.,103,160,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,987|T03|negative,0.2
+987,7682808744709146382,extra_one_star,1,2026-09-07,themes,T29,价格与所得价值,neutral,"For the price, you can flip a coin whether to pick these up or go to a retail store.",247,331,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,987|T29|neutral,0.2
+987,7682808744709146382,extra_one_star,1,2026-09-07,motives,cooling_reason,明确购买理由,not_applicable,they were bought because they were supposed to be cooling sheets,78,142,see_context,False,非具体主题计数项,,,0.2
+987,7682808744709146382,extra_one_star,1,2026-09-07,contexts,competitor_comparison,,not_applicable,a set of regular sheets you can get from Walmart,197,245,see_context,False,非具体主题计数项,,,0.2
+1016,7679472552540079885,extra_one_star,1,2026-08-29,themes,M01,材料词或类比，态度未明,uncertain,Like cotton,0,11,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,1016|M01|uncertain,0.2
+1082,7673572045808060174,extra_one_star,1,2026-08-13,themes,M01,材料词或类比，态度未明,uncertain,polyester,0,9,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,1082|M01|uncertain,0.2
+1111,7671278918049056525,extra_one_star,1,2026-08-07,themes,G02,一般舒适感受,neutral,Feels okay,0,10,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,1111|G02|neutral,0.2
+1111,7671278918049056525,extra_one_star,1,2026-08-07,themes,T03,凉感／温度体验,negative,these sheets are not cooling. They do not keep us cool.,16,71,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1111|T03|negative,0.2
+1142,7669139437352011533,extra_one_star,1,2026-08-01,themes,T12,褶皱,negative,It is not wrinkle free.,0,23,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1142|T12|negative,0.2
+1142,7669139437352011533,extra_one_star,1,2026-08-01,themes,T13,破裂／开线,negative,the fabric is already tearing at tge seams.,86,129,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1142|T13|negative,0.2
+1142,7669139437352011533,extra_one_star,1,2026-08-01,contexts,first_wash,,not_applicable,after our first wash in room temperature as recommended,29,84,see_context,False,非具体主题计数项,,,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,themes,T20,气味,negative,it smelled like cigarette smoke intensely.,64,106,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1245|T20|negative,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,themes,T19,宣称文字一致／缺失,negative,"The shop description says cooling sheets, but on the boxes it says nothing about cooling sheets.",107,203,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1245|T19|negative,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,behaviors,gift_intended,,not_applicable,This is supposed to be a birthday gift for my son,204,253,see_context,False,非具体主题计数项,仅包装没有凉感文字，不能编码实际不凉或已完成退货。,,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,behaviors,return_conditional,,not_applicable,"if they are not cooling, I will be returning them.",255,305,see_context,False,非具体主题计数项,仅包装没有凉感文字，不能编码实际不凉或已完成退货。,,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,contexts,not_used,,not_applicable,Haven’t even used them,306,328,see_context,False,非具体主题计数项,仅包装没有凉感文字，不能编码实际不凉或已完成退货。,,0.2
+1245,7662879174764381965,extra_one_star,1,2026-07-15,noncoded,not_inferred,,not_applicable,"if they are not cooling, I will be returning them.",255,305,see_context,False,非具体主题计数项,条件性退货意愿，不计实际凉感失败或已退货。,,0.2
+1282,7661102427101660941,extra_one_star,1,2026-07-11,themes,T01,柔软／粗糙／僵硬,negative,I touched them and they are not soft at all.,97,141,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1282|T01|negative,0.2
+1282,7661102427101660941,extra_one_star,1,2026-07-11,contexts,unboxing_touch,,not_applicable,I didn’t even have to unfold these,61,95,see_context,False,非具体主题计数项,,,0.2
+1282,7661102427101660941,extra_one_star,1,2026-07-11,contexts,competitor_comparison,,not_applicable,bamboo sheets that I’ve had in the past.,175,215,see_context,False,非具体主题计数项,,,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,themes,T01,柔软／粗糙／僵硬,negative,these are very scratchy,134,157,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1284|T01|negative,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,themes,T01,柔软／粗糙／僵硬,positive,"the light purple ones that I bought, which were very buttery soft.",170,236,explicit_prior_target_set_or_variant,False,先前套组/颜色单列；不混为当前款认可,消费者自述；不是独立性能或事实验证,1284|T01|positive,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,themes,T17,同款不同规格体验一致性,negative,the texture and feel of them are not the same at all.,63,116,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1284|T17|negative,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,behaviors,repeat_reported_prior_and_current,,not_applicable,I have ordered these exact same sheets in the light purple,0,58,see_context,False,非具体主题计数项,同款既往购买与当前体验共同支持；非订单记录验证,,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,contexts,prior_target_variant,,not_applicable,the light purple ones that I bought,170,205,see_context,False,非具体主题计数项,正向柔软针对先前同款颜色，当前款为负向。 主表只计当前款粗糙；先前同款柔软另留以便敏感性检查。,,0.2
+1284,7661081439496144653,extra_one_star,1,2026-07-11,contexts,washing,,not_applicable,I even washed them to see if that would help and unfortunately it did not,237,310,see_context,False,非具体主题计数项,正向柔软针对先前同款颜色，当前款为负向。 主表只计当前款粗糙；先前同款柔软另留以便敏感性检查。,,0.2
+1289,7660944969327003405,extra_one_star,1,2026-07-10,themes,T18,材料说明／预期落差,negative,"Everywhere on the packaging it says bamboo sheets everywhere on the ad. It says bamboo sheets after I complained. I got an email showing that if you scroll down three pages, it says that there’s 60% 40%.",86,289,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1289|T18|negative,0.2
+1289,7660944969327003405,extra_one_star,1,2026-07-10,contexts,not_sleep_used,,not_applicable,Didn’t even take them out of the package when I felt the material.,19,85,see_context,False,非具体主题计数项,没有明确柔软/粗糙描述，不把一般材料不满硬判成粗糙。,,0.2
+1289,7660944969327003405,extra_one_star,1,2026-07-10,noncoded,not_inferred,,not_applicable,Didn’t even take them out of the package when I felt the material.,19,85,see_context,False,非具体主题计数项,未具体说粗糙/不软，不填具体触感主题。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T07,尺寸／深度适配,positive,They fit ok,139,150,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1331|T07|positive,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T15,伸长／变形,neutral,stretch out like most sheets over a period of days.,156,207,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,1331|T15|neutral,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T04,透气体验,negative,They are not at all breathable,259,289,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1331|T04|negative,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T03,凉感／温度体验,negative,"They are not at all breathable, or cooling.",259,302,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1331|T03|negative,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T16,黏附皮肤,negative,My husband feels like he sticks to them.,303,343,reported_partner_target_experience,True,,消费者自述；不是独立性能或事实验证,1331|T16|negative,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T09,颜色喜好／搭配,positive,I really love the color.,371,395,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1331|T09|positive,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,themes,T26,改评要求相关自述,negative,the seller messaged me asking to change my review in exchange for a 5% discount.,449,529,current_or_general_target,True,,消费者对改评要求的指控，未经独立核实,1331|T26|negative,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,motives,cooling_expectation,期待，未证明选择原因,not_applicable,"I am quite a warm sleeper, so I was looking forward to the “cooling” effect of these sheets.",46,138,see_context,False,非具体主题计数项,同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,contexts,warm_sleeper,,not_applicable,I am quite a warm sleeper,46,71,see_context,False,非具体主题计数项,同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,contexts,reported_partner,,not_applicable,My husband feels,303,319,see_context,False,非具体主题计数项,同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,contexts,rating_update,,not_applicable,Changing my review to 1 star,412,440,see_context,False,非具体主题计数项,同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,contexts,unverified_allegation,,not_applicable,the seller messaged me asking to change my review,449,498,see_context,False,非具体主题计数项,同一条更新后的评论计一次；期待有明确背景，不等于唯一购买原因。,,0.2
+1331,7657926297188697870,extra_one_star,1,2026-07-04,noncoded,not_inferred,,not_applicable,They feel like microfiber sheets.,225,258,see_context,False,非具体主题计数项,材料触感类比，不作为实际成分比例或成分造假证据。,,0.2
+1389,7655687890072930061,extra_one_star,1,2026-06-26,themes,T07,尺寸／深度适配,negative,Doesn't fit my normal queen size bed at all.,0,44,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1389|T07|negative,0.2
+1389,7655687890072930061,extra_one_star,1,2026-06-26,motives,promotion_trigger,明确购买触发,not_applicable,finally saw they went on sale and jumped on them,89,137,see_context,False,非具体主题计数项,标签为Queen而不合床，不归为明确错发Twin；未核实实物尺寸。,,0.2
+1389,7655687890072930061,extra_one_star,1,2026-06-26,contexts,queen_mattress,,not_applicable,normal queen size bed,15,36,see_context,False,非具体主题计数项,标签为Queen而不合床，不归为明确错发Twin；未核实实物尺寸。,,0.2
+1389,7655687890072930061,extra_one_star,1,2026-06-26,contexts,purchase_wait,,not_applicable,Ive been waiting to buy these for 6 months,45,87,see_context,False,非具体主题计数项,标签为Queen而不合床，不归为明确错发Twin；未核实实物尺寸。,,0.2
+1389,7655687890072930061,extra_one_star,1,2026-06-26,noncoded,not_inferred,,not_applicable,even the label size queen on the box and sheet,232,278,see_context,False,非具体主题计数项,描述尺寸适配失败，不据此认定发错Twin。,,0.2
+1404,7647196767955601166,extra_one_star,1,2026-06-24,themes,T08,固定性／滑脱,negative,the sheets DO NOT stay on my bed!,17,50,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1404|T08|negative,0.2
+1409,7654767055166359309,extra_one_star,1,2026-06-24,themes,T01,柔软／粗糙／僵硬,negative,These are scratchy,119,137,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1409|T01|negative,0.2
+1409,7654767055166359309,extra_one_star,1,2026-06-24,themes,G02,一般舒适感受,negative,very uncomfortable to sleep on.,139,170,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,1409|G02|negative,0.2
+1409,7654767055166359309,extra_one_star,1,2026-06-24,themes,T03,凉感／温度体验,uncertain,"they are cooling and soft. 
+That is not the case.",69,118,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,1409|T03|uncertain,0.2
+1409,7654767055166359309,extra_one_star,1,2026-06-24,motives,video_expectation,内容形成期待，未证明该视频促成订单,not_applicable,Was excited about these sheets after watching videos and seeing that they are cooling and soft.,0,95,see_context,False,非具体主题计数项,视频形成软凉期待明确；That is not the case总体否定，凉感是否单独被否定留歧义。,,0.2
+1412,7654575950282917646,extra_one_star,1,2026-06-23,themes,T03,凉感／温度体验,negative,Nothing cool,32,44,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1412|T03|negative,0.2
+1412,7654575950282917646,extra_one_star,1,2026-06-23,themes,T01,柔软／粗糙／僵硬,negative,Nothing cool or soft about it,32,61,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1412|T01|negative,0.2
+1546,7648937470243161869,extra_one_star,1,2026-06-08,themes,T01,柔软／粗糙／僵硬,positive,Soft? Yes.,70,80,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1546|T01|positive,0.2
+1546,7648937470243161869,extra_one_star,1,2026-06-08,themes,T03,凉感／温度体验,negative,Cooling? Absolutely not.,82,106,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1546|T03|negative,0.2
+1546,7648937470243161869,extra_one_star,1,2026-06-08,contexts,prior_cooling_product,,not_applicable,I’ve had true cooling sheets,0,28,see_context,False,非具体主题计数项,,,0.2
+1568,7647282781026027278,extra_one_star,1,2026-06-03,themes,T06,厚薄,negative,These sheets are very thin,26,52,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1568|T06|negative,0.2
+1568,7647282781026027278,extra_one_star,1,2026-06-03,themes,T01,柔软／粗糙／僵硬,negative,kind of scratchy material.,54,80,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1568|T01|negative,0.2
+1568,7647282781026027278,extra_one_star,1,2026-06-03,contexts,washing,,not_applicable,I followed the washing instructions provided to me,81,131,see_context,False,非具体主题计数项,洗涤后仍不满意，不足以认定洗涤造成粗糙或薄。,,0.2
+1618,,recommended,5,2026-05-05,themes,T07,尺寸／深度适配,positive,Both sides are long enough to cover thick mattress with fitted.,34,97,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1618|T07|positive,0.2
+1618,,recommended,5,2026-05-05,themes,T09,颜色喜好／搭配,positive,The color is gorgeous!,167,189,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1618|T09|positive,0.2
+1618,,recommended,5,2026-05-05,motives,cooling_reason,明确购买理由,not_applicable,I bought to keep cool.,11,33,see_context,False,非具体主题计数项,只写为凉感而买，没有报告实际凉感效果。,,0.2
+1618,,recommended,5,2026-05-05,motives,review_influence,明确评价影响购买,not_applicable,I bought them because of reviews saying that the sheets are cooling.,98,166,see_context,False,非具体主题计数项,只写为凉感而买，没有报告实际凉感效果。,,0.2
+1618,,recommended,5,2026-05-05,behaviors,additional_sizes_intent,,not_applicable,I’m going to buy some twin sets!,190,222,see_context,False,非具体主题计数项,只写为凉感而买，没有报告实际凉感效果。,,0.2
+1618,,recommended,5,2026-05-05,contexts,thick_mattress,,not_applicable,thick mattress,70,84,see_context,False,非具体主题计数项,只写为凉感而买，没有报告实际凉感效果。,,0.2
+1618,,recommended,5,2026-05-05,noncoded,not_inferred,,not_applicable,I bought them because of reviews saying that the sheets are cooling.,98,166,see_context,False,非具体主题计数项,评价影响选择明确，实际凉感未报告；不计实际凉感认可。,,0.2
+1619,,recommended,1,2026-04-27,themes,T13,破裂／开线,negative,My sheets ripped after washing them,39,74,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1619|T13|negative,0.2
+1619,,recommended,1,2026-04-27,themes,T26,改评要求相关自述,negative,they asked if I did a positive review they would send new ones.,79,142,current_or_general_target,True,,消费者对改评要求的指控，未经独立核实,1619|T26|negative,0.2
+1619,,recommended,1,2026-04-27,themes,T25,补发履约,negative,Never sent new ones.,143,163,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1619|T25|negative,0.2
+1619,,recommended,1,2026-04-27,contexts,washing,,not_applicable,after washing them,56,74,see_context,False,非具体主题计数项,替换承诺未兑现是消费者陈述，不等于原订单未送达。,,0.2
+1619,,recommended,1,2026-04-27,contexts,unverified_allegation,,not_applicable,they asked if I did a positive review,79,116,see_context,False,非具体主题计数项,替换承诺未兑现是消费者陈述，不等于原订单未送达。,,0.2
+1620,,recommended,5,2026-04-13,themes,T01,柔软／粗糙／僵硬,positive,They are so soft,23,39,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1620|T01|positive,0.2
+1620,,recommended,5,2026-04-13,themes,G02,一般舒适感受,positive,cozy,44,48,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,1620|G02|positive,0.2
+1620,,recommended,5,2026-04-13,themes,T09,颜色喜好／搭配,positive,the color matches my accent wall perfectly!,53,96,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1620|T09|positive,0.2
+1620,,recommended,5,2026-04-13,themes,T27,包装体验／用途,positive,The packaging 👌🏽👌🏽👌🏽 I kept the box to store other things.,161,219,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1620|T27|positive,0.2
+1620,,recommended,5,2026-04-13,contexts,room_match,,not_applicable,matches my accent wall perfectly,63,95,see_context,False,非具体主题计数项,室内配色满意是购后体验，未明确说因配色而购买。,,0.2
+1620,,recommended,5,2026-04-13,contexts,packaging_reuse,,not_applicable,I kept the box to store other things.,182,219,see_context,False,非具体主题计数项,室内配色满意是购后体验，未明确说因配色而购买。,,0.2
+1622,,recommended,2,2026-04-05,themes,T01,柔软／粗糙／僵硬,positive,The material feels very soft,0,28,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1622|T01|positive,0.2
+1622,,recommended,2,2026-04-05,themes,T14,勾丝,negative,all the sheets were snagged all over.,33,70,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1622|T14|negative,0.2
+1625,,recommended,5,2025-09-14,themes,T30,睡眠体验变化,positive,Sheets has helped me sleep way better,0,37,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1625|T30|positive,0.2
+1625,,recommended,5,2025-09-14,themes,T31,外观瑕疵（未明细）,negative,"the sheets had, had white lines",108,139,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1625|T31|negative,0.2
+1625,,recommended,5,2025-09-14,themes,T24,客服沟通／响应,positive,The seller was very nice to me and was willing to send me a new pair.,186,255,current_or_general_target,True,,消费者自述；不是独立性能或事实验证,1625|T24|positive,0.2
+1625,,recommended,5,2025-09-14,contexts,cause_unverified,,not_applicable,I think it was because manfuctuar defect,144,184,see_context,False,非具体主题计数项,不把white lines猜成起球/褪色；卖家愿意补发不代表已收到。,,0.2
+1625,,recommended,5,2025-09-14,noncoded,not_inferred,,not_applicable,was willing to send me a new pair.,221,255,see_context,False,非具体主题计数项,愿意补发不等于已经收到，不能编码补发履约成功。,,0.2
+1627,,recommended,1,2025-08-28,themes,T06,厚薄,uncertain,super thing,179,190,current_or_general_target,False,没有明确正负或仍有歧义,消费者自述；不是独立性能或事实验证,1627|T06|uncertain,0.2
+1627,,recommended,1,2025-08-28,themes,G01,一般质量感受,negative,cheap.,195,201,current_or_general_target,False,泛化评价单列，不与具体主题排名,消费者自述；不是独立性能或事实验证,1627|G01|negative,0.2
+1627,,recommended,1,2025-08-28,motives,content_influence_uncertain,影响指向未明，不计明确购买理由,not_applicable,I hate being influenced on here,10,41,see_context,False,非具体主题计数项,不把对推广者的泛指指控写成品牌虚假推广事实。,,0.2
+1627,,recommended,1,2025-08-28,behaviors,switch_brand_intent,,not_applicable,Going with my old brand bedsure!,210,242,see_context,False,非具体主题计数项,不把对推广者的泛指指控写成品牌虚假推广事实。,,0.2
+1627,,recommended,1,2025-08-28,contexts,competitor_preference,,not_applicable,my old brand bedsure! Those were good.,221,259,see_context,False,非具体主题计数项,不把对推广者的泛指指控写成品牌虚假推广事实。,,0.2

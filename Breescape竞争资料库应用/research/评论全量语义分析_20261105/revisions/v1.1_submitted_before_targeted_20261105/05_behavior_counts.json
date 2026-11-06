@@ -1,0 +1,294 @@
+{
+  "main_recent": {
+    "self_report_repeat": {
+      "count": 28,
+      "review_ids": [
+        5,
+        28,
+        45,
+        57,
+        60,
+        101,
+        110,
+        132,
+        221,
+        298,
+        419,
+        476,
+        484,
+        499,
+        531,
+        557,
+        580,
+        612,
+        620,
+        629,
+        631,
+        681,
+        685,
+        762,
+        808,
+        824,
+        836,
+        893
+      ],
+      "codes": [
+        "repeat_actual",
+        "repeat_reported_prior_and_current"
+      ]
+    },
+    "repeat_intent": {
+      "count": 86,
+      "review_ids": [
+        3,
+        5,
+        28,
+        33,
+        45,
+        49,
+        56,
+        59,
+        60,
+        82,
+        83,
+        95,
+        99,
+        132,
+        136,
+        137,
+        141,
+        148,
+        151,
+        153,
+        174,
+        178,
+        188,
+        203,
+        232,
+        235,
+        240,
+        246,
+        289,
+        299,
+        322,
+        330,
+        350,
+        358,
+        378,
+        404,
+        407,
+        409,
+        427,
+        437,
+        450,
+        461,
+        472,
+        475,
+        476,
+        479,
+        495,
+        503,
+        505,
+        511,
+        549,
+        562,
+        564,
+        567,
+        571,
+        580,
+        610,
+        613,
+        616,
+        625,
+        632,
+        646,
+        657,
+        683,
+        695,
+        704,
+        707,
+        743,
+        768,
+        776,
+        784,
+        798,
+        803,
+        833,
+        841,
+        844,
+        849,
+        865,
+        866,
+        867,
+        879,
+        881,
+        893,
+        897,
+        922,
+        924
+      ],
+      "codes": [
+        "repeat_intent",
+        "color_expansion_intent",
+        "household_replace_intent",
+        "additional_sizes_intent",
+        "family_purchase_intent",
+        "repeat_conditional_price",
+        "repeat_conditional_stock"
+      ]
+    },
+    "multiple_sets_without_order_sequence": {
+      "count": 27,
+      "review_ids": [
+        8,
+        30,
+        70,
+        99,
+        143,
+        191,
+        206,
+        219,
+        240,
+        241,
+        274,
+        337,
+        414,
+        437,
+        469,
+        621,
+        640,
+        641,
+        661,
+        692,
+        709,
+        719,
+        720,
+        809,
+        827,
+        841,
+        918
+      ],
+      "codes": [
+        "multiple_sets_timing_unknown",
+        "multiple_colors_timing_unknown",
+        "multiple_sets_purchased",
+        "multiple_sets_owned",
+        "multiple_colors_purchased"
+      ]
+    },
+    "store_repeat_only": {
+      "count": 2,
+      "review_ids": [
+        37,
+        287
+      ],
+      "codes": [
+        "repeat_brand_reported"
+      ]
+    }
+  },
+  "extra_one_star": {
+    "self_report_repeat": {
+      "count": 7,
+      "review_ids": [
+        1012,
+        1103,
+        1284,
+        1408,
+        1505,
+        1519,
+        1580
+      ],
+      "codes": [
+        "repeat_actual",
+        "repeat_reported_prior_and_current"
+      ]
+    },
+    "repeat_intent": {
+      "count": 1,
+      "review_ids": [
+        1335
+      ],
+      "codes": [
+        "repeat_intent",
+        "color_expansion_intent",
+        "household_replace_intent",
+        "additional_sizes_intent",
+        "family_purchase_intent",
+        "repeat_conditional_price",
+        "repeat_conditional_stock"
+      ]
+    },
+    "multiple_sets_without_order_sequence": {
+      "count": 9,
+      "review_ids": [
+        1022,
+        1025,
+        1026,
+        1074,
+        1315,
+        1419,
+        1439,
+        1501,
+        1525
+      ],
+      "codes": [
+        "multiple_sets_timing_unknown",
+        "multiple_colors_timing_unknown",
+        "multiple_sets_purchased",
+        "multiple_sets_owned",
+        "multiple_colors_purchased"
+      ]
+    },
+    "store_repeat_only": {
+      "count": 0,
+      "review_ids": [],
+      "codes": [
+        "repeat_brand_reported"
+      ]
+    }
+  },
+  "recommended": {
+    "self_report_repeat": {
+      "count": 0,
+      "review_ids": [],
+      "codes": [
+        "repeat_actual",
+        "repeat_reported_prior_and_current"
+      ]
+    },
+    "repeat_intent": {
+      "count": 1,
+      "review_ids": [
+        1618
+      ],
+      "codes": [
+        "repeat_intent",
+        "color_expansion_intent",
+        "household_replace_intent",
+        "additional_sizes_intent",
+        "family_purchase_intent",
+        "repeat_conditional_price",
+        "repeat_conditional_stock"
+      ]
+    },
+    "multiple_sets_without_order_sequence": {
+      "count": 0,
+      "review_ids": [],
+      "codes": [
+        "multiple_sets_timing_unknown",
+        "multiple_colors_timing_unknown",
+        "multiple_sets_purchased",
+        "multiple_sets_owned",
+        "multiple_colors_purchased"
+      ]
+    },
+    "store_repeat_only": {
+      "count": 0,
+      "review_ids": [],
+      "codes": [
+        "repeat_brand_reported"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "scope": "60条试编码，未执行全量，未发布TOP3或主题比例",
+  "sample_reviews": 60,
+  "initial_and_calibrated_ids_match": true,
+  "initial_version_hash_unchanged": true,
+  "raw_text_ids_dates_ratings_and_source_match_database": true,
+  "evidence_quotes_and_offsets_match": true,
+  "rules_examples_match_originals": true,
+  "all_comments_retained_in_source_denominators": true,
+  "source_counts": {
+    "main_recent": 37,
+    "extra_one_star": 17,
+    "recommended": 6
+  },
+  "source_rating_counts": {
+    "main_recent": {
+      "1": 6,
+      "2": 5,
+      "3": 7,
+      "4": 5,
+      "5": 14
+    },
+    "extra_one_star": {
+      "1": 17
+    },
+    "recommended": {
+      "1": 2,
+      "2": 1,
+      "5": 3
+    }
+  },
+  "main_overlap_reviews": 6,
+  "missing_platform_ids_retained": 6,
+  "selection_method_counts": {
+    "purposeful_boundary": 20,
+    "date_stratified_random": 40
+  },
+  "distinct_review_identity_checked_for_640_641": true,
+  "specific_count_unit": "review_id + theme_code + valence; distinct keys only",
+  "judgment_rows_with_exact_quotes": 240,
+  "protected_files_unchanged": 45,
+  "database_hash_unchanged": true,
+  "verification_limit": "自动检查不证明语义判断正确；语义由同一分析者逐条二读，仍待监督者独立审查。"
+}

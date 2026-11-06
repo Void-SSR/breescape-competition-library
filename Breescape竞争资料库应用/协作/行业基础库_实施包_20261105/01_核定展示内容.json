@@ -1,0 +1,846 @@
+{
+  "schema_version": 1,
+  "package_id": "industry-v1-20261105",
+  "reviewed_at": "2026-11-05",
+  "reviewed_by": "高级分析师",
+  "navigation_label": "行业基础",
+  "title": "美国凉感床品行业总览",
+  "subtitle": "先认识市场、产品和消费者，再选择值得深入研究的品牌与商品。",
+  "home": {
+    "summary": "同样宣传凉感，产品采用的材料和结构可能不同。已收录样本显示，床单既有竹源人造丝混纺，也有聚酯弹力面料；被子还需要进一步看表层与填充。",
+    "source_keys": [
+      "material-132",
+      "material-114",
+      "material-100"
+    ],
+    "categories": [
+      {
+        "id": "sheets",
+        "title": "床单",
+        "subtitle": "材料路线、价格、品牌与消费者需求",
+        "image_product_ref": "sheets",
+        "button": "查看床单行业基础"
+      },
+      {
+        "id": "covers",
+        "title": "被子",
+        "subtitle": "表层、填充、凉感主张与购买理由",
+        "image_product_ref": "cozy-comforter",
+        "button": "查看被子行业基础"
+      }
+    ],
+    "reading_questions": [
+      "市场上有哪些产品？哪些卖得多？",
+      "畅销产品卖什么价格？贵在哪里？",
+      "哪些品牌和产品值得重点研究？",
+      "它们靠什么实现凉感或舒适？",
+      "消费者为什么买？已经形成哪些认知？"
+    ],
+    "scope_text": "以美国市场明确按凉感或调温售卖的床单和被子为核心；相邻替代产品单独标注。已有单品样本不代表市场全貌。",
+    "evidence_note": "全渠道份额、细分销量分布和消费者整体认知仍需补充研究；已有页面信息、机构估算和单品证据按各自范围展示。"
+  },
+  "categories": [
+    {
+      "id": "sheets",
+      "title": "床单：市场、产品与消费者",
+      "sections": [
+        {
+          "id": "market",
+          "question": "市场上有哪些产品？哪些卖得多？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "已核实的床单样本采用不同面料：Shilucheng使用竹源人造丝混纺，SHEEX使用聚酯与氨纶。两者都宣传凉感或排湿，不能仅凭“凉感”一词判断材料。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-132",
+                "material-114"
+              ]
+            },
+            {
+              "type": "table",
+              "id": "sheet-routes",
+              "title": "已有样本中的材料与设计路线",
+              "columns": [
+                "材料路线",
+                "具体产品",
+                "成分与设计",
+                "商家主推的购买理由"
+              ],
+              "rows": [
+                [
+                  "竹源人造丝混纺",
+                  {
+                    "product_ref": "sheets"
+                  },
+                  "60%竹源人造丝＋40%聚酯；提供不同套件组合",
+                  "柔软丝滑、凉感透气、价格可接受"
+                ],
+                [
+                  "聚酯与氨纶",
+                  {
+                    "product_ref": "sheex-sheets"
+                  },
+                  "87%聚酯＋13%氨纶；弹力面料与包边",
+                  "透气排湿、弹力舒适"
+                ]
+              ],
+              "role": "primary",
+              "source_keys": [
+                "material-132",
+                "material-114"
+              ],
+              "note": "这是已核实样本的对照，未覆盖全部材料路线；排列不表示市场大小。"
+            },
+            {
+              "type": "market_estimate",
+              "metric_id": "us-cooling-sheets-2025",
+              "label": "美国凉感床单规模：公开估算参考",
+              "display_value": "约5.63亿美元",
+              "scope_label": "2025年 · 美国 · 机构模型估算",
+              "text": "该模型覆盖凉感或调温床单套装及相关散件、枕套和组合，不含凉被、褥垫及普通非凉感床品。",
+              "boundary": "模型输入尚未独立验证，不作为已证实的市场规模或品牌份额分母。",
+              "source_keys": [
+                "gmr-sheets"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "各材料路线的美国销售占比、品牌全渠道份额与增长，尚未形成可用的同口径数据。",
+              "style": "scope-note"
+            }
+          ]
+        },
+        {
+          "id": "price",
+          "question": "畅销产品卖什么价格？贵在哪里？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "已核实的两款双人床四件套价格不同，但材料、设计和销售渠道也不同；这组报价只能说明购买选项，不能单独解释价差由什么造成。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-132",
+                "material-114",
+                "material-115"
+              ]
+            },
+            {
+              "type": "table",
+              "id": "sheet-prices",
+              "title": "已核实商品价格｜2026年11月5日",
+              "columns": [
+                "商品",
+                "报价规格",
+                "页面价格",
+                "材料与设计",
+                "渠道"
+              ],
+              "rows": [
+                [
+                  {
+                    "product_ref": "sheets"
+                  },
+                  "白色双人床（Queen）四件套",
+                  {
+                    "observation_ref": 26
+                  },
+                  "竹源人造丝混纺；四件或六件组合",
+                  "TikTok Shop美国商品页"
+                ],
+                [
+                  {
+                    "product_ref": "sheex-sheets"
+                  },
+                  "亮白色双人床（Queen）四件套",
+                  {
+                    "observation_ref": 21
+                  },
+                  "聚酯与氨纶；弹力面料与包边",
+                  "品牌官网"
+                ]
+              ],
+              "role": "primary",
+              "source_keys": [
+                "material-132",
+                "material-114",
+                "material-115"
+              ],
+              "note": "保留各报价的促销条件和观察时间。没有销量加权分布，暂不称为“畅销价格带”。"
+            },
+            {
+              "type": "text",
+              "text": "哪些差异支撑更高价格？还需补同规格竞品的实际体验、服务条件、成交表现和消费者付费理由。",
+              "style": "scope-note"
+            }
+          ]
+        },
+        {
+          "id": "products",
+          "question": "哪些品牌和产品值得重点研究？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "先看两种材料路线的具体商品，再进入对应品牌和单品研究。这里的入选依据是已有资料和比较价值，不是美国市场排名。",
+              "emphasis": "summary"
+            },
+            {
+              "type": "product_cards",
+              "product_refs": [
+                "sheets",
+                "sheex-sheets"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "technology",
+          "question": "它们靠什么实现凉感或舒适？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "材料名称、商家技术名称和性能指标需要分开理解。竹源人造丝不是直接取自竹子的天然纤维；q-max也不是一种面料。",
+              "emphasis": "summary",
+              "source_keys": [
+                "ftc-bamboo",
+                "kaken-qmax"
+              ]
+            },
+            {
+              "type": "concept_map",
+              "title": "看清一个凉感产品，要分开看四件事",
+              "items": [
+                {
+                  "label": "用了什么",
+                  "text": "具体纤维、成分比例与使用部位"
+                },
+                {
+                  "label": "怎样做成",
+                  "text": "织法、弹性、厚度与结构设计"
+                },
+                {
+                  "label": "商家怎么说",
+                  "text": "凉感、排湿、调温等宣传及技术名称"
+                },
+                {
+                  "label": "有什么证据",
+                  "text": "测试方法、测试条件和消费者体验"
+                }
+              ],
+              "note": "研究示意，不表示这四项之间已经证明了因果关系。"
+            },
+            {
+              "type": "table",
+              "id": "material-terms",
+              "title": "容易混淆的名称",
+              "columns": [
+                "名称",
+                "应该怎样理解",
+                "研究时核对什么"
+              ],
+              "rows": [
+                [
+                  {
+                    "term": "bamboo-rayon",
+                    "label": "竹源人造丝／粘胶"
+                  },
+                  "以竹为原料制成的再生纤维素纤维",
+                  "具体纤维、比例和商品标签"
+                ],
+                [
+                  {
+                    "term": "tencel",
+                    "label": "TENCEL（天丝）"
+                  },
+                  "材料品牌，涵盖莱赛尔、莫代尔等纤维",
+                  "不能只记品牌名，还要记具体纤维"
+                ],
+                [
+                  {
+                    "term": "qmax",
+                    "label": "q-max（接触凉感指标）"
+                  },
+                  "表示接触初期的传热表现",
+                  "测试方法、温差、单位及测试对象"
+                ]
+              ],
+              "role": "primary",
+              "source_keys": [
+                "ftc-bamboo",
+                "tencel-fibers",
+                "kaken-qmax"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "consumer",
+          "question": "消费者为什么买？已经形成哪些认知？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "在Shilucheng床单的已分析样本中，柔软得到较多具体认可，凉感也触发了部分买家的购买。这是单品证据，尚不能代表美国消费者整体。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-73",
+                "material-78",
+                "material-89"
+              ]
+            },
+            {
+              "type": "table",
+              "id": "consumer-scope",
+              "title": "已有消费者证据能回答什么？",
+              "columns": [
+                "问题",
+                "已有发现",
+                "适用范围"
+              ],
+              "rows": [
+                [
+                  "买前为什么选择？",
+                  "部分原评论明确提到为凉感购买，也有等到价格合适才下单的案例。",
+                  "定性证据，不能由几个案例推算全市场占比"
+                ],
+                [
+                  "买后认可什么？",
+                  "928条近期评论中，397条明确肯定柔软，92条对触感不满。",
+                  "同一单品样本；认可和不认可需分别看"
+                ],
+                [
+                  "已形成什么品牌认知？",
+                  "尚无足够证据判断美国消费者对各品牌的整体认知。",
+                  "商家宣传和少数评论不能代替品牌认知调查"
+                ]
+              ],
+              "role": "primary",
+              "source_keys": [
+                "material-73",
+                "material-75",
+                "material-78",
+                "material-89",
+                "material-90"
+              ]
+            },
+            {
+              "type": "internal_link",
+              "text": "查看本款完整评论分析与原文依据",
+              "href": "#product-report/sheets"
+            },
+            {
+              "type": "text",
+              "text": "样本发表于2026年9月24日至11月4日；这里不把买后好评当作购买前动机，也不把未提及当作不认可。",
+              "style": "method-note"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "covers",
+      "title": "被子：市场、产品与消费者",
+      "sections": [
+        {
+          "id": "market",
+          "question": "市场上有哪些产品？哪些卖得多？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "被子需要同时看贴肤表层和内部填充。首批收录的是Cozy Bliss有填充凉感被；褥垫放在床垫上使用，单独作为相邻产品研究。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-100"
+              ]
+            },
+            {
+              "type": "table",
+              "id": "cover-scope",
+              "title": "研究对象怎样划分？",
+              "columns": [
+                "对象",
+                "归档规则",
+                "已有实例"
+              ],
+              "rows": [
+                [
+                  "有填充被、被芯",
+                  "表层与填充分开记录；比较时同时核对尺寸、重量与使用方式",
+                  {
+                    "product_ref": "cozy-comforter"
+                  }
+                ],
+                [
+                  "薄被、盖毯",
+                  "按具体结构确认，不能仅凭英文商品名与填充被合并",
+                  "后续核实具体商品后纳入"
+                ],
+                [
+                  "褥垫",
+                  "放在床垫上的加垫，作为相邻产品保留；不计入被子规模",
+                  {
+                    "internal_link": "#product-report/topper",
+                    "label": "Shilucheng 仿羽绒凉感褥垫"
+                  }
+                ]
+              ],
+              "role": "primary",
+              "note": "这是研究归档范围，不是销售份额分类结果。"
+            },
+            {
+              "type": "text",
+              "text": "美国凉感被市场规模、细分占比、品牌全渠道份额与增长尚未核实。床单的规模估算不用于填补被子数据。",
+              "style": "scope-note"
+            }
+          ]
+        },
+        {
+          "id": "price",
+          "question": "畅销产品卖什么价格？贵在哪里？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "当前已核实Cozy Bliss研究款的具体报价。只有一个产品报价，无法据此判断畅销价格带或溢价空间。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-100"
+              ]
+            },
+            {
+              "type": "table",
+              "id": "cover-prices",
+              "title": "已核实商品价格｜2026年11月5日",
+              "columns": [
+                "商品",
+                "报价规格",
+                "页面价格",
+                "渠道"
+              ],
+              "rows": [
+                [
+                  {
+                    "product_ref": "cozy-comforter"
+                  },
+                  "灰蓝色双人被（Queen），约229×229厘米",
+                  {
+                    "observation_ref": 17
+                  },
+                  "Amazon美国站"
+                ]
+              ],
+              "role": "primary",
+              "source_keys": [
+                "material-100"
+              ],
+              "note": "报价只对应本库保存的Amazon商品，不替换成官网近似款。"
+            }
+          ]
+        },
+        {
+          "id": "products",
+          "question": "哪些品牌和产品值得重点研究？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Cozy Bliss以双面凉感作为主要购买理由。先保留这款明确的研究对象，再补其他路线的具体商品。",
+              "emphasis": "summary",
+              "source_keys": [
+                "material-100"
+              ]
+            },
+            {
+              "type": "product_cards",
+              "product_refs": [
+                "cozy-comforter"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "technology",
+          "question": "它们靠什么实现凉感或舒适？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "接触时的凉感不等于整晚不热。q-max反映接触初期的传热表现，不能单独证明整夜舒适或优于其他产品。",
+              "emphasis": "summary",
+              "source_keys": [
+                "kaken-qmax"
+              ]
+            },
+            {
+              "type": "concept_map",
+              "title": "填充被的比较，不能只看表面材料",
+              "items": [
+                {
+                  "label": "贴肤表层",
+                  "text": "成分、织法与接触体验"
+                },
+                {
+                  "label": "内部填充",
+                  "text": "成分、重量与厚度"
+                },
+                {
+                  "label": "整件产品",
+                  "text": "尺寸、结构、洗护及实际使用表现"
+                }
+              ],
+              "note": "结构研究示意，具体商品效果需要实测或消费者证据。"
+            },
+            {
+              "type": "text",
+              "text": "Cozy Bliss页面强调双面凉感，并列出q-max等性能宣称；本库尚未对该商品开展性能实测。",
+              "source_keys": [
+                "material-100"
+              ],
+              "claim_type": "商家宣称"
+            },
+            {
+              "type": "term_links",
+              "terms": [
+                "qmax",
+                "jis-l1927"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "consumer",
+          "question": "消费者为什么买？已经形成哪些认知？",
+          "blocks": [
+            {
+              "type": "text",
+              "text": "Cozy Bliss主要面向怕热和夜间出汗人群，但这仍是商家设定的购买理由。尚未取得足够评论证据来判断实际购买原因。",
+              "emphasis": "summary",
+              "claim_type": "商家宣称",
+              "source_keys": [
+                "material-100"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "后续消费者研究分别回答：为什么选这款、使用后满意和不满意什么、是否愿意再次购买或支付更高价格。未得到证据前，不据宣传认定已形成品牌心智。",
+              "style": "scope-note"
+            },
+            {
+              "type": "internal_link",
+              "text": "查看Cozy Bliss单品报告及现有事实",
+              "href": "#product-report/cozy-comforter"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "product_examples": {
+    "sheets": {
+      "product_id": "sheets",
+      "display_name": "Shilucheng 竹混纺凉床单套装",
+      "image_source": "product.image_url",
+      "screenshot_material_id": 48,
+      "source_keys": [
+        "material-3",
+        "material-132"
+      ],
+      "merchant_reason": "柔软丝滑、凉感透气，并强调价格可接受",
+      "claim_structure": "多个卖点并列",
+      "selection_reason": "作为竹源人造丝混纺路线的已有研究样本，同时保留TikTok销售记录和消费者评论。",
+      "price_observation_id": 26,
+      "sales_observation_id": 25,
+      "material": "60%竹源人造丝＋40%聚酯",
+      "report_url": "#product-report/sheets",
+      "brand_url": "#overview/shilucheng"
+    },
+    "sheex-sheets": {
+      "product_id": "sheex-sheets",
+      "display_name": "SHEEX Original Performance 经典性能床单套装",
+      "image_source": "product.image_url",
+      "screenshot_material_id": 130,
+      "source_keys": [
+        "material-114",
+        "material-115"
+      ],
+      "merchant_reason": "通过透气排湿的性能面料，减少闷热、保持干爽舒适",
+      "claim_structure": "主推性能面料与睡眠舒适",
+      "selection_reason": "作为聚酯与氨纶面料路线的已有样本，用于比较材料、设计、价格及商家表达。",
+      "price_observation_id": 21,
+      "sales_text": "官网未公开销量",
+      "material": "87%聚酯＋13%氨纶",
+      "report_url": "#product-report/sheex-sheets",
+      "brand_url": "#overview/sheex"
+    },
+    "cozy-comforter": {
+      "product_id": "cozy-comforter",
+      "display_name": "Cozy Bliss 经典双面凉感被",
+      "image_source": "product.image_url",
+      "screenshot_material_id": 128,
+      "source_keys": [
+        "material-100"
+      ],
+      "merchant_reason": "为怕热、夜间出汗的人提供双面凉感被",
+      "claim_structure": "主推双面凉感",
+      "selection_reason": "作为有填充凉感被的已有样本，保留指定Amazon商品及规格，不与官网近似款混用。",
+      "price_observation_id": 17,
+      "sales_observation_id": 20,
+      "material": "具体表层与填充见产品报告",
+      "report_url": "#product-report/cozy-comforter",
+      "brand_url": "#overview/cozy-bliss"
+    }
+  },
+  "sources": [
+    {
+      "key": "ftc-bamboo",
+      "title": "FTC｜竹源纺织品的材料标注",
+      "url": "https://www.ftc.gov/bamboo-textiles",
+      "publisher": "美国联邦贸易委员会",
+      "source_type": "监管机构说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "竹源人造丝、粘胶与直接竹纤维的区别。",
+      "boundary": "不用于证明任何具体商品的性能或合规状态。"
+    },
+    {
+      "key": "kaken-qmax",
+      "title": "KAKEN｜接触凉感测试与q-max",
+      "url": "https://www.kaken.or.jp/test/search/detail/5",
+      "publisher": "KAKEN",
+      "source_type": "检测机构说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "q-max是接触初期最大热流密度；JIS L 1927是测试方法。",
+      "boundary": "不据此证明具体商品整夜降温，也不直接比较测试条件不同的数值。"
+    },
+    {
+      "key": "tencel-fibers",
+      "title": "TENCEL｜纤维种类",
+      "url": "https://www.tencel.com/fibers",
+      "publisher": "TENCEL / Lenzing",
+      "source_type": "材料品牌官方说明",
+      "retrieved_at": "2026-11-05",
+      "supports": "TENCEL品牌涵盖莱赛尔和莫代尔等纤维。",
+      "boundary": "具体商品仍须核对成分和比例；品牌说明不是该商品的性能实测。"
+    },
+    {
+      "key": "gmr-sheets",
+      "title": "Growth Market Reports｜凉感床单市场模型",
+      "url": "https://growthmarketreports.com/report/cooling-bed-sheet-market",
+      "publisher": "Growth Market Reports",
+      "source_type": "机构模型估算",
+      "published_at": "2026-10-11",
+      "retrieved_at": "2026-11-05",
+      "supports": "2025年美国凉感床单市场的公开模型估算及纳入范围。",
+      "boundary": "只核实了原报告这样估算，未独立验证购买率、均价等模型输入。全球公司集中度不当作美国品牌份额。"
+    },
+    {
+      "key": "material-3",
+      "existing_material_id": 3,
+      "title": "TikTok 美国｜床单商品页"
+    },
+    {
+      "key": "material-48",
+      "existing_material_id": 48,
+      "title": "截图｜竹混纺床单商品首屏及达人精灵速览"
+    },
+    {
+      "key": "material-73",
+      "existing_material_id": 73,
+      "title": "床单评论 v1.2｜主样本及补充组主题统计"
+    },
+    {
+      "key": "material-75",
+      "existing_material_id": 75,
+      "title": "床单评论 v1.2｜语义口径与计数规则"
+    },
+    {
+      "key": "material-78",
+      "existing_material_id": 78,
+      "title": "床单评论 v1.2｜关键证据与反例"
+    },
+    {
+      "key": "material-89",
+      "existing_material_id": 89,
+      "title": "消费者反馈全貌｜完整分项与两种占比"
+    },
+    {
+      "key": "material-90",
+      "existing_material_id": 90,
+      "title": "评论全貌｜计算口径与两条总体补判"
+    },
+    {
+      "key": "material-100",
+      "existing_material_id": 100,
+      "title": "Cozy Bliss 研究款亚马逊商品页 B0BVQMTD8W"
+    },
+    {
+      "key": "material-114",
+      "existing_material_id": 114,
+      "title": "SHEEX Original Performance床单商品页"
+    },
+    {
+      "key": "material-115",
+      "existing_material_id": 115,
+      "title": "SHEEX经典床单规格报价"
+    },
+    {
+      "key": "material-128",
+      "existing_material_id": 128,
+      "title": "截图｜指定Amazon灰蓝Queen款：商品、价格、评分与购买提示。"
+    },
+    {
+      "key": "material-130",
+      "existing_material_id": 130,
+      "title": "截图｜SHEEX经典床单商品页；报价以正文核对的颜色与尺寸为准。"
+    },
+    {
+      "key": "material-132",
+      "existing_material_id": 132,
+      "title": "三款床单｜公开页面销量、规格与商家表达"
+    }
+  ],
+  "market_metrics": [
+    {
+      "id": "us-cooling-sheets-2025",
+      "metric": "年度市场销售额",
+      "object": "明确宣传凉感或调温的床单及相关散件",
+      "geography": "美国",
+      "channel": "报告模型的零售市场",
+      "period": "2025年",
+      "currency": "USD",
+      "value": 563000000,
+      "unit": "美元",
+      "value_type": "机构模型估算",
+      "source_key": "gmr-sheets",
+      "formula": "136900000 × 0.035 × 105 × 1.12",
+      "computed_value": 563480400,
+      "display_rounding": "约5.63亿美元",
+      "inputs": [
+        {
+          "name": "家庭数",
+          "value": 136900000,
+          "status": "报告模型输入，未独立核验"
+        },
+        {
+          "name": "年度购买率",
+          "value": 0.035,
+          "status": "报告模型假设，未独立核验"
+        },
+        {
+          "name": "平均套装支出",
+          "value": 105,
+          "unit": "USD",
+          "status": "报告模型假设，未独立核验"
+        },
+        {
+          "name": "散件等增量",
+          "value": 0.12,
+          "status": "报告模型假设，未独立核验"
+        }
+      ],
+      "includes": "凉感或调温床单套装、散件、匹配枕套与组合",
+      "excludes": "普通非凉感床品、被子、褥垫、床垫等",
+      "method_note": "套装部分约5.03亿美元；加12%散件等增量后约5.63亿美元。两者覆盖范围不同，不是上下界。",
+      "share_denominator_approved": false
+    }
+  ],
+  "glossary": {
+    "queen": {
+      "label": "双人床（Queen）",
+      "text": "美国常见床垫规格，约152×203厘米。它描述适配床型，不等于床单或被子的实际尺寸；实际尺寸以商品页为准。"
+    },
+    "bamboo-rayon": {
+      "label": "竹源人造丝／粘胶",
+      "text": "以竹为原料，经加工制成的再生纤维素纤维；不等于直接从竹子提取的天然竹纤维。商品仍需核对具体名称与比例。",
+      "source_keys": [
+        "ftc-bamboo"
+      ]
+    },
+    "tencel": {
+      "label": "TENCEL（天丝）",
+      "text": "Lenzing旗下材料品牌，涵盖莱赛尔、莫代尔等纤维；不能把所有TENCEL产品记录成同一种纤维。",
+      "source_keys": [
+        "tencel-fibers"
+      ]
+    },
+    "qmax": {
+      "label": "q-max（接触凉感指标）",
+      "text": "接触初期的最大热流密度，常用单位W/cm²。比较数值需先核对测试方法、温差与测试对象；它不直接表示整晚睡眠效果。",
+      "source_keys": [
+        "kaken-qmax"
+      ]
+    },
+    "jis-l1927": {
+      "label": "JIS L 1927",
+      "text": "用于评价纺织品接触凉感的测试方法。q-max是其中的性能指标，二者不是同一个概念。",
+      "source_keys": [
+        "kaken-qmax"
+      ]
+    }
+  },
+  "research_queue": {
+    "title": "研究待办与候选对象",
+    "intro": "这些是后续研究线索，不是已验证的市场排名或品牌优势。",
+    "candidates": [
+      {
+        "category": "sheets",
+        "brands": [
+          "Bedsure",
+          "Cozy Earth",
+          "SIJO",
+          "Slumber Cloud",
+          "Coop Sleep Goods",
+          "Brooklinen",
+          "Breescape"
+        ]
+      },
+      {
+        "category": "covers",
+        "brands": [
+          "Bedsure",
+          "REST",
+          "Elegear",
+          "Buffy",
+          "SIJO",
+          "Slumber Cloud",
+          "Breescape"
+        ]
+      }
+    ],
+    "candidate_note": "来自原讨论的14个品牌—品类组合，共10个不重复品牌；Breescape为我方对照。现有库中的Shilucheng、Cozy Bliss与SHEEX继续保留。",
+    "tasks": [
+      {
+        "priority": 1,
+        "question": "美国各品类与细分路线的市场有多大？",
+        "needed": "全渠道规模、年度增长、互斥细分的销售额或销量；先核对统计范围。"
+      },
+      {
+        "priority": 2,
+        "question": "谁在这些品类中占有较大份额？",
+        "needed": "美国对应品类的品牌销售分子及匹配分母；Amazon资料可先核查ASINSIGHT，但不代替全渠道。"
+      },
+      {
+        "priority": 3,
+        "question": "哪些产品和价格真正有销量支持？",
+        "needed": "准确商品身份、同规格报价、同期间销量、渠道及估算方法。"
+      },
+      {
+        "priority": 4,
+        "question": "材料与技术差异能否形成体验或付费优势？",
+        "needed": "原始成分与检测资料、具体商品结构、消费者原话及同条件竞争比较。"
+      },
+      {
+        "priority": 5,
+        "question": "消费者对各品牌形成了什么认知？",
+        "needed": "覆盖范围清晰的评论、调查或其他消费者证据；分开购买理由、使用体验与品牌认知。"
+      }
+    ]
+  },
+  "ui_copy": {
+    "source_button": "查看来源与口径",
+    "workbench": "资料与研究待办",
+    "add_material": "添加行业资料",
+    "export_report": "打印／保存PDF",
+    "export_data": "导出行业资料包",
+    "add_success": "已收录为待核实资料；不会自动改写报告。",
+    "material_empty": "尚未添加补充材料。可先保存原始链接，核实后再纳入报告。",
+    "image_fallback": "图片暂未加载，打开商品页查看",
+    "missing_value": "未取得可靠数据",
+    "approval_note": "待核实资料只进入资料区，经研究核实后再进入报告。"
+  }
+}

@@ -1,0 +1,1474 @@
+- generic: 卖家精灵
+- navigation "快捷菜单":
+  - heading "跳至" [level=2]:
+    - generic: 跳至
+  - list "跳至":
+    - link "主要内容":
+      - /url: "#skippedLink"
+      - generic: 主要内容
+    - link "结果":
+      - /url: .s-asin a:has(h2)
+      - generic: 结果
+    - link "过滤器":
+      - /url: "#s-refinements > div.a-section > div:first-child"
+      - generic: 过滤器
+  - separator
+  - heading "键盘快捷键" [level=2]:
+    - generic: 键盘快捷键
+  - list "键盘快捷键":
+    - link "搜索、选项、正斜杠":
+      - /url: javascript:void(0)
+      - generic: 搜索
+      - generic: 选择
+      - generic: +
+      - generic: /
+    - link "购物车、换挡、选项、c":
+      - /url: javascript:void(0)
+      - generic: 大车
+      - generic: 转移
+      - generic: +
+      - generic: 选择
+      - generic: +
+      - generic: C
+    - link "主页、Shift、选项、h":
+      - /url: javascript:void(0)
+      - generic: 家
+      - generic: 转移
+      - generic: +
+      - generic: 选择
+      - generic: +
+      - generic: H
+    - link "您的订单、班次、选项、o":
+      - /url: javascript:void(0)
+      - generic: 订单
+      - generic: 转移
+      - generic: +
+      - generic: 选择
+      - generic: +
+      - generic: 哦
+    - link "独立生活商店、轮班、选项、i":
+      - /url: javascript:void(0)
+      - generic: 独立生活商店
+      - generic: 转移
+      - generic: +
+      - generic: 选择
+      - generic: +
+      - generic: 我
+    - button "显示/隐藏快捷键、Shift、Option、Z":
+      - generic: 显示/隐藏快捷方式
+      - generic: 转移
+      - generic: +
+      - generic: 选择
+      - generic: +
+      - generic: Z
+  - generic: 要在项目之间移动，请使用键盘上的向上或向下箭头键。
+- banner:
+  - navigation "基本的":
+    - link "亚马逊":
+      - /url: /ref=nav_logo
+    - button "送货至洛杉矶 90014 更新位置":
+      - generic: 送货至洛杉矶 90014
+      - generic: 更新位置
+    - search:
+      - generic: shilucheng
+      - combobox "选择您要搜索的部门":
+        - option [selected]
+        - option
+      - searchbox "搜索亚马逊"
+      - generic "去":
+        - button "去"
+    - link "选择您在亚马逊美国站购物的语言。当前选项为英语（EN）。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "美国"
+      - generic: EN
+    - button "展开以更改语言或国家/地区"
+    - link "你好，ssr-1 账户和列表":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 你好，ssr-1
+      - generic: 账户和列表
+    - button "展开帐户和列表"
+    - link "返回 订单":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返回
+      - generic: 订单
+    - link "购物车内有 20 件商品":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: "20"
+      - generic: 大车
+    - button "打开所有类别菜单":
+      - generic: 全部
+    - button "打开 Alexa 面板"
+    - list:
+      - link "假日商店":
+        - /url: /b?node=221346896011&ref_=nav_cs_discobar_hs2026
+        - generic: 假日商店
+      - link "30分钟送达":
+        - /url: /now/browse?ref_=nav_cs_QCX_nav_storefront
+        - generic: 30分钟送达
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+        - generic: Prime Video
+      - link "定制产品":
+        - /url: /Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom
+        - generic: 定制产品
+      - button "定制产品详情"
+      - link "家居装修":
+        - /url: /Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi
+        - generic: 家居装修
+      - button "家居装修详情"
+      - link "玩具和游戏":
+        - /url: /toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys
+        - generic: 玩具和游戏
+      - button "玩具和游戏详情"
+      - link "宠物用品":
+        - /url: /pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets
+        - generic: 宠物用品
+      - button "宠物用品详情"
+      - link "浏览历史记录":
+        - /url: /gp/history?ref_=nav_cs_timeline
+        - generic: 浏览历史记录
+      - button "浏览历史记录详情"
+      - link "礼品卡":
+        - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+        - generic: 礼品卡
+      - button "礼品卡详情"
+      - link "主要的":
+        - /url: /prime?ref_=nav_cs_primelink_nonmember
+        - generic: 主要的
+      - button "主要细节"
+      - link "杂货":
+        - /url: /fmc/grocery-gateway?gsc=fe16aGPfFs46S&ref_=nav_cs_groceries
+        - generic: 杂货
+      - link "亚马逊首页":
+        - /url: /home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home
+        - generic: 亚马逊首页
+      - button "亚马逊家居详情"
+      - link "再次购买":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+        - generic: 再次购买
+      - link "医疗保健":
+        - /url: https://health.amazon.com/?ref_=nav_cs_medical_care_health_home
+        - generic: 医疗保健
+      - button "医疗护理详情"
+      - link "今日特惠":
+        - /url: /deals?ref_=nav_cs_gb
+        - generic: 今日特惠
+      - link "优惠券":
+        - /url: /coupons?ref_=nav_cs_coupons
+        - generic: 优惠券
+      - link "全食超市":
+        - /url: /alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_cs_whole_foods
+        - generic: 全食超市
+      - link "直播":
+        - /url: /live?ref_=nav_cs_amazonlive
+        - generic: 直播
+      - link "药店":
+        - /url: https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy
+        - generic: 药店
+      - link "有声读物":
+        - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible
+        - generic: 有声读物
+      - link "美容及个人护理":
+        - /url: /Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty
+        - generic: 美容及个人护理
+      - link "音乐":
+        - /url: /music/player?ref_=nav_cs_music
+        - generic: 音乐
+      - link "1小时送达":
+        - /url: /fmc/ssd-storefront?gsc=fe16aGPfFs46S&speed=1HR&ref_=nav_cs_SSD_1hr_nav_storefront
+        - generic: 1小时送达
+      - link "注册表":
+        - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+        - generic: 注册表
+      - link "时尚":
+        - /url: /amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion
+        - generic: 时尚
+      - link "新品发布":
+        - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+        - generic: 新品发布
+      - link "汽车":
+        - /url: /automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive
+        - generic: 汽车
+      - link "手工制作的":
+        - /url: /gp/browse.html?node=120955898011&ref_=nav_cs_handmade
+        - generic: 手工制作的
+      - link "电子游戏":
+        - /url: /computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games
+        - generic: 电子游戏
+      - link "婴儿":
+        - /url: /baby-car-seats-strollers-bedding/b/?ie=UTF8&node=165796011&ref_=nav_cs_baby
+        - generic: 婴儿
+    - dialog:
+      - heading "Subtotal" [level=1]
+      - heading "$1,399.80" [level=2]
+      - generic: Your order qualifies for FREE delivery. Choose this option at checkout.
+      - link "Go to Cart":
+        - /url: /cart?ref_=ox_ewc_ret_gtc_dsk_us
+      - list:
+        - link "Cozy Bliss Cooling Comforter for Hot Sleepers Queen Size, Gray Blue | Q-Max>0.45 Cooling Blankets for Night Sweats, All-Season Bedding, Silky Soft Breathable Lightweight, Machine Washable":
+          - /url: /gp/product/B0BVQMTD8W/ref=ewc_pr_img_1?smid=A2NCNTZL5L0E82&psc=1
+          - img "Cozy Bliss Cooling Comforter for Hot Sleepers Queen Size, Gray Blue | Q-Max>0.45 Cooling Blankets for Night Sweats, All-Season Bedding, Silky Soft Breathable Lightweight, Machine Washable"
+        - generic: $69.99
+        - generic: "Qty:"
+        - spinbutton "Quantity Cozy Bliss Cooling Comforter for Hot Sleepers Queen Size, Gray Blue | Q-Max&gt;0.45 Cooling Blankets for Night Sweats, All-Season Bedding, Silky Soft Breathable Lightweight, Machine Washable": "20"
+- heading "共 32 条结果，显示 1-16 条" [level=1]:
+  - heading "共 32 条结果，显示 1-16 条" [level=2]:
+    - generic: 共 32 条结果，显示 1-16 条
+  - generic: 排序方式：
+  - combobox "排序方式：":
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+    - option
+  - generic: 排序方式：
+  - generic: 精选
+- heading "结果" [level=2]:
+  - generic: 结果
+- list:
+  - paragraph
+  - link:
+    - /url: /Shilucheng-100-Cotton-Queen-Sheets/dp/B0DXCC6P1Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-1
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城 100% 埃及棉皇后尺寸床单套装（白色，皇后尺寸）":
+    - /url: /Shilucheng-100-Cotton-Queen-Sheets/dp/B0DXCC6P1Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-1
+    - heading "世路城 100% 埃及棉皇后尺寸床单套装（白色，皇后尺寸）" [level=2]:
+      - generic: 世路城 100% 埃及棉皇后尺寸床单套装（白色，皇后尺寸）
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "20,735 条评价":
+    - /url: /Shilucheng-100-Cotton-Queen-Sheets/dp/B0DXCC6P1Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-1#customerReviews
+    - generic: （20.7K）
+  - generic: 过去一个月购买量超过1000美元。
+  - link "限时优惠":
+    - /url: /deals
+    - generic: 限时优惠
+  - generic: 价格，产品页面
+  - link "39.99美元 标价：49.99美元 列表： 49.99美元 （ 10.00美元 /支数":
+    - /url: /Shilucheng-100-Cotton-Queen-Sheets/dp/B0DXCC6P1Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-1
+    - generic: 39.99美元
+    - generic: "39"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: 标价：49.99美元
+    - generic: 列表：
+    - generic: 49.99美元
+    - generic: 49.99美元
+    - generic: （
+    - generic: 10.00美元
+    - generic: 10.00 美元
+    - generic: /支数
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - generic: ASIN：
+  - generic: B0DXCC6P1Z
+  - generic: "品牌:"
+  - generic: 石鹿城
+  - generic: "卖家:"
+  - generic: 石路成
+  - generic: 商品：FBA
+  - link "卖家：1":
+    - /url: https://www.amazon.com/gp/offer-listing/B0DXCC6P1Z/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 卖家：1
+  - generic: 加入产品库
+  - paragraph:
+    - generic: "#2,536"
+    - generic: 家居
+    - generic: 与厨房
+  - paragraph:
+    - generic: "#15"
+    - generic: 床
+    - generic: 笠
+  - paragraph:
+    - generic: "#37"
+    - generic: 床单
+    - generic: 和枕套套装
+  - generic: "近30天销量(父体):"
+  - generic: 6,767
+  - generic: "近30天销量(子体):"
+  - generic: 1,000+
+  - generic: 销售额：
+  - generic: $270,612
+  - generic: FBA费用：
+  - generic: 7.87美元
+  - generic: 毛利率：
+  - generic: 65%
+  - generic: 变形数：
+  - generic: "55"
+  - generic: 评分（评分数）：
+  - generic: 不适用
+  - generic: (不适用)
+  - generic: 尺寸：
+  - generic: 标准大号
+  - generic: 颜色：
+  - generic: 01 - 白色
+  - generic: 商品重量：
+  - generic: 3.99 磅
+  - generic: （1.81 千克）
+  - generic: 商品尺寸：
+  - generic: 11.42 x 9.84 x 4.49 英寸
+  - generic: 包装重量：
+  - generic: 3.99 磅
+  - generic: （1.81 千克）
+  - generic: 包装尺寸：
+  - generic: 11.4 x 9.8 x 4.5 英寸
+  - generic: （大号标准尺寸）
+  - generic: "上架时间:"
+  - generic: 2025-02-17
+  - generic: (626天)
+  - generic: "774"
+  - generic: "51"
+  - generic: "699"
+  - generic: (90.31%)
+  - generic: "322"
+  - generic: (41.60%)
+  - generic: 关键词反查
+  - generic: 广告分析
+  - generic: 关联流量
+  - generic: 查出单词
+  - generic: 1688找货源
+  - generic: 阿里巴巴
+  - generic: 全球售卖
+  - generic: 销量历史
+  - generic: 优麦云
+  - generic: 抖音达人
+  - generic: MCP服务
+  - paragraph
+  - link:
+    - /url: /Shilucheng-Derived-Breathable-Cooling-Sleepers/dp/B0FWY1TGFK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-2
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城四件套皇后尺寸床单，凉感床单，深灰色":
+    - /url: /Shilucheng-Derived-Breathable-Cooling-Sleepers/dp/B0FWY1TGFK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-2
+    - heading "世路城四件套皇后尺寸床单，凉感床单，深灰色" [level=2]:
+      - generic: 世路城四件套皇后尺寸床单，凉感床单，深灰色
+  - generic: "4.3"
+  - button "4.3 星（满分 5 星），评分详情":
+    - generic: 4.3 星（满分 5 星）
+  - link "24,384 条评价":
+    - /url: /Shilucheng-Derived-Breathable-Cooling-Sleepers/dp/B0FWY1TGFK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-2#customerReviews
+    - generic: （24.3K）
+  - generic: 过去一个月购买了500多件。
+  - link "限时优惠":
+    - /url: /deals
+    - generic: 限时优惠
+  - generic: 价格，产品页面
+  - link "29.73美元 标价：34.99美元 列表： 34.99美元":
+    - /url: /Shilucheng-Derived-Breathable-Cooling-Sleepers/dp/B0FWY1TGFK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-2
+    - generic: 29.73美元
+    - generic: "29"
+    - generic: 美元
+    - generic: 。
+    - generic: "73"
+    - generic: 标价：34.99美元
+    - generic: 列表：
+    - generic: 34.99美元
+    - generic: 34.99美元
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员
+  - generic: 在11月10日星期二
+  - generic: 购买亚马逊配送的商品满35美元即可享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - generic: ASIN：
+  - generic: B0FWY1TGFK
+  - generic: "品牌:"
+  - generic: 石鹿城
+  - generic: "卖家:"
+  - generic: 石路成
+  - generic: 商品：FBA
+  - link "卖家：1":
+    - /url: https://www.amazon.com/gp/offer-listing/B0FWY1TGFK/ref=dp_olp_new_mbc?ie=UTF8&amp;condition=new
+    - generic: 卖家：1
+  - generic: 加入产品库
+  - paragraph:
+    - generic: 7,950
+    - generic: 家居
+    - generic: 与厨房
+  - paragraph:
+    - generic: "#90"
+    - generic: 床单
+    - generic: 和枕套套装
+  - generic: "近30天销量(父体):"
+  - generic: 3,553
+  - generic: "近30天销量(子体):"
+  - generic: 500+
+  - generic: 销售额：
+  - generic: $105,631
+  - generic: FBA费用：
+  - generic: 7.79美元
+  - generic: 毛利率：
+  - generic: 59%
+  - generic: 变形数：
+  - generic: "95"
+  - generic: 评分（评分数）：
+  - generic: 不适用
+  - generic: (不适用)
+  - generic: 尺寸：
+  - generic: 加大双人床（四件套）
+  - generic: 颜色：
+  - generic: 01 - 深灰色
+  - generic: 商品重量：
+  - generic: 3.22 磅
+  - generic: （1.46 千克）
+  - generic: 商品尺寸：
+  - generic: 11.57 x 9.8 x 4.49 英寸
+  - generic: 包装重量：
+  - generic: 3.22 磅
+  - generic: （1.46 千克）
+  - generic: 包装尺寸：
+  - generic: 11.6 x 9.8 x 4.5 英寸
+  - generic: （大号标准尺寸）
+  - generic: "上架时间:"
+  - generic: 2025-10-26
+  - generic: (375天)
+  - generic: "437"
+  - generic: "2"
+  - generic: "402"
+  - generic: (91.99%)
+  - generic: "126"
+  - generic: (28.83%)
+  - generic: 关键词反查
+  - generic: 广告分析
+  - generic: 关联流量
+  - generic: 查出单词
+  - generic: 1688找货源
+  - generic: 阿里巴巴
+  - generic: 全球售卖
+  - generic: 销量历史
+  - generic: 优麦云
+  - generic: 抖音达人
+  - generic: MCP服务
+  - link:
+    - /url: /Shilucheng-Egyptian-Cotton-Sheets-Sheets%EF%BC%8CBreathable/dp/B0DSZCWGVP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-3
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城 100% 埃及长绒棉特大号床单 4 件套":
+    - /url: /Shilucheng-Egyptian-Cotton-Sheets-Sheets%EF%BC%8CBreathable/dp/B0DSZCWGVP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-3
+    - heading "世路城 100% 埃及长绒棉特大号床单 4 件套" [level=2]:
+      - generic: 世路城 100% 埃及长绒棉特大号床单 4 件套
+  - generic: "4.4"
+  - button "4.4 星（满分 5 星），评分详情":
+    - generic: 4.4 星（满分 5 星）
+  - link "8,342 条评价":
+    - /url: /Shilucheng-Egyptian-Cotton-Sheets-Sheets%EF%BC%8CBreathable/dp/B0DSZCWGVP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-3#customerReviews
+    - generic: （8.3K）
+  - generic: 过去一个月购买了200多件。
+  - link "限时优惠":
+    - /url: /deals
+    - generic: 限时优惠
+  - generic: 价格，产品页面
+  - link "59.40美元 标价：69.90美元 列表： 69.90美元 （ 14.85美元 每件":
+    - /url: /Shilucheng-Egyptian-Cotton-Sheets-Sheets%EF%BC%8CBreathable/dp/B0DSZCWGVP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-3
+    - generic: 59.40美元
+    - generic: "59"
+    - generic: 美元
+    - generic: 。
+    - generic: "40"
+    - generic: 标价：69.90美元
+    - generic: 列表：
+    - generic: 69.90美元
+    - generic: 69.90美元
+    - generic: （
+    - generic: 14.85美元
+    - text: 每件
+    - generic: 14.85美元）
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-100-Cotton-Duvet-Covers/dp/B0DKBW34X4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-4
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城 100% 纯棉特大号被套":
+    - /url: /Shilucheng-100-Cotton-Duvet-Covers/dp/B0DKBW34X4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-4
+    - heading "石鹿城 100% 纯棉特大号被套" [level=2]:
+      - generic: 石鹿城 100% 纯棉特大号被套
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "1951 条评价":
+    - /url: /Shilucheng-100-Cotton-Duvet-Covers/dp/B0DKBW34X4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-4#customerReviews
+    - generic: （1.9K）
+  - generic: 过去一个月购买了200多件。
+  - generic: 价格，产品页面
+  - link "69.99美元 （ 23.33美元 /套）":
+    - /url: /Shilucheng-100-Cotton-Duvet-Covers/dp/B0DKBW34X4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-4
+    - generic: 69.99美元
+    - generic: "69"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: （
+    - generic: 23.33美元
+    - generic: （23.33美元
+    - generic: /套）
+  - checkbox "优惠券价格 59.49美元"
+  - generic: 优惠券价格
+  - generic: 59.49美元
+  - generic: "59"
+  - generic: 美元
+  - generic: 。
+  - generic: "49"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Viscose-Derived-Bamboo_-Sheets/dp/B09PYKYCCF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-5
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城 100% 竹纤维粘胶床单 皇后尺寸 4 件套":
+    - /url: /Shilucheng-Viscose-Derived-Bamboo_-Sheets/dp/B09PYKYCCF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-5
+    - heading "石鹿城 100% 竹纤维粘胶床单 皇后尺寸 4 件套" [level=2]:
+      - generic: 石鹿城 100% 竹纤维粘胶床单 皇后尺寸 4 件套
+  - generic: "4.4"
+  - button "4.4 星（满分 5 星），评分详情":
+    - generic: 4.4 星（满分 5 星）
+  - link "3,973 条评价":
+    - /url: /Shilucheng-Viscose-Derived-Bamboo_-Sheets/dp/B09PYKYCCF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-5#customerReviews
+    - generic: （3.9K）
+  - generic: 过去一个月购买了200多件。
+  - generic: 价格，产品页面
+  - link "54.90美元 （ 13.73美元 每件":
+    - /url: /Shilucheng-Viscose-Derived-Bamboo_-Sheets/dp/B09PYKYCCF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-5
+    - generic: 54.90美元
+    - generic: "54"
+    - generic: 美元
+    - generic: 。
+    - generic: "90"
+    - generic: （
+    - generic: 13.73美元
+    - text: 每件
+    - generic: 13.73美元）
+  - checkbox "优惠券价格 46.60美元"
+  - generic: 优惠券价格
+  - generic: 46.60美元
+  - generic: "46"
+  - generic: 美元
+  - generic: 。
+  - generic: "60"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Natural-Closure-Breathable-Comforter/dp/B0DP8MYZLB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-6
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城 100% 亚麻特大号被套套装，亚麻":
+    - /url: /Shilucheng-Natural-Closure-Breathable-Comforter/dp/B0DP8MYZLB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-6
+    - heading "石鹿城 100% 亚麻特大号被套套装，亚麻" [level=2]:
+      - generic: 石鹿城 100% 亚麻特大号被套套装，亚麻
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "820 条评价":
+    - /url: /Shilucheng-Natural-Closure-Breathable-Comforter/dp/B0DP8MYZLB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-6#customerReviews
+    - generic: （820）
+  - generic: 过去一个月购买了100多件。
+  - generic: 价格，产品页面
+  - link "119.99美元 （ 40.00美元 /套":
+    - /url: /Shilucheng-Natural-Closure-Breathable-Comforter/dp/B0DP8MYZLB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-6
+    - generic: 119.99美元
+    - generic: "119"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: （
+    - generic: 40.00美元
+    - generic: 40.00 美元
+    - generic: /套
+  - checkbox "优惠券价格 109.99美元"
+  - generic: 优惠券价格
+  - generic: 109.99美元
+  - generic: "109"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-100-French-Linen-Sheets/dp/B0D8SZWW1P/ref=sr_1_7?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-7
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城 100% 法国亚麻床单 - 大号床单":
+    - /url: /Shilucheng-100-French-Linen-Sheets/dp/B0D8SZWW1P/ref=sr_1_7?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-7
+    - heading "世路城 100% 法国亚麻床单 - 大号床单" [level=2]:
+      - generic: 世路城 100% 法国亚麻床单 - 大号床单
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "5,173 条评价":
+    - /url: /Shilucheng-100-French-Linen-Sheets/dp/B0D8SZWW1P/ref=sr_1_7?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-7#customerReviews
+    - generic: （5.1K）
+  - generic: 过去一个月购买了100多件。
+  - link "限时优惠":
+    - /url: /deals
+    - generic: 限时优惠
+  - generic: 价格，产品页面
+  - link "99.99美元 标价：129.99美元 列表： 129.99美元 （ 25.00美元 /套":
+    - /url: /Shilucheng-100-French-Linen-Sheets/dp/B0D8SZWW1P/ref=sr_1_7?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-7
+    - generic: 99.99美元
+    - generic: "99"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: 标价：129.99美元
+    - generic: 列表：
+    - generic: 129.99美元
+    - generic: 129.99美元
+    - generic: （
+    - generic: 25.00美元
+    - generic: 25.00 美元
+    - generic: /套
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Viscose-Bamboo_Sheets-Mattress-Breathable/dp/B0F2TDDFGJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-8
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城 100% 竹纤维粘胶床单，加深口袋":
+    - /url: /Shilucheng-Viscose-Bamboo_Sheets-Mattress-Breathable/dp/B0F2TDDFGJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-8
+    - heading "石鹿城 100% 竹纤维粘胶床单，加深口袋" [level=2]:
+      - generic: 石鹿城 100% 竹纤维粘胶床单，加深口袋
+  - generic: "4.6"
+  - button "4.6 星（满分 5 星），评分详情":
+    - generic: 4.6 星（满分 5 星）
+  - link "2,956 条评价":
+    - /url: /Shilucheng-Viscose-Bamboo_Sheets-Mattress-Breathable/dp/B0F2TDDFGJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-8#customerReviews
+    - generic: （2.9K）
+  - generic: 过去一个月购买了100多件。
+  - generic: 价格，产品页面
+  - link "74.99美元":
+    - /url: /Shilucheng-Viscose-Bamboo_Sheets-Mattress-Breathable/dp/B0F2TDDFGJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-8
+    - generic: 74.99美元
+    - generic: "74"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+  - checkbox "优惠券价格 63.74美元"
+  - generic: 优惠券价格
+  - generic: 63.74美元
+  - generic: "63"
+  - generic: 美元
+  - generic: 。
+  - generic: "74"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Goose-Down-Feather-Pillows/dp/B0FSS6L11T/ref=sr_1_9?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-9
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城鹅绒羽毛枕头特大号2件套":
+    - /url: /Shilucheng-Goose-Down-Feather-Pillows/dp/B0FSS6L11T/ref=sr_1_9?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-9
+    - heading "世路城鹅绒羽毛枕头特大号2件套" [level=2]:
+      - generic: 世路城鹅绒羽毛枕头特大号2件套
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "125 条评价":
+    - /url: /Shilucheng-Goose-Down-Feather-Pillows/dp/B0FSS6L11T/ref=sr_1_9?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-9#customerReviews
+    - generic: （125）
+  - generic: 过去一个月购买了100多件。
+  - generic: 价格，产品页面
+  - link "139.99美元 （ 70.00美元 /件":
+    - /url: /Shilucheng-Goose-Down-Feather-Pillows/dp/B0FSS6L11T/ref=sr_1_9?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-9
+    - generic: 139.99美元
+    - generic: "139"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: （
+    - generic: 70.00美元
+    - generic: 70.00 美元
+    - generic: /件
+  - checkbox "优惠券价格 118.99美元"
+  - generic: 优惠券价格
+  - generic: 118.99美元
+  - generic: "118"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Comforter-Ultra-Soft-Maximum-Fluffiness/dp/B0GG8R7G4C/ref=sr_1_10?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-10
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城鹅绒被，皇后尺寸，100%纯棉被套":
+    - /url: /Shilucheng-Comforter-Ultra-Soft-Maximum-Fluffiness/dp/B0GG8R7G4C/ref=sr_1_10?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-10
+    - heading "石鹿城鹅绒被，皇后尺寸，100%纯棉被套" [level=2]:
+      - generic: 石鹿城鹅绒被，皇后尺寸，100%纯棉被套
+  - generic: "4.6"
+  - button "4.6 星（满分 5 星），评分详情":
+    - generic: 4.6 星（满分 5 星）
+  - link "501 条评价":
+    - /url: /Shilucheng-Comforter-Ultra-Soft-Maximum-Fluffiness/dp/B0GG8R7G4C/ref=sr_1_10?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-10#customerReviews
+    - generic: （501）
+  - generic: 过去一个月购买了100多件。
+  - generic: 价格，产品页面
+  - link "89.99美元":
+    - /url: /Shilucheng-Comforter-Ultra-Soft-Maximum-Fluffiness/dp/B0GG8R7G4C/ref=sr_1_10?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-10
+    - generic: 89.99美元
+    - generic: "89"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+  - checkbox "优惠券价格 69.99美元"
+  - generic: 优惠券价格
+  - generic: 69.99美元
+  - generic: "69"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Bohemian-Waterproof-Reversible-Foldable/dp/B0G1398JJF/ref=sr_1_11?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-11
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石路城 8x10 英尺户外地毯，适用于庭院，现代防水地毯":
+    - /url: /Shilucheng-Bohemian-Waterproof-Reversible-Foldable/dp/B0G1398JJF/ref=sr_1_11?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-11
+    - heading "石路城 8x10 英尺户外地毯，适用于庭院，现代防水地毯" [level=2]:
+      - generic: 石路城 8x10 英尺户外地毯，适用于庭院，现代防水地毯
+  - generic: "4.3"
+  - button "4.3 星（满分 5 星），评分详情":
+    - generic: 4.3 星（满分 5 星）
+  - link "189 条评价":
+    - /url: /Shilucheng-Bohemian-Waterproof-Reversible-Foldable/dp/B0G1398JJF/ref=sr_1_11?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-11#customerReviews
+    - generic: （189）
+  - generic: 过去一个月购买了100多件。
+  - generic: 价格，产品页面
+  - link "49.99美元 （ 0.62美元 每平方英尺":
+    - /url: /Shilucheng-Bohemian-Waterproof-Reversible-Foldable/dp/B0G1398JJF/ref=sr_1_11?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-11
+    - generic: 49.99美元
+    - generic: "49"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: （
+    - generic: 0.62美元
+    - text: 每平方英尺
+    - generic: 0.62 美元）
+  - checkbox "优惠券价格 42.49美元"
+  - generic: 优惠券价格
+  - generic: 42.49美元
+  - generic: "42"
+  - generic: 美元
+  - generic: 。
+  - generic: "49"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 11月7日（周六）的免费送货服务。
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Viscose-derived-Comforter-Closure%EF%BC%8CHotel/dp/B0G9N5WTXW/ref=sr_1_12?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-12
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城特大号被套套装，100%竹纤维粘胶":
+    - /url: /Shilucheng-Viscose-derived-Comforter-Closure%EF%BC%8CHotel/dp/B0G9N5WTXW/ref=sr_1_12?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-12
+    - heading "石鹿城特大号被套套装，100%竹纤维粘胶" [level=2]:
+      - generic: 石鹿城特大号被套套装，100%竹纤维粘胶
+  - generic: "4.9"
+  - button "4.9 星（满分 5 星），评分详情":
+    - generic: 4.9 分（满分 5 分）
+  - link "77 条评价":
+    - /url: /Shilucheng-Viscose-derived-Comforter-Closure%EF%BC%8CHotel/dp/B0G9N5WTXW/ref=sr_1_12?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-12#customerReviews
+    - generic: （77）
+  - generic: 过去一个月购买了 50 多件。
+  - link "限时优惠":
+    - /url: /deals
+    - generic: 限时优惠
+  - generic: 价格，产品页面
+  - link "64.99美元 标价：79.99美元 列表： 79.99美元":
+    - /url: /Shilucheng-Viscose-derived-Comforter-Closure%EF%BC%8CHotel/dp/B0G9N5WTXW/ref=sr_1_12?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-12
+    - generic: 64.99美元
+    - generic: "64"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: 标价：79.99美元
+    - generic: 列表：
+    - generic: 79.99美元
+    - generic: 79.99美元
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 11月7日（周六）的免费送货服务。
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Goose-White-Pillows-20x30-01/dp/B0FG7NZVYL/ref=sr_1_13?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-13
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城鹅绒枕头，皇后尺寸，1个装，100%纯棉枕套":
+    - /url: /Shilucheng-Goose-White-Pillows-20x30-01/dp/B0FG7NZVYL/ref=sr_1_13?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-13
+    - heading "石鹿城鹅绒枕头，皇后尺寸，1个装，100%纯棉枕套" [level=2]:
+      - generic: 石鹿城鹅绒枕头，皇后尺寸，1个装，100%纯棉枕套
+  - generic: "4.5"
+  - button "4.5 星（满分 5 星），评分详情":
+    - generic: 4.5 星（满分 5 星）
+  - link "214 条评价":
+    - /url: /Shilucheng-Goose-White-Pillows-20x30-01/dp/B0FG7NZVYL/ref=sr_1_13?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-13#customerReviews
+    - generic: （214）
+  - generic: 过去一个月购买了 50 多件。
+  - generic: 价格，产品页面
+  - link "119.99美元":
+    - /url: /Shilucheng-Goose-White-Pillows-20x30-01/dp/B0FG7NZVYL/ref=sr_1_13?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-13
+    - generic: 119.99美元
+    - generic: "119"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+  - checkbox "优惠券价格 89.99美元"
+  - generic: 优惠券价格
+  - generic: 89.99美元
+  - generic: "89"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Breathable-Decorative-Envelope-Closure/dp/B0DP8P4KM9/ref=sr_1_14?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-14
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "Shilucheng 100% 法国亚麻欧式枕套 26\"x26\" 2个装，柔软透气枕套，装饰性方形抱枕套，适用于床、沙发、长椅，信封式开口（天然亚麻色）":
+    - /url: /Shilucheng-Breathable-Decorative-Envelope-Closure/dp/B0DP8P4KM9/ref=sr_1_14?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-14
+    - heading "Shilucheng 100% 法国亚麻欧式枕套 26\"x26\" 2个装，柔软透气枕套，装饰性方形抱枕套，适用于床、沙发、长椅，信封式开口（天然亚麻色）" [level=2]:
+      - generic: Shilucheng 100% 法国亚麻欧式枕套 26"x26" 2个装，柔软透气枕套，装饰性方形抱枕套，适用于床、沙发、长椅，信封式开口（天然亚麻色）
+  - generic: "4.6"
+  - button "4.6 星（满分 5 星），评分详情":
+    - generic: 4.6 星（满分 5 星）
+  - link "57 条评价":
+    - /url: /Shilucheng-Breathable-Decorative-Envelope-Closure/dp/B0DP8P4KM9/ref=sr_1_14?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-14#customerReviews
+    - generic: （57）
+  - generic: 价格，产品页面
+  - link "15.99美元 典型值：31.99 美元 典型的： 31.99美元 30天最低价":
+    - /url: /Shilucheng-Breathable-Decorative-Envelope-Closure/dp/B0DP8P4KM9/ref=sr_1_14?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-14
+    - generic: 15.99美元
+    - generic: "15"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: 典型值：31.99 美元
+    - generic: 典型的：
+    - generic: 31.99美元
+    - generic: 31.99美元
+    - generic: 30天最低价
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 11月7日（周六）的免费送货服务。
+  - generic: 或者，非会员
+  - generic: 在11月10日星期二
+  - generic: 购买亚马逊配送的商品满35美元即可享受免费送货服务。
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Wool-Non-Slip-Blend-Cotton/dp/B0FFG8RRPD/ref=sr_1_15?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-15
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "石鹿城羊毛地毯 8x10 英尺，防滑，80% 羊毛和 20% 棉混纺":
+    - /url: /Shilucheng-Wool-Non-Slip-Blend-Cotton/dp/B0FFG8RRPD/ref=sr_1_15?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-15
+    - heading "石鹿城羊毛地毯 8x10 英尺，防滑，80% 羊毛和 20% 棉混纺" [level=2]:
+      - generic: 石鹿城羊毛地毯 8x10 英尺，防滑，80% 羊毛和 20% 棉混纺
+  - generic: "4.6"
+  - button "4.6 星（满分 5 星），评分详情":
+    - generic: 4.6 星（满分 5 星）
+  - link "44 条评价":
+    - /url: /Shilucheng-Wool-Non-Slip-Blend-Cotton/dp/B0FFG8RRPD/ref=sr_1_15?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-15#customerReviews
+    - generic: （44）
+  - generic: 过去一个月购买了 50 多件。
+  - generic: 价格，产品页面
+  - link "319.99美元":
+    - /url: /Shilucheng-Wool-Non-Slip-Blend-Cotton/dp/B0FFG8RRPD/ref=sr_1_15?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-15
+    - generic: 319.99美元
+    - generic: "319"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+  - checkbox "优惠券价格 299.99美元"
+  - generic: 优惠券价格
+  - generic: 299.99美元
+  - generic: "299"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 11月10日星期二
+  - text: 免费送货
+  - button "添加到购物车"
+  - generic: 添加到购物车
+  - link:
+    - /url: /Shilucheng-Egyptian-Long-Staple-Mattress-Breathable/dp/B0G3PS161X/ref=sr_1_16?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-16
+  - button "点赞即可将商品保存到您的列表中":
+    - img "点赞即可将商品保存到您的列表中"
+  - link "世路城 100% 埃及长绒棉床单，加深口袋":
+    - /url: /Shilucheng-Egyptian-Long-Staple-Mattress-Breathable/dp/B0G3PS161X/ref=sr_1_16?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-16
+    - heading "世路城 100% 埃及长绒棉床单，加深口袋" [level=2]:
+      - generic: 世路城 100% 埃及长绒棉床单，加深口袋
+  - generic: "4.6"
+  - button "4.6 星（满分 5 星），评分详情":
+    - generic: 4.6 星（满分 5 星）
+  - link "1039 条评价":
+    - /url: /Shilucheng-Egyptian-Long-Staple-Mattress-Breathable/dp/B0G3PS161X/ref=sr_1_16?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-16#customerReviews
+    - generic: （1K）
+  - generic: 过去一个月购买了 50 多件。
+  - generic: 价格，产品页面
+  - link "79.99美元 标价：84.99美元 列表： 84.99美元":
+    - /url: /Shilucheng-Egyptian-Long-Staple-Mattress-Breathable/dp/B0G3PS161X/ref=sr_1_16?dib=eyJ2IjoiMSJ9.nk8wZsiSoeBHYo_na0h_N-rO8lxzEHhmyregnNTZKkxnSnh0MHfeGYnhqskYGZLC0LucvwjOCR9yamW9pGBCivBb8ajZF_Zyvv--ssdgj23fNDHyMv46DwQn8eqx0Vi2OQHmwaAwvqzhx2GR9qeZC_RugAKSlQxLA0Azu8fuQ02eg2xrWs3fanH0Q1XLsQZBQVI5oGMhJ6cQI7sDDDqgxOPnlnFCX6SU91s5JiwMZjQ.P_an59DIG5v5qo-MEYtWecntuOgym8EmReSNMlEOoP4&dib_tag=se&m=AHKCVOX33TXTW&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1793910862&s=merchant-items&sr=1-16
+    - generic: 79.99美元
+    - generic: "79"
+    - generic: 美元
+    - generic: 。
+    - generic: "99"
+    - generic: 标价：84.99美元
+    - generic: 列表：
+    - generic: 84.99美元
+    - generic: 84.99美元
+  - checkbox "优惠券价格 67.99美元"
+  - generic: 优惠券价格
+  - generic: 67.99美元
+  - generic: "67"
+  - generic: 美元
+  - generic: 。
+  - generic: "99"
+  - generic: 加入Prime会员
+  - generic: ，即可享受
+  - generic: 明日（11月6日）免费送货服务
+  - generic: 或者，非会员可
+  - generic: 于11月10日（周二）享受免费送货服务。
+  - button "更安全的化学品":
+    - generic: 更安全的化学品
+  - button "添加到购物车"
+  - generic: 添加到购物车
+- navigation "分页":
+  - list:
+    - button "以前的" [disabled]:
+      - generic: 以前的
+    - button "第 1 页":
+      - generic: "1"
+    - button "转到第2页":
+      - generic: "2"
+    - button "请转至下一页，第2页。":
+      - generic: 下一个
+- heading "需要帮助吗？" [level=2]:
+  - generic: 需要帮助吗？
+- link "访问帮助中心":
+  - /url: /gp/help/customer/display.html?nodeId=468556
+  - generic: 访问帮助中心
+- generic: 或
+- link "联系我们":
+  - /url: /gp/help/customer/contact-us
+  - generic: 联系我们
+- link "返回筛选菜单":
+  - /url: "#s-skipLinkTargetForFilterOptions"
+  - generic: 返回筛选菜单
+- link "跳转至主要搜索结果":
+  - /url: "#s-skipLinkTargetForMainSearchResults"
+  - generic: 跳转至主要搜索结果
+- group "送货日":
+  - heading "送货日" [level=2]:
+    - generic: 送货日
+  - list "送货日":
+    - link "使用“明日送达”筛选条件缩小结果范围":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_90%3A8308921011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3AnOvvcoJpcTiy3C%2F8sTY%2F36nBTFPg0PclBEsDBUJ%2FyQY
+      - checkbox
+      - generic: 明天就能收到
+  - heading "符合免运费条件" [level=2]:
+    - generic: 符合免运费条件
+  - list "符合免运费条件":
+    - link "使用“免运费”筛选条件缩小搜索结果":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_free_shipping_afn_mfn%3A23598027011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=23598024011&ref=sr_nr_p_n_free_shipping_afn_mfn_1&ds=v1%3As0TYJBpo0rOasmMVQYrahw7ubm0LXn6Whuk40hxXDRw
+      - checkbox
+      - generic: 免运费
+- group "部门":
+  - heading "部门" [level=2]:
+    - generic: 部门
+  - list "部门":
+    - link "健康与家居":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=n%3A3760901&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AA5jzsd5fOOgiEZ%2BHLmFhMWZIZKizxlhU%2BCcXZTS3GLI
+      - generic: 健康与家居
+    - list
+    - link "家居与厨房":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=n%3A1055398&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AnC7NRltEZsbzC1Hlm7CIICq%2FEwWMiygKfsn3gvAYkAU
+      - generic: 家居与厨房
+    - list
+    - link "庭院、草坪和花园":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=n%3A2972638011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3A2khfbNrcgm%2Bb7div9RL12LSLc6rzK9Q2nHHEkI%2BnVIc
+      - generic: 庭院、草坪和花园
+    - list
+- group "用户评价":
+  - heading "用户评价" [level=2]:
+    - generic: 用户评价
+  - list "用户评价":
+    - link "应用“4 星及以上”筛选条件缩小结果范围":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_72%3A2661618011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2661617011&ref=sr_nr_p_72_1&ds=v1%3AsE15HI7GX%2FFleo0wuvg4VYnG8VyvMrkURu%2FDHNCj0yE
+      - generic: 四星
+      - generic: ＆ 向上
+- group "优惠和折扣":
+  - heading "优惠和折扣" [level=2]:
+    - generic: 优惠和折扣
+  - list "优惠和折扣":
+    - link "所有折扣":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_deal_type%3A23566065011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AOq07a2QSWbngFUTt5bDhtDOPJlHGx3For1tjVx2zOSE
+      - generic: 所有折扣
+    - link "优惠券":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_deal_type%3A210906366011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3AWDeGxAtJ0%2FxyVYkUyq858ec8%2BUaYpsGQQGjRH%2BedC9Q
+      - generic: 优惠券
+    - link "今日特惠":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_deal_type%3A23566064011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=23566063011&ref=sr_nr_p_n_deal_type_3&ds=v1%3AU1xUy6oN2u44tCvZalFfMAxh84uBLpTyNWBUhIWkUKU
+      - generic: 今日特惠
+- group "健康）状况":
+  - heading "健康）状况" [level=2]:
+    - generic: 健康）状况
+  - list "健康）状况":
+    - link "新的":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_condition-type%3A6461716011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=6461714011&ref=sr_nr_p_n_condition-type_1&ds=v1%3A9FHzo3KKeLEbvjl9QXxZfY%2BAqxbooDfU2o8Nb8OCxHQ
+      - generic: 新的
+- group "可持续性特征":
+  - heading "可持续性特征" [level=2]:
+    - generic: 可持续性特征
+  - list "可持续性特征":
+    - link "任何功能":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_cpf_labels%3A121136630011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3AjAjUNcBc4uy10vAH7pH%2FZIxmofFYS0%2FF2Ml8xZJFNjA
+      - generic: 任何功能
+    - link "更安全的化学品":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_cpf_labels%3A116845683011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3A5ft9Zvi6s6CFum0NJPJPVyJ5TflHWvboFxqjzHgACMA
+      - generic: 更安全的化学品
+- group "国际运输":
+  - heading "国际运输" [level=2]:
+    - generic: 国际运输
+  - list "国际运输":
+    - link "使用“符合国际运输条件”筛选器缩小搜索结果范围":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_shipping_option-bin%3A3242350011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2944662011&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3AXvHhLxAZYgkxlV2rv15aFVcvS0IC%2BdXCDRRPlmWhDpM
+      - checkbox
+      - generic: 符合国际运输条件
+- group "可用性":
+  - heading "可用性" [level=2]:
+    - generic: 可用性
+  - list "可用性":
+    - link "使用“包含缺货商品”筛选器缩小结果范围":
+      - /url: /s?i=merchant-items&me=AHKCVOX33TXTW&rh=p_n_availability%3A2661601011&dc&marketplaceID=ATVPDKIKX0DER&qid=1793910862&rnid=2661599011&ref=sr_nr_p_n_availability_2&ds=v1%3AoRaZ%2FNHHdR3YmRozpa1qHk6Su5HNOiPEKQjadTpONdM
+      - checkbox
+      - generic: 包含缺货商品
+- complementary "您最近浏览过的商品和推荐商品"
+- button "返回顶部":
+  - generic: 返回顶部
+- heading "了解我们" [level=6]:
+  - generic: 了解我们
+- list:
+  - link "职业生涯":
+    - /url: https://www.amazon.jobs
+    - generic: 职业生涯
+  - link "亚马逊新闻简讯":
+    - /url: https://www.aboutamazon.com/subscribe?utm_source=amazon_com&utm_medium=amazonfooter&utm_campaign=newslettersubscribers&utm_term=amazonnewssignup
+    - generic: 亚马逊新闻简讯
+  - link "关于亚马逊":
+    - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about
+    - generic: 关于亚马逊
+  - link "无障碍":
+    - /url: https://www.amazon.com/b?node=15701038011&ie=UTF8
+    - generic: 无障碍
+  - link "可持续性":
+    - /url: https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer
+    - generic: 可持续性
+  - link "新闻中心":
+    - /url: https://www.amazon.com/pr
+    - generic: 新闻中心
+  - link "投资者关系":
+    - /url: https://www.amazon.com/ir
+    - generic: 投资者关系
+  - link "亚马逊设备":
+    - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+    - generic: 亚马逊设备
+  - link "亚马逊科学":
+    - /url: https://www.amazon.science
+    - generic: 亚马逊科学
+- heading "和我们一起赚钱" [level=6]:
+  - generic: 和我们一起赚钱
+- list:
+  - link "在亚马逊上销售":
+    - /url: https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa
+    - generic: 在亚马逊上销售
+  - link "在亚马逊上销售应用程序":
+    - /url: https://developer.amazon.com?ref_=footer_mm_apps
+    - generic: 在亚马逊上销售应用程序
+  - link "向亚马逊供货":
+    - /url: https://supply.amazon.com?ref_=footer_mm_supply
+    - generic: 向亚马逊供货
+  - link "保护和打造您的品牌":
+    - /url: https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT&ref_=footer_mm_brand
+    - generic: 保护和打造您的品牌
+  - link "成为联盟会员":
+    - /url: https://affiliate-program.amazon.com/?ref_=footer_mm_affiliate
+    - generic: 成为联盟会员
+  - link "成为送货司机":
+    - /url: https://dspjobhub.com/?ref_=footer_mm_dsp_driver
+    - generic: 成为送货司机
+  - link "开办一家包裹递送公司":
+    - /url: https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home&ref_=footer_mm_dsp
+    - generic: 开办一家包裹递送公司
+  - link "推广您的产品":
+    - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+    - generic: 推广您的产品
+  - link "与我们一起自助出版":
+    - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+    - generic: 与我们一起自助出版
+  - link "成为亚马逊物流合作伙伴":
+    - /url: https://www.amazon.com/b?node=216188543011&ref_=footer_mm_hub
+    - generic: 成为亚马逊物流合作伙伴
+  - generic: ›
+  - link "查看更多赚钱方法":
+    - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+    - generic: 查看更多赚钱方法
+- heading "亚马逊支付产品" [level=6]:
+  - generic: 亚马逊支付产品
+- list:
+  - link "亚马逊 Visa 卡":
+    - /url: /iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc
+    - generic: 亚马逊 Visa 卡
+  - link "亚马逊商店卡":
+    - /url: /credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc
+    - generic: 亚马逊商店卡
+  - link "亚马逊安全信用卡":
+    - /url: /dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB
+    - generic: 亚马逊安全信用卡
+  - link "亚马逊商务卡":
+    - /url: /dp/B0DVBL912R?plattr=ACOMFO&ie=UTF-8&ref_=footer_pay_sbcc
+    - generic: 亚马逊商务卡
+  - link "使用积分购物":
+    - /url: https://www.amazon.com/hp/shopwithpoints/servicing?ref_=footer_pay_swp
+    - generic: 使用积分购物
+  - link "信用卡市场":
+    - /url: /gp/browse.html?node=3561432011&ref_=footer_ccmp
+    - generic: 信用卡市场
+  - link "充值余额":
+    - /url: /gp/browse.html?node=10232440011&ref_=footer_reload_us
+    - generic: 充值余额
+  - link "礼品卡":
+    - /url: https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop
+    - generic: 礼品卡
+  - link "亚马逊货币转换器":
+    - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+    - generic: 亚马逊货币转换器
+- heading "让我们来帮助您" [level=6]:
+  - generic: 让我们来帮助您
+- list:
+  - link "您的帐户":
+    - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+    - generic: 您的帐户
+  - link "您的订单":
+    - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+    - generic: 您的订单
+  - link "客户服务":
+    - /url: /hz/contact-us/foresight/hubgateway?ref_=footer_gw_m_b_he
+    - generic: 客户服务
+  - link "运费及政策":
+    - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+    - generic: 运费及政策
+  - link "亚马逊Prime会员":
+    - /url: /gp/prime?ref_=footer_prime
+    - generic: 亚马逊Prime会员
+  - link "退货与换货":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+    - generic: 退货与换货
+  - link "管理您的内容和设备":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+    - generic: 管理您的内容和设备
+  - link "召回和产品安全警报":
+    - /url: https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa
+    - generic: 召回和产品安全警报
+  - link "产品安全提示":
+    - /url: /gp/browse.html?node=119071507011&ref_=footer_us_ps
+    - generic: 产品安全提示
+  - link "注册和礼物清单":
+    - /url: /registries?ref_=nav_footer_registry_giftlist_desktop
+    - generic: 注册和礼物清单
+- link "亚马逊美国首页":
+  - /url: /?ref_=footer_logo
+- link "选择购物语言。当前选项为英语。":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: 英语
+- button "展开以更改语言或国家/地区"
+- button "请选择购物国家/地区。当前选项为美国。":
+  - generic: 美国
+- navigation "亚马逊上还有更多内容":
+  - generic "亚马逊上还有更多内容":
+    - list:
+      - link "亚马逊音乐 播放数百万 首歌曲":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "亚马逊音乐" [level=5]:
+          - generic: 亚马逊音乐
+        - generic: 播放数百万
+        - generic: 首歌曲
+      - link "亚马逊广告 无论客户身 在何处，都能触达 他们。":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "亚马逊广告" [level=5]:
+          - generic: 亚马逊广告
+        - generic: 无论客户身
+        - generic: 在何处，都能触达
+        - generic: 他们。
+      - link "下午6点 时尚品牌优惠多多":
+        - /url: https://www.6pm.com
+        - heading "下午6点" [level=5]:
+          - generic: 下午6点
+        - generic: 时尚品牌优惠多多
+      - link "AbeBooks 书籍、艺术品 和收藏品":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]:
+          - generic: AbeBooks
+        - generic: 书籍、艺术品
+        - generic: 和收藏品
+      - link "ACX 轻松出版有声书":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]:
+          - generic: ACX
+        - generic: 轻松出版有声书
+      - link "在亚马逊上销售 开设销售账户":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "在亚马逊上销售" [level=5]:
+          - generic: 在亚马逊上销售
+        - generic: 开设销售账户
+      - link "维科 物流软件 库存管理":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "维科" [level=5]:
+          - generic: 维科
+        - generic: 物流软件
+        - generic: 库存管理
+    - list:
+      - link "亚马逊企业购 一切与 您业务相关":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "亚马逊企业购" [level=5]:
+          - generic: 亚马逊企业购
+        - generic: 一切与
+        - generic: 您业务相关
+      - link "亚马逊的食品杂货 食品杂货及其他商品 直接送到您家门口":
+        - /url: /fmc/grocery-gateway?almBrandId=fe16aGPfFs46S&ref_=footer_groceries
+        - heading "亚马逊的食品杂货" [level=5]:
+          - generic: 亚马逊的食品杂货
+        - generic: 食品杂货及其他商品
+        - generic: 直接送到您家门口
+      - link "亚马逊全球 国际订单发货":
+        - /url: /gp/browse.html?node=20338496011&ref_=footer_amazonglobal
+        - heading "亚马逊全球" [level=5]:
+          - generic: 亚马逊全球
+        - generic: 国际订单发货
+      - link "家庭服务 经验丰富的专业人士，为您 带来幸福保障":
+        - /url: /services?ref_=footer_services
+        - heading "家庭服务" [level=5]:
+          - generic: 家庭服务
+        - generic: 经验丰富的专业人士，为您
+        - generic: 带来幸福保障
+      - link "亚马逊网络服务 可扩展云 计算服务":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "亚马逊网络服务" [level=5]:
+          - generic: 亚马逊网络服务
+        - generic: 可扩展云
+        - generic: 计算服务
+      - link "有声读物 聆听有声读物和原创 音频表演":
+        - /url: https://www.audible.com
+        - heading "有声读物" [level=5]:
+          - generic: 有声读物
+        - generic: 聆听有声读物和原创
+        - generic: 音频表演
+      - link "Box Office Mojo 查找电影 票房数据":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]:
+          - generic: Box Office Mojo
+        - generic: 查找电影
+        - generic: 票房数据
+    - list:
+      - link "Goodreads 书评 与推荐":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]:
+          - generic: Goodreads
+        - generic: 书评
+        - generic: 与推荐
+      - link "IMDb 电影、电视 和名人":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]:
+          - generic: IMDb
+        - generic: 电影、电视
+        - generic: 和名人
+      - link "IMDbPro 获取娱乐行业 专业人士所需信息":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]:
+          - generic: IMDbPro
+        - generic: 获取娱乐行业
+        - generic: 专业人士所需信息
+      - link "Kindle直接出版 轻松实现 独立数字和印刷出版":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle直接出版" [level=5]:
+          - generic: Kindle直接出版
+        - generic: 轻松实现 独立数字和印刷出版
+      - link "亚马逊照片 Prime会员享无限照片存储空间":
+        - /url: /gp/browse.html?node=13234696011&ref_=_gno_p_foot
+        - heading "亚马逊照片" [level=5]:
+          - generic: 亚马逊照片
+        - generic: Prime会员享无限照片存储空间
+      - link "Prime Video Direct 视频分发 变得轻松":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]:
+          - generic: Prime Video Direct
+        - generic: 视频分发
+        - generic: 变得轻松
+      - link "Shopbop 设计师 时尚品牌":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]:
+          - generic: Shopbop
+        - generic: 设计师
+        - generic: 时尚品牌
+    - list:
+      - link "亚马逊二手商品 优质二手商品超值优惠":
+        - /url: /gp/browse.html?node=10158976011&ref_=footer_wrhsdls
+        - heading "亚马逊二手商品" [level=5]:
+          - generic: 亚马逊二手商品
+        - generic: 优质二手商品超值优惠
+      - link "全食超市 美国最健康的 杂货店":
+        - /url: https://www.wholefoodsmarket.com
+        - heading "全食超市" [level=5]:
+          - generic: 全食超市
+        - generic: 美国最健康的
+        - generic: 杂货店
+      - link "哇！ 交易和 骗局":
+        - /url: https://www.woot.com/
+        - heading "哇！" [level=5]:
+          - generic: 哇！
+        - generic: 交易和
+        - generic: 骗局
+      - link "Zappos 鞋履及 服装":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]:
+          - generic: Zappos
+        - generic: 鞋履及
+        - generic: 服装
+      - link "戒指 智能家居 安防系统":
+        - /url: https://ring.com
+        - heading "戒指" [level=5]:
+          - generic: 戒指
+        - generic: 智能家居
+        - generic: 安防系统
+      - link "eero WiFi 在每个房间播放 4K 视频":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]:
+          - generic: eero WiFi
+        - generic: 在每个房间播放 4K 视频
+      - link "眨 智能安防 ，家家有 保障":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "眨" [level=5]:
+          - generic: 眨
+        - generic: 智能安防
+        - generic: ，家家有 保障
+    - list:
+      - link "邻居应用 实时犯罪 与安全警报":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "邻居应用" [level=5]:
+          - generic: 邻居应用
+        - generic: 实时犯罪
+        - generic: 与安全警报
+      - link "药盒 简化药房":
+        - /url: https://www.pillpack.com
+        - heading "药盒" [level=5]:
+          - generic: 药盒
+        - generic: 简化药房
+      - link "亚马逊翻新产品 值得信赖的翻新技术":
+        - /url: /gp/browse.html?node=12653393011&ref_=footer_usrenew
+        - heading "亚马逊翻新产品" [level=5]:
+          - generic: 亚马逊翻新产品
+        - generic: 值得信赖的翻新技术
+- list:
+  - link "使用条款":
+    - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+    - generic: 使用条款
+  - link "隐私声明":
+    - /url: /gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy
+    - generic: 隐私声明
+  - link "消费者健康数据隐私披露":
+    - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+    - generic: 消费者健康数据隐私披露
+  - link "您的广告隐私设置":
+    - /url: /privacyprefs?ref_=footer_iba
+    - generic: 您的广告隐私设置
+- generic: © 1996-2026，亚马逊公司或其关联公司
+- iframe [id="DAsis"]
+- generic: 测试：amzn-nv-flyout-healthy-choice
+- generic: 测试：nav-rufus-disc-txt
+- generic: 测试：a-truncate-cut
+- generic: 测试：sp-cc-wrapper
+- generic: 测试：.mo-wp
+- generic: 测试：.a-image-container
+- generic: 测试：sp-cc
+- generic: 测试：.amzn-box-inner
+- generic: 测试：.js-order-card
+- generic: 测试：pldn-deep-link
+- generic: 测试：添加到购物车按钮
+- generic: 测试：amzn-nav-app-banner-container
+- generic: 测试：.sparkle-container

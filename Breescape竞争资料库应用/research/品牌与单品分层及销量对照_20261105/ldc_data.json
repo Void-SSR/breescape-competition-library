@@ -1,0 +1,4646 @@
+{
+  "error_code": 0,
+  "error_message": "success",
+  "categories": [
+    {
+      "category_id": "600154",
+      "level": 1,
+      "is_leaf": false,
+      "parent_id": "0",
+      "category_name": "Textiles & Soft Furnishings",
+      "name_key": "magellan_600154"
+    },
+    {
+      "category_id": "808328",
+      "level": 2,
+      "is_leaf": false,
+      "parent_id": "600154",
+      "category_name": "Bedding and Linens",
+      "name_key": "magellan_808328"
+    },
+    {
+      "category_id": "600165",
+      "level": 3,
+      "is_leaf": false,
+      "parent_id": "808328",
+      "category_name": "Sheets & Pillowcases",
+      "name_key": "magellan_600165"
+    },
+    {
+      "category_id": "1006864",
+      "level": 4,
+      "is_leaf": true,
+      "parent_id": "600165",
+      "category_name": "Sheet & Pillowcase Sets",
+      "name_key": "magellan_1006864"
+    }
+  ],
+  "promotion_tag": {
+    "placement_labels": {
+      "3": [
+        {
+          "id": "8",
+          "default_style": 10,
+          "is_show_icon": true,
+          "type": 8,
+          "text": "Free shipping",
+          "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"0\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\"}",
+          "feature": [
+            {
+              "property_name": "shipping_fee",
+              "property_value": "0"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "id": "8",
+          "default_style": 10,
+          "is_show_icon": true,
+          "type": 8,
+          "text": "Free shipping",
+          "da_info": "{\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"0\",\"is_free_shipping\":\"1\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"activity_name\":\"8\"}",
+          "feature": [
+            {
+              "property_name": "shipping_fee",
+              "property_value": "0"
+            }
+          ]
+        }
+      ]
+    },
+    "placement_labels_ui": {
+      "ui_list": [
+        {
+          "placement": 10,
+          "labels": [
+            {
+              "meta": {
+                "label_type": "8",
+                "da_info": "{\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"0\",\"is_free_shipping\":\"1\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"activity_name\":\"8\"}",
+                "label_style_id": "194"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "Text",
+                "value": "Free shipping",
+                "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": []
+              }
+            }
+          ],
+          "divider": {
+            "value": "",
+            "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+          }
+        },
+        {
+          "placement": 3,
+          "labels": [
+            {
+              "meta": {
+                "label_type": "8",
+                "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"0\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\"}",
+                "label_style_id": "199"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "View",
+                "value": "",
+                "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": [
+                  {
+                    "hidden": false,
+                    "type": "Text",
+                    "value": "Free shipping",
+                    "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                    "click_event": {
+                      "type": "",
+                      "arguments": {
+                        "schema": ""
+                      }
+                    },
+                    "extra": "",
+                    "strictMode": "",
+                    "visibilityScript": "",
+                    "children": []
+                  }
+                ]
+              }
+            }
+          ],
+          "divider": {
+            "value": "",
+            "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+          }
+        }
+      ]
+    }
+  },
+  "product_info": {
+    "status": 1,
+    "biz_code": 0,
+    "biz_type": 0,
+    "sold_count": "14727",
+    "product_id": "1729539387064423033",
+    "seller_id": "7495196088353196665",
+    "title": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+    "sold_count_note": {
+      "title": "Items sold",
+      "text": "The number of items sold globally since this item was listed on TikTok Shop excluding items that have been returned."
+    },
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/97bf73ac56344858913430956614f361~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f24c13aadd4346e7a4114bf66549bc81~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/110be4168baa4fcbbc77a966d777da6f~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/489f0ecb3e4d410a846e7b7fb4d25052~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50",
+        "url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6d785677a5724a9d902eecf738f90e50~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/26ef6522461441b2bc8f270a46e36bf4~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a",
+        "url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/ea5249a650ab4f07b2eed6f79046873a~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4260fc16726342b4a2639c972ccc83ae~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311",
+        "url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/38fa38156db04ae684e93c16a32cd311~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "LDC LUX DECOR COLLECTION"
+      },
+      {
+        "name": "Weave type",
+        "value": "Sateen,Percale"
+      },
+      {
+        "name": "Included components",
+        "value": "Pillowcase,Flat Sheet,Fitted sheet"
+      },
+      {
+        "name": "Closure type",
+        "value": "Envelope,Zipper,Elastic"
+      },
+      {
+        "name": "Weave",
+        "value": "Flat weave"
+      },
+      {
+        "name": "Sheets and pillowcases type",
+        "value": "Set"
+      },
+      {
+        "name": "Material",
+        "value": "Microfiber"
+      },
+      {
+        "name": "Feature",
+        "value": "Wrinkle resistant,Skin-friendly,Fade resistant,Breathable,Cooling,Stain resistant"
+      },
+      {
+        "name": "Theme",
+        "value": "Solid"
+      },
+      {
+        "name": "Washing instructions",
+        "value": "Machine wash"
+      },
+      {
+        "name": "Style",
+        "value": "Modern,Traditional,Contemporary,Solid"
+      },
+      {
+        "name": "Season",
+        "value": "Summer,Winter"
+      },
+      {
+        "name": "Quantity per pack",
+        "value": "T/TXL:3pc Set; F/Q/K/CK:4pc Set."
+      },
+      {
+        "name": "Pattern",
+        "value": "Solid"
+      }
+    ],
+    "header_video": {
+      "duration": 37.12,
+      "id": "v12d52gd0030cq2lilnog65lmhmt6n40",
+      "post_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-afa798-tx/owBJDsuhKFkYaVVAImEDrxfQQVPejluNDSKWmJ~tplv-noop.image?dr=12525&refresh_token=9a98476c&x-expires=1793884873&x-signature=RnMmsEQsDpyL7KLEgPIpP%2BqApMQ%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=6ce186a1&idc=useast5&VideoID=v12d52gd0030cq2lilnog65lmhmt6n40",
+      "media_type": "video",
+      "video_infos": [
+        {
+          "width": 1024,
+          "height": 576,
+          "url_expire": "1793884873",
+          "size": "1661131",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/dfde838a5c234e7466053ababa81eac6/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/oUDDgQuaramIfBfDr1DVmQWZShYJElFjKCuVQN/?a=0&bti=PDM8QDI2M2A%3D&&bt=349&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDk2ZzVpODw0ODc5aDQzZUBpM3F3a285cm9vdDMzZzVnNEBgLTNeLmE1X14xNF8vMmI2YSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/dfde838a5c234e7466053ababa81eac6/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/oUDDgQuaramIfBfDr1DVmQWZShYJElFjKCuVQN/?a=0&bti=PDM8QDI2M2A%3D&&bt=349&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDk2ZzVpODw0ODc5aDQzZUBpM3F3a285cm9vdDMzZzVnNEBgLTNeLmE1X14xNF8vMmI2YSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "format": "mp4"
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "url_expire": "1793884873",
+          "size": "2445441",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/e36fd215a305acd31d85e752c8c60f66/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/ocVufWQjSyDFQEVYlvJurhfNqlDoDBEImgQmaa/?a=0&bti=PDM8QDI2M2A%3D&&bt=514&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDhnZjU0ZWhlZTRmMzVoO0BpM3F3a285cm9vdDMzZzVnNEBfXmMwMWBjXzAxMDIuYzMxYSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/e36fd215a305acd31d85e752c8c60f66/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/ocVufWQjSyDFQEVYlvJurhfNqlDoDBEImgQmaa/?a=0&bti=PDM8QDI2M2A%3D&&bt=514&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDhnZjU0ZWhlZTRmMzVoO0BpM3F3a285cm9vdDMzZzVnNEBfXmMwMWBjXzAxMDIuYzMxYSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "format": "mp4"
+        }
+      ]
+    },
+    "desc_video": {
+      "duration": 37.12,
+      "id": "v12d52gd0030cq2lilnog65lmhmt6n40",
+      "post_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-afa798-tx/owBJDsuhKFkYaVVAImEDrxfQQVPejluNDSKWmJ~tplv-noop.image?dr=12525&refresh_token=9a98476c&x-expires=1793884873&x-signature=RnMmsEQsDpyL7KLEgPIpP%2BqApMQ%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=6ce186a1&idc=useast5&VideoID=v12d52gd0030cq2lilnog65lmhmt6n40",
+      "media_type": "video",
+      "video_infos": [
+        {
+          "width": 1024,
+          "height": 576,
+          "url_expire": "1793884873",
+          "size": "1661131",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/dfde838a5c234e7466053ababa81eac6/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/oUDDgQuaramIfBfDr1DVmQWZShYJElFjKCuVQN/?a=0&bti=PDM8QDI2M2A%3D&&bt=349&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDk2ZzVpODw0ODc5aDQzZUBpM3F3a285cm9vdDMzZzVnNEBgLTNeLmE1X14xNF8vMmI2YSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/dfde838a5c234e7466053ababa81eac6/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/oUDDgQuaramIfBfDr1DVmQWZShYJElFjKCuVQN/?a=0&bti=PDM8QDI2M2A%3D&&bt=349&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDk2ZzVpODw0ODc5aDQzZUBpM3F3a285cm9vdDMzZzVnNEBgLTNeLmE1X14xNF8vMmI2YSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "format": "mp4"
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "url_expire": "1793884873",
+          "size": "2445441",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/e36fd215a305acd31d85e752c8c60f66/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/ocVufWQjSyDFQEVYlvJurhfNqlDoDBEImgQmaa/?a=0&bti=PDM8QDI2M2A%3D&&bt=514&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDhnZjU0ZWhlZTRmMzVoO0BpM3F3a285cm9vdDMzZzVnNEBfXmMwMWBjXzAxMDIuYzMxYSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/e36fd215a305acd31d85e752c8c60f66/6aec82c9/video/tos/useast5/tos-useast5-v-afa798-tx/ocVufWQjSyDFQEVYlvJurhfNqlDoDBEImgQmaa/?a=0&bti=PDM8QDI2M2A%3D&&bt=514&ft=GS-jnInz7ThjBH5GXq8Zmo&mime_type=video_mp4&rc=aDhnZjU0ZWhlZTRmMzVoO0BpM3F3a285cm9vdDMzZzVnNEBfXmMwMWBjXzAxMDIuYzMxYSMxM2pqMmRrZi9gMC1kMi9zcw%3D%3D&vvpl=1&l=202611050720351F87AAE0BBE3FC00A326&btag=e00088000",
+          "format": "mp4"
+        }
+      ]
+    },
+    "desc_blocks": [
+      {
+        "type": "image",
+        "image": {
+          "width": 750,
+          "height": 114,
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/8d479e7b0dd84edd835a14754ae386c6",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8d479e7b0dd84edd835a14754ae386c6~tplv-fhlh96nyum-resize-webp:750:114.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8d479e7b0dd84edd835a14754ae386c6~tplv-fhlh96nyum-resize-webp:750:114.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/e4e660f69b754eda843861829ca660a1",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/e4e660f69b754eda843861829ca660a1~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/e4e660f69b754eda843861829ca660a1~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lux Decor Bamboo Blend Cooling Bed Sheet Set",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{THV4I_0}}",
+          "arguments": {
+            "{{THV4I_0}}": {
+              "text_attribute": {
+                "text": "Lux Decor Bamboo Blend Cooling Bed Sheet Set",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 4
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Sleep cooler and more comfortably with ultra-soft bamboo blend sheets designed for hot sleepers.\n\n",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{U2xlZ_0}}{{U2xlZ_1}}{{U2xlZ_2}}",
+          "arguments": {
+            "{{U2xlZ_0}}": {
+              "text_attribute": {
+                "text": "Sleep cooler and more comfortably with ultra-soft bamboo blend sheets designed for hot sleepers.",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{U2xlZ_1}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{U2xlZ_2}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/437869061cd84ce69c8a292585842cea",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/437869061cd84ce69c8a292585842cea~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/437869061cd84ce69c8a292585842cea~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "text": "Features:\n\n• Material: Bamboo Blend",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{RmVhd_0}}{{RmVhd_1}}{{RmVhd_2}}{{RmVhd_3}}{{RmVhd_4}}{{RmVhd_5}}",
+          "arguments": {
+            "{{RmVhd_0}}": {
+              "text_attribute": {
+                "text": "Features:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{RmVhd_1}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{RmVhd_2}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{RmVhd_3}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{RmVhd_4}}": {
+              "text_attribute": {
+                "text": "Material:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{RmVhd_5}}": {
+              "text_attribute": {
+                "text": " Bamboo Blend",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "• Softness: Ultra-soft fabric with a silky-smooth feel.",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{4oCiI_0}}{{4oCiI_1}}{{4oCiI_2}}",
+          "arguments": {
+            "{{4oCiI_2}}": {
+              "text_attribute": {
+                "text": " Ultra-soft fabric with a silky-smooth feel.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_0}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_1}}": {
+              "text_attribute": {
+                "text": "Softness:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "• Cooling & Breathable: Promotes airflow and helps regulate temperature for a cool, refreshing sleep.",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{4oCiI_0}}{{4oCiI_1}}{{4oCiI_2}}",
+          "arguments": {
+            "{{4oCiI_2}}": {
+              "text_attribute": {
+                "text": " Promotes airflow and helps regulate temperature for a cool, refreshing sleep.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_0}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_1}}": {
+              "text_attribute": {
+                "text": "Cooling & Breathable:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "• Comfort: Hotel-quality comfort designed for everyday luxury.\n• Durability: Fade-resistant and designed to stay soft wash after wash.\n• Deep Pocket Fit: Fits mattresses up to 16\" deep for a secure fit.\n• Easy Care: Machine washable for hassle-free maintenance.\n• Surface: Smooth, wrinkle-resistant finish.",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{4oCiI_0}}{{4oCiI_1}}{{4oCiI_2}}{{4oCiI_3}}{{4oCiI_4}}{{4oCiI_5}}{{4oCiI_6}}{{4oCiI_7}}{{4oCiI_8}}{{4oCiI_9}}{{4oCiI_10}}{{4oCiI_11}}{{4oCiI_12}}{{4oCiI_13}}{{4oCiI_14}}{{4oCiI_15}}{{4oCiI_16}}{{4oCiI_17}}{{4oCiI_18}}",
+          "arguments": {
+            "{{4oCiI_11}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_13}}": {
+              "text_attribute": {
+                "text": "Easy Care:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_14}}": {
+              "text_attribute": {
+                "text": " Machine washable for hassle-free maintenance.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_3}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_5}}": {
+              "text_attribute": {
+                "text": "Durability:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_0}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_12}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_2}}": {
+              "text_attribute": {
+                "text": " Hotel-quality comfort designed for everyday luxury.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_10}}": {
+              "text_attribute": {
+                "text": " Fits mattresses up to 16\" deep for a secure fit.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_16}}": {
+              "text_attribute": {
+                "text": "• Surface: ",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_17}}": {
+              "text_attribute": {
+                "text": "Smooth, wrinkle-resistant finish",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_4}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_8}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_15}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_1}}": {
+              "text_attribute": {
+                "text": "Comfort:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_6}}": {
+              "text_attribute": {
+                "text": " Fade-resistant and designed to stay soft wash after wash.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_7}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_9}}": {
+              "text_attribute": {
+                "text": "Deep Pocket Fit:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_18}}": {
+              "text_attribute": {
+                "text": ".",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/7df5a51ff70443b1a06ed95847ce50c8",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/7df5a51ff70443b1a06ed95847ce50c8~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/7df5a51ff70443b1a06ed95847ce50c8~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "text": "• Dimensions:",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{4oCiI_0}}{{4oCiI_1}}",
+          "arguments": {
+            "{{4oCiI_1}}": {
+              "text_attribute": {
+                "text": "Dimensions:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{4oCiI_0}}": {
+              "text_attribute": {
+                "text": "• ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Twin: Flat 66x96\" | Fitted 39x75\" | Pillowcase 20x30\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{VHdpb_0}}",
+          "arguments": {
+            "{{VHdpb_0}}": {
+              "text_attribute": {
+                "text": "Twin: Flat 66x96\" | Fitted 39x75\" | Pillowcase 20x30\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Twin XL: Flat 66x102\" | Fitted 39x80\" | Pillowcase 20x30\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{VHdpb_0}}",
+          "arguments": {
+            "{{VHdpb_0}}": {
+              "text_attribute": {
+                "text": "Twin XL: Flat 66x102\" | Fitted 39x80\" | Pillowcase 20x30\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Full: Flat 81x96\" | Fitted 54x75\" | Pillowcase 20x30\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{RnVsb_0}}",
+          "arguments": {
+            "{{RnVsb_0}}": {
+              "text_attribute": {
+                "text": "Full: Flat 81x96\" | Fitted 54x75\" | Pillowcase 20x30\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Queen: Flat 90x102\" | Fitted 60x80\" | Pillowcase 20x30\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{UXVlZ_0}}",
+          "arguments": {
+            "{{UXVlZ_0}}": {
+              "text_attribute": {
+                "text": "Queen: Flat 90x102\" | Fitted 60x80\" | Pillowcase 20x30\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "King: Flat 105x102\" | Fitted 78x80\" | Pillowcase 20x40\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{S2luZ_0}}",
+          "arguments": {
+            "{{S2luZ_0}}": {
+              "text_attribute": {
+                "text": "King: Flat 105x102\" | Fitted 78x80\" | Pillowcase 20x40\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Cal King: Flat 108x102\" | Fitted 72x84\" | Pillowcase 20x40\"",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{Q2FsI_0}}",
+          "arguments": {
+            "{{Q2FsI_0}}": {
+              "text_attribute": {
+                "text": "Cal King: Flat 108x102\" | Fitted 72x84\" | Pillowcase 20x40\"",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "text",
+        "text": "Package Includes: \nTwin & Twin XL: 1 Flat Sheet, 1 Fitted Sheet, 1 Pillowcase \nFull, Queen, King & California King: 1 Flat Sheet, 1 Fitted Sheet, 2 Pillowcases.",
+        "rich_text": {
+          "text_alignment": 1,
+          "template": "{{UGFja_0}}{{UGFja_1}}{{UGFja_2}}{{UGFja_3}}{{UGFja_4}}{{UGFja_5}}",
+          "arguments": {
+            "{{UGFja_2}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{UGFja_3}}": {
+              "text_attribute": {
+                "text": "Twin & Twin XL: 1 Flat Sheet, 1 Fitted Sheet, 1 Pillowcase ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{UGFja_4}}": {
+              "text_attribute": {
+                "text": "\n",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{UGFja_5}}": {
+              "text_attribute": {
+                "text": "Full, Queen, King & California King: 1 Flat Sheet, 1 Fitted Sheet, 2 Pillowcases.",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{UGFja_0}}": {
+              "text_attribute": {
+                "text": "Package Includes:",
+                "font": {
+                  "font_weight": 3,
+                  "font_class": 5
+                }
+              }
+            },
+            "{{UGFja_1}}": {
+              "text_attribute": {
+                "text": " ",
+                "font": {
+                  "font_weight": 1,
+                  "font_class": 5
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#FF000000"
+            }
+          }
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/c31efabbe8324f39bb2a1e9c2bdc1ef6",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/c31efabbe8324f39bb2a1e9c2bdc1ef6~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/c31efabbe8324f39bb2a1e9c2bdc1ef6~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/b17c202268724b6fa11619de06fbc9c2",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/b17c202268724b6fa11619de06fbc9c2~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/b17c202268724b6fa11619de06fbc9c2~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      },
+      {
+        "type": "image",
+        "image": {
+          "width": 800,
+          "height": 327,
+          "uri": "tos-useast8-i-rt0ujvrtvp-tx2/6294ab8ca2b748e09739d6a1cdadbccd",
+          "url_list": [
+            "https://p16-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6294ab8ca2b748e09739d6a1cdadbccd~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+            "https://p19-oec-general-useast8.ttcdn-us.com/tos-useast8-i-rt0ujvrtvp-tx2/6294ab8ca2b748e09739d6a1cdadbccd~tplv-fhlh96nyum-resize-webp:800:327.webp?dr=12185&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+          ]
+        }
+      }
+    ],
+    "price": {
+      "symbol_position": 1,
+      "is_interval_price": true,
+      "real_price": "$23.99 - 49.99",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "min_sku_price": "23.99",
+      "max_sku_price": "49.99",
+      "min_sku_original_price": "32.99"
+    },
+    "sale_props": [
+      {
+        "has_image": true,
+        "has_extended_images": false,
+        "prop_id": "100000",
+        "prop_name": "Color",
+        "sale_prop_values": [
+          {
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3e5cf2daadfc465e8c264b90774b9fc1~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6292e7f61ae740c3854ef86cd65d0c43~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/78e6cc8dd2eb49cda34b9629c627fc91~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c93404b6cef140b1bda01cae3415a049~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/db4ec6334a7844fc96c74299c97c165c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6ffea8d16fed4a658d6bf6846cbba6ee~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3d329485b3864006ada21e66ca377a7e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5e98b66b216a4fe7909b9d08f4eec00b~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dd09aefe03bd4f3a97f54d554825b346~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/87c44f0fa9f1475fb6da98640efba25e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8618b609a77341f7a6f8fe42a2a5ebf1~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e69c7da33ed5450abb4c25a9abbf849e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "has_image": false,
+        "has_extended_images": false,
+        "prop_id": "100001",
+        "prop_name": "Bedding Size",
+        "sale_prop_values": [
+          {
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          },
+          {
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          },
+          {
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          },
+          {
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          },
+          {
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          },
+          {
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "status": 1,
+        "stock": 139,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511330425",
+        "sale_prop_value_ids": "6926865445131749121_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 91,
+        "purchase_limit": 200,
+        "sku_id": "1729539394244940409",
+        "sale_prop_value_ids": "6926865445131749121_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "26.99",
+          "origin_price_format": "35.99",
+          "discount_format": "25%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "26.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.25",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 72,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245005945",
+        "sale_prop_value_ids": "6926865445131749121_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 425,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245071481",
+        "sale_prop_value_ids": "6926865445131749121_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 501,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245137017",
+        "sale_prop_value_ids": "6926865445131749121_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 128,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245202553",
+        "sale_prop_value_ids": "6926865445131749121_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 139,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511199353",
+        "sale_prop_value_ids": "6926865445131831041_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 11,
+        "purchase_limit": 200,
+        "sku_id": "1729539393608716921",
+        "sale_prop_value_ids": "6926865445131831041_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "26.99",
+          "origin_price_format": "35.99",
+          "discount_format": "25%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "26.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.25",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 71,
+        "purchase_limit": 200,
+        "sku_id": "1729539393608782457",
+        "sale_prop_value_ids": "6926865445131831041_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 263,
+        "purchase_limit": 200,
+        "sku_id": "1729539393608847993",
+        "sale_prop_value_ids": "6926865445131831041_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 365,
+        "purchase_limit": 200,
+        "sku_id": "1729539393608913529",
+        "sale_prop_value_ids": "6926865445131831041_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 133,
+        "purchase_limit": 200,
+        "sku_id": "1729539393608979065",
+        "sale_prop_value_ids": "6926865445131831041_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131831041",
+            "prop_value": "Grey"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 104,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511658105",
+        "sale_prop_value_ids": "6926865456653567746_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "23.99",
+          "origin_price_format": "32.99",
+          "discount_format": "27%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "23.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.27",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 25,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246578809",
+        "sale_prop_value_ids": "6926865456653567746_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "27.99",
+          "origin_price_format": "35.99",
+          "discount_format": "22%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "27.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.22",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 93,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246644345",
+        "sale_prop_value_ids": "6926865456653567746_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 545,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246709881",
+        "sale_prop_value_ids": "6926865456653567746_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 466,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246775417",
+        "sale_prop_value_ids": "6926865456653567746_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 46,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246840953",
+        "sale_prop_value_ids": "6926865456653567746_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 121,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511264889",
+        "sale_prop_value_ids": "6926865496969070338_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 120,
+        "purchase_limit": 200,
+        "sku_id": "1729539393609044601",
+        "sale_prop_value_ids": "6926865496969070338_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "27.99",
+          "origin_price_format": "35.99",
+          "discount_format": "22%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "27.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.22",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 176,
+        "purchase_limit": 200,
+        "sku_id": "1729539393609110137",
+        "sale_prop_value_ids": "6926865496969070338_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 547,
+        "purchase_limit": 200,
+        "sku_id": "1729539393609175673",
+        "sale_prop_value_ids": "6926865496969070338_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 347,
+        "purchase_limit": 200,
+        "sku_id": "1729539394244809337",
+        "sale_prop_value_ids": "6926865496969070338_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 185,
+        "purchase_limit": 200,
+        "sku_id": "1729539394244874873",
+        "sale_prop_value_ids": "6926865496969070338_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865496969070338",
+            "prop_value": "Beige"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 144,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511461497",
+        "sale_prop_value_ids": "6931945646509557505_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 79,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245595769",
+        "sale_prop_value_ids": "6931945646509557505_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "26.99",
+          "origin_price_format": "35.99",
+          "discount_format": "25%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "26.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.25",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 139,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245661305",
+        "sale_prop_value_ids": "6931945646509557505_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 542,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245726841",
+        "sale_prop_value_ids": "6931945646509557505_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 549,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245792377",
+        "sale_prop_value_ids": "6931945646509557505_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 163,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245857913",
+        "sale_prop_value_ids": "6931945646509557505_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 226,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511527033",
+        "sale_prop_value_ids": "6930931284168689410_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 164,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245923449",
+        "sale_prop_value_ids": "6930931284168689410_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "26.99",
+          "origin_price_format": "35.99",
+          "discount_format": "25%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "26.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.25",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 181,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245988985",
+        "sale_prop_value_ids": "6930931284168689410_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 590,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246054521",
+        "sale_prop_value_ids": "6930931284168689410_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 669,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246120057",
+        "sale_prop_value_ids": "6930931284168689410_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 146,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246185593",
+        "sale_prop_value_ids": "6930931284168689410_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930931284168689410",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 170,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511395961",
+        "sale_prop_value_ids": "6926865445131814657_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 83,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245268089",
+        "sale_prop_value_ids": "6926865445131814657_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "27.99",
+          "origin_price_format": "35.99",
+          "discount_format": "22%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "27.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.22",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 188,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245333625",
+        "sale_prop_value_ids": "6926865445131814657_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 639,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245399161",
+        "sale_prop_value_ids": "6926865445131814657_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 303,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245464697",
+        "sale_prop_value_ids": "6926865445131814657_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 152,
+        "purchase_limit": 200,
+        "sku_id": "1729539394245530233",
+        "sale_prop_value_ids": "6926865445131814657_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131814657",
+            "prop_value": "Blue"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 171,
+        "purchase_limit": 200,
+        "sku_id": "1729539393511592569",
+        "sale_prop_value_ids": "6968763727449458437_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "24.99",
+          "origin_price_format": "32.99",
+          "discount_format": "24%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "24.99",
+          "origin_price_decimal": "32.99",
+          "discount_decimal": "0.24",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 120,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246251129",
+        "sale_prop_value_ids": "6968763727449458437_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "26.99",
+          "origin_price_format": "35.99",
+          "discount_format": "25%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "26.99",
+          "origin_price_decimal": "35.99",
+          "discount_decimal": "0.25",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 212,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246316665",
+        "sale_prop_value_ids": "6968763727449458437_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "28.99",
+          "origin_price_format": "39.99",
+          "discount_format": "28%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "28.99",
+          "origin_price_decimal": "39.99",
+          "discount_decimal": "0.28",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 558,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246382201",
+        "sale_prop_value_ids": "6968763727449458437_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 459,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246447737",
+        "sale_prop_value_ids": "6968763727449458437_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 159,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246513273",
+        "sale_prop_value_ids": "6968763727449458437_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6968763727449458437",
+            "prop_value": "Sage"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "origin_price_format": "49.99",
+          "discount_format": "34%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "origin_price_decimal": "49.99",
+          "discount_decimal": "0.34",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 53,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395590265",
+        "sale_prop_value_ids": "7642221669972920082_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 23,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395655801",
+        "sale_prop_value_ids": "7642221669972920082_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "35.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "35.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 45,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395721337",
+        "sale_prop_value_ids": "7642221669972920082_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "39.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "39.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 26,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395786873",
+        "sale_prop_value_ids": "7642221669972920082_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "44.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "44.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 15,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395852409",
+        "sale_prop_value_ids": "7642221669972920082_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 55,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395917945",
+        "sale_prop_value_ids": "7642221669972920082_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7642221669972920082",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 50,
+        "purchase_limit": 200,
+        "sku_id": "1732450492395983481",
+        "sale_prop_value_ids": "6988072573552625410_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 26,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396049017",
+        "sale_prop_value_ids": "6988072573552625410_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "35.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "35.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 40,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396114553",
+        "sale_prop_value_ids": "6988072573552625410_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "39.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "39.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 47,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396180089",
+        "sale_prop_value_ids": "6988072573552625410_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "44.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "44.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 47,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396245625",
+        "sale_prop_value_ids": "6988072573552625410_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 51,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396311161",
+        "sale_prop_value_ids": "6988072573552625410_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6988072573552625410",
+            "prop_value": "Charcol"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 39,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396376697",
+        "sale_prop_value_ids": "7614694839715743519_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 33,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396442233",
+        "sale_prop_value_ids": "7614694839715743519_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "35.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "35.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 40,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396507769",
+        "sale_prop_value_ids": "7614694839715743519_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "39.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "39.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 51,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396573305",
+        "sale_prop_value_ids": "7614694839715743519_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "44.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "44.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 52,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396638841",
+        "sale_prop_value_ids": "7614694839715743519_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 50,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396704377",
+        "sale_prop_value_ids": "7614694839715743519_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7614694839715743519",
+            "prop_value": "Lilac"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 31,
+        "purchase_limit": 200,
+        "sku_id": "1732450492396769913",
+        "sale_prop_value_ids": "6979455009020921606_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "32.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "32.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 17,
+        "purchase_limit": 200,
+        "sku_id": "1732450492200489593",
+        "sale_prop_value_ids": "6979455009020921606_7029596159316477701",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7029596159316477701",
+            "prop_value": "Twin XL"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "35.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "35.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 37,
+        "purchase_limit": 200,
+        "sku_id": "1732450492200555129",
+        "sale_prop_value_ids": "6979455009020921606_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "39.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "39.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 41,
+        "purchase_limit": 200,
+        "sku_id": "1732450492200620665",
+        "sale_prop_value_ids": "6979455009020921606_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "44.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "44.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 13,
+        "purchase_limit": 200,
+        "sku_id": "1732450492200686201",
+        "sale_prop_value_ids": "6979455009020921606_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      },
+      {
+        "status": 0,
+        "stock": 39,
+        "purchase_limit": 200,
+        "sku_id": "1732450492200751737",
+        "sale_prop_value_ids": "6979455009020921606_6971966191699019526",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979455009020921606",
+            "prop_value": "Sea Glass"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971966191699019526",
+            "prop_value": "Cal King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "49.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "49.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      }
+    ],
+    "default_sku_id": "1729539393511658105",
+    "logistic": {
+      "delivery_option": 4,
+      "is_default": false,
+      "free_shipping": true,
+      "reachable": true,
+      "delivery_min_days": 6,
+      "delivery_max_days": 9,
+      "delivery_name": "Standard shipping",
+      "lead_time": "Nov 11 - Nov 14",
+      "shipping_fee": {
+        "price_str": "$0.00",
+        "price_val": "0",
+        "currency": "USD"
+      },
+      "original_shipping_val": "5.99",
+      "logistics_service_id": "7129736060325594926",
+      "event_tracking": {
+        "shipping_price_after_coupon": "0",
+        "shipping_type": "send_by_seller",
+        "ships_days": "2",
+        "delivery_type": "3pl",
+        "is_1_day_shipping": "0",
+        "is_fbt_show": "0",
+        "is_instant_tag": "0",
+        "is_plus_effective": "0",
+        "logistics_test_info_v2": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"6_9\\\",\\\"is_stable\\\":\\\"0\\\",\\\"kv_3dd_prob\\\":\\\"0.0174\\\",\\\"kv_3dd_threshold\\\":\\\"0.97\\\",\\\"model_3dd_prob\\\":\\\"0.0174\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"6-9\\\",\\\"exp_edt\\\":\\\"6_9\\\",\\\"before_xdd_flatten\\\":\\\"6_9\\\",\\\"algo_xdd_prob\\\":[{\\\"leadtime_tag\\\":5,\\\"compliance_rate\\\":0.9993000000000001}],\\\"seller_xdd_status\\\":1,\\\"ship_time\\\":{\\\"cd\\\":2,\\\"bd\\\":2}},\\\"ab_info\\\":[{\\\"g_conf\\\":{\\\"prob\\\":\\\"{}\\\",\\\"threshold\\\":\\\"{}\\\"}}]}\"}",
+        "ship_from": "local",
+        "ship_in_bd": "null",
+        "est_delivery_day_max": "9",
+        "est_logistic_delivery_day_max": "0",
+        "is_display_fastest": "0",
+        "is_next_day_delivery": "0",
+        "select_service_id": "7129736060325594926",
+        "ship_in_cd": "2day",
+        "shipping_price": "0",
+        "shipping_price_origin": "5.99",
+        "est_delivery_bday_min": "4",
+        "est_delivery_day_min": "6",
+        "is_ontime_compensation_show": "0",
+        "shipping_currency": "USD",
+        "est_delivery_day_expected": "0",
+        "est_logistic_delivery_day_min": "0",
+        "global_shipping": "0",
+        "holiday_flag": "0",
+        "is_late_guarantee": "0"
+      }
+    },
+    "seller": {
+      "rating_value": 4.5,
+      "product_count": "60",
+      "follower_count": "104171",
+      "seller_id": "7495196088353196665",
+      "name": "LDC LUX DECOR COLLECTION",
+      "avatar": {
+        "width": 300,
+        "height": 300,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039"
+        ]
+      },
+      "shop_link": "aweme://ec/store?custom_params=%7B%22custom_id_type%22%3A0%2C%22decorate_insert_items%22%3A%5B1729539387064423033%5D%7D&sellerId=7495196088353196665&store_page_version=2&url_maker=shop_schema_sdk",
+      "rating": "4.5"
+    },
+    "review": {
+      "product_rating": 4.4,
+      "review_count": "1655",
+      "product_rating_str": "4.4",
+      "review_count_str": "1,655"
+    },
+    "shipping_module": {
+      "description_list": [
+        {
+          "text": "Free shipping",
+          "rich_text": {
+            "template": "{{free_shipping}}",
+            "arguments": {
+              "{{free_shipping}}": {
+                "text_attribute": {
+                  "text": "Free shipping",
+                  "font_color": {
+                    "color": "#007B7B"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#007B7B"
+              }
+            }
+          }
+        },
+        {
+          "text": "Estimated delivery Nov 11 – 14",
+          "rich_text": {
+            "template": "Estimated delivery {{lead_time}}",
+            "arguments": {
+              "{{lead_time}}": {
+                "text_attribute": {
+                  "text": "Nov 11 – 14",
+                  "font_color": {
+                    "color": "#000000"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#000000"
+              }
+            }
+          }
+        }
+      ],
+      "appendix_list": [
+        {
+          "text": "Shipped by LDC LUX DECOR COLLECTION",
+          "rich_text": {
+            "template": "Shipped by LDC LUX DECOR COLLECTION",
+            "arguments": {
+              "{{seller_name}}": {
+                "text_attribute": {
+                  "text": "LDC LUX DECOR COLLECTION",
+                  "font_color": {
+                    "color": "#A6000000"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#A6000000"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "lock_up_shipping": [
+      {
+        "text": "Free shipping",
+        "rich_text": {
+          "template": "{{ShippingIcon}} Free shipping",
+          "arguments": {
+            "{{ShippingIcon}}": {
+              "link_text_type": 1,
+              "icon_attribute": {
+                "size": {
+                  "width": 13,
+                  "height": 13
+                },
+                "icon": {
+                  "icon": {
+                    "width": 48,
+                    "height": 48,
+                    "uri": "tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png",
+                    "url_list": [
+                      "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png~tplv-fhlh96nyum-resize-png:48:48.png?dr=12184&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                      "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png~tplv-fhlh96nyum-resize-png:48:48.png?dr=12184&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "link": "aweme://roma_redirect/?spark_page=popupschema&title=Free%20shipping&ecrichtext_content=%5B%7B%22template%22:%22Enjoy%20free%20shipping%20on%20this%20purchase%21%20Shipping%20discounts%20are%20applied%20at%20checkout%20and%20are%20subject%20to%20conditions%20such%20as%20cart%20total%20or%20item%20count.%22%2C%22arguments%22:%7B%22%7B%7BTerms%7D%7D%22:%7B%22link_text_type%22:0%2C%22text_attribute%22:%7B%22text%22:%22%22%2C%22font%22:%7B%22font_weight%22:2%2C%22font_class%22:5%7D%7D%7D%7D%2C%22text_attribute%22:%7B%22font%22:%7B%22font_weight%22:1%2C%22font_class%22:4%7D%2C%22font_color%22:%7B%22color%22:%22%23FF000000%22%2C%22dark_color%22:%22%23FFF6F6F6%22%7D%7D%7D%5D&height=25%25&self_adaptive_height=1",
+            "font": {
+              "font_weight": 2,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#007B7B"
+            }
+          }
+        }
+      }
+    ],
+    "compliance": {
+      "title": "Seller information",
+      "contents": [
+        "Business name: Lux Decor Collection Inc",
+        "Business address: Texas,The United States"
+      ],
+      "rich_title": {
+        "template": "Seller information",
+        "text_attribute": {
+          "font": {
+            "font_weight": 2,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#000000"
+          }
+        }
+      },
+      "rich_contents": [
+        {
+          "template": "Business name: Lux Decor Collection Inc",
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "template": "Business address: Texas,The United States",
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "legit_warnings": [],
+    "button_area_id": "default",
+    "page_sections": [
+      "head_image",
+      "waist_banner",
+      "top_margin",
+      "lock_up",
+      "lock_up_bottom_divider",
+      "sku_selection_v2_group",
+      "first_screen_divider",
+      "coupons_and_promotions",
+      "coupons_and_promotions_bottom_divider",
+      "multi_product_addon_group",
+      "logistic",
+      "creator_video",
+      "creator_video_bottom_divider",
+      "seller_above_review",
+      "shop_recommend_above_review",
+      "shop_recommend_above_review_bottom_divider",
+      "complementary_recommendation",
+      "complementary_recommendation_bottom_divider",
+      "review",
+      "review_bottom_divider",
+      "questions",
+      "questions_bottom_divider",
+      "description_title",
+      "about_this_product_description",
+      "about_this_product_size_guide_top_line",
+      "about_this_product_size_guide",
+      "about_this_product_details_top_line",
+      "about_this_product_details",
+      "about_this_product_compliance_top_line",
+      "about_this_product_compliance",
+      "about_this_product_compliance_bottom_divider"
+    ]
+  },
+  "aigc_info": {
+    "long_text": "Lux Decor Bamboo Blend Cooling Bed Sheets are designed for comfortable sleep with a smooth, soft feel and breathable construction. Made for hot sleepers, this bedding set helps promote airflow and supports a cooler, more refreshing night’s rest.\n\nThe set offers hotel-quality comfort for everyday use, along with a wrinkle-resistant finish and fade-resistant durability. The fitted sheet is made to fit mattresses up to 16 inches deep for a secure fit, while the easy-care, machine washable design keeps maintenance simple.\n\nAvailable in multiple bedding sizes, including Twin, Twin XL, Full, Queen, King, and California King, this set is a practical choice for updating a bedroom with soft, cooling sheets and a clean, polished look.",
+    "faq": "Q:What material are these bed sheets made from?\nA:The product description states that the sheets are made from a bamboo blend.\n\nQ:Are these sheets designed for hot sleepers?\nA:Yes. They are described as cooling and breathable, with a focus on helping hot sleepers stay more comfortable.\n\nQ:How deep is the fitted sheet?\nA:The fitted sheet is designed to fit mattresses up to 16 inches deep.\n\nQ:What sizes are available?\nA:The set is offered in Twin, Twin XL, Full, Queen, King, and California King sizes.\n\nQ:What is included in the set?\nA:Twin and Twin XL sets include 1 flat sheet, 1 fitted sheet, and 1 pillowcase. Full, Queen, King, and California King sets include 1 flat sheet, 1 fitted sheet, and 2 pillowcases.\n\nQ:How should these sheets be cared for?\nA:They are machine washable for easy care.",
+    "bullet_points": "• Ultra-soft bamboo blend fabric with a silky-smooth feel.\n• Cooling and breathable design helps regulate temperature.\n• Deep-pocket fitted sheet fits mattresses up to 16 inches deep.\n• Fade-resistant and designed to stay soft wash after wash.\n• Machine washable for easy everyday care.",
+    "aigc_title": "Lux Decor Bamboo Blend Cooling Bed Sheets",
+    "aigc_description": "Ultra-soft bamboo blend cooling bed sheets designed for hot sleepers, with breathable comfort, deep-pocket fit up to 16 inches, and hotel-quality softness.",
+    "aigc_keywords": [
+      {
+        "keyword": "bamboo blend cooling bed sheets"
+      },
+      {
+        "keyword": "cooling bed sheet set"
+      },
+      {
+        "keyword": "breathable bed sheets for hot sleepers"
+      },
+      {
+        "keyword": "deep pocket fitted sheet 16 inches"
+      },
+      {
+        "keyword": "ultra-soft hotel quality sheets"
+      },
+      {
+        "keyword": "wrinkle resistant bedding set"
+      },
+      {
+        "keyword": "machine washable sheets"
+      }
+    ]
+  },
+  "review_info": {
+    "has_more": true,
+    "total_reviews": "1655",
+    "product_reviews": [
+      {
+        "review_id": "7665032886843836174",
+        "product_id": "1729539387064423033",
+        "sku_id": "1729539393608847993",
+        "reviewer_id": "7583572701350462477",
+        "review_rating": 4,
+        "review_time": "1784654557399",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+        "reviewer_name": "O** L**e",
+        "reviewer_avatar_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87c22fcee8351de01443c8d6536c80f5~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=204e11f2&x-expires=1794034800&x-signature=zP4%2BcsOxHV90O6nsQdnaJDS9IjU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "Light and airy, very thin feeling sheets and pillow cases. Breathable, but quality could feel a little better. Specifically stitching.\nI am really enjoying the pairing, not necessarily matching blanket that I purchased at the same time from a different vendor it all feels very nice together.",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ccfb45c7cfe54ddfa613ffa86664526e~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ccfb45c7cfe54ddfa613ffa86664526e~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/c5400f155a07499f90b4f0b966f88e07~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/7649ad1787f14b5b8725c670e593bd00~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Grey, Queen",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7559837034179462926",
+        "product_id": "1729539387064423033",
+        "sku_id": "1729539394245792377",
+        "reviewer_id": "6842700012561466373",
+        "review_rating": 5,
+        "review_time": "1760161769668",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+        "reviewer_name": "S** H**n",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7326204388013375494~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=8bea8903&x-expires=1794034800&x-signature=bFPstqlEslGDoy4RsO3%2BNOh1JpE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "I love my sheets. They are so soft and don’t wrinkle. I can smooth it out with my hands and it looks as if it’s been pressed. I love how they feel. Big difference from the cotton or cotton blend. It has a smooth feeling without the slipping and sliding that you get from silk. I’m recommending it",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/37a0cd45fc0e4648a92aa599de237b89~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/37a0cd45fc0e4648a92aa599de237b89~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fb3200e2bbf04dfbb5bd5e0d96fd7278~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/38d1440f7f8e4a0bb109485807d6de7a~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Navy Blue, King",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7657163446932293390",
+        "product_id": "1729539387064423033",
+        "sku_id": "1729539394246775417",
+        "review_rating": 5,
+        "review_time": "1782822300637",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+        "reviewer_name": "B**💖",
+        "review_text": "Este juego de sabanas me a encantado es muy suave y se siente frias las sabanas algo que me encanta sentir las sabanas frias.",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/156a5d7cf3ce454ca926a4fb21953674~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/156a5d7cf3ce454ca926a4fb21953674~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9718096563bc4fbca7cb618f8f29c7bf~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "White, King",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7636502192258598669",
+        "product_id": "1729539387064423033",
+        "sku_id": "1729539393511330425",
+        "reviewer_id": "7128892405338047534",
+        "review_rating": 5,
+        "review_time": "1778011735360",
+        "is_verified_purchase": true,
+        "is_incentivized_review": true,
+        "product_name": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+        "reviewer_name": "** ￴**",
+        "reviewer_avatar_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f33e2da6f58a51d9f89f66343ea95cb3~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=af8df873&x-expires=1794034800&x-signature=ksJelIFtCJcf0dmSiH8AgZg2lIc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "Honestly they’re some pretty good sheets! and the shipping is pretty fast too. i wasn’t too sure if the percentage of bamboo so i took one for the team and they’re not 100% bamboo lol. 35% bamboo and 65% polyester. but i can say they are pretty comfy! they go get with my cooling pillows from amazon!",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f85578a094924f8eb231a8103bd8ea55~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f85578a094924f8eb231a8103bd8ea55~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8951f30a615d4e23a6039ec009b705e7~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Black, Twin",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7539394193489528631",
+        "product_id": "1729539387064423033",
+        "sku_id": "1729539394246251129",
+        "reviewer_id": "7107425767647380522",
+        "review_rating": 1,
+        "review_time": "1755402015643",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant",
+        "reviewer_name": "g**4",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/07d9d4ddcff2630fa50a407717a37084~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=ce7bedb0&x-expires=1794034800&x-signature=2uTWxMtqWiHygnIiTYlJuVkpfAY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "This sheet looks used. It's wrinkled. Maybe it was returned.",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ef7a9c1e7203454aa9cc36f9ab56fbb6~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ef7a9c1e7203454aa9cc36f9ab56fbb6~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/255a7f26b20d47a1b6e09180874b1a07~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Sage, Twin XL",
+        "review_country": "US"
+      }
+    ],
+    "review_ratings": {
+      "review_count": "1655",
+      "overall_score": 4.4,
+      "rating_result": {
+        "1": "138",
+        "2": "43",
+        "3": "93",
+        "4": "177",
+        "5": "1204"
+      }
+    }
+  },
+  "benefit_info": [],
+  "shop_info": {
+    "seller_id": "7495196088353196665",
+    "sold_count": 794839,
+    "on_sell_product_count": 60,
+    "review_count": 105916,
+    "global_seller_id": "7495196088353196665",
+    "global_sold_count": "794839",
+    "followers_count": "104171",
+    "video_count": "2329",
+    "enable_follow": true,
+    "shop_name": "LDC LUX DECOR COLLECTION",
+    "shop_logo": {
+      "height": 300,
+      "width": 300,
+      "uri": "tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12",
+      "url_list": [
+        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+        "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/094cea46e2af423b989429bb4cb5cc12~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+      ]
+    },
+    "shop_rating": "4.5",
+    "shop_link": "https://shop.tiktok.com/us/store/ldc-lux-decor-collection/7495196088353196665",
+    "background": {
+      "is_default": false,
+      "image": {
+        "height": 311,
+        "width": 719,
+        "uri": "tos-useast5-i-reeeghz8mm-tx/69e47761649b49158ff08687465691d2",
+        "url_list": [
+          "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/69e47761649b49158ff08687465691d2~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1794468036&x-signature=FUqO5C7eF2SppYEGaDpDpfKItsE%3D"
+        ]
+      },
+      "shop_background_type": 1
+    },
+    "format_sold_count": "794.8K",
+    "region": "US",
+    "display_on_sell_product_count": "60",
+    "format_global_sold_count": "794.8K",
+    "format_followers_count": "104.1K+",
+    "format_video_count": "2329",
+    "store_sub_score": [
+      {
+        "score": 0.9971925884334644,
+        "type": 1,
+        "score_percentage": "100",
+        "high_light_tag": 1,
+        "platform_rate_type": 1
+      },
+      {
+        "score": 0,
+        "type": 2,
+        "score_percentage": "0",
+        "high_light_tag": 0,
+        "platform_rate_type": 0
+      },
+      {
+        "score": 0.8776414551062438,
+        "type": 3,
+        "score_percentage": "88",
+        "platform_rate_type": 0
+      }
+    ],
+    "worst_rating": "0",
+    "best_rating": "5",
+    "creator_name": "LDC LUX DECOR COLLECTION",
+    "shop_identity_label": {
+      "label_type": 2,
+      "identity_label_text": "OFFICIAL SHOP",
+      "identity_logo_light": {
+        "height": 144,
+        "width": 144,
+        "ratio": 0,
+        "minetype": "image/png",
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "identity_logo_dark": {
+        "height": 144,
+        "width": 144,
+        "ratio": 0,
+        "minetype": "image/png",
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b",
+        "url_list": [
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "identity_label_bg_color_light": "#000000",
+      "identity_label_bg_color_dark": "#FFFFFF",
+      "identity_label_text_color_light": "#FFFFFF",
+      "identity_label_text_color_dark": "#000000",
+      "shop_explanation_page_schema": "aweme://lynxview_popup?url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_ecommerce_mall_brand_explanation_runtime%2Fbrand-explanation-page%2Ftemplate.js&use_new_container=1&use_spark=1&target_handler=webcast%2Cecom&trans_status_bar=1&hide_nav_bar=1&status_font_mode=light&enable_prefetch=1&enable_code_cache=1&show_mask=1&mask_bg_color=00000080&height_percent=90&bdhm_bid=astro_behavior_lynx&btm_page_code=b7749&enable_lynx_prefetch=1&radius=12&transition_animation=bottom&enable_pull_down_close=1&seller_id=7495196088353196665",
+      "label_without_bg_style": {
+        "identity_label_text": "OFFICIAL SHOP",
+        "identity_logo_light": {
+          "height": 144,
+          "width": 144,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "identity_logo_dark": {
+          "height": 144,
+          "width": 144,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "identity_label_text_color_light": "#000000",
+        "identity_label_text_color_dark": "#FFFFFF",
+        "style_type": 2
+      },
+      "brand_info": {
+        "is_brand": true,
+        "brand_style_list": [
+          {
+            "identity_logo_light": {
+              "height": 36,
+              "width": 36,
+              "ratio": 0,
+              "minetype": "image/png",
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb",
+              "url_list": [
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+              ]
+            },
+            "identity_logo_dark": {
+              "height": 36,
+              "width": 36,
+              "ratio": 0,
+              "minetype": "image/png",
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+              ]
+            },
+            "style_type": 1,
+            "identity_image_logo": {
+              "light": {
+                "height": 36,
+                "width": 36,
+                "ratio": 0,
+                "minetype": "image/png",
+                "uri": "tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e",
+                "url_list": [
+                  "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                  "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+                ]
+              },
+              "dark": {
+                "height": 36,
+                "width": 36,
+                "ratio": 0,
+                "minetype": "image/png",
+                "uri": "tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0",
+                "url_list": [
+                  "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                  "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ShopIdentityLabelKey": "official",
+      "style_type": 1,
+      "identity_image_logo": {
+        "light": {
+          "height": 42,
+          "width": 288,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "dark": {
+          "height": 42,
+          "width": 288,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        }
+      }
+    },
+    "store_brand_show": {
+      "label_image_light": {
+        "height": 36,
+        "width": 36,
+        "uri": "tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png",
+        "url_list": [
+          "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "label_image_dark": {
+        "height": 36,
+        "width": 36,
+        "uri": "tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png",
+        "url_list": [
+          "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "brand_type": 3,
+      "label_type_str": "blue_v"
+    },
+    "desc": "Shop LDC LUX DECOR COLLECTION on TikTok Shop! 794.8K sold, 104.1K+ followers. 88+% positive feedback. 0+% Ships in 48h, 100% replies in 24h. Join the trend!",
+    "shop_exp_scores": [
+      {
+        "score": 0.87,
+        "shop_sub_score_type": 4,
+        "score_percentage": "87",
+        "format_score": "87%",
+        "score_description": "Positive feedback",
+        "experience_format_type": 1,
+        "experience_format_description": "Good",
+        "score_level": 2,
+        "format_numeric_score": "87%"
+      },
+      {
+        "score": 4.8,
+        "shop_sub_score_type": 6,
+        "score_percentage": "",
+        "format_score": "<5h",
+        "score_description": "Issue resolution",
+        "experience_format_type": 1,
+        "experience_format_description": "Excellent",
+        "score_level": 3,
+        "format_numeric_score": "<5h"
+      },
+      {
+        "score": 0.76,
+        "shop_sub_score_type": 7,
+        "score_percentage": "76",
+        "format_score": "76%",
+        "score_description": "Chat satisfaction",
+        "experience_format_type": 1,
+        "experience_format_description": "Good",
+        "score_level": 2,
+        "format_numeric_score": "76%"
+      }
+    ]
+  }
+}

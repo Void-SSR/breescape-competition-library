@@ -1,0 +1,377 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床垫及床垫保护垫、衬面、保护罩":
+    - /url: https://shop.tiktok.com/us/c/mattress-mattress-pads-toppers-protectors/809480
+    - generic: 床垫及床垫保护垫、衬面、保护罩
+  - link "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep":
+    - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-brand-name-extra-1000-gsm-cooling-plush-pad/1729457680158658805
+    - generic: 【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 WeCharmer Store":
+  - /url: https://shop.tiktok.com/us/store/wecharmer-store/7495163560979958005
+- heading "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep" [level=1]
+- generic: $
+- generic: "29"
+- generic: ".99"
+- generic: 免费运送
+- generic: "4.4"
+- generic: (14.3K)
+- generic: 已售 122.5K
+- button "成交件数":
+- generic: "Color:"
+- generic: 500gsm White
+- img "1000gsm White"
+- generic: 1000gsm White
+- img "1000gsm Dark Grey"
+- generic: 1000gsm Dark Grey
+- img "1000gsm Black"
+- generic: 1000gsm Black
+- img "1000gsm Bamboo Cooling"
+- generic: 1000gsm Bamboo Cooling
+- img "500gsm White"
+- generic: 500gsm White
+- img "500gsm Grey"
+- generic: 500gsm Grey
+- img "500gsm Black"
+- generic: 500gsm Black
+- img "500gsm Bamboo Cooling"
+- generic: 500gsm Bamboo Cooling
+- generic: "Size:"
+- generic: Twin
+- generic: Twin
+- generic: Queen
+- generic: King
+- generic: Cal King
+- generic: Twin XL
+- generic: Full
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "WeCharmer Store WeCharmer Store 4.4 336.7K 已售出 2.6K+ Followers 82% 好评 <13 小时 问题解决 一般 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/wecharmer-store/7495163560979958005
+  - img "WeCharmer Store"
+  - generic: WeCharmer Store
+  - generic: "4.4"
+  - text: 336.7K
+  - generic: 已售出
+  - generic: 2.6K+ Followers
+  - generic: 82%
+  - generic: 好评
+  - generic: <13 小时
+  - generic: 问题解决
+  - generic: 一般
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: "Two fill options: ultra-plush 1000 GSM or more affordable 500 GSM down alternative"
+- generic: •
+- generic: Breathable microfiber surface and 1000GSM Bamboo-Viscose cooling option
+- generic: •
+- generic: Box-quilted design with 5D & 7D snow down alternative filling to prevent shifting
+- generic: •
+- generic: Stretchable 360° elastic skirt fits mattresses 8–21 inches deep for a secure fit
+- generic: •
+- generic: Machine washable at low temperature; tumble dry low for optimum fluffiness
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "Additional features Pressure relief":
+      - cell "Additional features"
+      - cell "Pressure relief"
+    - row "Fabric type Polyester,Microfiber,Cotton":
+      - cell "Fabric type"
+      - cell "Polyester,Microfiber,Cotton"
+    - row "Closure Pull on":
+      - cell "Closure"
+      - cell "Pull on"
+    - row "Cover material Cotton blend":
+      - cell "Cover material"
+      - cell "Cotton blend"
+    - row "Product benefits Protection,Hypoallergenic,Comfort":
+      - cell "Product benefits"
+      - cell "Protection,Hypoallergenic,Comfort"
+    - row "Care instructions Machine wash":
+      - cell "Care instructions"
+      - cell "Machine wash"
+- generic: 查看更多
+- generic: 商品描述
+- generic: "Please note【topper】: The topper shown in the video is our 1000 GSM version, which is our thickest and most luxurious option. If you prefer this level of thickness and plushness, please make sure to select the 1000GSM topper when ordering."
+- generic: The 500GSM mattress pad is more affordably priced while remaining equally comfortable; please be sure to note the distinction.
+- generic: "Key Features: 1000GSM Mattress Topper"
+- generic: ·
+- generic: Premium Surface Material - The mattress topper adopted microfiber fabric made, which is breathable and skin-friendly, providing you superior softness and comfort. The surface features square jacquard design, both beautiful and unique. And the mattress pad is made of 400TC combed fiber, is durable, less likely to tear even with frequent washing
+- generic: ·
+- generic: Box Quilted & Filling - Our mattress topper double filled with 5D & 7D snow down alternative filling, extreme soft, fluffy and warm. Unique box quilted design, which allows the padding to be fixed in each box, does not shift easily
+- generic: ·
+- generic: Deep Pocket - Stretchable knitted skirt, 360° all-around wrapping design, high elastic pocket protects the mattress in all directions, you can toss and turn randomly during the sleepy nights. The extended bed skirt design is suitable for 8-21" mattresses, with broad applicability to meet various needs
+- generic: ·
+- generic: Relieve Back Pain - The mattress pad provides you optimum thickness, achieves a smart balance between softness and cushioning. When you sleep on our mattress pad cover, it can gently cushions the pressure points on your back, lower back and hips to help relieve back pain, providing a ergonomic support and comfort for your sleep
+- generic: ·
+- generic: Machine Washable & Easy Care -Our mattress protector is easy to clean, the mattress cover can be cleaned in the washing machine at low temperature. Tumble dry on low. Please do not iron and do not dry clean. For optimum fluffiness, you can tumble dry it on low heat before use it
+- generic: ·
+- generic: Customer Service - If you are not satisfied with our products or have any questions, please let us know, We will do our best to give you the perfect solution.
+- generic: Key Features:500GSM Mattress pad
+- generic: ·
+- generic: "Material: Made from microfiber and 6D fluffy fabric, ensuring a soft and comfortable feel."
+- generic: ·
+- generic: "Deep Pocket: Features a deep pocket that fits 21\" mattresses via 360° elastic edges, providing secure storage for your essentials."
+- generic: ·
+- generic: "Breathable Design: The breathable fabric prevents heat buildup while offering plush support, ensuring undisturbed sleep."
+- generic: ·
+- generic: "Fitted Quilt Design: The quilt design combines plush comfort with secure, cooling support for uninterrupted sleep."
+- generic: ·
+- generic: "Dimensions: Measures 19.69'' x 11.81'' x 7.87'', making it a perfect fit for most mattresses."
+- generic: ·
+- generic: "Machine-Washable: Easy to clean and maintain, saving you time and effort."
+- generic: ·
+- generic: "Noise-Free & Hypersonic: Ideal for year-round restful nights, ensuring a peaceful environment for your sleep."
+- generic: ·
+- generic: "Lightweight Cover: The microfiber cover provides instant coolness and cloud-like comfort, enhancing your sleep experience."
+- generic: "Key Features: 1000GSM Bamboo Cooling"
+- generic: ·
+- generic: "Ultra-Soft Cooling Mattress Topper: Made from premium Bamboo-Viscose fiber. This sumptuous mattress topper ensures you stay cool and comfortable throughout the night, without the added heat that can disrupt your sleep. Its quiet design provides silent protection, safeguarding your mattress while enhancing your sleep experience."
+- generic: ·
+- generic: "Soft Mattress Pad: Our quilted mattress pad is built to soft, offering exceptional durability and uniform support."
+- generic: ·
+- generic: "Deep Elastic Pocket: The deep pocket design and elasticized bed skirt ensure a secure, snug fit, preventing the mattress topper from shifting or sliding. Perfectly tailored for added comfort and stability, this elasticized feature provides a reassuring hold, keeping your bedding in place throughout the night."
+- generic: ·
+- generic: "Upgrade Your Sleep Experience: Transform your bedroom into a luxury retreat with our sumptuous mattress topper. Designed to enhance your mattress, it offers a soft, supportive surface that adapts to your body, ensuring a restful and rejuvenating night's sleep. Elevate your comfort and enjoy the luxury of a hotel bed right in your own home."
+- generic: ·
+- generic: Customer Service - If you are not satisfied with our products or have any questions, please let us know, We will do our best to give you the perfect solution.
+- generic: Size Guide
+- generic: ·
+- generic: "Twin: 39\" * 75\""
+- generic: ·
+- generic: "Twin XL: 39\" * 80\""
+- generic: ·
+- generic: "Full: 54\" * 75\""
+- generic: ·
+- generic: "Queen: 60\" * 80\""
+- generic: ·
+- generic: "King: 76\" * 80\""
+- generic: ·
+- generic: "Cal King: 72\" *84\""
+- generic: Size Notice All our toppers are made based on U.S. standard sizes. Please confirm your mattress size before purchase to ensure a proper fit. If you receive the wrong size or find a mismatch, contact our customer service immediately — we’ll help resolve it quickly.
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- generic: Please note【Pad】:Experience ultimate comfort and support with our Mattress Pad, designed to provide a plush and restful environment for your sleep.
+- generic: "Key Features:"
+- generic: ·
+- generic: "Material: Made from microfiber and 6D fluffy fabric, ensuring a soft and comfortable feel."
+- generic: ·
+- generic: "Deep Pocket: Features a deep pocket that fits 21\" mattresses via 360° elastic edges, providing secure storage for your essentials."
+- generic: ·
+- generic: "Breathable Design: The breathable fabric prevents heat buildup while offering plush support, ensuring undisturbed sleep."
+- generic: ·
+- generic: "Fitted Quilt Design: The quilt design combines plush comfort with secure, cooling support for uninterrupted sleep."
+- generic: ·
+- generic: "Dimensions: Measures 19.69'' x 11.81'' x 7.87'', making it a perfect fit for most mattresses."
+- generic: ·
+- generic: "Machine-Washable: Easy to clean and maintain, saving you time and effort."
+- generic: ·
+- generic: "Noise-Free & Hypersonic: Ideal for year-round restful nights, ensuring a peaceful environment for your sleep."
+- generic: ·
+- generic: "Lightweight Cover: The microfiber cover provides instant coolness and cloud-like comfort, enhancing your sleep experience."
+- generic: "Benefits:"
+- generic: ·
+- generic: "Comfortable Sleep: The microfiber fabric ensures a soft and comfortable feel, making it ideal for restful sleep."
+- generic: ·
+- generic: "Secure Storage: The deep pocket provides secure storage for your essentials."
+- generic: ·
+- generic: "Hygienic: Noise-free and hypoallergenic, making it suitable for year-round use."
+- generic: ·
+- generic: "Improved Sleep Quality: The fluffy microfiber filling enhances the resting environment, contributing to a better quality of sleep."
+- generic: Upgrade your sleep experience with our Mattress Pad, combining plush comfort, secure support, and a hypoallergenic environment. Perfect for year-round restful nights, this mat is designed to keep you comfortable and cozy.
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- img "【Fall Deals】WeCharmer 1000GSM Plush Bedding Mattress Topper - Bamboo Down-Alternative Overfill, Cooling Cloud-Like Pillow Top, 360° Elastic Hold, 8-21In Deep Pocket, 5D+7D Fluffy Loft, Quiet Topper for Back Pain Relief & Peaceful Sleep"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: The WeCharmer Extra Thick Mattress Topper is a quilted mattress pad designed to add plush cushioning and improved sleep comfort to your existing mattress. Offered in two fill weights—1000 GSM for maximum loft and a cooling Bamboo-Viscose option, and 500 GSM for a softer, more affordable layer—this topper uses down alternative fillings for a cloud-like feel without natural down. The topper’s surface is breathable microfiber with a 400TC combed-fiber construction, while the 1000GSM bamboo option provides added cooling for warmer sleepers. A box-quilted pattern locks the 5D and 7D snow down alternative filling in place to reduce shifting, while a stretchable, elasticized skirt provides 360° protection and fits mattresses from 8 to 21 inches deep. The cover is easy to care for—machine wash on low and tumble dry low (do not iron or dry clean)—so you can maintain loft and comfort over time. Suitable for anyone seeking extra softness, pressure relief, or a cooler sleep surface, this topper upgrades mattress comfort without replacing the mattress itself.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: "What fill options are available and how do they differ? A:There are two fill options: 1000 GSM for an ultra-plush, thicker feel (shown in the video) and 500 GSM for a more affordable, still-comfortable option. The 1000 GSM version is described as the thickest and most luxurious."
+- generic: •
+- generic: What materials are used in the topper? A:Surfaces are made from breathable microfiber with a 400TC combed-fiber construction, and a 1000GSM option uses Bamboo-Viscose fiber for cooling. The filling is a down alternative (5D & 7D snow down alternative filling).
+- generic: •
+- generic: What mattress depths will this topper fit? A:The topper features a stretchable 360° elastic skirt and an extended bed skirt design that fits mattresses from 8 to 21 inches deep.
+- generic: •
+- generic: How should I care for and clean the mattress topper? A:The mattress topper is machine washable at low temperature and can be tumble dried on low. Do not iron or dry clean. For optimum fluffiness, tumble dry on low heat before use.
+- generic: •
+- generic: What sizes are available? A:Sizes listed include Twin, Twin XL, Full, Queen, King and Cal King. All toppers are made to U.S. standard mattress sizes.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：System Assuregroup LLC
+- generic: •
+- generic: 公司地址：350 Evergreen Road,Frankfort,Kentucky,40601
+- generic: "4.3"
+- generic: 14252 条全球评价
+- generic: "5"
+- generic: "10447"
+- generic: "4"
+- generic: "1197"
+- generic: "3"
+- generic: "822"
+- generic: "2"
+- generic: "547"
+- generic: "1"
+- generic: "1239"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "J**r ** O** N**t C**r **"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "J**r ** O** N**t C**r **"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "J**r ** O** N**t C**r **"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "J**r ** O** N**t C**r **"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "k**🍒"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "k**🍒"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 14252 条评价（共 14252 条）
+- generic: 重置筛选条件
+- generic: L**a H**s
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: After a little over a month I see this thing is flat and is truly not what is advertised. I’m so disappointed and need a refund and be able to send it back
+- generic: "商品:"
+- text: White, Queen
+- generic: 2024-12-03
+- generic: J**r ** O** N**t C**r **
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "This topper is so nice and comfy! It doesn’t shift and stays put, which makes it definitely worth buying. Comfort: Comfort is next level Shape and size: Queen size fits perfect to the mattress Color: White"
+- generic: "商品:"
+- text: 1000gsm White, Queen
+- generic: 2026-06-17
+- generic: C**y D**l V**n
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: Shipping sucked! Will have to return because there is a tire print on the box and I don’t want to take a chance. This package was stuffed so full it could have exploded, but there actually is a mark on the box , so who knows. I would love to give a great rating but your shipper or order filler sucks
+- generic: "商品:"
+- text: 1000gsm White, Full
+- generic: 2026-03-27
+- generic: T**4
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 1 out of 5 stars"':
+- generic: Cheap material. I washed the jd mattress topper as I do all new bed cover and it ripped. Waste the f my money. Poor material.
+- generic: "商品:"
+- text: 1000gsm Black, King
+- generic: 2026-03-21
+- generic: k**🍒
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: I’m loving!!! This mattress cover is very soft I sleep like a baby!!
+- generic: "商品:"
+- text: 500gsm-Grey, King
+- generic: 2026-03-19
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "2851"
+- generic: 下一步

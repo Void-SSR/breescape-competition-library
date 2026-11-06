@@ -1,0 +1,44 @@
+const { chromium } = require('/Users/voidengine/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs'),path=require('path'),assert=require('assert');
+const ROOT='/Users/voidengine/Documents/Codex/项目/战略咨询/资料库/Breescape竞争资料库应用';
+const BASE=process.env.BREESCAPE_QA_BASE||'http://127.0.0.1:8767',OUT='/tmp/breescape-review-sync-evidence';fs.mkdirSync(OUT,{recursive:true});
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:'/Users/voidengine/Library/Caches/ms-playwright/chromium_headless_shell-1248/chrome-headless-shell-mac-arm64/chrome-headless-shell'});
+ const context=await browser.newContext({viewport:{width:1440,height:1000},acceptDownloads:true});
+ const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text())});
+ await page.goto(BASE+'/#overview/shilucheng');await page.locator('#report-section-2').waitFor();
+ assert.equal(await page.title(),'Breescape 竞争资料库');assert(await page.locator('body').innerText().then(s=>s.includes('928条近期全星级便利样本')));
+ assert.equal(await page.locator('.report-chapter-heading').count(),6);
+ assert.equal(await page.locator('.report-stale').count(),0);
+ assert.equal(await page.locator('#report-question-2-2 .report-evidence').last().locator('tbody tr').count(),4);
+ const topic=page.locator('#report-question-2-1');await topic.scrollIntoViewIfNeeded();
+ assert((await topic.innerText()).includes('397／42.8%'));assert((await topic.innerText()).includes('38／4.1%'));
+ await page.screenshot({path:OUT+'/desktop-comments.png'});
+ await page.locator('#report-question-2-2 .review-citation').filter({hasText:'R580'}).first().click();
+ await page.locator('#review-result .review-original').waitFor();
+ assert((await page.locator('#review-result').innerText()).includes('ordered twice'));
+ assert.equal(await page.locator('#review-result .review-origin').count(),1);await page.locator('.review-origin summary').click();
+ assert((await page.locator('#review-result').innerText()).includes('7694530691027093262'));
+ await page.screenshot({path:OUT+'/exact-review.png'});
+ await page.getByText('返回评论搜索与筛选',{exact:true}).click();await page.locator('#review-search').fill('cooling');await page.locator('#rating').selectOption('1');
+ await page.waitForTimeout(450);await page.waitForFunction(()=>document.querySelector('#review-result .review')?.textContent.toLowerCase().includes('cooling'));
+ let first=await page.locator('#review-result .review').first().innerText();assert(first.toLowerCase().includes('cooling'));
+ await page.locator('#next').click();await page.waitForTimeout(220);assert((await page.locator('.pager').innerText()).includes('2 /'));
+ await page.locator('#review-order').selectOption('asc');await page.waitForTimeout(300);
+ const apiCases=[];
+ for(const [q,status] of [['product=sheets&id=580',200],['product=topper&id=580',404],['product=sheets&id=999999',404],['product=sheets&id=abc',400],['product=sheets&id=0',400],['product=sheets&id=999999999999999999999',400],['id=580',400],['product=unknown&id=580',404],['product=sheets&id=1618',200]]){
+  const r=await context.request.get(BASE+'/api/review?'+q);assert.equal(r.status(),status,q);const body=await r.json();if(q.includes('1618'))assert.equal(body.external_id,'');apiCases.push({q,status});
+ }
+ await page.goto(BASE+'/#reviews/topper/2/review-580');await page.getByRole('alert').waitFor();assert((await page.getByRole('alert').innerText()).includes('不存在'));
+ await page.goto(BASE+'/#overview/shilucheng/present');await page.locator('#report-package').waitFor();
+ const dl1=page.waitForEvent('download');await page.locator('#report-export').click();const ordinary=await dl1;await ordinary.saveAs(OUT+'/ordinary-export.html');
+ const dl2=page.waitForEvent('download');await page.locator('#report-package').click();const bundle=await dl2;await bundle.saveAs(OUT+'/report-package.zip');
+ await page.locator('#toast').waitFor({state:'hidden'});await page.setViewportSize({width:390,height:844});await page.locator('#report-question-2-1').scrollIntoViewIfNeeded();
+ assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));await page.screenshot({path:OUT+'/mobile-comments.png'});
+ const bootstrap=await context.request.get(BASE+'/api/bootstrap').then(r=>r.json());
+ const report=bootstrap.reports.find(r=>r.brand_id==='shilucheng');
+ const stale=await context.request.post(BASE+'/api/report-package',{headers:{'X-Library-Token':bootstrap.token},data:{brand_id:'shilucheng',html:'<!doctype html><p>test</p>',document_updated_at:'outdated',revisions:Object.fromEntries(report.sections.map(s=>[s.number,s.current_revision]))}});assert.equal(stale.status(),400);
+ fs.writeFileSync(OUT+'/qa-in-app.json',JSON.stringify({url:BASE,viewports:[[1440,1000],[390,844]],framework_errors:errors.filter(e=>!e.includes('404')),expected_404:'intentional cross-product read showed not-found',apiCases,ordinary_export:true,portable_export:true,stale_export_rejected:true},null,2));
+ assert.equal(errors.filter(e=>!e.includes('404')).length,0,errors.join('\n'));
+ await browser.close();console.log('In-app checks passed; artifacts '+OUT);
+})().catch(e=>{console.error(e);process.exit(1)});

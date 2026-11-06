@@ -1,0 +1,35 @@
+{
+  "video_playback": [
+    {
+      "id": 56,
+      "duration": 7.966667,
+      "paused": false
+    },
+    {
+      "id": 57,
+      "duration": 12.266667,
+      "paused": false
+    },
+    {
+      "id": 58,
+      "duration": 16.133333,
+      "paused": false
+    },
+    {
+      "id": 59,
+      "duration": 20.733333,
+      "paused": false
+    },
+    {
+      "id": 60,
+      "duration": 17.533333,
+      "paused": false
+    }
+  ],
+  "page_errors": [],
+  "mobile_width": {
+    "page": 390,
+    "viewport": 390
+  },
+  "export": "Shilucheng_品牌研究总览_完整证据_2026-11-05.zip"
+}

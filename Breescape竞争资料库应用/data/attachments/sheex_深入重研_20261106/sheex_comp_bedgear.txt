@@ -1,0 +1,886 @@
+- generic "辅助功能菜单":
+  - button "辅助功能菜单"
+- link "跳至内容":
+  - /url: "#MainContent"
+  - generic: 跳至内容
+- link "门店定位器":
+  - /url: /pages/store-locator
+  - generic: 门店定位器
+- group "1 / 4":
+  - region "公告":
+    - link "唯一一款专为您量身定制的枕头 - 来做个小测试吧！":
+      - /url: /pages/pillowid-quiz
+      - paragraph:
+        - generic: 唯一一款专为您量身定制的枕头 - 来做个小测试吧！
+- group "2 / 4":
+  - region "公告":
+    - link "符合 HSA/FSA 资格：平均节省 30%*":
+      - /url: /collections/all
+      - paragraph:
+        - generic: 符合 HSA/FSA 资格：平均节省 30%*
+- group "3 / 4":
+  - region "公告":
+    - link "为您和您的伴侣提供独立的睡眠舒适体验":
+      - /url: /collections/modular-hybrid-mattress-collection
+      - paragraph:
+        - generic: 为您和您的伴侣提供独立的睡眠舒适体验
+- group "4 / 4":
+  - region "公告":
+    - link "我们的技术":
+      - /url: /pages/technology-listing
+      - paragraph:
+        - generic: 我们的技术
+- link "631-414-7763":
+  - /url: tel:631-414-7763
+  - generic: 631-414-7763
+- generic: 国家/地区
+- button "美国国旗":
+  - img "美国国旗"
+- banner:
+  - link "屏幕上显示了BEDGEAR的标志。":
+    - /url: /
+    - img "屏幕上显示了BEDGEAR的标志。"
+  - navigation:
+    - list:
+      - button "店铺":
+        - link "店铺":
+          - /url: /collections/shop
+          - generic: 店铺
+      - button "枕头":
+        - link "枕头":
+          - /url: /collections/pillows
+          - generic: 枕头
+      - button "床垫":
+        - link "床垫":
+          - /url: /collections/mattresses
+          - generic: 床垫
+      - button "床单和套装":
+        - link "床单和套装":
+          - /url: /collections/sheets-sets
+          - generic: 床单和套装
+      - button "保护者":
+        - link "保护者":
+          - /url: /collections/bed-protectors
+          - generic: 保护者
+      - link "美丽":
+        - /url: /collections/beauty
+        - generic: 美丽
+      - link "服饰":
+        - /url: /collections/wake-wear
+        - generic: 服饰
+      - button "探索":
+        - link "探索":
+          - /url: /pages/store-locator
+          - generic: 探索
+      - option [selected]
+  - search:
+    - combobox "搜索"
+    - button "搜索":
+    - status
+  - link "登录":
+    - /url: "#k-hub"
+    - generic: 登录
+  - button "大车":
+    - generic: 大车
+- region "公告栏":
+  - region:
+    - link:
+      - /url: /collections/modular-hybrid-mattress-collection
+      - paragraph:
+        - generic: 黑色星期五促销：床垫最高立减 500 美元
+  - region:
+    - link:
+      - /url: /collections/pillows
+      - paragraph:
+        - generic: 黑色星期五促销：枕头买一送一，第二件半价
+  - region:
+    - link:
+      - /url: /collections/sheets
+      - paragraph:
+        - generic: 黑色星期五促销：床单七折
+  - group "4/5":
+    - region "公告":
+      - link "黑色星期五促销：美妆系列买一送一":
+        - /url: /collections/beauty
+        - paragraph:
+          - generic: 黑色星期五促销：美妆系列买一送一
+  - region:
+    - link:
+      - /url: /products/react-pro-performance-mattress-topper
+      - paragraph:
+        - generic: 黑色星期五促销：床垫垫层立减 100 美元
+- main:
+  - region "图库查看器":
+    - link "跳转至产品信息":
+      - /url: "#ProductInfo-template--22964292255884__main"
+      - generic: 跳转至产品信息
+    - list:
+      - img "一张白色DriTec床单和枕套的图片。"
+      - button "在模态框中打开媒体 1":
+        - generic: 在模态框中打开媒体 1
+      - img "床上铺着DriTec枕套和床单。"
+      - button "在模态窗口中打开媒体 2":
+        - generic: 在模态窗口中打开媒体 2
+      - img "床上铺着DriTec床单和枕套。"
+      - button "在模态窗口中打开媒体 3":
+        - generic: 在模态窗口中打开媒体 3
+      - img "一位女士正在将白色DriTec床单套在床垫上。"
+      - button "在模态窗口中打开媒体 4":
+        - generic: 在模态窗口中打开媒体 4
+      - img "一位女士躺在床上，床单是白色的DriTec材质。"
+      - button "在模态窗口中打开媒体 5":
+        - generic: 在模态窗口中打开媒体 5
+  - heading "Dri-Tec Performance®床单套装" [level=1]:
+    - generic: Dri-Tec Performance®
+    - superscript:
+      - generic: 床单
+    - generic: 套装
+  - img "评分为 4.7 分（满分 5 分）"
+  - link "16 条评价":
+    - /url: "#"
+    - generic: 16 条评价
+  - status:
+    - generic: 原价
+    - generic: 249.99美元
+  - generic: 符合 HSA/FSA 资格
+  - img "Truemed 标志"
+  - generic: 平均节省 30%
+  - button "了解更多关于 Truemed 的信息，以及符合条件的客户如何使用 HSA 或 FSA 账户付款。":
+    - generic: 了解更多
+  - img "礼物图标；它是白色的。"
+  - paragraph:
+    - generic: 黑色星期五促销：床单七折
+  - img "床上用品"
+  - generic: 尺码指南
+  - group "颜色： 白色":
+    - generic: 颜色：
+    - generic: 白色
+    - radio "木炭"
+    - generic "木炭":
+      - generic: 木炭
+    - radio "浅灰色"
+    - generic "浅灰色":
+      - generic: 浅灰色
+    - radio "海军蓝"
+    - generic "海军蓝":
+      - generic: 海军蓝
+    - radio "灰褐色"
+    - generic "灰褐色":
+      - generic: 灰褐色
+    - radio "白色的" [checked]
+    - generic "白色的":
+      - generic: 白色的
+  - group "床品尺寸":
+    - generic: 床品尺寸
+    - radio "特大号/加州特大号"
+    - generic: 特大号/加州特大号
+    - radio "分体式特大床/分体式加州特大床"
+    - generic: 分体式特大床/分体式加州特大床
+    - radio "裂头皇后"
+    - generic: 裂头皇后
+    - radio "分头王"
+    - generic: 分头王
+    - radio "分体头加州国王"
+    - generic: 分体头加州国王
+    - radio "双人床/加大双人床"
+    - generic: 双人床/加大双人床
+    - radio "满的"
+    - generic: 满的
+    - radio "女王" [checked] [active]
+    - generic: 女王
+  - heading "完善您的睡眠系统" [level=4]:
+    - generic: 完善您的睡眠系统
+  - checkbox: ✓
+  - img "竹纤维高性能®床单套装"
+  - generic: 竹纤维高性能®床单套装
+  - generic: 靛青
+  - generic: 价格
+  - generic: 329.99美元
+  - link "了解更多":
+    - /url: /products/bamboo-sheet-set?variant=61723001520268&_rdiscovery-handle=bamboo-sheet-set&_rdiscovery-widget=270427
+    - generic: 了解更多
+  - checkbox: ✓
+  - img "Performance® 舒适毯"
+  - generic: Performance® 舒适毯
+  - generic: 轻便型/标准/加大型
+  - generic: 价格
+  - generic: 199.99美元
+  - link "了解更多":
+    - /url: /products/performance-comforter?variant=44457571319948&_rdiscovery-handle=performance-comforter&_rdiscovery-widget=270427
+    - generic: 了解更多
+  - button "数量减号按钮":
+    - superscript:
+      - generic: 减少 Dri-Tec Performance®
+    - generic: 床单套装的数量
+  - spinbutton "数量 （购物车内0件） 数量 （购物车内0件）": "1"
+  - button "数量加按钮":
+    - superscript:
+      - generic: 增加 Dri-Tec Performance®
+    - generic: 床单套装的数量
+  - button "加入购物车 - 279.99 美元":
+    - generic: Add to cart - $249.99
+  - paragraph:
+    - generic: 每月仅需
+    - generic: 25.27 美元
+    - generic: 或
+    - generic: "0"
+    - generic: "%"
+    - generic: 年利率
+    - img "Shop"
+    - button "查看示例方案":
+  - group "1 / 5":
+    - img "床上用品"
+    - generic: 吸湿排汗
+  - group "2 / 5":
+    - img "床上用品"
+    - generic: 柔软触感
+  - group "3 / 5":
+    - img "床上用品"
+    - generic: 功率带
+  - group "4 / 5":
+    - img "床上用品"
+    - generic: 可机洗
+  - group "5 / 5"
+  - paragraph:
+    - generic: Dri-Tec Performance®
+    - superscript:
+      - generic: 床单
+    - generic: 采用如黄油般柔滑的吸湿排汗纤维制成，能迅速将汗水从皮肤表面吸走并蒸发，最大限度的空气流通可防止热量和湿气积聚，顺滑的弹性带来无拘无束的舒适感。轻盈无负担，清凉透气，让您尽享凉爽干爽的夜晚。
+  - img "床上用品"
+  - generic: 满300美元包邮
+  - img "床上用品"
+  - generic: 每购买一棵树，就种一棵树。
+  - img "床上用品"
+  - generic: 超过 125,000 条五星好评
+  - img "床上用品"
+  - generic: 可提供融资
+  - heading "建造、材料和保养" [level=5]:
+    - generic: 建造、材料和保养
+  - generic: 建造
+  - paragraph:
+    - generic: 1 张床笠，1 张床单
+  - paragraph:
+    - generic: 1 个枕套：适用于 Twin 和 Twin XL 尺寸
+  - paragraph:
+    - generic: 2 个枕套：标准双人床、大号双人床、特大号双人床、加州特大号双人床、分体式特大号双人床和分体式加州特大号双人床
+  - generic: 材料
+  - paragraph:
+    - generic: 100% 聚酯纤维
+  - generic: 关心
+  - paragraph:
+    - generic: 冷水机洗，轻柔模式 / 必要时可使用非氯漂白剂 / 请勿使用衣物柔顺剂 / 低温烘干 / 请勿熨烫 / 请勿干洗
+  - heading "运输、保修和退货" [level=5]:
+    - generic: 运输、保修和退货
+  - generic: 船运
+  - paragraph:
+    - generic: 美国本土48州所有订单满300美元以上均可享受免运费。
+  - paragraph:
+    - generic: 寄往阿拉斯加、夏威夷、美国属地和加拿大的订单可选择其他配送方式。费用和配送方式信息可在结账时查看。
+  - generic: 保修单
+  - paragraph:
+    - generic: 您可以放心，我们所有高品质产品都经久耐用。从我们的网站购买此商品，即可享受一年有限制造商保修。因此，如果它未能达到 BEDGEAR 的标准，请不要担心——我们会为您提供保障。
+  - generic: 返回
+  - paragraph:
+    - generic: 我们热爱我们的产品，也希望您喜欢。但如果您因任何原因不满意，我们乐意接受未开封商品在购买后100天内的退货。
+  - heading "测量与尺寸" [level=5]:
+    - generic: 测量与尺寸
+  - generic: 测量
+  - list:
+    - generic: 双人床/加大双人床
+    - generic: 满的
+    - generic: 女王
+    - generic: 特大号/加州特大号
+    - generic: 分体式特大床/分体式加州特大床
+  - heading "测量" [level=6]:
+    - generic: 测量
+  - paragraph:
+    - generic: 宽 39 英寸 x 长 75 英寸
+  - heading "口袋深度" [level=6]:
+    - generic: 口袋深度
+  - paragraph:
+    - generic: 17英寸高
+  - heading "深口袋深度" [level=6]:
+    - generic: 深口袋深度
+  - paragraph:
+    - generic: 22英寸高
+  - generic: 主动拉伸
+  - heading "舒适出行" [level=4]:
+    - generic: 舒适出行
+  - paragraph:
+    - generic: 我们的 Active Stretch 面料旨在与您的身体同步运动，而不是对抗身体，让您在睡眠时享受流畅、无束缚的舒适感。
+  - generic: 吸湿排汗技术
+  - heading "保持干爽" [level=4]:
+    - generic: 保持干爽
+  - paragraph:
+    - generic: 出汗在所难免。Dri-Tec®
+    - superscript:
+      - generic: 技术
+    - generic: 能够持续吸走皮肤表面的水分，让您整晚保持干爽舒适。
+  - generic: 专为气流而设计
+  - heading "透气床单" [level=4]:
+    - generic: 透气床单
+  - paragraph:
+    - generic: 采用高度透气的结构设计，最大限度地提高空气流通和通风，带来凉爽、清新的舒适感，绝不闷热。
+  - generic: POWERBAND®
+  - superscript:
+    - generic: 安全
+  - generic: 贴合
+  - heading "不再出现爆角" [level=4]:
+    - generic: 不再出现爆角
+  - paragraph:
+    - generic: 我们获得专利的 Powerband® 技术
+    - superscript:
+      - generic: 可
+    - generic: 牢牢固定床垫四边，确保床笠平整、牢固、不移位。不会滑动、移位或起皱——尤其是在可调节床架上。
+  - heading "评论快照" [level=2]:
+    - generic: 评论快照
+  - link "PowerReviews":
+    - /url: http://www.powerreviews.com
+    - img "PowerReviews"
+  - generic: "4.7"
+  - img "评分为 4.7 分（满分 5 分）"
+  - generic: 16 星级评价
+  - link "撰写评论":
+    - /url: https://bedgear.com/pages/write-a-review?pr_page_id=10648067440780&pr_merchant_id=1806575603&pr_merchant_group_id=2014345704
+    - generic: 撰写评论
+  - generic: 100%
+  - generic: 受访者中，有 90% 的人会向朋友推荐这款产品。
+  - region "评分分布":
+    - list:
+      - button "五星好评，共 12 条评价。仅显示五星评价。":
+        - paragraph:
+          - generic: 五星
+        - paragraph:
+          - generic: "12"
+      - button "4 星，3 条评论。仅显示 4 星评论。":
+        - paragraph:
+          - generic: 四星
+        - paragraph:
+          - generic: "3"
+      - button "3 星，1 条评论。仅显示 3 星评论。":
+        - paragraph:
+          - generic: 3 星
+        - paragraph:
+          - generic: "1"
+      - button "2 星 0 条评论。仅显示 2 星评论。" [disabled]:
+        - paragraph:
+          - generic: 2 星
+        - paragraph:
+          - generic: "0"
+      - button "1 星 0 条评论。仅显示 1 星评论。" [disabled]:
+        - paragraph:
+          - generic: 1 星
+        - paragraph:
+          - generic: "0"
+  - searchbox "搜索评论"
+  - button "搜索评论":
+  - combobox "评论排序方式：":
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+    - option
+  - combobox "按版本筛选评论":
+    - option [selected]
+    - option
+  - heading "15 位顾客评价" [level=2]:
+    - generic: 15 位顾客评价
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "感觉不错" [level=3]:
+      - generic: 感觉不错
+    - paragraph:
+      - generic: 5天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 纳迪
+    - paragraph:
+      - generic: 我会试试，感觉很柔软。我有他们家的枕头，我很喜欢。我正在试用他们家的床单。
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "德莱泰克泰克" [level=3]:
+      - generic: 德莱泰克泰克
+    - paragraph:
+      - generic: 8天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 尼比尔
+    - paragraph:
+      - generic: 我买了塑料保护套
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "床单" [level=3]:
+      - generic: 床单
+    - paragraph:
+      - generic: 8天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 安妮塔
+    - paragraph:
+      - generic: 好的
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "床单和床垫都很棒" [level=3]:
+      - generic: 床单和床垫都很棒
+    - paragraph:
+      - generic: 9天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 珍妮
+    - paragraph:
+      - generic: 床单和床垫套都很柔软。我之前对床垫套还有点担心，但感觉还不错。
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "哇！" [level=3]:
+      - generic: 哇！
+    - paragraph:
+      - generic: 13天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 惠特尼
+    - paragraph:
+      - generic: 这种材料像黄油一样柔软，但又厚实有弹性，感觉是我以前从未感受过的！
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "柔软" [level=3]:
+      - generic: 柔软
+    - paragraph:
+      - generic: 14天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 塞丽娜
+    - paragraph:
+      - generic: 喜欢这种柔软的感觉
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "刚收到" [level=3]:
+      - generic: 刚收到
+    - paragraph:
+      - generic: 14天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 大卫
+    - paragraph:
+      - generic: 目前看来一切顺利！
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 5 星（满分 5 星）":
+      - generic: "5"
+    - heading "床单" [level=3]:
+      - generic: 床单
+    - paragraph:
+      - generic: 17天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 帕特里夏
+    - paragraph:
+      - generic: 非常满意Dri-Tec床单和降温毯。品质一流。
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 4 星（满分 5 星）":
+      - generic: "4"
+    - heading "我的第一套床单是特深口袋的，适用于特大号/加州特大号床。" [level=3]:
+      - generic: 我的第一套床单是特深口袋的，适用于特大号/加州特大号床。
+    - paragraph:
+      - generic: 18天前
+      - generic: 提交
+    - paragraph:
+      - generic: 英国夏令
+      - generic: 时
+    - paragraph:
+      - generic: 其中一张床笠像尼龙袜的破洞一样裂开了。我一直没能买到另一套，因为我的 Beautyrest 床垫需要超深口袋的床笠。Bedgear 的所有颜色都卖光了。床单很柔软舒适，但很容易裂开。我喜欢床笠贴合床垫的感觉。
+    - paragraph:
+      - generic: 总之，
+      - generic: 是的，我会推荐给朋友。
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - group "审查":
+    - img "评分为 4 星（满分 5 星）":
+      - generic: "4"
+    - heading "黄油般柔软" [level=3]:
+      - generic: 黄油般柔软
+    - paragraph:
+      - generic: 22天前
+      - generic: 提交
+    - paragraph:
+      - generic: 作者：
+      - generic: 琳达
+    - paragraph:
+      - generic: 睡起来超级舒服
+    - heading "这条评论对您有帮助吗？" [level=4]:
+      - generic: 这条评论对您有帮助吗？
+    - group "这条评论对您有帮助吗？":
+      - button "0 个有用评价，请给这条评论点个有用评价":
+        - generic: "0"
+      - button "0 个无用票，请给这条评论投无用票":
+        - generic: "0"
+    - button "举报此评论":
+      - generic: 举报此评论
+  - paragraph:
+    - generic: 显示
+    - generic: 第 1-10 条评论
+  - link "返回顶部":
+    - /url: "#"
+    - generic: 返回顶部
+  - link "下一个":
+    - /url: https://bedgear.com/products/dri-tec-sheet-set-white?pr_rd_page=2
+    - generic: 下一个
+    - generic: ”
+  - heading "Q&A" [level=2]
+  - button "Ask a Question"
+  - generic: Search for answers to your question
+  - searchbox "Search for answers to your question"
+  - button "Submit search":
+  - status
+  - heading "Showing 1 out of 1 Questions" [level=3]
+  - generic: Sort By
+  - combobox "Q&A Sort By":
+    - option "Newest" [selected]
+    - option "Oldest"
+    - option "Most Answers"
+  - term:
+    - generic "Question": Q
+    - heading "Are your split head queen sheets split at the top are just wider at the top then the bottom." [level=4]
+  - term:
+    - subscript: Asked by George
+    - time: 1 month ago
+  - definition:
+    - text: Verified Reply
+    - generic: "- Melco"
+    - generic: The Split Head Queen option in the Dri-Tec Performance® Sheet Set is designed for Split Head mattresses, which have a split at the head of the mattress to accommodate adjustable bases. The fitted sheet is designed to work with this split-head configuration and is not simply wider at the top
+    - generic: Was this answer helpful to you
+    - group "Was this answer helpful to you":
+      - button "0 helpful votes, give this answer a helpful vote":
+        - generic: "0"
+      - button "0 unhelpful votes, give this answer an unhelpful vote":
+        - generic: "0"
+  - heading "常见问题解答" [level=2]:
+    - generic: 常见问题解答
+  - paragraph:
+    - generic: 快速解答您可能遇到的问题。
+  - paragraph:
+    - generic: 找不到您要找的内容？
+  - link "Contact Us":
+    - /url: /pages/contact
+  - heading "1. What is the thread count of BEDGEAR Performance® Sheets?" [level=5]:
+    - strong: "1."
+    - text: What is the thread count of BEDGEAR Performance
+    - superscript: ®
+    - text: Sheets?
+  - paragraph:
+    - text: Thread count is the traditional way of measuring the quality and softness of sheets. At BEDGEAR, we understand that thread count no longer purely represents quality – and it certainly doesn’t help you sleep better! Our Performance
+    - superscript: ®
+    - text: sheets feature Airflow Certified fabrics that are engineered to never stick to you, facilitating air circulation without trapping heat, so that you can more easily regulate your body temperature and sleep in greater comfort.
+  - heading "2. Do BEDGEAR sheets wrinkle or shrink?" [level=5]:
+    - strong: "2."
+    - text: Do BEDGEAR sheets wrinkle or shrink?
+  - paragraph: No, all of BEDGEAR's sheets are made with fabrics that are wrinkle and shrink-resistant.
+  - heading "3. Do BEDGEAR sheets fit all mattresses?" [level=5]:
+    - strong: "3."
+    - text: Do BEDGEAR sheets fit all mattresses?
+  - paragraph: BEDGEAR Performance Sheets fit a range of mattresses from 10-18 inches in depth. For sizing information on specific sheet styles, refer to the measurements and dimensions section on the product detail page.
+  - heading "4. Do all of your sheet sets feature Powerband technology?" [level=5]:
+    - strong: "4."
+    - text: Do all of your sheet sets feature Powerband technology?
+  - paragraph: All Performance Sheets feature Powerband technology to ensure a secure fit & grip on your mattress. The Basic Sheet Set does not feature Powerband technology.
+  - heading "5. Do I need to wash my sheets before using them?" [level=5]:
+    - strong: "5."
+    - text: Do I need to wash my sheets before using them?
+  - paragraph: Yes, we recommend washing your sheets before use and rotating them every week or two to extend their lifespan.
+  - heading "6. How are BEDGEAR Performance® Sheets better than regular sheets?" [level=5]:
+    - strong: "6."
+    - text: How are BEDGEAR Performance
+    - superscript: ®
+    - text: Sheets better than regular sheets?
+  - paragraph: BEDGEAR Performance Sheets are designed with high-tech fabrics that help your body regulate it's temperature throughout the night. Offered in a variety of different styles and fabrics, every sleeper can find the sheet that is perfectly fit to their sleep needs.
+  - heading "7. Are BEDGEAR sheets compatible with adjustable beds?" [level=5]:
+    - strong: "7."
+    - text: Are BEDGEAR sheets compatible with adjustable beds?
+  - paragraph: Yes, our Powerband technology will ensure your sheets stay secure on your bed even when used with adjustable beds.
+- contentinfo:
+  - img "屏幕上显示了BEDGEAR的标志。"
+  - heading "Get on the List" [level=2]
+  - paragraph: Sign up to know when we launch new products.
+  - generic: Enter email
+  - textbox "Enter email":
+    - /placeholder: Email
+  - button "JOIN"
+  - heading "We’re Online" [level=2]
+  - paragraph: Follow us for product updates, events.
+  - list:
+    - link "Instagram":
+      - /url: https://www.instagram.com/bedgear/
+      - generic: Instagram
+    - link "X (Twitter)":
+      - /url: https://x.com/bedgear
+      - generic: X (Twitter)
+    - link "Facebook":
+      - /url: https://www.facebook.com/bedgear
+      - generic: Facebook
+    - link "YouTube":
+      - /url: https://www.youtube.com/user/therealbedgear
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/company/bedgear/
+      - generic: LinkedIn
+  - paragraph: BEDGEAR’s products consider your needs and preferences to GET IT RIGHT THE FIRST TIME™ reducing returns and unnecessary landfill waste.
+  - heading "Support" [level=2]
+  - list:
+    - link "Contact Us":
+      - /url: /pages/contact
+    - link "Return Policy":
+      - /url: https://bedgear.com/policies/refund-policy
+    - link "FAQ":
+      - /url: /pages/faq
+    - link "PillowID®":
+      - /url: /pages/pillowid-quiz
+      - text: PillowID
+      - superscript: ®
+    - link "Sleep Lab":
+      - /url: /pages/sleeplab-design
+    - link "Register Product":
+      - /url: https://bedgear.com/pages/product-registrations-form
+    - link "Warranty Support / File A Claim":
+      - /url: /pages/warranty-landing
+    - link "Warranty Details / 365 Night Guaranty":
+      - /url: /pages/365-night-guarantee
+    - link "Accessibility Statement":
+      - /url: /pages/accessibility-statement
+    - link "Certifications":
+      - /url: /pages/certifications
+    - link "Product Knowledgebase":
+      - /url: /blogs/product-care
+    - link "Owners Manuals":
+      - /url: https://bedgear.com/pages/owners-manuals
+    - link "Privacy Policy":
+      - /url: /pages/privacy-policy
+  - heading "Shop" [level=2]
+  - list:
+    - link "Pillows":
+      - /url: /collections/pillows
+    - link "Mattresses":
+      - /url: /collections/mattresses
+    - link "Protectors":
+      - /url: /collections/bed-protectors
+    - link "Sheets":
+      - /url: /collections/sheets
+    - link "Blankets":
+      - /url: /collections/blankets
+    - link "Bedding":
+      - /url: https://bedgear.com/collections/bedding/
+    - link "Beauty":
+      - /url: /collections/beauty
+    - link "Travel":
+      - /url: /collections/travel
+    - link "Baby and Kids":
+      - /url: /collections/baby-and-kids-bedding
+    - link "College Dorm":
+      - /url: /collections/college-dorm-room-essentials
+    - link "Cooling Pillows":
+      - /url: /collections/cooling-pillows
+  - heading "Explore" [level=2]
+  - list:
+    - link "Our Story":
+      - /url: /pages/our-story
+    - link "Our Ambassadors":
+      - /url: /pages/our-ambassadors
+    - link "Our Technology":
+      - /url: /pages/technology-listing
+    - link "Sustainability":
+      - /url: /pages/sustainability
+    - link "Sleep Academy":
+      - /url: /pages/sleep-academy
+    - link "Career":
+      - /url: /pages/career
+    - link "Rewards":
+      - /url: /pages/rewards
+  - heading "Company" [level=2]
+  - list:
+    - link "Our Retailers":
+      - /url: /pages/store-locator
+    - link "Newsroom":
+      - /url: https://bedgear.com/blogs/newsroom
+    - link "BEDGEAR Foundation":
+      - /url: https://bedgearfoundation.org/
+    - link "Patents":
+      - /url: /pages/patents
+  - text: © 2026
+  - link "BEDGEAR All right reserved.":
+    - /url: /
+  - list:
+    - text: ·
+    - link "Privacy policy":
+      - /url: /policies/privacy-policy
+    - text: ·
+    - link "Refund policy":
+      - /url: /policies/refund-policy
+    - text: ·
+    - link "Terms of service":
+      - /url: /policies/terms-of-service
+    - text: ·
+    - link "Contact information":
+      - /url: /policies/contact-information
+    - text: ·
+    - link "Shipping policy":
+      - /url: /policies/shipping-policy
+- paragraph:
+  - generic: "**黑色星期五促销活动仅限 bedgear.com 网站有效。折扣将自动应用于购物车。买一送一（第二件半价）活动适用于 99 美元及以上的 Performance 枕头。旅行枕、膝枕和婴儿/儿童枕不参与此活动。床单享七折优惠，仅限 Performance®"
+  - superscript:
+    - generic: 床单
+  - generic: 套装。床垫促销活动包括：M 系列模块化混合床垫立减 500 美元，H 系列混合床垫立减 200 美元，S 系列运动床垫立减 100 美元；模块化混合床垫 + 可调节床架立减 800 美元；混合床垫 + 可调节床架立减 500 美元；运动床垫 + 可调节床架立减 400 美元。React Pro Performance 床垫套立减 100 美元，仅限皇后尺寸和国王尺寸的床垫套。买一送一（第二件半价）活动是指购买一件商品，即可享受第二件同等或更低价格商品半价优惠。购买羽绒被即可获赠羽绒被套装。购买 Night Ice Performance® 床垫及可调节床架，即可立省 1400 美元
+  - superscript:
+    - generic: 。
+  - generic: 促销活动时间为美国东部时间 2026 年 11 月 3 日凌晨 12:00 至 2026 年 12 月 7 日晚上 11:59。此优惠不适用于之前的购买，且不可与其他优惠同时使用。会员积分不可用于兑换促销商品。条款可能随时变更。
+  - generic: 迎新折扣不适用于床垫，且不可与其他优惠同时使用。
+- region "曲奇棒":
+  - paragraph:
+    - generic: 我们使用 Cookie 来运行本网站、衡量流量并提供个性化内容。您可以随时接受、拒绝或管理您的隐私设置。我们也可能与合作伙伴（包括 Google）分享您使用我们网站的信息，用于广告和分析目的。
+    - link "隐私政策":
+      - /url: /policies/privacy-policy
+      - generic: 隐私政策
+  - group "Cookie 同意操作":
+    - button "偏好":
+      - generic: 偏好
+    - button "拒绝":
+      - generic: 拒绝
+    - button "接受":
+      - generic: 接受
+- heading [level=2]: Your Cart
+- button:
+  - generic: 
+  - generic: Close Cart
+- progressbar:
+  - generic: "Progress: 0%"
+- generic: You are $299.98 away from FREE SHIPPING!
+- heading [level=4]: Your cart is empty!
+- paragraph: Add your favorite items to your cart.
+- paragraph:
+  - link:
+    - /url: /collections/all
+    - text: Shop Now
+- text: 
+- heading [level=4]: Complete your sleep system
+- list:
+  - link:
+    - /url: /products/storm-performance-pillow?variant=44147956547724&_rdiscovery-handle=storm-performance-pillow&_rdiscovery-widget=269555
+  - heading [level=5]:
+    - link:
+      - /url: /products/storm-performance-pillow?variant=44147956547724&_rdiscovery-handle=storm-performance-pillow&_rdiscovery-widget=269555
+      - text: Storm Performance® Pillow
+  - generic: Price
+  - text: $199.99
+  - button: Options
+  - link:
+    - /url: /products/night-ice-performance-pillow?variant=44147962871948&_rdiscovery-handle=night-ice-performance-pillow&_rdiscovery-widget=269555
+  - heading [level=5]:
+    - link:
+      - /url: /products/night-ice-performance-pillow?variant=44147962871948&_rdiscovery-handle=night-ice-performance-pillow&_rdiscovery-widget=269555
+      - text: Night Ice Performance® Pillow
+  - generic: Price
+  - text: $299.99
+  - button: Options
+  - link:
+    - /url: /products/balance-performance-pillow?variant=44147912769676&_rdiscovery-handle=balance-performance-pillow&_rdiscovery-widget=269555
+  - heading [level=5]:
+    - link:
+      - /url: /products/balance-performance-pillow?variant=44147912769676&_rdiscovery-handle=balance-performance-pillow&_rdiscovery-widget=269555
+      - text: Balance Performance® Pillow
+  - generic: Price
+  - text: $99.99
+  - button: Options
+- generic: 
+- generic: 
+- generic: 

@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-04",
+  "automated_tests": {
+    "passed": 18,
+    "failed": 0
+  },
+  "original_data_unchanged": {
+    "brands": 3,
+    "products": 4,
+    "materials": 45,
+    "material_links": 84,
+    "records": 48,
+    "observations": 10,
+    "reviews": 1628,
+    "imports": 1
+  },
+  "browser_checks": [
+    "三品牌独立总览",
+    "床单与褥垫分区",
+    "精确跳转至研究条目",
+    "编辑与保存小结",
+    "重点论据与截图选择入口",
+    "汇报视图隐藏编辑和进度",
+    "价格表保留规格日期及限制",
+    "离线HTML下载成功"
+  ],
+  "export": {
+    "path": "报告导出/Shilucheng_品牌研究总览_2026-11-04.html",
+    "sections": 6,
+    "embedded_images": 4,
+    "external_source_links": 61,
+    "scripts": 0,
+    "edit_controls": 0
+  },
+  "print": "内置浏览器打印未通过验证，直接入口已移除；保留浏览器打印样式",
+  "scheduler": "未启用",
+  "backup": "data/backups/before_brand_report_20261104_220113"
+}

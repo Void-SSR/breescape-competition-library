@@ -1,0 +1,1028 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: 类别
+    - button:
+    - generic: 订单
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "搜索":
+  - /placeholder: electric scooters for adults over 300lbs
+- button "搜索":
+  - generic: 搜索
+- link "优惠券中心":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "优惠券中心":
+    - generic: 优惠券中心
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- generic: ·
+- generic: 商品速览
+- generic: ID：
+- generic: "1729457680158658805"
+- button "标题翻译":
+  - generic: 标题翻译
+- button "图片下载":
+  - generic: 图片下载
+- button "视频下载":
+  - generic: 视频下载
+- button "导出评论":
+  - generic: 导出评论
+- button "AI商品分析":
+  - generic: AI商品分析
+- button "完整分析":
+  - generic: 完整分析
+- generic: 累计销量
+- generic: 122,491
+- generic: 可售库存
+- generic: 2,897
+- generic: SKU
+- generic: 30 · 29.99 美元 - 129.99 美元
+- generic: 评分
+- generic: 4.4 · 14,252
+- generic: 评价 vs 差评
+- generic: 81.7% · 12.5%
+- list:
+  - link "TikTok商店":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok商店
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "桌面及桌面防护垫、衬面、防护罩":
+    - /url: https://shop.tiktok.com/us/c/mattress-mattress-pads-toppers-protectors/809480
+    - generic: 桌面及桌面防护垫、衬面、防护罩
+  - link "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠":
+    - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-brand-name-extra-1000-gsm-cooling-plush-pad/1729457680158658805
+    - generic: 【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠
+- img "1000克/平方米 白色"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- heading "优惠券中心" [level=2]:
+  - generic: 优惠券中心
+- paragraph:
+  - generic: 领取您的专属优惠。具体条款适用。
+- generic: 暂无优惠券
+- generic: 抱歉，您的优惠券均不适用于此商品。您可以点击“优惠券中心”查看TikTok商城所有可用优惠券。
+- heading "运输和进口" [level=2]:
+  - generic: 运输和进口
+- link "发货和发货 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和发货" [level=3]:
+    - generic: 发货和发货
+  - generic: 不少商品可享受包邮服务，或在订单金额达到起送优惠后享受包邮服务。
+- link "30天轻松免费回归 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30天轻松免费回归" [level=3]:
+    - generic: 30天轻松免费回归
+  - generic: 该商品可在送达后30天内免费退货。在符合条件的地点退货拆包装箱和退货面单。
+- link "TikTok 店铺保障 安全支付 数据隐私 退款保障 产品保障 应用内部支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok 店铺保障" [level=2]:
+    - generic: TikTok 店铺保障
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 产品保障
+  - generic: 应用内部支持
+  - generic: 轻松退货和退款
+- link "销售店铺 WeCharmer Store":
+  - /url: https://shop.tiktok.com/us/store/wecharmer-store/7495163560979958005
+  - generic: 销售店铺 WeCharmer Store
+- heading "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠" [level=1]:
+  - generic: 【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠
+- generic: $
+- generic: "58"
+- generic: "99"
+- generic: 免费运送
+- generic: "4.4"
+- generic: （
+- generic: 14.3K
+- generic: ）
+- generic: 已售 122.5K
+- button "成交件数":
+- generic: 颜色
+- generic: ：
+- generic: 1000克/平方米 白色
+- img "1000克/平方米 白色"
+- generic: 1000克/平方米 白色
+- img "1000克/平方米 深灰色"
+- generic: 1000克/平方米 深灰色
+- img "1000克黑色"
+- generic: 1000克黑色
+- img "1000克竹纤维冷却"
+- generic: 1000克竹纤维冷却
+- img "500克/平方米 白色"
+- generic: 500克/平方米 白色
+- img "500克灰色"
+- generic: 500克灰色
+- img "500克黑色"
+- generic: 500克黑色
+- img "500克竹纤维冷却"
+- generic: 500克竹纤维冷却
+- generic: 尺寸
+- generic: ：
+- generic: Queen
+- generic: 双
+- generic: 女王
+- generic: 国王
+- generic: 卡尔·金
+- generic: 双人加大号
+- generic: 满的
+- generic: 数量
+- generic: ":"
+- spinbutton: "1"
+- generic: 缺货
+- button "立即购买" [disabled]:
+  - generic: 立即购买
+- button "加入购物车" [disabled]:
+  - generic: 加入购物车
+- link "WeCharmer商店 WeCharmer商店 4.4 336.7K 已售出 2.6K+粉丝 82% 后悔 <13小时 问题解决 一般 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/wecharmer-store/7495163560979958005
+  - img "WeCharmer商店"
+  - generic: WeCharmer商店
+  - generic: "4.4"
+  - generic: 336.7K
+  - generic: 已售出
+  - generic: 2.6K+
+  - generic: 粉丝
+  - generic: 82%
+  - generic: 后悔
+  - generic: <13小时
+  - generic: 问题解决
+  - generic: 一般
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 此商品的相关视频
+- generic: Creator earns commission
+- 'img "How they make me feel bad | Product Promotion #FamilyGuy #foryou #foryoupage #Funny #viral #StewieGriffin #PeterGriffin #fyp #Quagmire #LoisGriffin #MegGriffin #FamilyGuyClips #briangriffin #explorepage #trending #Clips #wecharmerstore"'
+- generic: ThatFamilyGuyDude
+- generic: 190.8K
+- generic: Creator earns commission
+- 'img "Black mattress cover it comes in different colors and i got a King size bed it fit perfectly and we slept so comfortably 🥰 shop through the orange cart below ⬇️ #fyp #foryoupage #mattresscover"'
+- generic: FitMFNJazz
+- generic: 136.1K
+- generic: Creator earns commission
+- 'img "I’m telling yallll… GO GET YOU ONE OF THESE 🤏🏾🤏🏾 #matresstopper #review #fyp"'
+- generic: Annette Nicole
+- generic: 126.6K
+- generic: Creator earns commission
+- 'img "this mattress topper is comfy and leakproof and on an amazing sale! #mattresstopper #bedding #soft #tiktokshopblackfriday #tiktokshopcybermonday"'
+- generic: yvette
+- generic: 127.0K
+- generic: Creator earns commission
+- img "ITS SOOOO FLUFFY !!!"
+- generic: Grants reviews
+- generic: 99.3K
+- generic: Creator earns commission
+- 'img "#mattress #mattresstopper #tiktokshopblackfriday #mattressbed #mattresstoppers"'
+- generic: novayverse
+- generic: 93.8K
+- generic: Creator earns commission
+- 'img "10 outta 10💫the answer to a goodnite sleep #highlyrecommended #viral #goodproduct #xy"'
+- generic: momand7kidz
+- generic: 83.1K
+- generic: Creator earns commission
+- 'img "1 thing☝🏽for sure #tiktok gon get me right errrytime😂 #fyp #foryoupage #bedding sleep good #sleepbetter"'
+- generic: momand7kidz
+- generic: 59.0K
+- generic: Creator earns commission
+- 'img "A comfy bed is the best Christmas gift!!! #bedding #homedecor #over40"'
+- generic: spankifarris
+- generic: 61.7K
+- generic: Creator earns commission
+- 'img "The best thing I brought this year 🙌🏾🔥 #makercome"'
+- generic: Makercome
+- generic: 41.1K
+- generic: Creator earns commission
+- 'img "I literally couldn’t get out of bed, this tipper is so soft, you just melt into it☁️😩#mattresstopper #roommakeover"'
+- generic: StylebyKO
+- generic: 39.5K
+- generic: Creator earns commission
+- 'img "Look how happy he is! He’s been asking for a soft bed just like Mama’s 🥹 #mattresstopper #bedroommakeover #mattress #parentingtips #parentinghacks"'
+- generic: jessakatan
+- generic: 37.4K
+- generic: Creator earns commission
+- 'img "Instant gratification with this black mattress topper. I’m blown away how soft this feels. Best sleep since sleeping on this mattress topper. You can trust it! #mattresstopper #mattress #tiktokfind #musthaves #bedroommakeover #cozyathome"'
+- generic: lifeofTreonta
+- generic: 36.2K
+- generic: Creator earns commission
+- 'img "This mattress topper is so thick and soft! It has transformed my daughters hard, firm mattress into a soft, clou-like feel! There’s multiple colors and sizes to choose from. The options with weight in them are mattress pads, which are thinner than this mattress topper! #tiktokshopbacktoschool #mattresstopper #sleepyhead #goodnightsleep #tiktokshopcreatorpicks"'
+- generic: Lauren | SAHM |
+- generic: 35.4K
+- generic: Creator earns commission
+- 'img "#tiktokmademebuyit #tiktokshopping #fyp #fypシ゚viral #pourtoi"'
+- generic: Terry
+- generic: 31.3K
+- generic: Creator earns commission
+- generic: Grants reviews
+- generic: 29.5K
+- generic: Creator earns commission
+- 'img "THIS IS THE REASON!! You’re on you’re way to that good sleep as soon as you hit purchase! #tiktokshopspringglowup #mattresstopper #hotelbedding #topper"'
+- generic: JalisaSAHM 🛍️
+- generic: 28.2K
+- generic: Creator earns commission
+- 'img "#mattress #mattresstopper #tiktokshopbacktoschool #comfy #bedding"'
+- generic: JNicole
+- generic: 27.0K
+- generic: Creator earns commission
+- 'img "Its sooo fluffy !!! Wish i just put this on my old mattress 😩 check out all the different colors they have!! #mattresstoppers #mattresstopper #mattresspad #mattress #mattresstopperrecommendation"'
+- generic: Grants reviews
+- generic: 26.4K
+- generic: Creator earns commission
+- 'img "#mattress #mattresstopper #mattresspad #mattresstoppers #mattressbed"'
+- generic: novayverse
+- generic: 24.9K
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: 两种填充物选择：超柔软的 1000 克/平方米羽绒或更经济实惠的 500 克/平方米羽绒替代品
+- generic: •
+- generic: 透气超细纤维表面和1000GSM竹粘胶纤维凉感面料
+- generic: •
+- generic: 采用绗缝设计，填充物为5D和7D雪绒替代材料，防止填充物移位。
+- generic: •
+- generic: 360°弹力裙边，适用于厚度为8-21英寸的床垫，确保稳固贴合。
+- generic: •
+- generic: 可机洗，低温洗涤；低温烘干以获得最佳蓬松效果。
+- generic: 此信息由人工智能生成。
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "附加功能 压力释放":
+      - cell "附加功能":
+        - generic: 附加功能
+      - cell "压力释放":
+        - generic: 压力释放
+    - row "面料类型 聚酯纤维、超细纤维、棉":
+      - cell "面料类型":
+        - generic: 面料类型
+      - cell "聚酯纤维、超细纤维、棉":
+        - generic: 聚酯纤维、超细纤维、棉
+    - row "关闭 拉":
+      - cell "关闭":
+        - generic: 关闭
+      - cell "拉":
+        - generic: 拉
+    - row "封面材料 棉混纺":
+      - cell "封面材料":
+        - generic: 封面材料
+      - cell "棉混纺":
+        - generic: 棉混纺
+    - row "产品优势 防护、低致敏性、舒适":
+      - cell "产品优势":
+        - generic: 产品优势
+      - cell "防护、低致敏性、舒适":
+        - generic: 防护、低致敏性、舒适
+    - row "保养说明 机洗":
+      - cell "保养说明":
+        - generic: 保养说明
+      - cell "机洗":
+        - generic: 机洗
+- generic: 查看更多
+- generic: 商品描述
+- generic: 请注意【床垫套】：
+- generic: 视频中展示的床垫套是我们1000克/平方米的版本，这是我们最厚实、最奢华的选择。如果您喜欢这种厚度和柔软度，请在订购时务必选择1000克/平方米的床垫套。
+- generic: 500GSM床垫垫价格更实惠，舒适度也一样好；请务必注意其中的区别。
+- generic: 主要特点：1000GSM床垫垫层
+- generic: ·
+- generic: 优质面料——这款床垫套采用透气亲肤的超细纤维面料，为您带来卓越的柔软舒适感。表面饰以方形提花图案，美观独特。床垫套采用400支精梳纤维制成，经久耐用，即使频繁洗涤也不易撕裂。
+- generic: ·
+- generic: 绗缝工艺及填充物 - 我们的床垫套采用双层填充，填充物为5D和7D雪绒替代填充物，极致柔软、蓬松且保暖。独特的绗缝设计，使填充物固定在每个格子中，不易移位。
+- generic: ·
+- generic: 深口袋设计——弹力针织裙边，360°全方位包裹设计，高弹力口袋全方位保护床垫，让您在睡眠中随意翻身。加长床裙设计适用于8-21英寸厚的床垫，适用范围广，满足各种需求。
+- generic: ·
+- generic: 缓解背痛 - 这款床垫套厚度适中，在柔软度和支撑性之间实现了巧妙的平衡。当您睡在我们的床垫套上时，它可以轻柔地缓冲背部、腰部和臀部的压力点，帮助缓解背痛，为您的睡眠提供符合人体工程学的支撑和舒适感。
+- generic: ·
+- generic: 可机洗且易于护理 - 我们的床垫保护套易于清洁，床垫罩可在洗衣机中低温清洗。低温烘干。请勿熨烫或干洗。为了达到最佳蓬松度，您可以在使用前低温烘干。
+- generic: ·
+- generic: 客户服务 - 如果您对我们的产品不满意或有任何疑问，请告诉我们，我们将尽力为您提供完美的解决方案。
+- generic: 主要特点：500GSM床垫
+- generic: ·
+- generic: 材质
+- generic: ：采用超细纤维和6D蓬松面料制成，确保柔软舒适的触感。
+- generic: ·
+- generic: 深口袋
+- generic: ：采用深口袋设计，通过 360° 弹性边缘可容纳 21 英寸床垫，为您的必需品提供安全的存储空间。
+- generic: ·
+- generic: 透气设计
+- generic: ：透气面料可防止热量积聚，同时提供柔软的支撑，确保睡眠不受干扰。
+- generic: ·
+- generic: 贴合式绗缝设计
+- generic: ：绗缝设计将柔软舒适与安全凉爽的支撑相结合，带来不间断的睡眠。
+- generic: ·
+- generic: 尺寸
+- generic: ：长 19.69 英寸，宽 11.81 英寸，高 7.87 英寸，非常适合大多数床垫。
+- generic: ·
+- generic: 可机洗
+- generic: ：易于清洁和保养，节省您的时间和精力。
+- generic: ·
+- generic: 无噪音和超声波
+- generic: ：全年提供舒适的睡眠环境，确保您拥有宁静的睡眠体验。
+- generic: ·
+- generic: 轻盈面料
+- generic: ：超细纤维面料带来即刻凉爽和如云朵般舒适感，提升您的睡眠体验。
+- generic: 主要特点：1000GSM竹纤维冷却
+- generic: ·
+- generic: 超柔软凉爽床垫垫层：采用优质竹粘胶纤维制成。这款奢华的床垫垫层确保您整晚保持凉爽舒适，避免因过热而影响睡眠。其静音设计提供无声保护，在保护床垫的同时，提升您的睡眠体验。
+- generic: ·
+- generic: 柔软床垫垫：我们的绗缝床垫垫柔软舒适，经久耐用，提供均匀支撑。
+- generic: ·
+- generic: 深口袋设计：深口袋设计和弹力床裙确保床垫套牢固贴合，防止移位或滑动。完美贴合，提升舒适度和稳定性，弹力设计提供可靠的支撑，让您的床品整晚保持原位。
+- generic: ·
+- generic: "Upgrade Your Sleep Experience: Transform your bedroom into a luxury retreat with our sumptuous mattress topper. Designed to enhance your mattress, it offers a soft, supportive surface that adapts to your body, ensuring a restful and rejuvenating night's sleep. Elevate your comfort and enjoy the luxury of a hotel bed right in your own home."
+- generic: ·
+- generic: Customer Service - If you are not satisfied with our products or have any questions, please let us know, We will do our best to give you the perfect solution.
+- generic: Size Guide
+- generic: ·
+- generic: "Twin: 39\" * 75\""
+- generic: ·
+- generic: "Twin XL: 39\" * 80\""
+- generic: ·
+- generic: "Full: 54\" * 75\""
+- generic: ·
+- generic: "Queen: 60\" * 80\""
+- generic: ·
+- generic: "King: 76\" * 80\""
+- generic: ·
+- generic: "Cal King: 72\" *84\""
+- generic: Size Notice All our toppers are made based on U.S. standard sizes. Please confirm your mattress size before purchase to ensure a proper fit. If you receive the wrong size or find a mismatch, contact our customer service immediately — we’ll help resolve it quickly.
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- generic: Please note【Pad】:Experience ultimate comfort and support with our Mattress Pad, designed to provide a plush and restful environment for your sleep.
+- generic: "Key Features:"
+- generic: ·
+- generic: "Material: Made from microfiber and 6D fluffy fabric, ensuring a soft and comfortable feel."
+- generic: ·
+- generic: "Deep Pocket: Features a deep pocket that fits 21\" mattresses via 360° elastic edges, providing secure storage for your essentials."
+- generic: ·
+- generic: "Breathable Design: The breathable fabric prevents heat buildup while offering plush support, ensuring undisturbed sleep."
+- generic: ·
+- generic: "Fitted Quilt Design: The quilt design combines plush comfort with secure, cooling support for uninterrupted sleep."
+- generic: ·
+- generic: "Dimensions: Measures 19.69'' x 11.81'' x 7.87'', making it a perfect fit for most mattresses."
+- generic: ·
+- generic: "Machine-Washable: Easy to clean and maintain, saving you time and effort."
+- generic: ·
+- generic: "Noise-Free & Hypersonic: Ideal for year-round restful nights, ensuring a peaceful environment for your sleep."
+- generic: ·
+- generic: "Lightweight Cover: The microfiber cover provides instant coolness and cloud-like comfort, enhancing your sleep experience."
+- generic: "Benefits:"
+- generic: ·
+- generic: "Comfortable Sleep: The microfiber fabric ensures a soft and comfortable feel, making it ideal for restful sleep."
+- generic: ·
+- generic: "Secure Storage: The deep pocket provides secure storage for your essentials."
+- generic: ·
+- generic: "Hygienic: Noise-free and hypoallergenic, making it suitable for year-round use."
+- generic: ·
+- generic: "Improved Sleep Quality: The fluffy microfiber filling enhances the resting environment, contributing to a better quality of sleep."
+- generic: Upgrade your sleep experience with our Mattress Pad, combining plush comfort, secure support, and a hypoallergenic environment. Perfect for year-round restful nights, this mat is designed to keep you comfortable and cozy.
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- img "【秋季特惠】WeCharmer 1000GSM 豪华床垫垫层 - 竹纤维羽绒替代填充，凉爽如云的枕头层，360° 弹性支撑，8-21 英寸深口袋，5D+7D 蓬松度，静音垫层，缓解背痛，助您安享睡眠"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: WeCharmer 加厚床垫垫层是一款绗缝床垫垫，旨在为您的现有床垫增添柔软舒适的支撑，提升睡眠体验。这款垫层提供两种填充重量选择：1000 GSM，蓬松度极佳，并可选配凉爽的竹粘胶纤维；500 GSM，柔软舒适，价格更实惠。它采用羽绒替代填充物，带来如云朵般柔软的触感，却不含天然羽绒。垫层表面采用透气性极佳的超细纤维面料，400 支精梳纤维结构，而 1000 GSM 竹纤维款则为怕热人士提供额外的凉爽感。绗缝工艺可将 5D 和 7D 的雪绒替代填充物牢牢固定，防止移位；弹力裙边提供 360° 全方位保护，适用于 8 至 21 英寸厚的床垫。垫套易于打理——可机洗低温烘干（不可熨烫或干洗）——让您持久保持蓬松度和舒适度。这款床垫垫层适合任何追求额外柔软度、缓解压力或更凉爽睡眠表面的人士，它无需更换床垫本身即可提升床垫的舒适度。
+- generic: 此信息由人工智能生成。
+- generic: 常见问题
+- generic: •
+- generic: 有哪些填充物可选？它们之间有什么区别？答：有两种填充物可选：1000克/平方米，触感极其柔软厚实（视频中展示）；500克/平方米，价格更实惠，同样舒适。1000克/平方米的版本被认为是最厚实、最奢华的。
+- generic: •
+- generic: 床垫套使用了哪些材料？答：表面采用透气超细纤维面料，400支精梳纤维结构；另有1000克/平方米的款式采用竹粘胶纤维，以增强透气性。填充物为羽绒替代品（5D和7D雪绒替代品）。
+- generic: •
+- generic: 答：这款床垫套适用于多厚的床垫？这款床垫套采用360°弹力松紧裙边和加长床裙设计，适用于8至21英寸厚的床垫。
+- generic: •
+- generic: 我应该如何保养和清洁床垫套？答：床垫套可机洗（低温），并可低温烘干。请勿熨烫或干洗。为了达到最佳蓬松效果，建议使用前低温烘干。
+- generic: •
+- generic: 有哪些尺寸可供选择？答：我们提供的尺寸包括单人床、单人加大床、双人床、大号双人床、特大号双人床和加州特大号双人床。所有床垫垫层均按照美国标准床垫尺寸制作。
+- generic: 此信息由人工智能生成。
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：System Assuregroup LLC
+- generic: •
+- generic: 公司地址：350 Evergreen Road,Frankfort,Kentucky,40601
+- generic: 店铺评价
+- img "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb"
+- link "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-58-by-wecharmer-tall-indoor-condo-with-scratching-post-toy/1729466488657121525
+  - heading "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 10.3K 已售出
+- text: $64
+- generic: ".99"
+- img "S**҉ P**҉"
+- generic: Excellent cat tower! Easy, self explanatory instructions & assembly. Excellent size & more climbing/play options. Showing comparisons to a store bought one that I got years ago for roughly $50 on sale. My big boy already resting at the top! I love the product even more because he loves it. 🐈‍⬛🖤
+- generic: ...
+- button "查看更多"
+- img "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space"
+- link "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-61-wecharmer-indoor-plush-house-with-scratching-posts-leaves/1729410670917357813
+  - heading "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 58.5K 已售出
+- text: $60
+- generic: ".90"
+- img "A**🍒"
+- generic: Easy to assemble, it’s bigger than I thought and that’s perfect !! My cats loved it. It’s so soft and has enough area for entertainment
+- generic: ...
+- button "查看更多"
+- img "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\""
+- link "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\"":
+  - /url: https://shop.tiktok.com/us/pdp/plush-pet-mat-for-cats-dogs-soft-warm-support-design/1732203153630990581
+  - heading "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\"" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 6.8K 已售出
+- text: $79
+- generic: ".99"
+- img "H**s"
+- generic: I was hesitant to purchase at 1st, thinking my 80 lb. pittie wouldn't fit in the large but as you can see, he fits in it perfectly. Not only is it gorgeous, super soft, it's made very well. It took about 20 minutes to assemble. There is a handle on the back so you can pick it up and move it easily.
+- generic: ...
+- button "查看更多"
+- img "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats"
+- link "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-for-indoor-use-by-wecharmer-55-inch-plush-tower-with-leaves/1729715206635229429
+  - heading "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 5.3K 已售出
+- text: $60
+- generic: ".90"
+- img "T**n"
+- generic: As you can see, our cats needed a new cat tree BADLY 🤣 They weren't too sure about the new fancy one bc they've had the other one since they were born. But they are now enjoying it! It's very sturdy, easy to assemble fast shipping. Will be buying another one soon to replace the old one soon!
+- generic: ...
+- button "查看更多"
+- img "[Shipping Fee Applies][Group Deal][Auction] Deep Grey L Size (45*37*6in) Fluffy Cloud Pet Sofa Mat, Keep Warm Pet Bed for Small-Large Cats Dogs, Soft Plush Surface, Non-Slip Base, Removable Washable Cover, Large/Small, Keep Warm Beds, Sofas & Mats"
+- link "[Shipping Fee Applies][Group Deal][Auction] Deep Grey L Size (45*37*6in) Fluffy Cloud Pet Sofa Mat, Keep Warm Pet Bed for Small-Large Cats Dogs, Soft Plush Surface, Non-Slip Base, Removable Washable Cover, Large/Small, Keep Warm Beds, Sofas & Mats":
+  - /url: https://shop.tiktok.com/us/pdp/deep-grey-pet-mat-soft-plush-non-slip-washable-large/1732761159689801973
+  - heading "[Shipping Fee Applies][Group Deal][Auction] Deep Grey L Size (45*37*6in) Fluffy Cloud Pet Sofa Mat, Keep Warm Pet Bed for Small-Large Cats Dogs, Soft Plush Surface, Non-Slip Base, Removable Washable Cover, Large/Small, Keep Warm Beds, Sofas & Mats" [level=3]
+- generic: "5.0"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 34 已售出
+- text: $129
+- generic: ".99"
+- img "l**💯"
+- generic: "Love that it’s a good product as advertised Size Suitability: It’s actually a Large. Ease of Cleaning: Easy to wash."
+- generic: ...
+- button "查看更多"
+- generic: "4.3"
+- generic: 14252 条全球评价
+- generic: "5"
+- generic: "10447"
+- generic: "4"
+- generic: "1197"
+- generic: "3"
+- generic: "822"
+- generic: "2"
+- generic: "547"
+- generic: "1"
+- generic: "1239"
+- generic: 评价中的照片
+- button "查看全部照片":
+  - generic: 查看全部照片
+- img "查看图片 0"
+- generic "J**r ** O** N**t C**r **":
+  - generic: J**r ** O** N**t C**r **
+- img "评分：5星（满分5星）":
+- img "查看图片 1"
+- generic "J**r ** O** N**t C**r **":
+  - generic: J**r ** O** N**t C**r **
+- img "评分：5星（满分5星）":
+- img "查看图片 2"
+- generic "J**r ** O** N**t C**r **":
+  - generic: J**r ** O** N**t C**r **
+- img "评分：5星（满分5星）":
+- img "查看图片 3"
+- generic "J**r ** O** N**t C**r **":
+  - generic: J**r ** O** N**t C**r **
+- img "评分：5星（满分5星）":
+- img "查看图片 4"
+- generic "k**🍒":
+  - generic: k**🍒
+- img "评分：5星（满分5星）":
+- img "查看图片 5"
+- generic "k**🍒":
+  - generic: k**🍒
+- img "评分：5星（满分5星）":
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 14252 条评价（共 14252 条）
+- generic: 重置筛选条件
+- generic: L**a H**s
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：1 星（满分 5 星）":
+- generic: 一个月后，我发现这东西瘪了，跟广告宣传的完全不一样。我非常失望，要求退款并退货。
+- generic: 商品
+- generic: ：
+- generic: 白皇后
+- generic: 2024-12-03
+- generic: J**r ** O** N**t C**r **
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 这款床垫套太舒服了！它不会移位，牢牢固定在床垫上，绝对值得购买。舒适度：舒适度一流。形状和尺寸：标准双人床尺寸，完美贴合床垫。颜色：白色。
+- generic: 商品
+- generic: ：
+- generic: 1000克/平方米 白色，皇后尺寸
+- generic: 2026-06-17
+- generic: C**y D**l V**n
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：3星（满分5星）":
+- generic: 发货太差劲了！因为箱子上有轮胎印，我不想冒险，所以只能退货。包裹塞得满满的，感觉都要爆开了，不过箱子上确实有个痕迹，所以也说不准。我很想给好评，但是你们的物流或者拣货员太糟糕了。
+- generic: 商品
+- generic: ：
+- generic: 1000克/平方米 白色，全幅
+- generic: 2026-03-27
+- generic: T**4
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：1 星（满分 5 星）":
+- generic: 材质太差了。我像往常一样洗了这款JD床垫套，结果它就破了。真是浪费钱。材质太差了。
+- generic: 商品
+- generic: ：
+- generic: 1000gsm 黑色，King
+- generic: 2026-03-21
+- generic: k**🍒
+- generic: ·
+- generic: 真实购买
+- generic: 我们
+- img "评分：5星（满分5星）":
+- generic: 我太喜欢了！！！这款床垫套非常柔软，我睡得像个婴儿一样！！
+- generic: 商品
+- generic: ：
+- generic: 500克/平方米-灰色，特大号
+- generic: 2026-03-19
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "2851"
+- generic: 下一步
+- generic: 探索WeCharmer Store的更多商品
+- button:
+- img "【Fall Deals For You】WeCharmer Queen 500GSM Thick Quilted Fitted Mattress Protector - 500GSM Thick Microfibre Cooling Topper, Breathable Soft Fluffy Skin-Friendly Cover, 8-21” Deep Pocket, Machine Washable, Fits Most Beds for Cooler Rest"
+- generic: Free shipping
+- link "【Fall Deals For You】WeCharmer Queen 500GSM Thick Quilted Fitted Mattress Protector - 500GSM Thick Microfibre Cooling Topper, Breathable Soft Fluffy Skin-Friendly Cover, 8-21” Deep Pocket, Machine Washable, Fits Most Beds for Cooler Rest":
+  - /url: https://shop.tiktok.com/us/pdp/mattress-pad-protector-by-fitted-fluffy-microfiber-cooling-cover-21-deep/1729485741420613877
+  - heading "【Fall Deals For You】WeCharmer Queen 500GSM Thick Quilted Fitted Mattress Protector - 500GSM Thick Microfibre Cooling Topper, Breathable Soft Fluffy Skin-Friendly Cover, 8-21” Deep Pocket, Machine Washable, Fits Most Beds for Cooler Rest" [level=3]
+- generic: "3.9"
+- 'img "Rating: 3.9 out of 5 stars"':
+- generic: 6.0K 已售出
+- generic: Flash sale
+- generic: 01:41:42
+- text: $38
+- generic: ".57"
+- button:
+- img "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats"
+- generic: Free shipping
+- link "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-for-indoor-use-by-wecharmer-55-inch-plush-tower-with-leaves/1729715206635229429
+  - heading "【Fall Deals For You】WeCharmer Classic Cat Tree - Indoor Pet Furniture with Green Leaf Top, Plush Cover Kitten Condo, Durable Sisal Scratching Posts, 55\" Climb & Rest Area, 58\" High Perch, Hammock Wrap Nap Spot, 600g Plush, Supports Up to 27.5lb Cats" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 5.3K 已售出
+- generic: Limited time deal
+- text: $60
+- generic: ".90"
+- button:
+- img "【Fall Deals】WeCharmer Queen Fitted Mattress Topper (500g) - Cooling Microfiber Bed Pad, Lightweight Cover, Soft Breathable Cool Touch Protector, 8-21 in Deep Pocket, Machine Washable, Improves Sleep Quality, Summer Use, Bed Pads Washable"
+- generic: Free shipping
+- link "【Fall Deals】WeCharmer Queen Fitted Mattress Topper (500g) - Cooling Microfiber Bed Pad, Lightweight Cover, Soft Breathable Cool Touch Protector, 8-21 in Deep Pocket, Machine Washable, Improves Sleep Quality, Summer Use, Bed Pads Washable":
+  - /url: https://shop.tiktok.com/us/pdp/quilted-mattress-pad-by-unknown-cooling-microfiber-fitted-cover-8-21-deep/1729466523725041909
+  - heading "【Fall Deals】WeCharmer Queen Fitted Mattress Topper (500g) - Cooling Microfiber Bed Pad, Lightweight Cover, Soft Breathable Cool Touch Protector, 8-21 in Deep Pocket, Machine Washable, Improves Sleep Quality, Summer Use, Bed Pads Washable" [level=3]
+- generic: "3.8"
+- 'img "Rating: 3.8 out of 5 stars"':
+- generic: 10.8K 已售出
+- generic: Flash sale
+- generic: 01:41:42
+- text: $32
+- generic: ".99"
+- button:
+- img "【Fall Deals】WeCharmer Mobile Folding Trolley - 350+ lbs Capacity, 600D Oxford Wear-Resistant, Screw-In 360° Swivel Wheels, Quick Setup, 11 lbs Lightweight, 39\" Tailgate Reach, Portable for Home Storage Transport, Outdoor Hiking"
+- generic: Free shipping
+- link "【Fall Deals】WeCharmer Mobile Folding Trolley - 350+ lbs Capacity, 600D Oxford Wear-Resistant, Screw-In 360° Swivel Wheels, Quick Setup, 11 lbs Lightweight, 39\" Tailgate Reach, Portable for Home Storage Transport, Outdoor Hiking":
+  - /url: https://shop.tiktok.com/us/pdp/collapsible-wagon-with-tailgate-350lb-capacity-portable/1731648992994693365
+  - heading "【Fall Deals】WeCharmer Mobile Folding Trolley - 350+ lbs Capacity, 600D Oxford Wear-Resistant, Screw-In 360° Swivel Wheels, Quick Setup, 11 lbs Lightweight, 39\" Tailgate Reach, Portable for Home Storage Transport, Outdoor Hiking" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 27.6K 已售出
+- text: $41
+- generic: ".99"
+- button:
+- img "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb"
+- generic: Free shipping
+- link "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-58-by-wecharmer-tall-indoor-condo-with-scratching-post-toy/1729466488657121525
+  - heading "【Fall Deals】WeCharmer 58-in Plush Sisal Cat Tree Tower - Vertical Scratcher, High Platform, Tall Condos, Hanging Toy, Easy to Assemble, Huge Versatile Fun Center - Decor Your Furniture, Indoor Pet Furniture for Medium/Small Cats Up to 27.5-lb" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 10.3K 已售出
+- generic: Limited time deal
+- text: $64
+- generic: ".99"
+- button:
+- img "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\""
+- generic: Free shipping
+- link "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\"":
+  - /url: https://shop.tiktok.com/us/pdp/plush-pet-mat-for-cats-dogs-soft-warm-support-design/1732203153630990581
+  - heading "【Fall Deals】Fluffy Cloud Couch & Mat Bed for Indoor Cats - 3 Styles, All Sizes, Solid Colors, Claw-Safe Fleece, 2:1 Foam+Fiber, Detachable Machine-Wash Cover, 3-Sided Bolster, Head/Neck Cradle, Sleep Support, Anti-Slip Base, Travel-Convenient, L:45\"x37\"" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 6.8K 已售出
+- generic: Flash sale
+- generic: 01:41:42
+- text: $79
+- generic: ".99"
+- button:
+- img "【Fall Deals For You】WeCharmer Vanity Desk Set with Round Mirror, Vanity with Lights, Makeup Vanity with Mirror, 3 Lighting Modes, for Bedroom Furniture Table Storage Drawer Modern Design Organizing"
+- generic: Free shipping
+- link "【Fall Deals For You】WeCharmer Vanity Desk Set with Round Mirror, Vanity with Lights, Makeup Vanity with Mirror, 3 Lighting Modes, for Bedroom Furniture Table Storage Drawer Modern Design Organizing":
+  - /url: https://shop.tiktok.com/us/pdp/vanity-desk-set-by-wecharmer-with-round-mirror-3-lighting-modes/1729600634740117749
+  - heading "【Fall Deals For You】WeCharmer Vanity Desk Set with Round Mirror, Vanity with Lights, Makeup Vanity with Mirror, 3 Lighting Modes, for Bedroom Furniture Table Storage Drawer Modern Design Organizing" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 7.1K 已售出
+- generic: "-50%"
+- text: $99
+- generic: ".99"
+- text: $199.99
+- button:
+- img "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space"
+- generic: Free shipping
+- link "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space":
+  - /url: https://shop.tiktok.com/us/pdp/cat-tree-61-wecharmer-indoor-plush-house-with-scratching-posts-leaves/1729410670917357813
+  - heading "【Fall Deals For You】WeCharmer Classic Geometric Indoor Cat Tree with 400g Plush Condo House, Leaf Shape Green Leaves, Sisal Scratching Posts, Reinforced Vertical Scratcher, Hang Ball, Scratch Safe Pet Furniture for Cat Play Space" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 58.5K 已售出
+- text: $60
+- generic: ".90"
+- button:
+- generic: 你可能也喜欢
+- img "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw"
+- generic: Free shipping
+- generic: Comfrt
+- link "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw":
+  - /url: https://shop.tiktok.com/us/pdp/dreamer-blanket-by-comfrt-plush-softness-for-stress-anxiety/1729931833196778371
+  - heading "Comfrt | The Dreamer Blanket | Oversized, Cozy, Soft Warm Throw" [level=3]
+- generic: "4.9"
+- 'img "Rating: 4.9 out of 5 stars"':
+- generic: 214.5K 已售出
+- generic: Limited time deal
+- generic: "-36%"
+- text: $123
+- generic: ".50"
+- text: $193.70
+- button:
+- img "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo":
+  - /url: https://shop.tiktok.com/us/pdp/comforter-set-bedsure-7-piece-queen-pintuck-ultra-soft-multi-color-bedding/1729434299173409014
+  - heading "【Black Friday early bird sale】Bedsure 7-Piece Pinch Pleat Bedding Set - King Size, Microfiber Filling Blend, Cloud-Like Ultra-Soft, Breathable, Machine Washable, Geometric Pattern, Hotel Quality, All-Season Bed Comforter Set, Home Decor, Bedroom Inspo" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 143.1K 已售出
+- generic: "-49%"
+- text: $81
+- generic: ".99"
+- text: $161.99
+- button:
+- img "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear"
+- generic: Mellow Sleep
+- link "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear":
+  - /url: https://shop.tiktok.com/us/pdp/mellowsleep-soft-hooded-robe-double-sided-plush-fleece/1732291442888511569
+  - heading "Mellow Sleep | MellowSoft Hooded Robe – Double Sided Plush Fleece Loungewear, Ultra Soft Cloud Like Bathrobe Pajama Gown, Cozy Warm Robe for Home Relaxation, Lounge & Sleepwear" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 9.2K 已售出
+- generic: "-29%"
+- text: $55
+- generic: ".99"
+- text: $79.00
+- button:
+- img "Mellow Sleep | Cloud Throw Blanket - Cloud Like Faux Rabbit Fur Plush Blanket, Ultra Soft Fluffy Fleece Throw for Stress & Anxiety Relief, Thick Warm Cozy Blanket for Couch, Bed, Travel & Relaxation"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Cloud Throw Blanket - Cloud Like Faux Rabbit Fur Plush Blanket, Ultra Soft Fluffy Fleece Throw for Stress & Anxiety Relief, Thick Warm Cozy Blanket for Couch, Bed, Travel & Relaxation":
+  - /url: https://shop.tiktok.com/us/pdp/cloud-throw-blanket-ultra-plush-velvety-soft-elastic-stretch-knit-breathable-all-season/1729507534535169105
+  - heading "Mellow Sleep | Cloud Throw Blanket - Cloud Like Faux Rabbit Fur Plush Blanket, Ultra Soft Fluffy Fleece Throw for Stress & Anxiety Relief, Thick Warm Cozy Blanket for Couch, Bed, Travel & Relaxation" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 20.4K 已售出
+- text: $79
+- generic: ".00"
+- button:
+- img "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-cooling-pillowcase-2-pack-silky-smooth-wrinkle-free/1732043725840027729
+  - heading "Mellow Sleep | Cooling Pillowcase (2-Pack) - Silky Smooth Wrinkle-Free Soft and Fresh All Night Sleep Enhancer" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 62.1K 已售出
+- text: $38
+- generic: ".99"
+- button:
+- img "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable"
+- generic: Mellow Sleep
+- link "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/double-stuffed-ultra-soft-comforter-oeko-tex-certified/1732017379984117841
+  - heading "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 172.7K 已售出
+- generic: Limited time deal
+- generic: "-49%"
+- text: $106
+- generic: ".98"
+- text: $210.00
+- button:
+- 'img "Mellow Sleep | Temperature Control Comforter - This comforter is made from two comforters zipped together: a lighter one for hot sleepers and a heavier one for extra warmth. Zip or unzip to sleep at your ideal temperature."'
+- generic: Mellow Sleep
+- 'link "Mellow Sleep | Temperature Control Comforter - This comforter is made from two comforters zipped together: a lighter one for hot sleepers and a heavier one for extra warmth. Zip or unzip to sleep at your ideal temperature."':
+  - /url: https://shop.tiktok.com/us/pdp/cloudcontrol-comforter-white-dual-layer-design-hypoallergenic-machine-washable/1731182933474250833
+  - 'heading "Mellow Sleep | Temperature Control Comforter - This comforter is made from two comforters zipped together: a lighter one for hot sleepers and a heavier one for extra warmth. Zip or unzip to sleep at your ideal temperature." [level=3]'
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 14.6K 已售出
+- text: $149
+- generic: ".00"
+- button:
+- img "Mellow Sleep | CloudAlign Pillow + FREE Cooling Pillowcase - Ergonomic Cervical Pillow +Dual-Height Memory Foam with Cooling Pillowcase for Side Back & Stomach Sleepers Best Pillow 2025 Awarded"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | CloudAlign Pillow + FREE Cooling Pillowcase - Ergonomic Cervical Pillow +Dual-Height Memory Foam with Cooling Pillowcase for Side Back & Stomach Sleepers Best Pillow 2025 Awarded":
+  - /url: https://shop.tiktok.com/us/pdp/cloudalign-pillow-dual-height-ergonomic-design-washable-material/1731182908423966801
+  - heading "Mellow Sleep | CloudAlign Pillow + FREE Cooling Pillowcase - Ergonomic Cervical Pillow +Dual-Height Memory Foam with Cooling Pillowcase for Side Back & Stomach Sleepers Best Pillow 2025 Awarded" [level=3]
+- generic: "3.6"
+- 'img "Rating: 3.6 out of 5 stars"':
+- generic: 152.8K 已售出
+- text: $56
+- generic: ".98"
+- button:
+- img "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-pintuck-comforter-set-7-piece-queen-soft-multi-color-design/1730936115309678838
+  - heading "【Black Friday early bird sale】Bedsure Soft Washable Pintuck Comforter Set -4/7-Piece Set, Multi-Color, Cloud-like, Ultra-Soft, Elegant Design, Luxury Bedroom Decor Accessories, Breathable, All-Season Bedding, Hotel Quality, Hotel Style Bedding, Breathab" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 7.5K 已售出
+- generic: Limited time deal
+- generic: 09:40:43
+- text: $36
+- generic: ".39"
+- button:
+- img "Mellow Sleep | Hotel Pillow Waterproof & Stain-Resistant Cloud-Soft Hypoallergenic Machine Washable Best Pillow of 2025"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Hotel Pillow Waterproof & Stain-Resistant Cloud-Soft Hypoallergenic Machine Washable Best Pillow of 2025":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-hotel-pillow-waterproof-stain-resistant-cloud-soft-comfort/1731967158841217105
+  - heading "Mellow Sleep | Hotel Pillow Waterproof & Stain-Resistant Cloud-Soft Hypoallergenic Machine Washable Best Pillow of 2025" [level=3]
+- generic: "3.8"
+- 'img "Rating: 3.8 out of 5 stars"':
+- generic: 98.5K 已售出
+- text: $35
+- generic: ".00"
+- button:
+- img "Folding Mattress, Tri-fold Memory Foam Mattress Topper for Camping, Foldable Mattress Topper with Washable Cover, Various Sizes, White"
+- generic: Free shipping
+- generic: Sweetcrispy Official
+- link "Folding Mattress, Tri-fold Memory Foam Mattress Topper for Camping, Foldable Mattress Topper with Washable Cover, Various Sizes, White":
+  - /url: https://shop.tiktok.com/us/pdp/folding-mattress-by-primeselections4less-4-inch-memory-foam-topper/1729710246767137506
+  - heading "Folding Mattress, Tri-fold Memory Foam Mattress Topper for Camping, Foldable Mattress Topper with Washable Cover, Various Sizes, White" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 21.4K 已售出
+- generic: Flash sale
+- generic: 01:41:42
+- generic: "-14%"
+- text: $73
+- generic: ".14"
+- text: $84.99
+- button:
+- img "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed":
+  - /url: https://shop.tiktok.com/us/pdp/sofa-cover-cushion-by-bedsure-cozy-flannel-striped-ultra-soft-design/1729479724015915254
+  - heading "【Black Friday early bird sale】Bedsure Luxury Corduroy Fleece Throw - Ultra Soft, Warm, Lightweight, Durable, Cosy Baby Accessory for Sofa, Nursery, Ideal Seasonal Gift, Room Decor, Home Goods, Blankets for Bed" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 72.6K 已售出
+- text: $26
+- generic: ".39"
+- button:
+- img "Comfrt | Dreamday Plush Robe | Ultra-Soft Unisex Plush Robe With Deep Pockets Flattering Fit Indulgent Robe"
+- generic: Free shipping
+- generic: Comfrt
+- link "Comfrt | Dreamday Plush Robe | Ultra-Soft Unisex Plush Robe With Deep Pockets Flattering Fit Indulgent Robe":
+  - /url: https://shop.tiktok.com/us/pdp/dreamday-plush-robe-by-comfrt-unisex-soft-fabric-pockets-cozy/1732274801306669955
+  - heading "Comfrt | Dreamday Plush Robe | Ultra-Soft Unisex Plush Robe With Deep Pockets Flattering Fit Indulgent Robe" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 10.0K 已售出
+- generic: Limited time deal
+- generic: "-45%"
+- text: $71
+- generic: ".50"
+- text: $130.00
+- button:
+- img "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)":
+  - /url: https://shop.tiktok.com/us/pdp/solid-bed-sheets-by-ldc-lux-decor-4-pc-brushed-microfiber-set/1729590912873370233
+  - heading "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 193.2K 已售出
+- generic: "-21%"
+- text: $18
+- generic: ".99"
+- text: $23.99
+- button:
+- img "Mellow Sleep | MellowSoft Dream Slides - Soft Squishy Waterproof Pillow Slides, Cloud Foam Platform Slippers with Running Shoe Level Cushioning & Shock Absorption, Anti Slip Comfort Slides for Indoor & Outdoor"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | MellowSoft Dream Slides - Soft Squishy Waterproof Pillow Slides, Cloud Foam Platform Slippers with Running Shoe Level Cushioning & Shock Absorption, Anti Slip Comfort Slides for Indoor & Outdoor":
+  - /url: https://shop.tiktok.com/us/pdp/mellowsleep-mellowcloud-slides-ultra-soft-comfortable/1729507538881975377
+  - heading "Mellow Sleep | MellowSoft Dream Slides - Soft Squishy Waterproof Pillow Slides, Cloud Foam Platform Slippers with Running Shoe Level Cushioning & Shock Absorption, Anti Slip Comfort Slides for Indoor & Outdoor" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 57.1K 已售出
+- text: $39
+- generic: ".00"
+- button:
+- img "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately"
+- generic: Mellow Sleep
+- link "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-cloud-cooling-pillowcase-silky-smooth-cool/1732043652800811089
+  - heading "Mellow Sleep | Pillowcase for the CloudAlign Pillow - Pillow Sold Separately" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 45.7K 已售出
+- text: $26
+- generic: ".98"
+- button:
+- img "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)"
+- link "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)":
+  - /url: https://shop.tiktok.com/us/pdp/sheet-set-by-luxclub-6pc-deep-pocket-eco-friendly-silky-soft-wrinkle-free/1729385256317981042
+  - heading "LuxClub Cooling 4-Piece Bedding Set for Hot Sleepers - Hotel-Soft Touch, Moisture Wicking Microfiber, 18\" Deep Pocket, 360° Elastic Hold, Wrinkle Free, OEKO-TEX Certified (Split King, California King, Queen, Full, Twin XL, Twin)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 141.0K 已售出
+- text: $57
+- generic: ".98"
+- button:
+- img "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-king-size-cooling-sheets-set-soft-breathable/1732297575939412214
+  - heading "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 4.2K 已售出
+- text: $106
+- generic: ".99"
+- button:
+- img "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces"
+- generic: Free shipping
+- link "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces":
+  - /url: https://shop.tiktok.com/us/pdp/extra-deep-sheet-set-by-mellanni-4-pc-iconic-collection-21-pocket/1729408567901393174
+  - heading "Mellanni 4-Piece Iconic Bed Sheets Set - Extra-Deep 21\" Pockets, Double Brushed Ultrasoft Stain-Resistant Synthetic Microfiber, Cooling, Machine-Washable, Fits 18-21\" Mattresses, 21\" Deep Pockets, 4-Pieces" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.7K 已售出
+- text: $90
+- generic: ".96"
+- button:
+- img "Mellow Sleep | Adapt Pillow with 5 Sleep Zones Ergonomic Hotel Soft Feel Supports All Sleep Positions for Comfortable Sleep"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Adapt Pillow with 5 Sleep Zones Ergonomic Hotel Soft Feel Supports All Sleep Positions for Comfortable Sleep":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-adapt-pillow-17-x-27-5-sleep-zones-soft-feel/1732188932795437137
+  - heading "Mellow Sleep | Adapt Pillow with 5 Sleep Zones Ergonomic Hotel Soft Feel Supports All Sleep Positions for Comfortable Sleep" [level=3]
+- generic: "3.2"
+- 'img "Rating: 3.2 out of 5 stars"':
+- generic: 10.5K 已售出
+- text: $64
+- generic: ".99"
+- button:
+- img "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-cooling-comforter-dual-sided-silk-knit-fabric/1731648900804284497
+  - heading "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 82.9K 已售出
+- generic: Limited time deal
+- generic: "-50%"
+- text: $64
+- generic: ".99"
+- text: $130.00
+- button:
+- img "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033
+  - heading "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 14.7K 已售出
+- generic: "-27%"
+- text: $23
+- generic: ".99"
+- text: $32.99
+- button:
+- img "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh":
+  - /url: https://shop.tiktok.com/us/pdp/bed-sheet-set-by-ldc-lux-decor-collection-4-pcs-queen-microfiber-floral/1729445212463796857
+  - heading "LDC Lux Decor Collection 4-Piece Soft Breathable Decorative Bedsheet Set - 16\" Deep Pocket Fit, Floral Bedding, Embroidered Pillowcases, Quatrefoil Design, Fade-Resistant, Warm, Fits Queen/King/California King, Decorative Bedsheet Sets, Soft Breathable Sh" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 55.4K 已售出
+- generic: Flash sale
+- generic: 01:41:42
+- generic: "-22%"
+- text: $21
+- generic: ".83"
+- text: $27.99
+- button:
+- generic: 相关搜索
+- link "bedding10cm matress topper":
+  - /url: https://shop.tiktok.com/us/k/bedding10cm-matress-topper
+- link "how thick of a mattress topper to get":
+  - /url: https://shop.tiktok.com/us/k/how-thick-of-a-mattress-topper-to-get
+- link "how to get mattress topper to stay":
+  - /url: https://shop.tiktok.com/us/k/how-to-get-mattress-topper-to-stay
+- link "how thick of a mattress topper do i need for college":
+  - /url: https://shop.tiktok.com/us/k/how-thick-of-a-mattress-topper-do-i-need-for-college
+- link "firm bed topper":
+  - /url: https://shop.tiktok.com/us/k/firm-bed-topper
+- link "how to buy a mattress topper":
+  - /url: https://shop.tiktok.com/us/k/how-to-buy-a-mattress-topper
+- link "how thick should a mattress topper be for a dorm":
+  - /url: https://shop.tiktok.com/us/k/how-thick-should-a-mattress-topper-be-for-a-dorm
+- link "how to install a mattress topper":
+  - /url: https://shop.tiktok.com/us/k/how-to-install-a-mattress-topper
+- link "extra firm bed topper":
+  - /url: https://shop.tiktok.com/us/k/extra-firm-bed-topper
+- link "Will a mattress topper work on a shiity bed":
+  - /url: https://shop.tiktok.com/us/k/will-a-mattress-topper-work-on-a-shiity-bed
+- link "what kind of mattress topper do i need":
+  - /url: https://shop.tiktok.com/us/k/what-kind-of-mattress-topper-do-i-need
+- link "Extra thick matress toppwr":
+  - /url: https://shop.tiktok.com/us/k/extra-thick-matress-toppwr
+- link "best mattress topper for heavy people":
+  - /url: https://shop.tiktok.com/us/k/best-mattress-topper-for-heavy-people
+- link "Shorty short matress topper":
+  - /url: https://shop.tiktok.com/us/k/shorty-short-matress-topper
+- button:

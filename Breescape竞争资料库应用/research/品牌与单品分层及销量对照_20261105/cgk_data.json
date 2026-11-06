@@ -1,0 +1,3556 @@
+{
+  "error_code": 0,
+  "error_message": "success",
+  "categories": [
+    {
+      "category_id": "600154",
+      "level": 1,
+      "is_leaf": false,
+      "parent_id": "0",
+      "category_name": "Textiles & Soft Furnishings",
+      "name_key": "magellan_600154"
+    },
+    {
+      "category_id": "808328",
+      "level": 2,
+      "is_leaf": false,
+      "parent_id": "600154",
+      "category_name": "Bedding and Linens",
+      "name_key": "magellan_808328"
+    },
+    {
+      "category_id": "600165",
+      "level": 3,
+      "is_leaf": false,
+      "parent_id": "808328",
+      "category_name": "Sheets & Pillowcases",
+      "name_key": "magellan_600165"
+    },
+    {
+      "category_id": "1006864",
+      "level": 4,
+      "is_leaf": true,
+      "parent_id": "600165",
+      "category_name": "Sheet & Pillowcase Sets",
+      "name_key": "magellan_1006864"
+    }
+  ],
+  "promotion_tag": {
+    "placement_labels": {
+      "1": [
+        {
+          "id": "7704342172372567822",
+          "default_style": 12,
+          "is_show_icon": false,
+          "type": 4,
+          "text": "Limited time deal",
+          "status": 102,
+          "da_info": "{\"has_icon\":\"false\",\"limited_time_deal\":\"1\",\"flash_sale_cost_role\":\"2\",\"promotion_id\":\"7704342172372567822\",\"ranking\":\"1\",\"label_type\":\"FLASH_SALE\",\"placement\":\"DEFAULT\",\"activity_name\":\"4\",\"is_fbt\":\"0\"}",
+          "feature": [
+            {
+              "property_name": "limited_time_deal",
+              "property_value": "true"
+            },
+            {
+              "property_name": "seller_non_live_flash_sale",
+              "property_value": "true"
+            },
+            {
+              "property_name": "metric_custom",
+              "property_value": "seller_flash_sale"
+            },
+            {
+              "property_name": "countdown",
+              "property_value": "85101"
+            },
+            {
+              "property_name": "countdown_start_time",
+              "property_value": "1793862000000"
+            },
+            {
+              "property_name": "countdown_end_time",
+              "property_value": "1793948340000"
+            },
+            {
+              "property_name": "countdown_less_than_24h",
+              "property_value": "true"
+            },
+            {
+              "property_name": "activity_price",
+              "property_value": ""
+            },
+            {
+              "property_name": "is_seller_flash_sale",
+              "property_value": "1"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "id": "8",
+          "default_style": 10,
+          "is_show_icon": true,
+          "type": 8,
+          "text": "Free shipping",
+          "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"1\"}",
+          "feature": [
+            {
+              "property_name": "shipping_fee",
+              "property_value": "0"
+            },
+            {
+              "property_name": "is_fbt",
+              "property_value": "1"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "id": "8",
+          "default_style": 10,
+          "is_show_icon": true,
+          "type": 8,
+          "text": "Free shipping",
+          "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"false\",\"is_fbt\":\"1\"}",
+          "feature": [
+            {
+              "property_name": "shipping_fee",
+              "property_value": "0"
+            },
+            {
+              "property_name": "is_fbt",
+              "property_value": "1"
+            }
+          ]
+        },
+        {
+          "id": "7704342172372567822",
+          "default_style": 12,
+          "is_show_icon": false,
+          "type": 4,
+          "text": "Limited time deal",
+          "status": 102,
+          "da_info": "{\"ranking\":\"2\",\"has_icon\":\"false\",\"is_fbt\":\"0\",\"limited_time_deal\":\"1\",\"promotion_id\":\"7704342172372567822\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\",\"flash_sale_cost_role\":\"2\"}",
+          "feature": [
+            {
+              "property_name": "limited_time_deal",
+              "property_value": "true"
+            },
+            {
+              "property_name": "seller_non_live_flash_sale",
+              "property_value": "true"
+            },
+            {
+              "property_name": "metric_custom",
+              "property_value": "seller_flash_sale"
+            },
+            {
+              "property_name": "countdown",
+              "property_value": "85101"
+            },
+            {
+              "property_name": "countdown_start_time",
+              "property_value": "1793862000000"
+            },
+            {
+              "property_name": "countdown_end_time",
+              "property_value": "1793948340000"
+            },
+            {
+              "property_name": "countdown_less_than_24h",
+              "property_value": "true"
+            },
+            {
+              "property_name": "activity_price",
+              "property_value": ""
+            },
+            {
+              "property_name": "is_seller_flash_sale",
+              "property_value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    "placement_labels_ui": {
+      "ui_list": [
+        {
+          "placement": 1,
+          "labels": [
+            {
+              "meta": {
+                "label_type": "4",
+                "da_info": "{\"has_icon\":\"false\",\"limited_time_deal\":\"1\",\"flash_sale_cost_role\":\"2\",\"promotion_id\":\"7704342172372567822\",\"ranking\":\"1\",\"label_type\":\"FLASH_SALE\",\"placement\":\"DEFAULT\",\"activity_name\":\"4\",\"is_fbt\":\"0\"}",
+                "label_style_id": "191"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "View",
+                "value": "",
+                "styles": "display:flex;flex-direction:row;align-items:center;justify-content:flex-start;padding:0;flex-wrap:nowrap;gap:1rpx;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": [
+                  {
+                    "hidden": false,
+                    "type": "Text",
+                    "value": "Limited time deal",
+                    "styles": "color:{{ theme({ \"light\": \"#E10543\", \"dark\": \"#FF576F\" }) }};font-family:TikTokFont;font-size:12rpx;word-break:keep-all;white-space:nowrap;text-overflow:ellipsis;line-height:1;",
+                    "click_event": {
+                      "type": "",
+                      "arguments": {
+                        "schema": ""
+                      }
+                    },
+                    "extra": "",
+                    "strictMode": "",
+                    "visibilityScript": "",
+                    "children": []
+                  }
+                ]
+              }
+            }
+          ],
+          "divider": {
+            "value": "",
+            "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+          }
+        },
+        {
+          "placement": 3,
+          "labels": [
+            {
+              "meta": {
+                "label_type": "8",
+                "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"false\",\"promotion_id\":\"-999\",\"is_fbt\":\"1\"}",
+                "label_style_id": "199"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "View",
+                "value": "",
+                "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": [
+                  {
+                    "hidden": false,
+                    "type": "Text",
+                    "value": "Free shipping",
+                    "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                    "click_event": {
+                      "type": "",
+                      "arguments": {
+                        "schema": ""
+                      }
+                    },
+                    "extra": "",
+                    "strictMode": "",
+                    "visibilityScript": "",
+                    "children": []
+                  }
+                ]
+              }
+            }
+          ],
+          "divider": {
+            "value": "",
+            "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+          }
+        },
+        {
+          "placement": 10,
+          "labels": [
+            {
+              "meta": {
+                "label_type": "8",
+                "da_info": "{\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"false\",\"is_fbt\":\"1\"}",
+                "label_style_id": "194"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "Text",
+                "value": "Free shipping",
+                "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": []
+              }
+            },
+            {
+              "meta": {
+                "label_type": "4",
+                "da_info": "{\"ranking\":\"2\",\"has_icon\":\"false\",\"is_fbt\":\"0\",\"limited_time_deal\":\"1\",\"promotion_id\":\"7704342172372567822\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\",\"flash_sale_cost_role\":\"2\"}",
+                "label_style_id": "191"
+              },
+              "lom": {
+                "hidden": false,
+                "type": "View",
+                "value": "",
+                "styles": "display:flex;flex-direction:row;align-items:center;justify-content:flex-start;padding:0;flex-wrap:nowrap;gap:1rpx;",
+                "click_event": {
+                  "type": "",
+                  "arguments": {
+                    "schema": ""
+                  }
+                },
+                "extra": "",
+                "strictMode": "",
+                "visibilityScript": "",
+                "children": [
+                  {
+                    "hidden": false,
+                    "type": "Text",
+                    "value": "Limited time deal",
+                    "styles": "color:{{ theme({ \"light\": \"#E10543\", \"dark\": \"#FF576F\" }) }};font-family:TikTokFont;font-size:12rpx;word-break:keep-all;white-space:nowrap;text-overflow:ellipsis;line-height:1;",
+                    "click_event": {
+                      "type": "",
+                      "arguments": {
+                        "schema": ""
+                      }
+                    },
+                    "extra": "",
+                    "strictMode": "",
+                    "visibilityScript": "",
+                    "children": []
+                  }
+                ]
+              }
+            }
+          ],
+          "divider": {
+            "value": "",
+            "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+          }
+        }
+      ]
+    }
+  },
+  "product_info": {
+    "status": 1,
+    "biz_code": 0,
+    "biz_type": 0,
+    "sold_count": "2603",
+    "product_id": "1730084277563069132",
+    "seller_id": "7495123352118987468",
+    "title": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+    "sold_count_note": {
+      "title": "Items sold",
+      "text": "The number of items sold globally since this item was listed on TikTok Shop excluding items that have been returned."
+    },
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f615656f477b4e279681afed500c28de~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b66873f201ff44cab39a9d354f1e8e27~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ee1f554a54b4dbea249739975bcd03a~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/330a54aef63b4b9188b660b607526c94~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/f8e5caf17c8c4bdda705c2e89645a0ad~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ],
+        "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0",
+        "thumb_url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d4f8d00e15044bd5ba5001dea561f1e0~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "CGK Linens"
+      },
+      {
+        "name": "Closure type",
+        "value": "Zipper"
+      },
+      {
+        "name": "Sheets and pillowcases type",
+        "value": "Set"
+      },
+      {
+        "name": "Material",
+        "value": "Bamboo"
+      },
+      {
+        "name": "Feature",
+        "value": "Breathable,Wrinkle resistant,Durable,Cooling,Soft,Fade resistant"
+      },
+      {
+        "name": "Theme",
+        "value": "Solid"
+      },
+      {
+        "name": "Washing instructions",
+        "value": "Machine wash"
+      },
+      {
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "name": "Pattern",
+        "value": "Solid"
+      }
+    ],
+    "header_video": {
+      "duration": 44.795,
+      "id": "v12d52gd0030darck7vog65m0rqmh60g",
+      "post_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-afa798-tx/o4fJeNG2ClVOGLmrqGMfhBIUMIbtFeDQIxYyIR~tplv-noop.image?dr=12525&refresh_token=3f370928&x-expires=1793884883&x-signature=0vzlV6xxImoYWSllZxp6ag1p2Wc%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=6ce186a1&idc=useast5&VideoID=v12d52gd0030darck7vog65m0rqmh60g",
+      "media_type": "video",
+      "video_infos": [
+        {
+          "width": 576,
+          "height": 1024,
+          "url_expire": "1793884883",
+          "size": "2877498",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/6eceba4e15cbb816e3fd9b1ad7cc151c/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/oAqUIpiBvBfBo29Qy122qmBEjCiMvkhWVPASox/?a=0&bti=PDM8QDI2M2A%3D&&bt=501&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=OGg7NjQ5PDRlO2loZDxpO0BpajlwdXA5cjpmZDMzZzVnNEBfYDExMF4wNjQxNDQtYy9eYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/6eceba4e15cbb816e3fd9b1ad7cc151c/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/oAqUIpiBvBfBo29Qy122qmBEjCiMvkhWVPASox/?a=0&bti=PDM8QDI2M2A%3D&&bt=501&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=OGg7NjQ5PDRlO2loZDxpO0BpajlwdXA5cjpmZDMzZzVnNEBfYDExMF4wNjQxNDQtYy9eYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "format": "mp4"
+        },
+        {
+          "width": 720,
+          "height": 1280,
+          "url_expire": "1793884883",
+          "size": "3649491",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/5ca0e0dfebc3c8ef4ab20b77dd6f1db3/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/os9rlyWGGIdICtYhNRLgIumfMFefqGOQIPMeU2/?a=0&bti=PDM8QDI2M2A%3D&&bt=636&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=aTw7ZGhmNDRkOGU7aWQzZUBpajlwdXA5cjpmZDMzZzVnNEAwMjYzNGNiXy0xYjBeLjEyYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/5ca0e0dfebc3c8ef4ab20b77dd6f1db3/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/os9rlyWGGIdICtYhNRLgIumfMFefqGOQIPMeU2/?a=0&bti=PDM8QDI2M2A%3D&&bt=636&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=aTw7ZGhmNDRkOGU7aWQzZUBpajlwdXA5cjpmZDMzZzVnNEAwMjYzNGNiXy0xYjBeLjEyYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "format": "mp4"
+        }
+      ]
+    },
+    "desc_video": {
+      "duration": 44.795,
+      "id": "v12d52gd0030darck7vog65m0rqmh60g",
+      "post_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-afa798-tx/o4fJeNG2ClVOGLmrqGMfhBIUMIbtFeDQIxYyIR~tplv-noop.image?dr=12525&refresh_token=3f370928&x-expires=1793884883&x-signature=0vzlV6xxImoYWSllZxp6ag1p2Wc%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=6ce186a1&idc=useast5&VideoID=v12d52gd0030darck7vog65m0rqmh60g",
+      "media_type": "video",
+      "video_infos": [
+        {
+          "width": 576,
+          "height": 1024,
+          "url_expire": "1793884883",
+          "size": "2877498",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/6eceba4e15cbb816e3fd9b1ad7cc151c/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/oAqUIpiBvBfBo29Qy122qmBEjCiMvkhWVPASox/?a=0&bti=PDM8QDI2M2A%3D&&bt=501&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=OGg7NjQ5PDRlO2loZDxpO0BpajlwdXA5cjpmZDMzZzVnNEBfYDExMF4wNjQxNDQtYy9eYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/6eceba4e15cbb816e3fd9b1ad7cc151c/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/oAqUIpiBvBfBo29Qy122qmBEjCiMvkhWVPASox/?a=0&bti=PDM8QDI2M2A%3D&&bt=501&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=OGg7NjQ5PDRlO2loZDxpO0BpajlwdXA5cjpmZDMzZzVnNEBfYDExMF4wNjQxNDQtYy9eYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "format": "mp4"
+        },
+        {
+          "width": 720,
+          "height": 1280,
+          "url_expire": "1793884883",
+          "size": "3649491",
+          "main_url": "https://v16m-default.tiktokcdn-us.com/5ca0e0dfebc3c8ef4ab20b77dd6f1db3/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/os9rlyWGGIdICtYhNRLgIumfMFefqGOQIPMeU2/?a=0&bti=PDM8QDI2M2A%3D&&bt=636&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=aTw7ZGhmNDRkOGU7aWQzZUBpajlwdXA5cjpmZDMzZzVnNEAwMjYzNGNiXy0xYjBeLjEyYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "backup_url": "https://v16m-default.tiktokcdn-us.com/5ca0e0dfebc3c8ef4ab20b77dd6f1db3/6aec82d3/video/tos/useast5/tos-useast5-v-afa798-tx/os9rlyWGGIdICtYhNRLgIumfMFefqGOQIPMeU2/?a=0&bti=PDM8QDI2M2A%3D&&bt=636&ft=GS-jnInz7ThSBH5GXq8Zmo&mime_type=video_mp4&rc=aTw7ZGhmNDRkOGU7aWQzZUBpajlwdXA5cjpmZDMzZzVnNEAwMjYzNGNiXy0xYjBeLjEyYSMtZW4tMmRzaG9hMC1kMi9zcw%3D%3D&vvpl=1&l=2026110507203918B19090AE0E50007FCC&btag=e00088000",
+          "format": "mp4"
+        }
+      ]
+    },
+    "desc_blocks": [
+      {
+        "type": "ul",
+        "content": [
+          "BAMBOO SHEETS - Crafted from bamboo, these all-natural luxury sheets provide a much longer life span than bamboo blend sheets, microfiber, or cotton sheets. Bamboo sheets have a history of retaining their softness for years of cozy comfort. ",
+          "SUPER COOLING BAMBOO SHEETS - Bamboo sheets will keep you comfortable and cool all night long. Bamboo sheets are great if you’re a hot sleeper, suffer from night sweats, or have hot flashes because of their breathability. ",
+          "DEEP POCKET SHEETS - Many mattresses are quite deep these days and those mattresses require sheets with deep pockets to match. Bamboo sheets are a perfect complement for these mattresses due to the fabric’s flexibility. Our bamboo sheets fit mattresses up to 16 inches deep and still fit great on mattresses less than 16 inches.",
+          "SUPER SOFT & LIGHTWEIGHT - These luxury bamboo bed sheets are light, breathable, and silky soft. Soft and cooling bamboo sheets provide a luxurious night’s sleep. Instead of being a bamboo blend with heavy fabrics such as cotton, microfiber, or even worse polyester these soft bamboo sheets are made from high-quality natural bamboo fibers.",
+          "MOISTURE WICKING SHEETS - Bamboo sheets are great moisture-wicking sheets because bamboo fabrics are hygroscopic, meaning they absorb moisture and move it away from your body. This quality lends to the comfort and breathability of bamboo sheets. The moisture-wicking properties of these soft bamboo sheets deliver a dry, fresh, and friendly night’s sleep. "
+        ],
+        "rich_content": [
+          {
+            "text_alignment": 1,
+            "template": "{{QkFNQ_0}}{{QkFNQ_1}}",
+            "arguments": {
+              "{{QkFNQ_0}}": {
+                "text_attribute": {
+                  "text": "BAMBOO SHEETS",
+                  "font": {
+                    "font_weight": 3,
+                    "font_class": 5
+                  }
+                }
+              },
+              "{{QkFNQ_1}}": {
+                "text_attribute": {
+                  "text": " - Crafted from bamboo, these all-natural luxury sheets provide a much longer life span than bamboo blend sheets, microfiber, or cotton sheets. Bamboo sheets have a history of retaining their softness for years of cozy comfort. ",
+                  "font": {
+                    "font_weight": 1,
+                    "font_class": 5
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font": {
+                "font_weight": 1,
+                "font_class": 4
+              },
+              "font_color": {
+                "color": "#FF000000"
+              }
+            }
+          },
+          {
+            "text_alignment": 1,
+            "template": "{{U1VQR_0}}{{U1VQR_1}}",
+            "arguments": {
+              "{{U1VQR_0}}": {
+                "text_attribute": {
+                  "text": "SUPER COOLING BAMBOO SHEETS",
+                  "font": {
+                    "font_weight": 3,
+                    "font_class": 5
+                  }
+                }
+              },
+              "{{U1VQR_1}}": {
+                "text_attribute": {
+                  "text": " - Bamboo sheets will keep you comfortable and cool all night long. Bamboo sheets are great if you’re a hot sleeper, suffer from night sweats, or have hot flashes because of their breathability. ",
+                  "font": {
+                    "font_weight": 1,
+                    "font_class": 5
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font": {
+                "font_weight": 1,
+                "font_class": 4
+              },
+              "font_color": {
+                "color": "#FF000000"
+              }
+            }
+          },
+          {
+            "text_alignment": 1,
+            "template": "{{REVFU_0}}{{REVFU_1}}",
+            "arguments": {
+              "{{REVFU_1}}": {
+                "text_attribute": {
+                  "text": " - Many mattresses are quite deep these days and those mattresses require sheets with deep pockets to match. Bamboo sheets are a perfect complement for these mattresses due to the fabric’s flexibility. Our bamboo sheets fit mattresses up to 16 inches deep and still fit great on mattresses less than 16 inches.",
+                  "font": {
+                    "font_weight": 1,
+                    "font_class": 5
+                  }
+                }
+              },
+              "{{REVFU_0}}": {
+                "text_attribute": {
+                  "text": "DEEP POCKET SHEETS",
+                  "font": {
+                    "font_weight": 3,
+                    "font_class": 5
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font": {
+                "font_weight": 1,
+                "font_class": 4
+              },
+              "font_color": {
+                "color": "#FF000000"
+              }
+            }
+          },
+          {
+            "text_alignment": 1,
+            "template": "{{U1VQR_0}}{{U1VQR_1}}",
+            "arguments": {
+              "{{U1VQR_0}}": {
+                "text_attribute": {
+                  "text": "SUPER SOFT & LIGHTWEIGHT",
+                  "font": {
+                    "font_weight": 3,
+                    "font_class": 5
+                  }
+                }
+              },
+              "{{U1VQR_1}}": {
+                "text_attribute": {
+                  "text": " - These luxury bamboo bed sheets are light, breathable, and silky soft. Soft and cooling bamboo sheets provide a luxurious night’s sleep. Instead of being a bamboo blend with heavy fabrics such as cotton, microfiber, or even worse polyester these soft bamboo sheets are made from high-quality natural bamboo fibers.",
+                  "font": {
+                    "font_weight": 1,
+                    "font_class": 5
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font": {
+                "font_weight": 1,
+                "font_class": 4
+              },
+              "font_color": {
+                "color": "#FF000000"
+              }
+            }
+          },
+          {
+            "text_alignment": 1,
+            "template": "{{TU9JU_0}}{{TU9JU_1}}",
+            "arguments": {
+              "{{TU9JU_0}}": {
+                "text_attribute": {
+                  "text": "MOISTURE WICKING SHEETS",
+                  "font": {
+                    "font_weight": 3,
+                    "font_class": 5
+                  }
+                }
+              },
+              "{{TU9JU_1}}": {
+                "text_attribute": {
+                  "text": " - Bamboo sheets are great moisture-wicking sheets because bamboo fabrics are hygroscopic, meaning they absorb moisture and move it away from your body. This quality lends to the comfort and breathability of bamboo sheets. The moisture-wicking properties of these soft bamboo sheets deliver a dry, fresh, and friendly night’s sleep. ",
+                  "font": {
+                    "font_weight": 1,
+                    "font_class": 5
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font": {
+                "font_weight": 1,
+                "font_class": 4
+              },
+              "font_color": {
+                "color": "#FF000000"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "price": {
+      "symbol_position": 1,
+      "is_interval_price": true,
+      "real_price": "$58.49 - 114.39",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "min_sku_price": "58.49",
+      "max_sku_price": "114.39",
+      "min_sku_original_price": "62.99"
+    },
+    "sale_props": [
+      {
+        "has_image": true,
+        "has_extended_images": false,
+        "prop_id": "100000",
+        "prop_name": "Color",
+        "sale_prop_values": [
+          {
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/66bb69848ba44c10989c5e51fbda1050~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6930873639403390721",
+            "prop_value": "Dark Grey",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e5ec8ca6bdf64589a287c8fbff6ae8c8~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6979155710567270150",
+            "prop_value": "Emerald Green",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/bbcbe083aaac4055b6cd8bd49d4033f9~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865483832575745",
+            "prop_value": "Light Grey",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/df69a2bd4d244199bffc7612587de1d8~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/70dabd4ddbfa4fc0b0c82da794719494~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6976511766872459010",
+            "prop_value": "Wheat",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8bcc0d54386347f490da6e836cf59164~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5ce1815bb80143e985eeb7f2fcaaa1f2~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7678920734680581896",
+            "prop_value": "Brown",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/21a8e5525a8c43ca99df943de15b6f3e~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7678348138993813256",
+            "prop_value": "Burgundy",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddac0437dd0745ff9e85f1b1aa953a3c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7678986034142824206",
+            "prop_value": "Light Blue",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9fa7a784f59943f3b8b5e69d5d4a5587~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7683860640728925983",
+            "prop_value": "Light Pink",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4002de7b7e7d46acb291d70f2aee217c~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7070081039556740870",
+            "prop_value": "Light Sage Green",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1de6efdf113c4e25ad867a3ecc8e994f~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7023545575450904322",
+            "prop_value": "Pastel Yellow",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/830d180933824d40bcde88a841dbcf66~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          },
+          {
+            "prop_value_id": "7680226938507347726",
+            "prop_value": "Purple",
+            "image": {
+              "width": 800,
+              "height": 800,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5~tplv-fhlh96nyum-crop-webp:800:800.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ],
+              "thumb_uri": "tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5",
+              "thumb_url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/739b9c3c654e412d803caa1b9e587ad5~tplv-fhlh96nyum-crop-webp:200:200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "has_image": false,
+        "has_extended_images": false,
+        "prop_id": "100007",
+        "prop_name": "Size",
+        "sale_prop_values": [
+          {
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          },
+          {
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          },
+          {
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          },
+          {
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "status": 0,
+        "stock": 125,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882227916",
+        "sale_prop_value_ids": "6926865445131749121_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 84,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882686668",
+        "sale_prop_value_ids": "6926865445131749121_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 11,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883145420",
+        "sale_prop_value_ids": "6926865445131749121_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7527066250817177399"
+      },
+      {
+        "status": 0,
+        "stock": 15,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883604172",
+        "sale_prop_value_ids": "6926865445131749121_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865445131749121",
+            "prop_value": "Black"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7348468937296856875"
+      },
+      {
+        "status": 0,
+        "stock": 94,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882293452",
+        "sale_prop_value_ids": "6930873639403390721_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930873639403390721",
+            "prop_value": "Dark Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 293,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882752204",
+        "sale_prop_value_ids": "6930873639403390721_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930873639403390721",
+            "prop_value": "Dark Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 14,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883210956",
+        "sale_prop_value_ids": "6930873639403390721_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930873639403390721",
+            "prop_value": "Dark Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7671141587691783950"
+      },
+      {
+        "status": 0,
+        "stock": 139,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883669708",
+        "sale_prop_value_ids": "6930873639403390721_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6930873639403390721",
+            "prop_value": "Dark Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 94,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882358988",
+        "sale_prop_value_ids": "6979155710567270150_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979155710567270150",
+            "prop_value": "Emerald Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 117,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882817740",
+        "sale_prop_value_ids": "6979155710567270150_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979155710567270150",
+            "prop_value": "Emerald Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 12,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883276492",
+        "sale_prop_value_ids": "6979155710567270150_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979155710567270150",
+            "prop_value": "Emerald Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7629034781151659790"
+      },
+      {
+        "status": 0,
+        "stock": 13,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883735244",
+        "sale_prop_value_ids": "6979155710567270150_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6979155710567270150",
+            "prop_value": "Emerald Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7629034781151659790"
+      },
+      {
+        "status": 0,
+        "stock": 133,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882424524",
+        "sale_prop_value_ids": "6926865483832575745_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865483832575745",
+            "prop_value": "Light Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 160,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882883276",
+        "sale_prop_value_ids": "6926865483832575745_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865483832575745",
+            "prop_value": "Light Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 19,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883342028",
+        "sale_prop_value_ids": "6926865483832575745_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865483832575745",
+            "prop_value": "Light Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7553493041786291982"
+      },
+      {
+        "status": 0,
+        "stock": 25,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883800780",
+        "sale_prop_value_ids": "6926865483832575745_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865483832575745",
+            "prop_value": "Light Grey"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7553493041786291982"
+      },
+      {
+        "status": 0,
+        "stock": 155,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882490060",
+        "sale_prop_value_ids": "6931945646509557505_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 167,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882948812",
+        "sale_prop_value_ids": "6931945646509557505_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 7,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883407564",
+        "sale_prop_value_ids": "6931945646509557505_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7527066250817177399"
+      },
+      {
+        "status": 0,
+        "stock": 7,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883866316",
+        "sale_prop_value_ids": "6931945646509557505_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6931945646509557505",
+            "prop_value": "Navy Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7542190779398653709"
+      },
+      {
+        "status": 0,
+        "stock": 164,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882555596",
+        "sale_prop_value_ids": "6976511766872459010_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6976511766872459010",
+            "prop_value": "Wheat"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 215,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883014348",
+        "sale_prop_value_ids": "6976511766872459010_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6976511766872459010",
+            "prop_value": "Wheat"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 1,
+        "stock": 8,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883473100",
+        "sale_prop_value_ids": "6976511766872459010_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6976511766872459010",
+            "prop_value": "Wheat"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7362809515345692462"
+      },
+      {
+        "status": 0,
+        "stock": 159,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883931852",
+        "sale_prop_value_ids": "6976511766872459010_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6976511766872459010",
+            "prop_value": "Wheat"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 273,
+        "purchase_limit": 200,
+        "sku_id": "1730084348882621132",
+        "sale_prop_value_ids": "6926865456653567746_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "58.49",
+          "origin_price_format": "62.99",
+          "discount_format": "7%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "58.49",
+          "origin_price_decimal": "62.99",
+          "discount_decimal": "0.07",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 120,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883079884",
+        "sale_prop_value_ids": "6926865456653567746_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "63.69",
+          "currency_symbol": "$",
+          "sale_price_decimal": "63.69",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 67,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883538636",
+        "sale_prop_value_ids": "6926865456653567746_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7553493041786291982"
+      },
+      {
+        "status": 0,
+        "stock": 20,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883997388",
+        "sale_prop_value_ids": "6926865456653567746_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "77.99",
+          "origin_price_format": "87.99",
+          "discount_format": "11%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "77.99",
+          "origin_price_decimal": "87.99",
+          "discount_decimal": "0.11",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7629034781151659790"
+      },
+      {
+        "status": 0,
+        "stock": 29,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447040204",
+        "sale_prop_value_ids": "7678920734680581896_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678920734680581896",
+            "prop_value": "Brown"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 6,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447105740",
+        "sale_prop_value_ids": "7678920734680581896_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678920734680581896",
+            "prop_value": "Brown"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 8,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447171276",
+        "sale_prop_value_ids": "7678920734680581896_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678920734680581896",
+            "prop_value": "Brown"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 2,
+        "stock": 0,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447236812",
+        "sale_prop_value_ids": "7678920734680581896_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678920734680581896",
+            "prop_value": "Brown"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "sold_out",
+        "unavailable_info": {
+          "reason": 3,
+          "action": 1,
+          "text": "This item is out of stock"
+        },
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 49,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447302348",
+        "sale_prop_value_ids": "7678348138993813256_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678348138993813256",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 19,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447367884",
+        "sale_prop_value_ids": "7678348138993813256_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678348138993813256",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 34,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447433420",
+        "sale_prop_value_ids": "7678348138993813256_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678348138993813256",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 10,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447498956",
+        "sale_prop_value_ids": "7678348138993813256_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678348138993813256",
+            "prop_value": "Burgundy"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 51,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447564492",
+        "sale_prop_value_ids": "7678986034142824206_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678986034142824206",
+            "prop_value": "Light Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 43,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447630028",
+        "sale_prop_value_ids": "7678986034142824206_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678986034142824206",
+            "prop_value": "Light Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 42,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447695564",
+        "sale_prop_value_ids": "7678986034142824206_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678986034142824206",
+            "prop_value": "Light Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 47,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447761100",
+        "sale_prop_value_ids": "7678986034142824206_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7678986034142824206",
+            "prop_value": "Light Blue"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 43,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447826636",
+        "sale_prop_value_ids": "7683860640728925983_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7683860640728925983",
+            "prop_value": "Light Pink"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 22,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447892172",
+        "sale_prop_value_ids": "7683860640728925983_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7683860640728925983",
+            "prop_value": "Light Pink"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 21,
+        "purchase_limit": 200,
+        "sku_id": "1732733780447957708",
+        "sale_prop_value_ids": "7683860640728925983_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7683860640728925983",
+            "prop_value": "Light Pink"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 41,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448023244",
+        "sale_prop_value_ids": "7683860640728925983_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7683860640728925983",
+            "prop_value": "Light Pink"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 48,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448088780",
+        "sale_prop_value_ids": "7070081039556740870_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7070081039556740870",
+            "prop_value": "Light Sage Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 33,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448154316",
+        "sale_prop_value_ids": "7070081039556740870_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7070081039556740870",
+            "prop_value": "Light Sage Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 37,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448219852",
+        "sale_prop_value_ids": "7070081039556740870_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7070081039556740870",
+            "prop_value": "Light Sage Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 45,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448285388",
+        "sale_prop_value_ids": "7070081039556740870_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7070081039556740870",
+            "prop_value": "Light Sage Green"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 62,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448350924",
+        "sale_prop_value_ids": "7023545575450904322_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7023545575450904322",
+            "prop_value": "Pastel Yellow"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 41,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448416460",
+        "sale_prop_value_ids": "7023545575450904322_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7023545575450904322",
+            "prop_value": "Pastel Yellow"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 47,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448481996",
+        "sale_prop_value_ids": "7023545575450904322_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7023545575450904322",
+            "prop_value": "Pastel Yellow"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 55,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448547532",
+        "sale_prop_value_ids": "7023545575450904322_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7023545575450904322",
+            "prop_value": "Pastel Yellow"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 53,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448613068",
+        "sale_prop_value_ids": "7680226938507347726_6971966191698970374",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7680226938507347726",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191698970374",
+            "prop_value": "Twin"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "81.89",
+          "currency_symbol": "$",
+          "sale_price_decimal": "81.89",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 67,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448678604",
+        "sale_prop_value_ids": "7680226938507347726_6993933132273616642",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7680226938507347726",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6993933132273616642",
+            "prop_value": "Full"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "90.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "90.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 32,
+        "purchase_limit": 200,
+        "sku_id": "1732733780448744140",
+        "sale_prop_value_ids": "7680226938507347726_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7680226938507347726",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "97.49",
+          "currency_symbol": "$",
+          "sale_price_decimal": "97.49",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      },
+      {
+        "status": 0,
+        "stock": 53,
+        "purchase_limit": 200,
+        "sku_id": "1732733785639719628",
+        "sale_prop_value_ids": "7680226938507347726_6971966191699003142",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7680226938507347726",
+            "prop_value": "Purple"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971966191699003142",
+            "prop_value": "King"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "114.39",
+          "currency_symbol": "$",
+          "sale_price_decimal": "114.39",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7257710042430326570"
+      }
+    ],
+    "default_sku_id": "1730084348882227916",
+    "logistic": {
+      "delivery_option": 1,
+      "is_default": false,
+      "free_shipping": true,
+      "reachable": true,
+      "delivery_min_days": 5,
+      "delivery_max_days": 8,
+      "delivery_name": "Fulfilled by TikTok - Standard Shipping",
+      "lead_time": "Nov 10 - Nov 13",
+      "shipping_fee": {
+        "price_str": "$0.00",
+        "price_val": "0",
+        "currency": "USD"
+      },
+      "original_shipping_val": "5.99",
+      "logistics_service_id": "7345700278525495083",
+      "event_tracking": {
+        "is_plus_effective": "0",
+        "logistics_test_info_v2": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":3},\\\"exp_out\\\":{\\\"sre_edt\\\":\\\"5_8\\\",\\\"exp_edt\\\":\\\"5_8\\\",\\\"before_xdd_flatten\\\":\\\"5_8\\\",\\\"sre_xdd_prob\\\":[{\\\"leadtime_tag\\\":2,\\\"compliance_rate\\\":0},{\\\"leadtime_tag\\\":3,\\\"compliance_rate\\\":0}],\\\"seller_xdd_status\\\":1,\\\"xdd_thresholds\\\":{\\\"2\\\":0.8,\\\"3\\\":0.8},\\\"ship_time\\\":{\\\"cot\\\":1793905200,\\\"cd\\\":0}},\\\"ab_info\\\":[{\\\"g_conf\\\":{\\\"prob\\\":\\\"{\\\\\\\"3\\\\\\\":0}\\\",\\\"threshold\\\":\\\"{\\\\\\\"3\\\\\\\":0.8}\\\"}}]}\"}",
+        "shipping_currency": "USD",
+        "shipping_price": "0",
+        "est_delivery_day_min": "5",
+        "est_logistic_delivery_day_max": "0",
+        "is_instant_tag": "0",
+        "is_late_guarantee": "0",
+        "ship_from": "local",
+        "ship_in_cd": "11hour",
+        "delivery_type": "fbt",
+        "est_delivery_bday_min": "3",
+        "est_delivery_day_max": "8",
+        "global_shipping": "0",
+        "holiday_flag": "0",
+        "is_display_fastest": "0",
+        "ship_in_bd": "null",
+        "shipping_price_after_coupon": "0",
+        "est_delivery_day_expected": "0",
+        "est_logistic_delivery_day_min": "0",
+        "is_fbt_show": "0",
+        "is_next_day_delivery": "0",
+        "select_service_id": "7345700278525495083",
+        "shipping_price_origin": "5.99",
+        "shipping_type": "standard",
+        "ships_days": "0",
+        "is_1_day_shipping": "0",
+        "is_ontime_compensation_show": "0"
+      }
+    },
+    "seller": {
+      "rating_value": 4.6,
+      "product_count": "40",
+      "follower_count": "35945",
+      "seller_id": "7495123352118987468",
+      "name": "CGK Linens",
+      "avatar": {
+        "width": 300,
+        "height": 300,
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a",
+        "url_list": [
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039"
+        ]
+      },
+      "shop_link": "aweme://ec/store?custom_params=%7B%22custom_id_type%22%3A0%2C%22decorate_insert_items%22%3A%5B1730084277563069132%5D%7D&sellerId=7495123352118987468&store_page_version=2&url_maker=shop_schema_sdk",
+      "rating": "4.6"
+    },
+    "review": {
+      "product_rating": 4.7,
+      "review_count": "299",
+      "product_rating_str": "4.7",
+      "review_count_str": "299"
+    },
+    "shipping_module": {
+      "description_list": [
+        {
+          "text": "Free shipping",
+          "rich_text": {
+            "template": "{{free_shipping}}",
+            "arguments": {
+              "{{free_shipping}}": {
+                "text_attribute": {
+                  "text": "Free shipping",
+                  "font_color": {
+                    "color": "#007B7B"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#007B7B"
+              }
+            }
+          }
+        },
+        {
+          "text": "Estimated delivery Nov 10 – 13",
+          "rich_text": {
+            "template": "Estimated delivery {{lead_time}}",
+            "arguments": {
+              "{{lead_time}}": {
+                "text_attribute": {
+                  "text": "Nov 10 – 13",
+                  "font_color": {
+                    "color": "#000000"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#000000"
+              }
+            }
+          }
+        },
+        {
+          "text": "Ships same day if ordered within 11 hours",
+          "rich_text": {
+            "template": "{{shipping_cutoff_time}}",
+            "arguments": {
+              "{{shipping_cutoff_time}}": {
+                "text_attribute": {
+                  "text": "Ships same day if ordered within 11 hours",
+                  "font_color": {
+                    "color": "#007B7B"
+                  }
+                }
+              }
+            },
+            "text_attribute": {
+              "font_color": {
+                "color": "#007B7B"
+              }
+            }
+          }
+        }
+      ],
+      "appendix_list": []
+    },
+    "lock_up_shipping": [
+      {
+        "text": "Free shipping · Ships same day",
+        "rich_text": {
+          "template": "{{ShippingIcon}} Free shipping · Ships same day",
+          "arguments": {
+            "{{ShippingIcon}}": {
+              "link_text_type": 1,
+              "icon_attribute": {
+                "size": {
+                  "width": 13,
+                  "height": 13
+                },
+                "icon": {
+                  "icon": {
+                    "width": 48,
+                    "height": 48,
+                    "uri": "tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png",
+                    "url_list": [
+                      "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png~tplv-fhlh96nyum-resize-png:48:48.png?dr=12184&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192",
+                      "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/pdp-lockup-free-shipping-light.png~tplv-fhlh96nyum-resize-png:48:48.png?dr=12184&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=useast5&from=3376456192"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "text_attribute": {
+            "link": "aweme://roma_redirect/?spark_page=popupschema&title=Free%20shipping&ecrichtext_content=%5B%7B%22template%22:%22Enjoy%20free%20shipping%20on%20this%20purchase%21%20Shipping%20discounts%20are%20applied%20at%20checkout%20and%20are%20subject%20to%20conditions%20such%20as%20cart%20total%20or%20item%20count.%22%2C%22arguments%22:%7B%22%7B%7BTerms%7D%7D%22:%7B%22link_text_type%22:0%2C%22text_attribute%22:%7B%22text%22:%22%22%2C%22font%22:%7B%22font_weight%22:2%2C%22font_class%22:5%7D%7D%7D%7D%2C%22text_attribute%22:%7B%22font%22:%7B%22font_weight%22:1%2C%22font_class%22:4%7D%2C%22font_color%22:%7B%22color%22:%22%23FF000000%22%2C%22dark_color%22:%22%23FFF6F6F6%22%7D%7D%7D%5D&height=25%25&self_adaptive_height=1",
+            "font": {
+              "font_weight": 2,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#007B7B"
+            }
+          }
+        }
+      }
+    ],
+    "compliance": {
+      "title": "Seller information",
+      "contents": [
+        "Business name: CGK Holdings, Inc.",
+        "Business address: 600 Cleveland Street,Clearwater,Florida,33755"
+      ],
+      "rich_title": {
+        "template": "Seller information",
+        "text_attribute": {
+          "font": {
+            "font_weight": 2,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#000000"
+          }
+        }
+      },
+      "rich_contents": [
+        {
+          "template": "Business name: CGK Holdings, Inc.",
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "template": "Business address: 600 Cleveland Street,Clearwater,Florida,33755",
+          "text_attribute": {
+            "font": {
+              "font_weight": 1,
+              "font_class": 4
+            },
+            "font_color": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "legit_warnings": [],
+    "button_area_id": "default",
+    "page_sections": [
+      "head_image",
+      "waist_banner",
+      "top_margin",
+      "lock_up",
+      "lock_up_bottom_divider",
+      "sku_selection_v2_group",
+      "product_highlights_top_divider",
+      "product_highlights",
+      "first_screen_divider",
+      "logistic",
+      "creator_video",
+      "creator_video_bottom_divider",
+      "seller_above_review",
+      "shop_recommend_above_review",
+      "shop_recommend_above_review_bottom_divider",
+      "complementary_recommendation",
+      "complementary_recommendation_bottom_divider",
+      "review",
+      "review_bottom_divider",
+      "questions",
+      "questions_bottom_divider",
+      "description_title",
+      "about_this_product_description",
+      "about_this_product_details_top_line",
+      "about_this_product_details",
+      "about_this_product_compliance_top_line",
+      "about_this_product_compliance",
+      "about_this_product_compliance_bottom_divider"
+    ]
+  },
+  "aigc_info": {
+    "long_text": "The CGK Bamboo Cooling Sheet Set offers a premium sleep experience crafted entirely from natural bamboo fibers. These sheets provide a soft, silky texture that stays smooth and comfortable for years, perfectly suited for those who value durability alongside comfort. Designed to enhance breathability and coolness, the sheets help regulate temperature, making them ideal for hot sleepers or anyone prone to night sweats. The moisture-wicking properties of bamboo fabric move moisture away from the body, ensuring a dry, fresh night's rest. With deep pockets designed to fit mattresses up to 16 inches, this set also accommodates many modern bed sizes while ensuring a snug fit. Available in king size and in a rich navy blue color, this sheet set combines practicality with elegant simplicity. Easy to care for, the sheets are machine washable, offering convenience without compromising quality. This bamboo sheet set is an excellent choice for anyone seeking a cool, soft, and breathable bedding option that lasts.",
+    "faq": "Q:What material are the CGK Bamboo Cooling Sheets made from?\nA:They are made from 100% rayon derived from natural bamboo fibers.\n\nQ:What mattress depth do these bamboo sheets fit?\nA:They fit mattresses up to 16 inches deep.\n\nQ:Are these bamboo sheets machine washable?\nA:Yes, the sheets are machine washable for easy care.\n\nQ:What sizes and colors are available for this bamboo sheet set?\nA:The set is available in king size and comes in a navy blue color.\n\nQ:Do the sheets help with overheating or night sweats?\nA:Yes, the breathable and moisture-wicking bamboo fabric helps keep sleepers cool and dry.",
+    "bullet_points": "• Made from 100% natural rayon derived from bamboo for lasting softness\n• Cooling and breathable fabric ideal for hot sleepers and night sweats\n• Fits mattresses up to 16 inches deep with flexible deep pockets\n• Lightweight, silky soft texture provides luxurious comfort\n• Machine washable for easy maintenance",
+    "aigc_title": "CGK Bamboo Cooling Sheet Set - 100% Rayon from Bamboo, Breathable, King, Navy Blue",
+    "aigc_description": "Experience cool, soft comfort all night with CGK's 100% bamboo cooling sheet set. Breathable, moisture-wicking, and machine washable for easy care.",
+    "aigc_keywords": [
+      {
+        "keyword": "bamboo cooling sheets"
+      },
+      {
+        "keyword": "breathable bamboo sheet set"
+      },
+      {
+        "keyword": "100% rayon bamboo sheets"
+      },
+      {
+        "keyword": "moisture-wicking bed sheets"
+      },
+      {
+        "keyword": "lightweight bamboo sheets king size"
+      },
+      {
+        "keyword": "machine washable bamboo sheets"
+      },
+      {
+        "keyword": "deep pocket bamboo sheets"
+      },
+      {
+        "keyword": "CGK bamboo sheet set navy"
+      }
+    ]
+  },
+  "review_info": {
+    "has_more": true,
+    "total_reviews": "299",
+    "product_reviews": [
+      {
+        "review_id": "7676544806848120590",
+        "product_id": "1730084277563069132",
+        "sku_id": "1730084348883931852",
+        "reviewer_id": "7192758880488653866",
+        "review_rating": 5,
+        "review_time": "1787334875334",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+        "reviewer_name": "C**a ** X**l C**r",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/3f6ab555ce5b42de674a963f8e087850~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=59e7c389&x-expires=1794034800&x-signature=w25kSEZSAX5qmlrejZRUti1A08o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "Absolutely love these sheets! They’re incredibly soft, lightweight, and have that cool, silky feel I was looking for. They feel amazing to sleep on and don’t feel heavy or hot. ⭐️⭐️⭐️⭐️⭐️",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/129f30de4fda439e9dbda882ae54fc09~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/129f30de4fda439e9dbda882ae54fc09~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/88357bb4ecfc4d30999443bf8125ac3a~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Wheat, King",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7596413268260833079",
+        "product_id": "1730084277563069132",
+        "sku_id": "1730084348883342028",
+        "reviewer_id": "6821977723621049349",
+        "review_rating": 1,
+        "review_time": "1768677800723",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+        "reviewer_name": "J**6",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7321760003960864773~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=7b2bc0be&x-expires=1794034800&x-signature=pjJbeFvHbBWUAvy5Pt0M15zeIoU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "My sheets were ruin I took them out the package and they were cut. No I didn’t use anything to cut the passage open. It was an easy package you pulled open.",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4d261d15d8e0456197a9764466b65195~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/4d261d15d8e0456197a9764466b65195~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ee13124f456b4403932154bd8c044950~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Light Grey, Queen",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7689838386191484685",
+        "product_id": "1730084277563069132",
+        "sku_id": "1730084348883473100",
+        "reviewer_id": "7261778430177657899",
+        "review_rating": 5,
+        "review_time": "1790430027501",
+        "is_verified_purchase": false,
+        "is_incentivized_review": false,
+        "product_name": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+        "reviewer_name": "S**s",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2a19e01509c4a02e950b81dd50ee761e~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=b74cfb39&x-expires=1794034800&x-signature=9tn7BvqKiUSR0mChyhEwn9kVtZ0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "These are so comfy and really help with the cooling while you are sleeping",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/081a3284a09940c8a73bcfb97a538597~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [],
+        "sku_specification": "Wheat, Queen",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7685882860074747661",
+        "product_id": "1730084277563069132",
+        "sku_id": "1730084348883210956",
+        "reviewer_id": "7015998509531169798",
+        "review_rating": 5,
+        "review_time": "1789509078273",
+        "is_verified_purchase": false,
+        "is_incentivized_review": false,
+        "product_name": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+        "reviewer_name": "ƈ**ཞ",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7072050592109035566~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=6aaddc1d&x-expires=1794034800&x-signature=pvhv9F8TxN9mV2NH54m2iU1AU3I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "These sheets are very soft & somewhat silky. I slept very comfortably. I posted a shoppable video if anyone would like to go watch. 🫶",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b21f60c365a24d96af319dbf9b71af53~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b21f60c365a24d96af319dbf9b71af53~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Dark Grey, Queen",
+        "review_country": "US"
+      },
+      {
+        "review_id": "7667972842990487310",
+        "product_id": "1730084277563069132",
+        "sku_id": "1730084348883800780",
+        "reviewer_id": "7405593950545806379",
+        "review_rating": 5,
+        "review_time": "1785339059358",
+        "is_verified_purchase": true,
+        "is_incentivized_review": false,
+        "product_name": "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable",
+        "reviewer_name": "P** A**6",
+        "reviewer_avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/654a882a792e59b895839cb268278d1a~tplv-tiktokx-cropcenter:100:100.jpg?dr=9640&refresh_token=8a53b47d&x-expires=1794034800&x-signature=UJ%2F%2FdC3efKgg%2FCSrdHuP3ZwZzrA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5f8d3399&idc=useast5",
+        "review_text": "These sheets feel wonderful. So soft and cooling. Will likely be buying more for all my beds.",
+        "display_image_url": "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0b6d380e11e74f9589633243cd382e53~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839",
+        "review_images": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0b6d380e11e74f9589633243cd382e53~tplv-fhlh96nyum-crop-webp:300:300.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=607f11de&idc=useast5&from=2378011839"
+        ],
+        "sku_specification": "Light Grey, King",
+        "review_country": "US"
+      }
+    ],
+    "review_ratings": {
+      "review_count": "299",
+      "overall_score": 4.6,
+      "rating_result": {
+        "1": "13",
+        "2": "4",
+        "3": "11",
+        "4": "19",
+        "5": "252"
+      }
+    }
+  },
+  "benefit_info": [],
+  "shop_info": {
+    "seller_id": "7495123352118987468",
+    "sold_count": 158031,
+    "on_sell_product_count": 40,
+    "review_count": 15215,
+    "global_seller_id": "7495123352118987468",
+    "global_sold_count": "158031",
+    "followers_count": "35945",
+    "video_count": "1416",
+    "enable_follow": true,
+    "shop_name": "CGK Linens",
+    "shop_logo": {
+      "height": 300,
+      "width": 300,
+      "uri": "tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a",
+      "url_list": [
+        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+        "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/099b645c532640128ce9caf430d8714a~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+      ]
+    },
+    "shop_rating": "4.6",
+    "shop_link": "https://shop.tiktok.com/us/store/cgk-linens/7495123352118987468",
+    "background": {
+      "is_default": false,
+      "image": {
+        "height": 691,
+        "width": 1600,
+        "uri": "tos-useast5-i-reeeghz8mm-tx/85cef32b24974ca197e7620c99a91300",
+        "url_list": [
+          "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/85cef32b24974ca197e7620c99a91300~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1794468039&x-signature=amU3rqiTAG4RnBQ4b9mDGBi5QGc%3D"
+        ]
+      },
+      "shop_background_type": 0
+    },
+    "format_sold_count": "158.0K",
+    "region": "US",
+    "display_on_sell_product_count": "40",
+    "format_global_sold_count": "158.0K",
+    "format_followers_count": "35.9K+",
+    "format_video_count": "1416",
+    "store_sub_score": [
+      {
+        "score": 0.9922279792746114,
+        "type": 1,
+        "score_percentage": "99",
+        "high_light_tag": 1,
+        "platform_rate_type": 0
+      },
+      {
+        "score": 0,
+        "type": 2,
+        "score_percentage": "0",
+        "high_light_tag": 0,
+        "platform_rate_type": 0
+      },
+      {
+        "score": 0.8834657586076429,
+        "type": 3,
+        "score_percentage": "88",
+        "platform_rate_type": 0
+      }
+    ],
+    "worst_rating": "0",
+    "best_rating": "5",
+    "creator_name": "CGK Linens",
+    "shop_identity_label": {
+      "label_type": 2,
+      "identity_label_text": "OFFICIAL SHOP",
+      "identity_logo_light": {
+        "height": 144,
+        "width": 144,
+        "ratio": 0,
+        "minetype": "image/png",
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4",
+        "url_list": [
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6ee5e25d8a049b39c897d02fe9d3fd4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "identity_logo_dark": {
+        "height": 144,
+        "width": 144,
+        "ratio": 0,
+        "minetype": "image/png",
+        "uri": "tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b",
+        "url_list": [
+          "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/884194976a2c47d1937a1af6e850f18b~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "identity_label_bg_color_light": "#000000",
+      "identity_label_bg_color_dark": "#FFFFFF",
+      "identity_label_text_color_light": "#FFFFFF",
+      "identity_label_text_color_dark": "#000000",
+      "shop_explanation_page_schema": "aweme://lynxview_popup?url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_ecommerce_mall_brand_explanation_runtime%2Fbrand-explanation-page%2Ftemplate.js&use_new_container=1&use_spark=1&target_handler=webcast%2Cecom&trans_status_bar=1&hide_nav_bar=1&status_font_mode=light&enable_prefetch=1&enable_code_cache=1&show_mask=1&mask_bg_color=00000080&height_percent=90&bdhm_bid=astro_behavior_lynx&btm_page_code=b7749&enable_lynx_prefetch=1&radius=12&transition_animation=bottom&enable_pull_down_close=1&seller_id=7495123352118987468",
+      "label_without_bg_style": {
+        "identity_label_text": "OFFICIAL SHOP",
+        "identity_logo_light": {
+          "height": 144,
+          "width": 144,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0e45808816064a18964335bd484b3ba2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "identity_logo_dark": {
+          "height": 144,
+          "width": 144,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e7529b51819146f4ad1c73168abae039~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "identity_label_text_color_light": "#000000",
+        "identity_label_text_color_dark": "#FFFFFF",
+        "style_type": 2
+      },
+      "brand_info": {
+        "is_brand": true,
+        "brand_style_list": [
+          {
+            "identity_logo_light": {
+              "height": 36,
+              "width": 36,
+              "ratio": 0,
+              "minetype": "image/png",
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/232f7b8dbe7b498e800e08e82e3419fb~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+              ]
+            },
+            "identity_logo_dark": {
+              "height": 36,
+              "width": 36,
+              "ratio": 0,
+              "minetype": "image/png",
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/e6132af16c8a41a8a232b402aa0bd0d5~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+              ]
+            },
+            "style_type": 1,
+            "identity_image_logo": {
+              "light": {
+                "height": 36,
+                "width": 36,
+                "ratio": 0,
+                "minetype": "image/png",
+                "uri": "tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e",
+                "url_list": [
+                  "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                  "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/2f6c3073c36c45509b773368fd85b46e~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+                ]
+              },
+              "dark": {
+                "height": 36,
+                "width": 36,
+                "ratio": 0,
+                "minetype": "image/png",
+                "uri": "tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0",
+                "url_list": [
+                  "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+                  "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/ddee6760fa964ba3bc29481b898d1ac0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ShopIdentityLabelKey": "official",
+      "style_type": 1,
+      "identity_image_logo": {
+        "light": {
+          "height": 42,
+          "width": 288,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/111dfc99d0024e58bd69d5a74a9fa0e0~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        },
+        "dark": {
+          "height": 42,
+          "width": 288,
+          "ratio": 0,
+          "minetype": "image/png",
+          "uri": "tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4",
+          "url_list": [
+            "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+            "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/dfc9fbeb5d7947c2a03c60bc1750e9f4~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+          ]
+        }
+      }
+    },
+    "store_brand_show": {
+      "label_image_light": {
+        "height": 36,
+        "width": 36,
+        "uri": "tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png",
+        "url_list": [
+          "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "label_image_dark": {
+        "height": 36,
+        "width": 36,
+        "uri": "tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png",
+        "url_list": [
+          "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039",
+          "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-acgf4d7es9-us/store_blue_v_fixed.png~tplv-fhlh96nyum-resize-png:36:36.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=607f11de&idc=useast5&from=2422056039"
+        ]
+      },
+      "brand_type": 3,
+      "label_type_str": "blue_v"
+    },
+    "desc": "Shop CGK Linens on TikTok Shop! 158.0K sold, 35.9K+ followers. 88+% positive feedback. 0+% Ships in 48h, 99+% replies in 24h. Join the trend!",
+    "shop_exp_scores": [
+      {
+        "score": 0.87,
+        "shop_sub_score_type": 4,
+        "score_percentage": "87",
+        "format_score": "87%",
+        "score_description": "Positive feedback",
+        "experience_format_type": 1,
+        "experience_format_description": "Good",
+        "score_level": 2,
+        "format_numeric_score": "87%"
+      },
+      {
+        "score": 22,
+        "shop_sub_score_type": 6,
+        "score_percentage": "",
+        "format_score": "<22h",
+        "score_description": "Issue resolution",
+        "experience_format_type": 1,
+        "experience_format_description": "Excellent",
+        "score_level": 3,
+        "format_numeric_score": "<22h"
+      },
+      {
+        "score": 0.77,
+        "shop_sub_score_type": 7,
+        "score_percentage": "77",
+        "format_score": "77%",
+        "score_description": "Chat satisfaction",
+        "experience_format_type": 1,
+        "experience_format_description": "Good",
+        "score_level": 2,
+        "format_numeric_score": "77%"
+      }
+    ]
+  }
+}

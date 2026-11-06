@@ -1,0 +1,331 @@
+- complementary:
+  - navigation:
+    - link:
+      - /url: https://shop.tiktok.com/us
+    - button:
+    - generic: Categories
+    - button:
+    - generic: Orders
+    - button:
+    - generic: 销售
+    - button:
+    - generic: 客户支持
+    - button:
+    - generic: 更多
+- textbox "Search"
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "家纺布艺":
+    - /url: https://shop.tiktok.com/us/c/textiles-soft-furnishings/600154
+    - generic: 家纺布艺
+  - link "床上用品与布艺":
+    - /url: https://shop.tiktok.com/us/c/bedding-and-linens/808328
+    - generic: 床上用品与布艺
+  - link "床垫及床垫保护垫、衬面、保护罩":
+    - /url: https://shop.tiktok.com/us/c/mattress-mattress-pads-toppers-protectors/809480
+    - generic: 床垫及床垫保护垫、衬面、保护罩
+  - link "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room":
+    - /url: https://shop.tiktok.com/us/pdp/mattress-topper-by-sweetcrispy-memory-foam-cooling-ergonomic-design/1729707309447090914
+    - generic: Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- heading "Coupon center" [level=2]
+- paragraph: Claim your eligible deals. Individual terms apply.
+- generic: No Coupons Available
+- generic: Sorry, none of your coupons apply to this specific produc. You can tap “Coupon center” to see all available coupons in TikTok Shop.
+- heading "运输和退货" [level=2]
+- link "发货和配送 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。":
+  - /url: https://shop.tiktok.com/us/shipping-policy
+  - heading "发货和配送" [level=3]
+  - generic: 许多商品可享受包邮服务，或在订单金额达到起送门槛后享受包邮服务。
+- link "30 天轻松免费退货 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。":
+  - /url: https://shop.tiktok.com/us/return-policy
+  - heading "30 天轻松免费退货" [level=3]
+  - generic: 此商品可在送达后 30 天内免费退货。在符合条件的地点退货无需包装箱和退货面单。
+- link "TikTok Shop 保障 安全支付 数据隐私 退款保障 配送保障 全天候应用内支持 轻松退货和退款":
+  - /url: https://shop.tiktok.com/us/protections
+  - heading "TikTok Shop 保障" [level=2]
+  - generic: 安全支付
+  - generic: 数据隐私
+  - generic: 退款保障
+  - generic: 配送保障
+  - generic: 全天候应用内支持
+  - generic: 轻松退货和退款
+- link "销售店铺 Sweetcrispy Official":
+  - /url: https://shop.tiktok.com/us/store/sweetcrispy-official/7495657286590434018
+- heading "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room" [level=1]
+- generic: "-47%"
+- generic: $
+- generic: "36"
+- generic: ".37"
+- generic: $68.89
+- generic: 免费运送
+- generic: "4.7"
+- generic: (4.5K)
+- generic: 已售 36.3K
+- button "成交件数":
+- generic: "Bedding Size:"
+- generic: 2 Inches-TWIN
+- img "2 Inches-TWIN"
+- generic: 2 Inches-TWIN
+- img "2 Inches-TWIN XL"
+- generic: 2 Inches-TWIN XL
+- img "2 Inches-FULL"
+- generic: 2 Inches-FULL
+- img "2 Inches-QUEEN"
+- generic: 2 Inches-QUEEN
+- img "2 Inches-KING"
+- generic: 2 Inches-KING
+- img "2 Inches-Car-King"
+- generic: 2 Inches-Car-King
+- img "3 Inches-TWIN"
+- generic: 3 Inches-TWIN
+- img "3 Inches-TWIN XL"
+- generic: 3 Inches-TWIN XL
+- img "3 Inches-FULL"
+- generic: 3 Inches-FULL
+- img "3 Inches-QUEEN"
+- generic: 3 Inches-QUEEN
+- img "3 Inches-KING"
+- generic: 3 Inches-KING
+- img "3 Inches-Car-King"
+- generic: 3 Inches-Car-King
+- img "4 Inches-TWIN（75\"x38\"）"
+- generic: 4 Inches-TWIN（75"x38"）
+- img "4 Inches-TWIN XL（80\"x38\"）"
+- generic: 4 Inches-TWIN XL（80"x38"）
+- img "4 Inches-FULL（74\"x54\"）"
+- generic: 4 Inches-FULL（74"x54"）
+- img "4 Inches-QUEEN（80\"x60\"）"
+- generic: 4 Inches-QUEEN（80"x60"）
+- img "4 Inches-KING（80\"x76\"）"
+- generic: 4 Inches-KING（80"x76"）
+- img "4 Inches-Car-King（84\"x72\"）"
+- generic: 4 Inches-Car-King（84"x72"）
+- generic: "数量:"
+- spinbutton: "1"
+- button "立即购买":
+  - generic: 立即购买
+- button "加入购物车":
+  - generic: 加入购物车
+- link "Sweetcrispy Official Sweetcrispy Official Sweetcrispy Official identify logo 官方店铺 38.4K+ Followers 87% 好评 <18 小时 问题解决 一般 聊天满意度 访问":
+  - /url: https://shop.tiktok.com/us/store/sweetcrispy-official/7495657286590434018
+  - img "Sweetcrispy Official"
+  - generic: Sweetcrispy Official
+  - img "Sweetcrispy Official identify logo"
+  - generic: 官方店铺
+  - generic: 38.4K+ Followers
+  - generic: 87%
+  - generic: 好评
+  - generic: <18 小时
+  - generic: 问题解决
+  - generic: 一般
+  - generic: 聊天满意度
+  - button "访问":
+    - generic: 访问
+- generic: 关于此商品
+- generic: 精彩片段
+- generic: •
+- generic: Made from high-density gel memory foam for long-lasting support
+- generic: •
+- generic: Designed with ergonomic optimization for comfortable sleep
+- generic: •
+- generic: Features cooling gel beads and vortex technology for airflow and freshness
+- generic: •
+- generic: CertiPUR-US certified materials ensure safety and skin-friendliness
+- generic: •
+- generic: Available in multiple sizes including Twin XL, Full, Queen, King, and California King
+- generic: This information is AI generated
+- generic: 详细信息
+- table:
+  - rowgroup:
+    - row "品牌 Sweetcrispy":
+      - cell "品牌"
+      - cell "Sweetcrispy"
+    - row "Material features Breathable":
+      - cell "Material features"
+      - cell "Breathable"
+    - row "Is foldable Yes":
+      - cell "Is foldable"
+      - cell "Yes"
+    - row "Product benefits Breathable":
+      - cell "Product benefits"
+      - cell "Breathable"
+    - row "Shape Rectangular":
+      - cell "Shape"
+      - cell "Rectangular"
+    - row "Additional features Cooling":
+      - cell "Additional features"
+      - cell "Cooling"
+- generic: 查看更多
+- generic: 商品描述
+- generic: Sweetcrispy Official - Mattress Topper Memory Foam Mattress Breathable Topper
+- generic: ✨ Ergonomic Comfort ✨ The memory mattress topper is designed with ergonomic optimization for various body parts. It ensures a conforming fit to different body curves and shapes. This distribution of body pressure allows for comfortable adaptation to various sleeping positions, enhancing sleep quality. Experience a tailored comfort that adapts to your body.
+- generic: 🌟 High-Density Support 🌟 Crafted using high-density memory foam, this topper offers exceptional support. Even after multiple uses, it retains its original feel, akin to a brand-new mattress. The foam's density provides a durable and supportive structure, ensuring long-term comfort without compromising on quality.
+- generic: ❄️ Cooling Technology ❄️ Our mattress topper features cooling gel bead injection and vortex technology. This design reduces heat and enhances airflow, providing a refreshing coolness. The thoughtful engineering ensures superior air permeability, promoting a delightful sensation of freshness during sleep.
+- generic: 🛡️ Safe Materials 🛡️ CertiPUR-US certified materials ensure safety and friendliness, especially for sensitive skin. The topper has been tested by an independent lab, meeting standard requirements for content, emissions, and durability. Trust in its exceptional safety and quality.
+- generic: "💪 Elasticity & Durability 💪 The cooling mattress topper boasts remarkable elasticity and resists deformation effectively. Installation is effortless. Compress and pack for easy transport. Store in a ventilated place for 24 hours to return to size. Avoid sun exposure to prevent yellowing. Material: Gel Memory Foam."
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- img "Sweetcrispy 1-Piece Memory Foam Mattress Pad Topper - Gel Beads Cooling, High-Density Support, Pressure Relief, Soft, Durable, Breathable, Skin-Friendly, CertiPUR-US Certified, Lab-Tested Home Good with Effortless Installation for Bedroom, Guest Room"
+- generic: 查看更多
+- generic: 视频
+- generic: 简介
+- generic: This memory foam mattress topper offers an ideal solution for improving sleep quality across various settings such as bedrooms, guest rooms, dorms, and apartments. Crafted from high-density gel memory foam, it provides sustained support and ergonomic comfort, adapting to different body curves and reducing pressure points. Advanced cooling technology, including gel bead injection and vortex airflow, ensures a refreshing, cool sleeping surface, even during warm nights. Its breathable structure not only enhances airflow but also maintains a safe and skin-friendly environment, verified by CertiPUR-US certification. Easy to install and store, this topper is perfect for those seeking a supportive, durable, and comfortable bedding upgrade.
+- generic: This information is AI generated
+- generic: 常见问题
+- generic: •
+- generic: What material is this mattress topper made of? A:The mattress topper is made of gel memory foam, crafted with high-density support and cooling technology.
+- generic: •
+- generic: What sizes are available for this mattress topper? A:The topper is available in various sizes including 2 inches and 3 inches thick options for Twin XL, Full, Queen, King, and California King beds.
+- generic: •
+- generic: Is this mattress topper safe and environmentally friendly? A:Yes, it is made with CertiPUR-US certified materials, ensuring safety and skin-friendliness for sensitive users.
+- generic: •
+- generic: How do I care for and maintain the mattress topper? A:To maintain quality, store in a ventilated place for 24 hours after unpacking, avoid sun exposure to prevent yellowing, and follow appropriate care instructions.
+- generic: •
+- generic: Does this mattress topper help with temperature regulation? A:Yes, it features cooling gel bead injection and vortex technology that reduces heat and promotes airflow for a cooler sleep surface.
+- generic: This information is AI generated
+- generic: 安全与合规
+- generic: 商家信息
+- generic: •
+- generic: 公司名称：Well Space Inc
+- generic: •
+- generic: 公司地址：California,The United States of America
+- generic: "4.7"
+- generic: 4518 条全球评价
+- generic: "5"
+- generic: "3807"
+- generic: "4"
+- generic: "341"
+- generic: "3"
+- generic: "99"
+- generic: "2"
+- generic: "59"
+- generic: "1"
+- generic: "212"
+- generic: 评价中的照片
+- button "查看全部照片"
+- img "review image 0"
+- generic "s**0"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 1"
+- generic "s**0"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 2"
+- generic "s**0"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 3"
+- generic "s**0"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 4"
+- generic "s**0"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 5"
+- generic "l**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 6"
+- generic "l**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 7"
+- generic "l**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 8"
+- generic "l**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 9"
+- generic "L**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 10"
+- generic "L**e"
+- 'img "Rating: 5 out of 5 stars"':
+- img "review image 11"
+- generic "L**e"
+- 'img "Rating: 5 out of 5 stars"':
+- generic: 排序依据
+- generic: 推荐
+- generic: 筛选依据
+- generic: 全部
+- button "包含图片或视频":
+  - generic: 包含图片或视频
+- button "真实购买":
+  - generic: 真实购买
+- generic: 显示 4518 条评价（共 4518 条）
+- generic: 重置筛选条件
+- generic: s**0
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "Amazing matress topper. Great for comfort and if you need to spruce an older matress up. Awesome price! Comfort: Very Support: There is some Fit: Perfect"
+- generic: "商品:"
+- text: 2 Inches-QUEEN
+- generic: 2026-08-01
+- generic: l**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "Comfort: Really comfortable I will be, buying more in the future."
+- generic: "商品:"
+- text: 2 Inches-TWIN XL
+- generic: 2025-05-13
+- generic: L**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: I was very hesitant at first until I opened it! It took a few minutes to open allthe way but when it did I was amazed and it was the best sleep I had in a long time
+- generic: "商品:"
+- text: 3 Inches-KING
+- generic: 2025-08-26
+- generic: W**t S**w
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 3 out of 5 stars"':
+- generic: The product was larger than the mattress by a significant margin. Many loose pieces of foam came off of the product while unfolding it and moving it. Product it comfortable enough to sleep on but is noticeably less comfortable and cheaper feeling than similar products.
+- generic: "商品:"
+- text: 2 Inches-QUEEN
+- generic: 2026-08-26
+- generic: d**e
+- generic: ·
+- generic: 真实购买
+- generic: US
+- 'img "Rating: 5 out of 5 stars"':
+- generic: "This product is worth the money. It was free shipping which wasn't long less than a week. I received the instructions in the box. I am patiently waiting for the It to fully expand. It is already expanded so much in a short of time. I would highly recommended. 10/10 Shape and size: 2-inch Full size"
+- generic: "商品:"
+- text: 2 Inches-FULL
+- generic: 2025-10-17
+- generic: 上一步
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: ...
+- generic: "904"
+- generic: 下一步

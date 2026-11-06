@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "missing_local_links": [],
+  "page_errors": [],
+  "videos": [
+    {
+      "id": 56,
+      "duration": 7.966667,
+      "playing": true
+    },
+    {
+      "id": 57,
+      "duration": 12.266667,
+      "playing": true
+    },
+    {
+      "id": 58,
+      "duration": 16.133333,
+      "playing": true
+    },
+    {
+      "id": 59,
+      "duration": 20.733333,
+      "playing": true
+    },
+    {
+      "id": 60,
+      "duration": 17.533333,
+      "playing": true
+    }
+  ]
+}

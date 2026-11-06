@@ -1,0 +1,64 @@
+五条视频本地 VAI 转写｜机器原始结果与核验边界
+生成时间：2026-11-05T02:13:27.731586+00:00
+说明：下列原文是自动识别输出，保留分歧，不代表人工回听。Qwen全音轨无逐句时间；带时间的分段来自另一次识别。
+
+V01 | Shilucheng_床单_V01_视频.mp4
+不稳定识别。语音分段未得到正文；两次全音轨识别结果不同。不能据此确立一句可引用口播，也不能断言没有人声。
+音轨：0.000–7.916 秒
+Qwen 全音轨候选：
+I'm not the only one.
+Whisper 带时间候选：
+[4.000–4.300] you
+Qwen 语音分段候选：
+[无输出]
+
+V02 | Shilucheng_床单_V02_视频.mp4
+两模型全音轨一致识别 I am an autumn.（我是秋季型／我是秋天，具体语义取决于画面情境）。分段结果还出现 Oh，未作为可靠产品信息。可靠句约0.0–2.9秒；模型时间点有差异。
+音轨：0.000–12.235 秒
+Qwen 全音轨候选：
+I am an autumn.
+Whisper 带时间候选：
+[0.000–2.760] I am an autumn.
+Qwen 语音分段候选：
+[0.360–1.160] I.
+[2.240–2.880] Am an autumn.
+[3.600–5.272] Oh, oh.
+
+V03 | Shilucheng_床单_V03_视频.mp4
+Qwen全音轨与Whisper识别出高度相近的韵文式内容，疑似背景歌词，与商品功效、价格、促销无直接关系。Qwen语音活动分段漏掉这些文字；末尾截断。不能把机器文字标作人工听辨。
+音轨：0.000–16.090 秒
+Qwen 全音轨候选：
+Yeah yeah yeah yeah yeah yeah. That's the way everyday goes. Every time we've no control. If the sky is pink and white, if the ground is black and yellow, it's
+Whisper 带时间候选：
+[2.720–6.580] Yeah, yeah, oh, yeah, yeah, yeah
+[7.880–11.460] That's the way every day goes, every time we've no control
+[11.460–15.340] If the sky is pink and white, if the ground is black and yellow
+[15.340–15.960] This is
+Qwen 语音分段候选：
+[无输出]
+
+V04 | Shilucheng_床单_V04_视频.mp4
+Whisper没有输出正文；Qwen全音轨识别到与V03/V05重合的疑似歌词。全句文字及尾句仅单模型支持，不作为可靠口播或产品主张，时间只定位整条音轨。
+音轨：0.000–20.710 秒
+Qwen 全音轨候选：
+Yeah yeah yeah. Yeah yeah yeah. That's the way every day goes. Every time we've no control. If the sky is pink and white, if the ground is black and yellow, it's the same way you showed me. Knit my hair, don't close my eyes.
+Whisper 带时间候选：
+[无输出]
+Qwen 语音分段候选：
+[1.224–2.680] Oh, oh, oh.
+
+V05 | Shilucheng_床单_V05_视频.mp4
+Qwen全音轨与Whisper识别出高度相近的疑似背景歌词；语音活动分段仅截取哼唱。未识别出新的产品主张。不得根据文本推断音乐节奏、音效或销量作用。
+音轨：0.000–17.483 秒
+Qwen 全音轨候选：
+Yeah yeah yeah. Yeah yeah yeah. That's the way every day goes. Every time we've no control. If the sky is pink and white, if the ground is black and yellow, it's the same way you showed me.
+Whisper 带时间候选：
+[3.200–4.080] Yeah, yeah, uh
+[4.760–6.660] Yeah, yeah, yeah
+[8.040–9.700] That's the way everyday goes
+[9.700–11.460] Every time we've no control
+[11.460–13.340] If the sky is pink and white
+[13.340–15.180] If the ground is black and yellow
+[15.180–17.180] It's the same way you showed me
+Qwen 语音分段候选：
+[1.224–2.680] Oh, oh, oh.
