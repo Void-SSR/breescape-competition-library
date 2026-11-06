@@ -1,0 +1,518 @@
+- complementary:
+  - navigation:
+    - link "TikTok Shop Logo":
+      - /url: https://shop.tiktok.com/us
+      - img "TikTok Shop Logo"
+    - button "collapse-sidebar":
+    - button "Categories":
+      - generic: Categories
+    - button "Orders":
+      - generic: Orders
+    - button "销售":
+      - generic: 销售
+    - button "客户支持":
+      - generic: 客户支持
+    - button "更多":
+      - generic: 更多
+  - generic: 选购
+  - generic: 销售
+  - generic: 关于
+  - generic: 客户支持
+  - generic: 法律信息
+  - generic: © 2026 TikTok
+- textbox "Search":
+  - /placeholder: Cooling Sheets
+- button "搜索":
+  - generic: 搜索
+- link "Coupon Center":
+  - /url: https://shop.tiktok.com/us/coupon-code
+  - button "Coupon Center":
+    - generic: Coupon Center
+- button "获取应用":
+  - generic: 获取应用
+- button:
+- button:
+- list:
+  - link "TikTok Shop":
+    - /url: https://shop.tiktok.com/us
+    - generic: TikTok Shop
+  - link "选购所有类目":
+    - /url: https://shop.tiktok.com/us/c
+    - generic: 选购所有类目
+  - link "Cooling Sheets":
+    - /url: https://shop.tiktok.com/us/k/cooling-sheets
+    - generic: Cooling Sheets
+- heading "Cooling Sheets" [level=1]
+- generic: Featured brands
+- generic: Authenticated products
+- text: Verified shops
+- img "Mellow Sleep"
+- img "CGK Linens"
+- img "Decolure Home Goods"
+- img "Bedsure"
+- img "LDC LUX DECOR COLLECTION"
+- link "Mellow Sleep 4.5 1.4M 已售出 989.7K+ 粉丝":
+  - /url: https://www.tiktok.com/shop/store/mellow-sleep/7496134814654105681?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_info
+  - heading "Mellow Sleep" [level=3]
+  - generic: "4.5"
+  - generic: 1.4M
+  - generic: 已售出
+  - generic: 989.7K+
+  - generic: 粉丝
+- button:
+- link "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable $106.98 (-49%)":
+  - /url: https://shop.tiktok.com/us/pdp/double-stuffed-ultra-soft-comforter-oeko-tex-certified/1732017379984117841?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | MarshMellow Comforter - Double-Stuffed Ultra-Soft A-Class Fabric Heat-Adaptive Vegan Fill OEKO-TEX Certified Machine Washable"
+  - text: $106
+  - generic: ".98"
+  - generic: (-49%)
+- link "Mellow Sleep | CloudAlign Pillow + FREE Cooling Pillowcase - Ergonomic Cervical Pillow +Dual-Height Memory Foam with Cooling Pillowcase for Side Back & Stomach Sleepers Best Pillow 2025 Awarded $56.98":
+  - /url: https://shop.tiktok.com/us/pdp/cloudalign-pillow-dual-height-ergonomic-design-washable-material/1731182908423966801?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | CloudAlign Pillow + FREE Cooling Pillowcase - Ergonomic Cervical Pillow +Dual-Height Memory Foam with Cooling Pillowcase for Side Back & Stomach Sleepers Best Pillow 2025 Awarded"
+  - text: $56
+  - generic: ".98"
+- link "Mellow Sleep | Mellow Puff Pillow – Soft Quilted Puff Grid Design Pillow, Fluffy Plush Bed Pillow with Cloud Like Comfort, Breathable Support Pillow for Side, Back & Stomach Sleepers, Cozy Bed Pillow for Better Sleep $64.99":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-puff-pillow-cooling-ice-silk-fabric-vegan-breathable/1729494528714773585?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | Mellow Puff Pillow – Soft Quilted Puff Grid Design Pillow, Fluffy Plush Bed Pillow with Cloud Like Comfort, Breathable Support Pillow for Side, Back & Stomach Sleepers, Cozy Bed Pillow for Better Sleep"
+  - text: $64
+  - generic: ".99"
+- link "Mellow Sleep | Ploof Pillow – Extra-Fluffy Dual-Layer Pillow, Cloud-Like Soft Plush Bed Pillow with Breathable Support, Never Flat, Neck-Cradling Comfort for Side, Back & Stomach Sleepers, Machine Washable $51.99":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-ploof-pillow-cool-comfy-machine-washable/1732388476977975377?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | Ploof Pillow – Extra-Fluffy Dual-Layer Pillow, Cloud-Like Soft Plush Bed Pillow with Breathable Support, Never Flat, Neck-Cradling Comfort for Side, Back & Stomach Sleepers, Machine Washable"
+  - text: $51
+  - generic: ".99"
+- link "Mellow Sleep | Hotel Pillow Waterproof & Stain-Resistant Cloud-Soft Hypoallergenic Machine Washable Best Pillow of 2025 $35.00":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-hotel-pillow-waterproof-stain-resistant-cloud-soft-comfort/1731967158841217105?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | Hotel Pillow Waterproof & Stain-Resistant Cloud-Soft Hypoallergenic Machine Washable Best Pillow of 2025"
+  - text: $35
+  - generic: ".00"
+- link "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief $64.99 (-50%)":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-cooling-comforter-dual-sided-silk-knit-fabric/1731648900804284497?source=ecommerce_shoppingguide&enter_method=recommended_shops_shop_products
+  - img "Mellow Sleep | CloudCool Cooling Comforter - Lightweight Breathable with Dual-Sided Silk Smooth & Cloud Soft Knit for Instant Cool Relief"
+  - text: $64
+  - generic: ".99"
+  - generic: (-50%)
+- heading [level=2]
+- button "筛选条件":
+  - generic: 筛选条件
+- button "排序方式":
+  - generic: 排序方式
+- button "优惠":
+  - generic: 优惠
+- button "Free Shipping":
+  - generic: Free Shipping
+- button "4 星以上":
+  - generic: 4 星以上
+- button "$25 以下":
+  - generic: $25 以下
+- button "$100 以上":
+  - generic: $100 以上
+- button "床上用品与布艺":
+  - generic: 床上用品与布艺
+- img "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant"
+- generic: Free shipping
+- link "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865
+  - heading "Shilucheng Bamboo Sheet Set - 4/6 Pc Bedding Set with 16'' Deep Pocket Lightweight, Twill, Smooth Fitted Sheets, Cooling Breathable, Hotel Luxury Super Silky Soft, Wrinkle & Fade Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 435.9K 已售出
+- generic: "-50%"
+- text: $32
+- generic: ".37"
+- text: $64.74
+- button:
+- img "Mellow Sleep | CloudCool Cooling Sheet Set - Cooling Bed Sheets for Hot Sleepers, Soft Breathable Moisture-Wicking Deep Pocket Fitted Sheet, Wrinkle-Free Stretch Fit, Silky Cooling Bedding Set, Luxury Hotel Quality Sheets"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | CloudCool Cooling Sheet Set - Cooling Bed Sheets for Hot Sleepers, Soft Breathable Moisture-Wicking Deep Pocket Fitted Sheet, Wrinkle-Free Stretch Fit, Silky Cooling Bedding Set, Luxury Hotel Quality Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-cloudcool-cooling-sheet-set-soft-woven/1732528785905848401
+  - heading "Mellow Sleep | CloudCool Cooling Sheet Set - Cooling Bed Sheets for Hot Sleepers, Soft Breathable Moisture-Wicking Deep Pocket Fitted Sheet, Wrinkle-Free Stretch Fit, Silky Cooling Bedding Set, Luxury Hotel Quality Sheets" [level=3]
+- generic: "4.0"
+- 'img "Rating: 4 out of 5 stars"':
+- generic: 8.9K 已售出
+- generic: Limited time deal
+- text: $113
+- generic: ".98"
+- button:
+- img "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-cgk-linens-100-breathable-moisture-wicking-deep-pocket/1730084277563069132
+  - heading "CGK | Bamboo Cooling Sheet Set - 100% Rayon From Bamboo, Cooling & Breathable, Moisture-Wicking, Lightweight, Machine Washable" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 2.6K 已售出
+- generic: Limited time deal
+- generic: 08:42:56
+- generic: "-7%"
+- text: $58
+- generic: ".49"
+- text: $62.99
+- button:
+- img "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-sheets-california-king-size-temperature-control/1731578060025729331
+  - heading "SLEEPHORIA - 4 PC BreezeWeave Cooling Bed Sheets - Nylon + Spandex, Cloud Soft, Silky Smooth, 16 in Deep Pocket, Ultra Durable, Skin-Friendly, Machine Washable for Hot Sleepers" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 3.7K 已售出
+- generic: Limited time deal
+- text: $109
+- generic: ".19"
+- button:
+- img "SASTTIE Luxury Bamboo Bed Sheet Set - 3/4 PCS Extra Deep Pocket Queen Sheet - Breathable Complete Sheet - Ultra-Soft Wrinkle-Free Bed Sheets - Hotel Quality - Christamas Gifts"
+- generic: Free shipping
+- link "SASTTIE Luxury Bamboo Bed Sheet Set - 3/4 PCS Extra Deep Pocket Queen Sheet - Breathable Complete Sheet - Ultra-Soft Wrinkle-Free Bed Sheets - Hotel Quality - Christamas Gifts":
+  - /url: https://shop.tiktok.com/us/pdp/luxury-bamboo-bed-sheet-set-extra-deep-cool-soft-3-4-pcs/1732583886932447503
+  - heading "SASTTIE Luxury Bamboo Bed Sheet Set - 3/4 PCS Extra Deep Pocket Queen Sheet - Breathable Complete Sheet - Ultra-Soft Wrinkle-Free Bed Sheets - Hotel Quality - Christamas Gifts" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 8.5K 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- text: $19
+- generic: ".99"
+- button:
+- img "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set":
+  - /url: https://shop.tiktok.com/us/pdp/organic-viscose-sheets-by-decolure-twin-size-17-deep-pockets-hypoallergenic/1729916842555707699
+  - heading "DECOLURE 6-Piece Bamboo Cooling Bedding Set - Breathable Soft Bedding, Silky Viscose, 17\" Deep Pocket Fitted/Flat Sheets, 4 Pillowcases, Wrinkle-Free, Hypoallergenic, Oeko-Tex Certified, Machine Washable, All-Season Hot-Sleep Ready Sheet Set" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 28.5K 已售出
+- generic: Limited time deal
+- text: $114
+- generic: ".99"
+- button:
+- img "MUXHOMO 3/4 PCS Cooling Sheets Set - Bamboo Bed Sheets Set Queen Size - Luxury Fitted Sheet Set - Ultra Soft Sheet & Pillowcase Sets - Deep Pockets - Unmatched Comfort & Softness Sleep - Perfect Fit For All Beds Set"
+- generic: Free shipping
+- link "MUXHOMO 3/4 PCS Cooling Sheets Set - Bamboo Bed Sheets Set Queen Size - Luxury Fitted Sheet Set - Ultra Soft Sheet & Pillowcase Sets - Deep Pockets - Unmatched Comfort & Softness Sleep - Perfect Fit For All Beds Set":
+  - /url: https://shop.tiktok.com/us/pdp/muxhomo-bamboo-bed-sheet-set-ultra-soft-cool-queen-size/1732606706703569167
+  - heading "MUXHOMO 3/4 PCS Cooling Sheets Set - Bamboo Bed Sheets Set Queen Size - Luxury Fitted Sheet Set - Ultra Soft Sheet & Pillowcase Sets - Deep Pockets - Unmatched Comfort & Softness Sleep - Perfect Fit For All Beds Set" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 825 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- generic: "-25%"
+- text: $19
+- generic: ".49"
+- text: $25.99
+- button:
+- img "Mellow Sleep | Cooling EasyFit Sheet - Silky Soft Breathable Fitted Sheet Stays Wrinkle-Free Trusted By Top Hotels"
+- generic: Free shipping
+- generic: Mellow Sleep
+- link "Mellow Sleep | Cooling EasyFit Sheet - Silky Soft Breathable Fitted Sheet Stays Wrinkle-Free Trusted By Top Hotels":
+  - /url: https://shop.tiktok.com/us/pdp/mellow-sleep-easyfit-sheet-silky-soft-breathable-wrinkle-free/1732177854905815121
+  - heading "Mellow Sleep | Cooling EasyFit Sheet - Silky Soft Breathable Fitted Sheet Stays Wrinkle-Free Trusted By Top Hotels" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 9.7K 已售出
+- generic: Limited time deal
+- text: $76
+- generic: ".70"
+- button:
+- 'img "Bedsum Bamboo Viscose Antibacterial Sheet Set - 3/4-Pc Complete Fitted Bed Sheets, Multi-Size Flat Weave Hotel-Quality Silky Cooling Wrinkle-Resistant Breathable Linens (Note: Do Not Use Fabric Softeners)"'
+- 'link "Bedsum Bamboo Viscose Antibacterial Sheet Set - 3/4-Pc Complete Fitted Bed Sheets, Multi-Size Flat Weave Hotel-Quality Silky Cooling Wrinkle-Resistant Breathable Linens (Note: Do Not Use Fabric Softeners)"':
+  - /url: https://shop.tiktok.com/us/pdp/bedsum-bamboo-fiber-bedding-set-soft-moisture-wicking-easy-care/1731394576703328299
+  - 'heading "Bedsum Bamboo Viscose Antibacterial Sheet Set - 3/4-Pc Complete Fitted Bed Sheets, Multi-Size Flat Weave Hotel-Quality Silky Cooling Wrinkle-Resistant Breathable Linens (Note: Do Not Use Fabric Softeners)" [level=3]'
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 742 已售出
+- generic: "-8%"
+- text: $25
+- generic: ".61"
+- text: $27.79
+- button:
+- img "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option"
+- generic: Free shipping
+- link "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-silky-soft-4-6-piece-luxury-bed-set/1729487632333247217
+  - heading "Bamboo Sheet Set - 4/6-Pc Hotel Style Bedding Sets, Silky Soft, Breathable, Cooling, 16\" Deep Pocket, Wrinkle-Resist, Fade Resistant, Durable, Machine Washable for Hot Sleepers, All Seasons, California King Option" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 28.6K 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- generic: "-40%"
+- text: $31
+- generic: ".04"
+- text: $51.74
+- button:
+- img "4/6pcs Extra Deep Pocket Sheets Bamboo Bed Sheet Set - kids & Pillowcase Set,Comfy Breathable Cooling Hotel Luxury Bedding for Women, Men and kids- Pockets, Ultra-Soft, Wrinkle Free,Twin/Full/Queen/King"
+- generic: Free shipping
+- link "4/6pcs Extra Deep Pocket Sheets Bamboo Bed Sheet Set - kids & Pillowcase Set,Comfy Breathable Cooling Hotel Luxury Bedding for Women, Men and kids- Pockets, Ultra-Soft, Wrinkle Free,Twin/Full/Queen/King":
+  - /url: https://shop.tiktok.com/us/pdp/extra-deep-pocket-bamboo-bed-sheet-set-sasttie-ultra-soft-cooling-comfy-breathable-luxury-bedding/1732510144121181062
+  - heading "4/6pcs Extra Deep Pocket Sheets Bamboo Bed Sheet Set - kids & Pillowcase Set,Comfy Breathable Cooling Hotel Luxury Bedding for Women, Men and kids- Pockets, Ultra-Soft, Wrinkle Free,Twin/Full/Queen/King" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 4.1K 已售出
+- text: $21
+- generic: ".99"
+- button:
+- img "Soft Bamboo Sheets Twin/Full/Queen/King Size - Cooling Bamboo Bed Sheets for Hot Sleepers, Breathable & Moisture Wicking, Hotel Luxury Bedding Set with Deep Pockets"
+- generic: Free shipping
+- link "Soft Bamboo Sheets Twin/Full/Queen/King Size - Cooling Bamboo Bed Sheets for Hot Sleepers, Breathable & Moisture Wicking, Hotel Luxury Bedding Set with Deep Pockets":
+  - /url: https://shop.tiktok.com/us/pdp/soft-bamboo-sheets-twin-full-queen-king-cooling-breathable/1732414735647806260
+  - heading "Soft Bamboo Sheets Twin/Full/Queen/King Size - Cooling Bamboo Bed Sheets for Hot Sleepers, Breathable & Moisture Wicking, Hotel Luxury Bedding Set with Deep Pockets" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 2.2K 已售出
+- text: $18
+- generic: ".20"
+- button:
+- img "MUXHOMO Queen Size Soft Bedding Set - 3/4-Piece 20% Linen-80% Bamboo Viscose Sheets, Plain Weave Hotel Style, 14-in Deep Pockets Anti-Slip Fitted Sheet, Cooling Breathable Silky Ultra-Smooth, All Seasons, Machine Washable, Solid Color Home Decor, Hotel St"
+- generic: Free shipping
+- link "MUXHOMO Queen Size Soft Bedding Set - 3/4-Piece 20% Linen-80% Bamboo Viscose Sheets, Plain Weave Hotel Style, 14-in Deep Pockets Anti-Slip Fitted Sheet, Cooling Breathable Silky Ultra-Smooth, All Seasons, Machine Washable, Solid Color Home Decor, Hotel St":
+  - /url: https://shop.tiktok.com/us/pdp/muxhomo-3-4-piece-bamboo-viscose-bed-sheet-set-cooling-comfort/1732461598126740276
+  - heading "MUXHOMO Queen Size Soft Bedding Set - 3/4-Piece 20% Linen-80% Bamboo Viscose Sheets, Plain Weave Hotel Style, 14-in Deep Pockets Anti-Slip Fitted Sheet, Cooling Breathable Silky Ultra-Smooth, All Seasons, Machine Washable, Solid Color Home Decor, Hotel St" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 404 已售出
+- text: $28
+- generic: ".00"
+- button:
+- img "Bedsure 100% Rayon Derived from Bamboo Cooling Sheets 3-Piece Set, Breathable Weave Keeps Nights Airy, 16\" Deep Pocket, Silky Soft, Hotel Style Bedding, Tumble Dry Safe, 1-Step Set for Quick Bed Refresh"
+- generic: Free shipping
+- link "Bedsure 100% Rayon Derived from Bamboo Cooling Sheets 3-Piece Set, Breathable Weave Keeps Nights Airy, 16\" Deep Pocket, Silky Soft, Hotel Style Bedding, Tumble Dry Safe, 1-Step Set for Quick Bed Refresh":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-queen-sheet-set-bamboo-cooling-soft-breathable/1731367134008480341
+  - heading "Bedsure 100% Rayon Derived from Bamboo Cooling Sheets 3-Piece Set, Breathable Weave Keeps Nights Airy, 16\" Deep Pocket, Silky Soft, Hotel Style Bedding, Tumble Dry Safe, 1-Step Set for Quick Bed Refresh" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 5.3K 已售出
+- generic: Limited time deal
+- text: $123
+- generic: ".37"
+- button:
+- img "California Design Den GOTS Certified 100% Organic Cotton Bed Sheet Set - Percale Weave Sheets, Soft Breathable Cooling Deep Pocket Home Bedding Linens"
+- generic: Free shipping
+- link "California Design Den GOTS Certified 100% Organic Cotton Bed Sheet Set - Percale Weave Sheets, Soft Breathable Cooling Deep Pocket Home Bedding Linens":
+  - /url: https://shop.tiktok.com/us/pdp/organic-percale-sheet-set-california-design-den-100-gots-cotton-crisp-cool-touch-feel-4-piece-set/1732509082772935492
+  - heading "California Design Den GOTS Certified 100% Organic Cotton Bed Sheet Set - Percale Weave Sheets, Soft Breathable Cooling Deep Pocket Home Bedding Linens" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 1.3K 已售出
+- text: $77
+- generic: ".99"
+- button:
+- img "CGK | Ice Cool Sheet Set – Cooling Nylon Fabric, Moisture Wicking & Wrinkle Resistant for Hot Sleepers"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | Ice Cool Sheet Set – Cooling Nylon Fabric, Moisture Wicking & Wrinkle Resistant for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/cgk-ice-cool-sheet-set-cooling-nylon-breathable-comfortable/1732406385812476620
+  - heading "CGK | Ice Cool Sheet Set – Cooling Nylon Fabric, Moisture Wicking & Wrinkle Resistant for Hot Sleepers" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.4K 已售出
+- generic: Limited time deal
+- generic: 08:42:56
+- text: $77
+- generic: ".99"
+- button:
+- img "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-bed-sheets-twin-set-by-decolure-ultra-soft-viscose-deep-pockets-easy-care/1731054900601131315
+  - heading "DECOLURE Cooling Bed Sheets Set 4 Pcs - Cooler Than Cotton, Ultra Soft Bamboo Viscose Microfiber Sheets for Hot Sleepers - Breathable, Deep Pocket, Hypoallergenic Cooling Sheet Set with Fitted Sheet, Flat Sheet & Pillowcases - Silky Soft, Moisture Wicking" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 2.6K 已售出
+- generic: Limited time deal
+- text: $64
+- generic: ".99"
+- button:
+- img "SASTTIE Luxury Bamboo Sheet Set - 3/4/6-Piece Solid Queen Size Extra Deep Pocket Secure Fitted Sheets & Pillowcases, Breathable Durable, Hotel-Grade, Machine-Washable, Halloween Gifts for Cooling Bedding Sets"
+- generic: Free shipping
+- link "SASTTIE Luxury Bamboo Sheet Set - 3/4/6-Piece Solid Queen Size Extra Deep Pocket Secure Fitted Sheets & Pillowcases, Breathable Durable, Hotel-Grade, Machine-Washable, Halloween Gifts for Cooling Bedding Sets":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-cool-comfortable-3-4-6pcs-king-size/1732412242936173446
+  - heading "SASTTIE Luxury Bamboo Sheet Set - 3/4/6-Piece Solid Queen Size Extra Deep Pocket Secure Fitted Sheets & Pillowcases, Breathable Durable, Hotel-Grade, Machine-Washable, Halloween Gifts for Cooling Bedding Sets" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 13.5K 已售出
+- text: $21
+- generic: ".99"
+- button:
+- img "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets"
+- generic: Free shipping
+- generic: Bedsure
+- link "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/bedsure-king-size-cooling-sheets-set-soft-breathable/1732297575939412214
+  - heading "【Black Friday early bird sale】Bedsure 4-Piece Cooling Bedsheet Set, 1/99 Fine Smooth Silky Bedding for Hot Sleepers, 18-Inch Deep Pocket, Soft Airy Drape Feels Cloud-Soft Home Goods, Fresh & Breathable Sheets" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 4.2K 已售出
+- text: $106
+- generic: ".99"
+- button:
+- img "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use"
+- generic: Free shipping
+- link "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use":
+  - /url: https://shop.tiktok.com/us/pdp/pure-bamboo-viscose-sheet-set-cool-comfortable-extra-deep/1732321993145422577
+  - heading "Pure Bamboo Sheet Set (4/6Pcs) - Hotel Quality Easy Care Bedding with Elastic Fitted Sheet, 6-18in Deep Non-Slip Pockets, Cooling, Breathable Durable, Wrinkle-Resist Look, Fade-Resistant, Silky Soft for California King/Full, Machine Washable Summer Use" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 3.1K 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- text: $64
+- generic: ".87"
+- button:
+- img "CGK | 6-Piece Sheet Set – Deep Pocket, Wrinkle-Resistant, Cooling, 1 Fitted Sheet, 1 Flat Sheet, 4 Pillowcases"
+- generic: Free shipping
+- generic: CGK Linens
+- link "CGK | 6-Piece Sheet Set – Deep Pocket, Wrinkle-Resistant, Cooling, 1 Fitted Sheet, 1 Flat Sheet, 4 Pillowcases":
+  - /url: https://shop.tiktok.com/us/pdp/cgk-6-piece-sheet-set-ultra-soft-wrinkle-resistant-cool/1729488595933959884
+  - heading "CGK | 6-Piece Sheet Set – Deep Pocket, Wrinkle-Resistant, Cooling, 1 Fitted Sheet, 1 Flat Sheet, 4 Pillowcases" [level=3]
+- generic: "4.5"
+- 'img "Rating: 4.5 out of 5 stars"':
+- generic: 15.7K 已售出
+- generic: Limited time deal
+- generic: 08:42:56
+- text: $34
+- generic: ".99"
+- button:
+- img "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers"
+- generic: Free shipping
+- generic: Decolure Home Goods
+- link "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers":
+  - /url: https://shop.tiktok.com/us/pdp/decolure-bamboo-sheets-set-3-piece-hypoallergenic-cooling/1729917395976425779
+  - heading "DECOLURE 4-Piece Bamboo Bed Sheet Set - 100% Cooling Viscose Bedding, Ultra Soft, 17in Deep Pockets, Double Stitching, OEKO-Tex Certified, Hypoallergenic for Hot Sleepers" [level=3]
+- generic: "4.8"
+- 'img "Rating: 4.8 out of 5 stars"':
+- generic: 17.9K 已售出
+- generic: Limited time deal
+- text: $110
+- generic: ".49"
+- button:
+- img "3/4-Piece Cool-to-the-Touch Bamboo Sheet Set - Breathable, Durable Luxury Hotel Bedding for Thick Mattresses, Includes Pillowcases, Fitted & Flat Sheets, All-Season Machine Washable for Bedroom/Dorm"
+- generic: Free shipping
+- link "3/4-Piece Cool-to-the-Touch Bamboo Sheet Set - Breathable, Durable Luxury Hotel Bedding for Thick Mattresses, Includes Pillowcases, Fitted & Flat Sheets, All-Season Machine Washable for Bedroom/Dorm":
+  - /url: https://shop.tiktok.com/us/pdp/cooling-bamboo-bed-sheet-set-breathable-soft-3-4pcs/1732190325789855894
+  - heading "3/4-Piece Cool-to-the-Touch Bamboo Sheet Set - Breathable, Durable Luxury Hotel Bedding for Thick Mattresses, Includes Pillowcases, Fitted & Flat Sheets, All-Season Machine Washable for Bedroom/Dorm" [level=3]
+- generic: "4.1"
+- 'img "Rating: 4.1 out of 5 stars"':
+- generic: 693 已售出
+- text: $46
+- generic: ".80"
+- button:
+- img "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)":
+  - /url: https://shop.tiktok.com/us/pdp/solid-bed-sheets-by-ldc-lux-decor-4-pc-brushed-microfiber-set/1729590912873370233
+  - heading "LDC LUX DECOR COLLECTION 4-Piece Hotel Luxury Bedding Set, Fitted Sheets (16\" Deep Pocket), Ultra Soft Oeko-TEX Certified Linens, Embroidered Pillowcases, Cooling Effect, Moisture Wicking, Easy-Care for Busy Homes - Summer Gift (Multi-Size Up to Cal King)" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 193.2K 已售出
+- generic: "-21%"
+- text: $18
+- generic: ".99"
+- text: $23.99
+- button:
+- img "Jollyvogue Extra Deep Pocket Bamboo Sheets - 4/6 Pcs Breathable &Cooling for Hot Sleepers , Hotel Luxury Fitted Soft Wrinkle-Free For Extra Deep Mattresses, Room Decor, Twin/Full/Queen/King Size Pillowcase Sets"
+- generic: Free shipping
+- link "Jollyvogue Extra Deep Pocket Bamboo Sheets - 4/6 Pcs Breathable &Cooling for Hot Sleepers , Hotel Luxury Fitted Soft Wrinkle-Free For Extra Deep Mattresses, Room Decor, Twin/Full/Queen/King Size Pillowcase Sets":
+  - /url: https://shop.tiktok.com/us/pdp/jollyvogue-bamboo-sheets-breathable-cool-6-pcs-set/1732497011913102214
+  - heading "Jollyvogue Extra Deep Pocket Bamboo Sheets - 4/6 Pcs Breathable &Cooling for Hot Sleepers , Hotel Luxury Fitted Soft Wrinkle-Free For Extra Deep Mattresses, Room Decor, Twin/Full/Queen/King Size Pillowcase Sets" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 8.5K 已售出
+- text: $23
+- generic: ".00"
+- button:
+- img "SASTTIE Bamboo Viscose Queen Sheet Set with Deep Pocket, Hotel Luxury Bed Sheets Set, Deep Pocket Up to 16 Inches, Ultra Soft Cooling Sheets"
+- generic: Free shipping
+- link "SASTTIE Bamboo Viscose Queen Sheet Set with Deep Pocket, Hotel Luxury Bed Sheets Set, Deep Pocket Up to 16 Inches, Ultra Soft Cooling Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/luxury-bamboo-viscose-sheet-set-deep-pocket-ultra-soft/1732606858229813519
+  - heading "SASTTIE Bamboo Viscose Queen Sheet Set with Deep Pocket, Hotel Luxury Bed Sheets Set, Deep Pocket Up to 16 Inches, Ultra Soft Cooling Sheets" [level=3]
+- generic: "4.3"
+- 'img "Rating: 4.3 out of 5 stars"':
+- generic: 813 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- generic: "-35%"
+- text: $19
+- generic: ".49"
+- text: $29.89
+- button:
+- img "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant"
+- generic: Free shipping
+- generic: LDC LUX DECOR COLLECTION
+- link "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant":
+  - /url: https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033
+  - heading "LDC LUX DECOR COLLECTION Multi-Size Bamboo Sheet Set - 3-4 Piece Soft Breathable Sheet Set with 16\" Deep Pockets, Deep Pocket Hugs Mattress, Cooling Effect Hotel-Quality Bedding for Hot Sleepers, Machine Washable, Fade-Resistant" [level=3]
+- generic: "4.4"
+- 'img "Rating: 4.4 out of 5 stars"':
+- generic: 14.7K 已售出
+- generic: "-27%"
+- text: $23
+- generic: ".99"
+- text: $32.99
+- button:
+- img "Threadmill Home Linen 600TC 100% Pure Cotton Sateen Cooling Bed Sheet Set - 16\" Deep Pockets, Striped/Solid/Geometric Patterns, Sustainable Luxury Hotel-Style, Breathable, OEKO-TEX Certified, Olivia Design, Ideal for Everyday Sleep"
+- generic: Free shipping
+- link "Threadmill Home Linen 600TC 100% Pure Cotton Sateen Cooling Bed Sheet Set - 16\" Deep Pockets, Striped/Solid/Geometric Patterns, Sustainable Luxury Hotel-Style, Breathable, OEKO-TEX Certified, Olivia Design, Ideal for Everyday Sleep":
+  - /url: https://shop.tiktok.com/us/pdp/threadmill-100-cotton-4-piece-bed-set-600-tc-deep-pockets/1732408976023917174
+  - heading "Threadmill Home Linen 600TC 100% Pure Cotton Sateen Cooling Bed Sheet Set - 16\" Deep Pockets, Striped/Solid/Geometric Patterns, Sustainable Luxury Hotel-Style, Breathable, OEKO-TEX Certified, Olivia Design, Ideal for Everyday Sleep" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 409 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- text: $77
+- generic: ".99"
+- button:
+- img "Bedlifes Washed Stone Linen Floral Sheets – Soft Breathable Cooling French Flax Bed Sheets, 4-Piece Set Luxury Hotel Quality Bedding, 16\"-24\"Deep Pocket All Season"
+- generic: Free shipping
+- link "Bedlifes Washed Stone Linen Floral Sheets – Soft Breathable Cooling French Flax Bed Sheets, 4-Piece Set Luxury Hotel Quality Bedding, 16\"-24\"Deep Pocket All Season":
+  - /url: https://shop.tiktok.com/us/pdp/bedlifes-washed-stone-linen-sheets-cool-comfortable/1732469759185490400
+  - heading "Bedlifes Washed Stone Linen Floral Sheets – Soft Breathable Cooling French Flax Bed Sheets, 4-Piece Set Luxury Hotel Quality Bedding, 16\"-24\"Deep Pocket All Season" [level=3]
+- generic: "4.7"
+- 'img "Rating: 4.7 out of 5 stars"':
+- generic: 1.5K 已售出
+- text: $159
+- generic: ".99"
+- button:
+- img "MUXHOMO Bamboo Sheet Set Queen Size - For Hot Sleepers - Bed Sheets with Envelope Pillowcases - Ultra Soft & Cozy - Lightweight & Breathable - With 16\" Deep Pocket Fitted Sheet - Perfect Everyday Sheets"
+- generic: Free shipping
+- link "MUXHOMO Bamboo Sheet Set Queen Size - For Hot Sleepers - Bed Sheets with Envelope Pillowcases - Ultra Soft & Cozy - Lightweight & Breathable - With 16\" Deep Pocket Fitted Sheet - Perfect Everyday Sheets":
+  - /url: https://shop.tiktok.com/us/pdp/muxhomo-bamboo-sheet-set-queen-size-ultra-soft-cozy/1732670849955041551
+  - heading "MUXHOMO Bamboo Sheet Set Queen Size - For Hot Sleepers - Bed Sheets with Envelope Pillowcases - Ultra Soft & Cozy - Lightweight & Breathable - With 16\" Deep Pocket Fitted Sheet - Perfect Everyday Sheets" [level=3]
+- generic: "4.6"
+- 'img "Rating: 4.6 out of 5 stars"':
+- generic: 4.4K 已售出
+- generic: Flash sale
+- generic: 01:43:55
+- generic: "-33%"
+- text: $15
+- generic: ".39"
+- text: $22.99
+- button:
+- button "查看更多"
+- generic: 相关类目
+- link "床单与枕套":
+  - /url: https://shop.tiktok.com/us/c/sheets-pillowcases/600165
+- link "床品套件":
+  - /url: https://shop.tiktok.com/us/c/bedding-sets-collections/808584
+- heading "Introduction" [level=2]
+- paragraph: Browse Cooling Sheets on TikTok Shop and explore listings related to this search. Available options can vary, so compare materials, dimensions, features, variants, price, and seller information.
+- paragraph: Review each listing's photos, description, specifications, price, seller information, delivery options, and return details before ordering. Availability and listing details can change over time.
+- generic: "This information is AI generated and may return results that are not relevant. It does not represent TikTok‘s views or advice. If you have concerns, please report at: Feedback and help - TikTok"
+- heading "FAQs" [level=2]
+- button "What can I find when shopping for Cooling Sheets? +":
+  - generic: What can I find when shopping for Cooling Sheets?
+  - generic: +
+- button "How should I compare Cooling Sheets listings? +":
+  - generic: How should I compare Cooling Sheets listings?
+  - generic: +
+- button "What should I check before ordering Cooling Sheets? +":
+  - generic: What should I check before ordering Cooling Sheets?
+  - generic: +
+- generic: "This information is AI generated and may return results that are not relevant. It does not represent TikTok‘s views or advice. If you have concerns, please report at: Feedback and help - TikTok"

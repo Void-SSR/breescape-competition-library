@@ -1,0 +1,375 @@
+[
+  {
+    "sequence": 140,
+    "reason": "订单变更请求，无产品使用内容",
+    "raw": {
+      "序号": "140",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/04/25",
+      "评分（5分制）": "5",
+      "评论者": "Carol F. 🇺🇸",
+      "验证身份": "",
+      "标题（页面显示）": "Change with previous order.",
+      "正文（页面显示）": "Please cancel or change my order \n5 CATZNY53 to gray graphit queen from blue originally ordered.\nI prefer the graphite and give me 15 per cent off with code Cyber15"
+    }
+  },
+  {
+    "sequence": 175,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 121,
+    "raw": {
+      "序号": "175",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "09/12/25",
+      "评分（5分制）": "5",
+      "评论者": "Francine",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "",
+      "正文（页面显示）": "Love them!"
+    }
+  },
+  {
+    "sequence": 204,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 146,
+    "raw": {
+      "序号": "204",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "07/22/25",
+      "评分（5分制）": "5",
+      "评论者": "Jonie J. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Love my sheets",
+      "正文（页面显示）": "Love my sheets"
+    }
+  },
+  {
+    "sequence": 218,
+    "reason": "无实质内容 g g",
+    "raw": {
+      "序号": "218",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "06/22/25",
+      "评分（5分制）": "5",
+      "评论者": "Benjamin H. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "eg",
+      "正文（页面显示）": "g g"
+    }
+  },
+  {
+    "sequence": 227,
+    "reason": "单独枕套购买，非目标套装",
+    "raw": {
+      "序号": "227",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "06/10/25",
+      "评分（5分制）": "5",
+      "评论者": "Nicole B. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Standard pillowcases",
+      "正文（页面显示）": "My husband loves them. I always buy King size sheets and the pillowcases of course are king size but we have standard pillows He is so happy to have pillowcases that fit!"
+    }
+  },
+  {
+    "sequence": 270,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 121,
+    "raw": {
+      "序号": "270",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "04/14/25",
+      "评分（5分制）": "5",
+      "评论者": "Freddy",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "",
+      "正文（页面显示）": "Love them!"
+    }
+  },
+  {
+    "sequence": 357,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 12,
+    "raw": {
+      "序号": "357",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/25/24",
+      "评分（5分制）": "5",
+      "评论者": "Marissa F.",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Great product",
+      "正文（页面显示）": "Great product"
+    }
+  },
+  {
+    "sequence": 366,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 12,
+    "raw": {
+      "序号": "366",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/19/24",
+      "评分（5分制）": "5",
+      "评论者": "Douglas H.",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Great product",
+      "正文（页面显示）": "Great product"
+    }
+  },
+  {
+    "sequence": 369,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 121,
+    "raw": {
+      "序号": "369",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/17/24",
+      "评分（5分制）": "5",
+      "评论者": "Patricia",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "",
+      "正文（页面显示）": "Love them!"
+    }
+  },
+  {
+    "sequence": 373,
+    "reason": "仅标点",
+    "raw": {
+      "序号": "373",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/16/24",
+      "评分（5分制）": "5",
+      "评论者": "Tracy T. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": ". .",
+      "正文（页面显示）": ". ."
+    }
+  },
+  {
+    "sequence": 376,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 12,
+    "raw": {
+      "序号": "376",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "12/15/24",
+      "评分（5分制）": "5",
+      "评论者": "Marianne B.",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Great product",
+      "正文（页面显示）": "Great product"
+    }
+  },
+  {
+    "sequence": 409,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 121,
+    "raw": {
+      "序号": "409",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "11/26/24",
+      "评分（5分制）": "5",
+      "评论者": "Yianis 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Amazing",
+      "正文（页面显示）": "Love them!"
+    }
+  },
+  {
+    "sequence": 431,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 230,
+    "raw": {
+      "序号": "431",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "11/02/24",
+      "评分（5分制）": "5",
+      "评论者": "Renate A. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Best sheets ever",
+      "正文（页面显示）": "Best sheets ever"
+    }
+  },
+  {
+    "sequence": 439,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 99,
+    "raw": {
+      "序号": "439",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "10/28/24",
+      "评分（5分制）": "5",
+      "评论者": "Braxton",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "",
+      "正文（页面显示）": "Best sheets ever!!!"
+    }
+  },
+  {
+    "sequence": 464,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 230,
+    "raw": {
+      "序号": "464",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "10/06/24",
+      "评分（5分制）": "5",
+      "评论者": "Stephanie 🇺🇸",
+      "验证身份": "Verified Reviewer",
+      "标题（页面显示）": "Perfect year round",
+      "正文（页面显示）": "Best sheets ever"
+    }
+  },
+  {
+    "sequence": 465,
+    "reason": "竹源粘胶枕套，非Original套装",
+    "raw": {
+      "序号": "465",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "10/05/24",
+      "评分（5分制）": "5",
+      "评论者": "Selina O. 🇺🇸",
+      "验证身份": "",
+      "标题（页面显示）": "Best pillowcases on the market I vote them 1!",
+      "正文（页面显示）": "Well from my experience yes they live up to there name especially the packaging I got sheex pillowcases and wow incredible extremely soft on the skin and definitely comfortable to and helps me stay cool throughout the night because am a hot sleeper so there the best pillowcases hands down! They don’t disappoint ever I doubt other brands will live up to his standards like sheex they stand behind there products oh I got the 100% viscose from bamboo to me it will be one of the top pillowcases brand you will ever enjoy and sleep on there again extremely soft and comfortable you will feel like your sleeping on a cloud thank you sheex keep up the excellent work I already 4 pillowcases different colors."
+    }
+  },
+  {
+    "sequence": 493,
+    "reason": "无实质内容 N/Am",
+    "raw": {
+      "序号": "493",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "09/14/24",
+      "评分（5分制）": "5",
+      "评论者": "Wendy W. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "N/Am",
+      "正文（页面显示）": "N/Am"
+    }
+  },
+  {
+    "sequence": 504,
+    "reason": "Studio Tech系列，非Original套装",
+    "raw": {
+      "序号": "504",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "09/09/24",
+      "评分（5分制）": "5",
+      "评论者": "Joy D. 🇺🇸",
+      "验证身份": "Verified Reviewer",
+      "标题（页面显示）": "Best bedding set",
+      "正文（页面显示）": "I ordered the studio tech bedding and this bedding set is by far the best bedding set iv ever purchased. I’m able to be cozy comfy all whole staying nice and cool. So worth the money!"
+    }
+  },
+  {
+    "sequence": 510,
+    "reason": "正文相同，分析保守去重；不等于确认同一消费者",
+    "retained": 63,
+    "raw": {
+      "序号": "510",
+      "品牌": "SHEEX",
+      "产品中文名": "经典性能凉床单",
+      "产品英文名": "Original Performance Sheet Set",
+      "产品及来源链接": "https://www.sheex.com/products/original-performance-sheet-set",
+      "来源": "SHEEX官网产品页评论区（Yotpo）",
+      "采集日期": "2026-11-06",
+      "评论日期": "09/05/24",
+      "评分（5分制）": "5",
+      "评论者": "Ann P. 🇺🇸",
+      "验证身份": "Verified Buyer",
+      "标题（页面显示）": "Great",
+      "正文（页面显示）": "Great"
+    }
+  }
+]

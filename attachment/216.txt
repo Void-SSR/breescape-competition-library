@@ -1,0 +1,754 @@
+- generic "辅助功能菜单":
+  - button "辅助功能菜单"
+- link "跳至内容":
+  - /url: "#MainContent"
+  - generic: 跳至内容
+- generic: 黑色星期五促销活动持续整个月！享受高达50%的折扣以及独家优惠！
+- link "立即购买":
+  - /url: https://www.sheex.com/pages/black-friday
+  - generic: 立即购买
+- banner:
+  - link "希克斯":
+    - /url: /
+    - img "希克斯"
+  - navigation "主要的":
+    - list:
+      - link "所有床上用品":
+        - /url: /collections/all-bedding
+        - generic "所有床上用品":
+          - generic: 所有床上用品
+      - link "床单":
+        - /url: /collections/sheet-sets
+        - generic "床单":
+          - generic: 床单
+      - link "羽绒被和棉被":
+        - /url: /collections/cooling-comforters
+        - generic "羽绒被和棉被":
+          - generic: 羽绒被和棉被
+      - link "枕头":
+        - /url: /collections/cooling-pillows
+        - generic "枕头":
+          - generic: 枕头
+      - link "睡衣+":
+        - /url: /collections/performance-sleepwear
+        - generic "睡衣+":
+          - generic: 睡衣+
+      - link "捆绑包":
+        - /url: /collections/cooling-cozy-bedding-bundles
+        - generic "捆绑包":
+          - generic: 捆绑包
+      - link "销售":
+        - /url: /collections/sale
+        - generic "销售":
+          - generic: 销售
+      - link "博客":
+        - /url: https://www.sheex.com/community/betweenthesheex/category/blog
+        - generic "博客":
+          - generic: 博客
+  - button:
+  - button:
+  - text: Log in
+  - button "查看购物车":
+    - generic: 大车
+- navigation "面包屑":
+  - link "家":
+    - /url: /
+    - generic: 家
+  - link "畅销商品 - 床上用品和睡衣":
+    - /url: /collections/best-sellers
+    - generic: 畅销商品 - 床上用品和睡衣
+  - generic: 原始演出单集
+- main:
+  - group "1/63":
+    - 'img "亮白色原装性能床单套装 #选择你的颜色_亮白色"'
+  - group "2/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+  - group "3/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+  - group "4/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+  - group "5/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+  - group "6/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+  - group "7/63":
+    - img "床上展示的是一对亮白色枕套。#choose-your-color_bright-white"
+  - group "8/63":
+    - img "图中所示为深口袋床垫上亮白色床笠的松紧带。#choose-your-color_bright-white"
+  - group "1/63":
+    - 'img "亮白色原装性能床单套装 #选择你的颜色_亮白色"'
+    - button "在图库视图中打开精选媒体":
+      - generic: 在图库视图中打开精选媒体
+  - group "2/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 2":
+      - generic: 在画廊视图中打开媒体 2
+  - group "3/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 3":
+      - generic: 在画廊视图中打开媒体 3
+  - group "4/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 4":
+      - generic: 在画廊视图中打开媒体 4
+  - group "5/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 5":
+      - generic: 在画廊视图中打开媒体 5
+  - group "6/63":
+    - img "卧室场景中床上铺着一套亮白色床单。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 6":
+      - generic: 在画廊视图中打开媒体 6
+  - group "7/63":
+    - img "床上展示的是一对亮白色枕套。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 7":
+      - generic: 在画廊视图中打开媒体 7
+  - group "8/63":
+    - img "图中所示为深口袋床垫上亮白色床笠的松紧带。#choose-your-color_bright-white"
+    - button "在画廊视图中打开媒体 8":
+      - generic: 在画廊视图中打开媒体 8
+  - button "上一张幻灯片" [disabled]:
+  - button "下一张幻灯片":
+  - heading "原始演出单集" [level=2]:
+    - generic: 原始演出单集
+  - button "总共 6896 条评论，平均评分为 4.7 星（满分 5 星）。评论摘要。":
+    - generic: 6896 条评论
+  - term:
+    - generic: 促销价
+  - definition:
+    - generic: 194.35美元
+  - term:
+    - generic: 原价
+  - definition:
+    - generic: 299.00 美元
+  - generic: 节省 35%（立减 104.65 美元）
+  - paragraph:
+    - generic: 4期免息分期付款，或每月仅需
+    - generic: 14.61美元起
+    - img "Shop"
+    - button "查看示例方案":
+  - generic: Original Performance 是首款运动服风格的床上用品，经过 17 年的不断改进，Original Performance 床单套装提供四季皆宜的凉爽感、运动休闲风格的柔软度以及我们标志性的四向弹力。
+  - generic: 选择你的颜色
+  - radio "亮白色" [checked]
+  - generic "亮白色"
+  - radio "米白色"
+  - generic "米白色"
+  - radio "珍珠蓝"
+  - generic "珍珠蓝"
+  - radio "海军"
+  - generic "海军"
+  - radio "皇家李子"
+  - generic "皇家李子"
+  - radio "石墨"
+  - generic "石墨"
+  - radio "黑色的"
+  - generic "黑色的"
+  - radio "柠檬酒"
+  - generic "柠檬酒"
+  - generic: 限量版配色
+  - radio "子午线蓝"
+  - generic "子午线蓝"
+  - generic: 选择您的尺码
+  - radio "双人床/加大双人床 该款式已售罄或缺货"
+  - generic: 双人床/加大双人床
+  - generic: 该款式已售罄或缺货
+  - radio "满的 该款式已售罄或缺货"
+  - generic: 满的
+  - generic: 该款式已售罄或缺货
+  - radio "女王 该款式已售罄或缺货" [checked] [active]
+  - generic: 女王
+  - generic: 该款式已售罄或缺货
+  - radio "特大号/加州特大号 该款式已售罄或缺货"
+  - generic: 特大号/加州特大号
+  - generic: 该款式已售罄或缺货
+  - radio "分王 该款式已售罄或缺货"
+  - generic: 分王
+  - generic: 该款式已售罄或缺货
+  - button "床单套装尺寸表":
+    - generic: 床单套装尺寸表
+  - button "减少原始性能表套装的数量":
+    - generic: 减少原始性能表套装的数量
+  - spinbutton "数量": "1"
+  - generic: 数量
+  - button "增加原始性能表套装的数量":
+    - generic: 增加原始性能表套装的数量
+  - button "添加到购物车 Add to Cart":
+    - generic: 添加到购物车
+    - text: Add to Cart
+  - img "替代文字"
+  - generic "列表":
+    - list:
+      - link:
+        - /url: https://www.facebook.com/sharer.php?u=https://www.sheex.com/products/original-performance-sheet-set
+      - link:
+        - /url: https://reddit.com/submit?url=https://www.sheex.com/products/original-performance-sheet-set&text=Original Performance Sheet Set
+      - link:
+        - /url: https://www.sheex.com/products/original-performance-sheet-set
+  - generic: 款式编号：200061
+  - button "快速修复":
+    - generic: 快速修复
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 夜间盗汗、过热、炎热的夏天
+  - list:
+    - generic: 增强透气性
+    - generic: 卓越的吸湿排汗性能
+    - generic: 体温调节
+    - generic: QMAX（触感凉爽度）评级：均衡凉爽感
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 睡眠移动
+  - list:
+    - generic: 精心设计，可随您运动，减少摩擦，避免不适的堆积。
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 粗糙的床单
+  - list:
+    - strong:
+      - generic: 运动休闲风格的柔软度
+    - generic: ：旨在让您感觉像穿着您最喜欢的运动休闲服一样舒适。
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 弹出角
+  - list:
+    - strong:
+      - generic: 防滑贴合：
+    - generic: 运动级弹力带可将床单整晚牢牢固定到位。
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 偷页者
+  - list:
+    - strong:
+      - generic: 始终遮盖：
+    - generic: 床单垂感极佳，我们标志性的四向弹力确保没有人会真正独占被褥。
+  - paragraph:
+    - emphasis:
+      - strong:
+        - generic: 床垫很难买到
+  - list:
+    - strong:
+      - generic: 床垫拉伸器：
+    - generic: 可牢固地贴合深口袋床垫和可调节床，不会滑动。
+  - button "产品描述":
+    - generic: 产品描述
+  - button "尺寸与保养":
+    - generic: 尺寸与保养
+  - button "认证":
+    - generic: 认证
+  - heading "SHEX冷却技术的工作原理" [level=2]:
+    - generic: SHEX冷却技术的工作原理
+  - heading "体温调节" [level=3]:
+    - generic: 体温调节
+  - paragraph:
+    - generic: 高性能面料能分散体热，营造更凉爽的睡眠环境。
+  - heading "吸湿排汗" [level=3]:
+    - generic: 吸湿排汗
+  - paragraph:
+    - generic: 能将汗水从皮肤表面吸走，让您整晚保持干爽舒适。
+  - heading "透气性" [level=3]:
+    - generic: 透气性
+  - paragraph:
+    - generic: 透气针织结构可以让热量散发出去，让新鲜空气在你睡眠时流通。
+  - paragraph:
+    - generic: 温度
+  - heading "凉爽舒适的夜晚" [level=2]:
+    - generic: 凉爽舒适的夜晚
+  - paragraph:
+    - generic: 这款采用超强吸湿排汗、透气性极佳的运动面料，能将汗水从皮肤上吸走，让您保持凉爽干爽，就像您最喜欢的运动服一样。
+  - img "一名赤裸上身、身穿深蓝色平角内裤的男子站在光线昏暗的卧室床边，手抚摸着床垫。床铺着浅灰色床单，床头板也是灰色的，床头灯亮着，背景中还摆放着一盆植物。"
+  - paragraph:
+    - generic: 运动休闲床上用品
+  - heading "运动休闲床上用品" [level=2]:
+    - generic: 运动休闲床上用品
+  - paragraph:
+    - generic: 旨在打造如瑜伽/运动休闲服般柔软舒适的穿着体验。采用优质弹力面料，避免不适的褶皱堆积，并确保运动时无摩擦。
+  - paragraph:
+    - generic: 关心
+  - heading "寿命更长" [level=2]:
+    - generic: 寿命更长
+  - paragraph:
+    - generic: 我们最耐用的床单套装，采用运动级材料制成，具有良好的弹性，并经过 17 年的客户反馈和对细节的关注而不断改进。
+  - paragraph:
+    - generic: 风格
+  - heading "表达自我" [level=2]:
+    - generic: 表达自我
+  - paragraph:
+    - generic: 采用抗皱面料，并提供日益丰富的鲜艳、经典和限量版颜色选择，打造值得您梦寐以求的床上用品。
+  - generic: ★★★★★
+  - generic: 超过 17,000 条评论
+  - generic: 冷却性能
+  - generic: 工程织物
+  - generic: 订单满150美元免运费
+  - generic: 发货迅速，每笔订单
+  - generic: 60晚保证
+  - generic: 好好考虑，无风险。
+  - generic: 为什么 SHEEX 有效
+  - generic: 大床铺的四个角落
+  - generic: 舒适
+  - generic: 穿上就感觉柔软，而且越洗越柔软。
+  - list:
+    - generic: 手感如黄油般柔滑
+    - generic: 四向弹力贴合
+    - generic: 深口袋剪裁
+  - generic: 卫生
+  - generic: 高性能纤维，快干且不易积聚传统棉絮。
+  - list:
+    - generic: 速干织物
+    - generic: 防臭
+    - generic: 机洗+烘干
+  - img "折叠式 SHEEX 性能表"
+  - generic: 温度
+  - generic: Engineered to release heat continuously so the bed stays cool all night.
+  - list:
+    - listitem: Airflow knit
+    - listitem: Moisture-wicking fibers
+    - listitem: Consistent surface temp
+  - generic: Style
+  - generic: A quiet, considered palette designed to disappear into any bedroom.
+  - list:
+    - listitem: Editorial color range
+    - listitem: Matte, refined finish
+    - listitem: Tailored, clean lines
+  - generic: FAQ
+  - generic: Questions, answered honestly.
+  - generic "How do SHEEX sheets actually cool you down?":
+    - generic: How do SHEEX sheets actually cool you down?
+  - paragraph: "Our performance knit pulls moisture from your skin and disperses it across a larger surface area, allowing heat to evaporate faster than traditional cotton. The result: a consistently cool sleep surface."
+  - generic "What's the 60-night guarantee?":
+    - generic: What's the 60-night guarantee?
+  - generic "How do they hold up after washing?":
+    - generic: How do they hold up after washing?
+  - generic "Will they fit a deep mattress?":
+    - generic: Will they fit a deep mattress?
+  - generic "What's the difference between the SHEEX collections?":
+    - generic: What's the difference between the SHEEX collections?
+  - heading "Designed for Any Sleeper" [level=2]
+  - heading "Original Performance" [level=3]
+  - paragraph: The sheets that started it all.
+  - link "原版演出 Best for Year-Round Comfort Thousands of 5-star reviews Balanced temperature control Wrinkle-free fabric Stay-fit corners":
+    - /url: /collections/original-performance
+    - img "原版演出"
+    - heading "Best for Year-Round Comfort" [level=4]
+    - list:
+      - listitem: Thousands of 5-star reviews
+      - listitem: Balanced temperature control
+      - listitem: Wrinkle-free fabric
+      - listitem: Stay-fit corners
+  - heading "Nightfall" [level=3]
+  - paragraph: Light as air. Cool all night.
+  - link "黄昏 Best for Hot Sleepers Ultra-cool feel Whisper-light construction Designed to disappear on your bed (in a good way)":
+    - /url: /collections/nightfall-bedding-collection
+    - img "黄昏"
+    - heading "Best for Hot Sleepers" [level=4]
+    - list:
+      - listitem: Ultra-cool feel
+      - listitem: Whisper-light construction
+      - listitem: Designed to disappear on your bed (in a good way)
+  - heading "Arctic Aire•MAX" [level=3]
+  - paragraph: Calm. Familiar. Elevated.
+  - link "北极航空•MAX Best for Traditionalists Made from 100% TENCEL™ Lyocell Hypoallergenic & breathable Drapes like traditional sheets Eco-friendly":
+    - /url: /collections/arctic-aire-max-collection
+    - img "北极航空•MAX"
+    - heading "Best for Traditionalists" [level=4]
+    - list:
+      - listitem: Made from 100% TENCEL™ Lyocell
+      - listitem: Hypoallergenic & breathable
+      - listitem: Drapes like traditional sheets
+      - listitem: Eco-friendly
+  - heading "Active Comfort" [level=3]
+  - paragraph: This is the sheet set that fits real life.
+  - link "主动舒适 Best for Practical Families Temperature-regulating Accessible everyday comfort Stay-Fit Corners Easy care, no stress":
+    - /url: /collections
+    - img "主动舒适"
+    - heading "Best for Practical Families" [level=4]
+    - list:
+      - listitem: Temperature-regulating
+      - listitem: Accessible everyday comfort
+      - listitem: Stay-Fit Corners
+      - listitem: Easy care, no stress
+  - heading "More Sleep Solutions You'll Love" [level=3]
+  - link "查看所有商品":
+    - /url: /collections/best-sellers
+    - generic: Shop All
+  - region "来自真实顾客的真实评价":
+    - heading "Real Reviews From Real Customers" [level=2]
+    - generic: "4.7"
+    - img "4.7 out of 5 stars":
+    - generic: Based on 6896 reviews
+    - button "Write A Review"
+    - list "Detailed Ratings":
+      - generic: Functionality
+      - 'meter "Functionality: Excellent"':
+        - generic: Excellent
+      - generic: Quality
+      - 'meter "Quality: Excellent"':
+        - generic: Excellent
+      - generic: Comfort
+      - 'meter "Comfort: Excellent"':
+        - generic: Excellent
+    - heading "Customers say" [level=3]:
+      - strong: Customers say
+    - paragraph:
+      - generic: AI-generated from customer reviews.
+    - paragraph: The Original Performance Sheet Set by SHEEX offers a luxurious, soft, and breathable sleeping experience. Customers praise its ability to stay cool, its perfect fit, and its wrinkle-free design. The high-quality fabric and beautiful colors contribute to a comfortable and restful night's sleep.
+    - button "Click to view detailed reviews summary":
+      - generic: Read summary by topics
+    - heading "Reviews with media" [level=3]
+    - region "Reviews with media":
+      - button "Slide 1 of 21. Image of customer."
+      - button "Slide 2 of 21. Image of customer."
+      - button "Slide 3 of 21. Image of customer."
+      - button "Slide 4 of 21. Image of customer."
+      - button "Slide 5 of 21. Image of customer."
+      - group "Slide Controls":
+        - button "Previous review media slide" [disabled]:
+        - button "Next review media slide":
+      - generic: Slide 5 of 21. Image of customer.
+    - search:
+      - generic: Search reviews
+      - searchbox "Search reviews"
+      - button "Search reviews":
+    - generic: Rating
+    - combobox "Rating":
+      - generic: Rating
+      - generic: All ratings
+    - button "Filter with media":
+      - generic: With media
+    - generic: Functionality
+    - combobox "Functionality":
+      - generic: Functionality
+      - generic: All
+    - generic: Quality
+    - combobox "Quality":
+      - generic: Quality
+      - generic: All
+    - generic: Comfort
+    - combobox "Comfort":
+      - generic: Comfort
+      - generic: All
+    - group "Popular topics":
+      - generic: Popular topics
+      - list:
+        - button "color"
+        - button "fit"
+        - button "size"
+        - button "problem"
+        - button "feel"
+        - button "shipping"
+        - button "quality"
+        - button "work"
+        - button "Show more popular topics": Show more
+    - generic: Sort by
+    - combobox "Sort by":
+      - generic: Sort by
+      - generic: ":"
+      - generic: Highest rating
+    - list:
+      - 'group "Review by DeLania M. Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 11/03/26
+        - heading "The most comfortable set of" [level=3]:
+          - strong: The most comfortable set of
+        - paragraph: The most comfortable set of sheets I ever owned. The quality is amazing as well.
+        - generic: DeLania M. 🇺🇸
+        - generic: Verified Buyer
+        - list "Detailed Ratings":
+          - generic: Functionality
+          - 'meter "Functionality: Excellent"':
+            - generic: Excellent
+          - generic: Quality
+          - 'meter "Quality: Excellent"':
+            - generic: Excellent
+        - button "See more of DeLania M.'s review": See more
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Scott P. Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 11/02/26
+        - heading "A-Z Amazing" [level=3]:
+          - strong: A-Z Amazing
+        - paragraph: "This is set #6 between King & Queen sets. The newest Limoncello color is delightful. Same incredible cooling comfort and warmth."
+        - generic: Scott P. 🇺🇸
+        - generic: Verified Buyer
+        - list "Detailed Ratings":
+          - generic: Functionality
+          - 'meter "Functionality: Excellent"':
+            - generic: Excellent
+          - generic: Quality
+          - 'meter "Quality: Excellent"':
+            - generic: Excellent
+        - button "See more of Scott P.'s review": See more
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Hope P. Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 10/28/26
+        - heading "I have never had a" [level=3]:
+          - strong: I have never had a
+        - paragraph: I have never had a set of sheets that feels this amazing!
+        - generic: Hope P. 🇺🇸
+        - generic: Verified Buyer
+        - list "Detailed Ratings":
+          - generic: Functionality
+          - 'meter "Functionality: Excellent"':
+            - generic: Excellent
+          - generic: Quality
+          - 'meter "Quality: Excellent"':
+            - generic: Excellent
+        - button "See more of Hope P.'s review": See more
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by L Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 10/23/26
+        - paragraph: Love my sheets very luxurious and it’s cooling sheets when you get hot these are the best sheets ever
+        - generic: L
+        - generic: Verified Buyer
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Derrick Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 10/22/26
+        - paragraph: Best sheets ever! 15 plus years now.
+        - generic: Derrick
+        - generic: Verified Buyer
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Marilyn L. Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 10/08/26
+        - heading "Love these sheets!" [level=3]:
+          - strong: Love these sheets!
+        - paragraph: This is our second set of Sheex sheets. They are so delightfully comfortable to sleep on. And it is very easy to put them on the bed because they stretch in every direction.
+        - generic: Marilyn L. 🇺🇸
+        - generic: Verified Buyer
+        - list "Detailed Ratings":
+          - generic: Functionality
+          - 'meter "Functionality: Excellent"':
+            - generic: Excellent
+          - generic: Quality
+          - 'meter "Quality: Excellent"':
+            - generic: Excellent
+        - button "See more of Marilyn L.'s review": See more
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by John Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 10/01/26
+        - paragraph: Love these sheets, the BEST
+        - generic: John
+        - generic: Verified Buyer
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Connie P. Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 09/30/26
+        - heading "Strange Color Combination Included" [level=3]:
+          - strong: Strange Color Combination Included
+        - paragraph: We love SHEEX and have purchased many sets. Unfortunately this latest purchase included two different colors. The fitted sheet was the ordered color while the pillowcases and flat sheet were a different color. We did not return as husband thought they were ordered that way, thus he washed before I n...
+        - button "Read more about Strange Color Combination Included review by Connie P.": Read more
+        - generic: Connie P. 🇺🇸
+        - generic: Verified Buyer
+        - list "Detailed Ratings":
+          - generic: Functionality
+          - 'meter "Functionality: Excellent"':
+            - generic: Excellent
+          - generic: Quality
+          - 'meter "Quality: Excellent"':
+            - generic: Excellent
+        - button "See more of Connie P.'s review": See more
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, 1 person voted":
+          - generic: "1"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+      - 'group "Review by Evelyn Rating: 5 out of 5 stars."':
+        - img "5 out of 5 stars":
+        - generic: Published date
+        - generic: 09/28/26
+        - paragraph: I LOVE THESE!!!
+        - generic: Evelyn
+        - generic: Verified Buyer
+        - group "Was this review helpful?":
+          - generic: Was this review helpful?
+          - button "This review was helpful, no votes yet":
+          - generic: "0"
+          - button "This review was not helpful, no votes yet":
+          - generic: "0"
+    - navigation "Reviews pagination":
+      - button "Load more reviews"
+- contentinfo:
+  - link "希克斯":
+    - /url: /
+    - img "希克斯"
+  - generic: Your trusted sleep experts for over 18 years. Our innovative fabrics are guaranteed to help you get the rest you deserve.
+  - heading "General" [level=5]
+  - list:
+    - link "符合 HSA/FSA 资格":
+      - /url: /pages/truemed
+      - generic: HSA/FSA Eligible
+    - link "礼品卡":
+      - /url: /products/gift-card
+      - generic: Gift Cards
+    - link "先买后付":
+      - /url: /pages/finance-options
+      - generic: Buy Now, Pay Later
+    - link "博客":
+      - /url: /community/betweenthesheex
+      - generic: Blog
+    - link "评论":
+      - /url: /pages/reviews
+      - generic: Reviews
+    - link "成为联盟会员":
+      - /url: /pages/affiliate
+      - generic: Become an Affiliate
+    - link "在 SHEEX 工作":
+      - /url: /pages/join-sheex
+      - generic: Working at SHEEX
+    - link "公司简介":
+      - /url: /a/customerhub#account
+      - generic: Company Profile
+  - heading "Customer Service" [level=5]
+  - list:
+    - link "常见问题解答":
+      - /url: /pages/faq
+      - generic: FAQs
+    - link "尺码表":
+      - /url: /pages/size-charts
+      - generic: Size Charts
+    - link "订购信息":
+      - /url: /pages/ordering-information
+      - generic: Ordering Information
+    - link "运输信息":
+      - /url: /pages/shipping-information
+      - generic: Shipping Information
+    - link "退货与换货":
+      - /url: /pages/returns
+      - generic: Returns & Exchanges
+    - link "产品保修登记":
+      - /url: /pages/warranty
+      - generic: Product Warranty Registration
+    - link "联系我们":
+      - /url: /pages/contact-us
+      - generic: Contact Us
+  - heading "Legal" [level=5]
+  - list:
+    - link "无障碍":
+      - /url: /pages/accessibility
+      - generic: Accessibility
+    - link "社会内容协议":
+      - /url: /pages/social-content-agreement
+      - generic: Social Content Agreement
+    - link "服务条款":
+      - /url: /policies/terms-of-service
+      - generic: Terms of Service
+    - link "隐私政策":
+      - /url: /policies/privacy-policy
+      - generic: Privacy Policy
+    - link "CCPA | GDPR 合规性":
+      - /url: /pages/ccpa-compliance
+      - generic: CCPA | GDPR Compliance
+  - heading "Address" [level=5]
+  - paragraph: "1814 East Route 70, Suite#: 350 CherryHill, NJ 08003"
+  - heading "Contacts" [level=5]
+  - link "customerservice@SHEEX.com":
+    - /url: mailto:customerservice@SHEEX.com
+  - heading "Working Hours" [level=5]
+  - paragraph: 9 AM - 5 PM Eastern Time - Excluding major holidays.
+  - list:
+    - link "Facebook":
+      - /url: https://facebook.com/SHEEX
+      - generic: Facebook
+    - link "Pinterest":
+      - /url: https://pinterest.com/SHEEX
+      - generic: Pinterest
+    - link "Instagram":
+      - /url: https://instagram.com/SHEEXOfficial
+      - generic: Instagram
+    - link "TikTok":
+      - /url: https://tiktok.com/@SHEEX
+      - generic: TikTok
+    - link "YouTube":
+      - /url: https://www.youtube.com/user/sheexbedding
+      - generic: YouTube
+    - link "Vimeo":
+      - /url: https://vimeo.com/user102677732
+      - generic: Vimeo
+  - generic: © 2026
+  - link "希克斯":
+    - /url: /
+    - generic: 希克斯
+  - generic: 。
+  - link "由 Shopify 提供技术支持":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+    - generic: 由 Shopify 提供技术支持
+  - list:
+    - img "Ach Direct Debit"
+    - img "Amazon"
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Diners Club"
+    - img "Discover"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Visa"
+  - button "继续关注 Shop":
+    - generic: 继续关注
+    - img "Shop"
+- button "滚动到顶部":
+- dialog "大车":
+  - generic: 大车
+  - generic: "0"
+  - button "关闭购物车":
+  - button "输入折扣码":
+    - generic: 输入折扣码
+  - button "添加备注":
+    - generic: 添加备注
+  - generic: 全部的：
+  - generic: 0.00 美元
+  - button "查看":
+    - generic: 查看

@@ -1,0 +1,1117 @@
+- link "跳至内容":
+  - /url: "#main-content"
+  - generic: 跳至内容
+- list:
+  - paragraph:
+    - generic: 推荐好友即可获得100美元。
+  - link:
+    - /url: /invite
+    - generic: 推荐朋友
+  - paragraph:
+    - generic: 使用 Affirm 先买后付。
+  - button:
+    - generic: 资格预审
+  - paragraph:
+    - generic: 推荐好友即可获得100美元。
+  - link:
+    - /url: /invite
+    - generic: 推荐朋友
+  - paragraph:
+    - generic: 使用 Affirm 先买后付。
+  - button "了解更多 - Affirm 融资（以模态窗口打开）":
+    - generic: 资格预审
+  - paragraph:
+    - generic: 推荐好友即可获得100美元。
+  - link:
+    - /url: /invite
+    - generic: 推荐朋友
+  - paragraph:
+    - generic: 使用 Affirm 先买后付。
+  - button:
+    - generic: 资格预审
+- button "以前的"
+- button "下一个"
+- link "查找门店":
+  - /url: /stores/
+  - generic: 
+- link "查找门店":
+  - /url: /stores/
+  - generic: 查找门店
+- tooltip "接触":
+  - generic: 
+  - generic: 接触
+- link "紫色主页":
+  - /url: /
+- navigation "主导航":
+  - heading "主导航" [level=2]:
+    - generic: 主导航
+  - list:
+    - link "床垫":
+      - /url: /mattresses
+      - generic: 床垫
+    - link "捆绑包":
+      - /url: /bundles
+      - generic: 捆绑包
+    - link "枕头":
+      - /url: /pillows
+      - generic: 枕头
+    - link "寝具":
+      - /url: /bedding
+      - generic: 寝具
+    - link "床架":
+      - /url: /bed-frames
+      - generic: 床架
+    - link "座垫":
+      - /url: /seat-cushions
+      - generic: 座垫
+    - button "打开产品测验模态框":
+      - generic: 床垫测试
+    - link "黑色星期五促销":
+      - /url: /black-friday
+      - generic: 黑色星期五促销
+    - link "礼品指南":
+      - /url: /gift-guide
+      - generic: 礼品指南
+    - link "为什么是紫色":
+      - /url: /purple-grid
+      - generic: 为什么是紫色
+  - list:
+    - link "我的账户":
+      - /url: /account
+      - generic: 我的账户
+    - article:
+      - generic: 
+  - list
+- text:  
+- button "点击打开搜索。":
+- link "购物车中，您的购物车内没有商品。":
+  - /url: /cart
+- main
+- main:
+  - navigation "面包屑":
+    - heading "面包屑" [level=2]:
+      - generic: 面包屑
+    - list:
+      - link " 床单":
+        - /url: /sheets
+        - text: 
+        - generic: 床单
+  - article:
+    - generic: ★
+    - generic: ★
+    - generic: ★
+    - generic: ★
+    - generic: ★
+    - generic: "4.6"
+    - generic: （4256）
+    - generic: 超弹力
+    - generic: 促销中
+    - heading "紫色 SoftStretch® 床单套装" [level=1]:
+      - generic: 紫色 SoftStretch® 床单套装
+    - generic: 旨在最大限度地发挥 Purple 床垫的压力缓解功效。
+    - generic: 女王
+    - generic: 曾是
+    - generic: 249美元
+    - generic: 美元
+    - generic: 现在
+    - generic: 211美元
+    - generic: 美元
+    - generic: 八五折
+    - generic: 
+    - paragraph:
+      - generic: 丝滑柔软且富有弹性的竹纤维混纺面料
+    - generic: 
+    - paragraph:
+      - generic: 天然透气+吸湿排汗
+    - generic: 
+    - paragraph:
+      - generic: 床头和床尾标签方便铺床，配有防滑松紧带
+    - generic: 床品尺寸
+    - button "尺码指南":
+      - generic: 尺码指南
+    - button "女王 - 249美元 211美元":
+      - generic: 女王
+      - generic: "-"
+      - generic: 249美元
+      - generic: 211美元
+    - generic: 深度
+    - button "哪个深度适合我？":
+      - generic: 哪个深度适合我？
+    - button "标准":
+      - generic: 标准
+    - generic: 颜色：
+    - generic: 暴风灰
+    - listbox:
+      - option "暴风灰" [selected]
+      - option "真白"
+      - option "深紫色"
+      - option "晨雾"
+      - option "天然燕麦"
+      - option "柔和的丁香"
+    - generic: 选择数量：
+    - button "减少数量" [disabled]: 
+    - generic: "1"
+    - button "增量数量": 
+    - generic: 全部的
+    - generic: 价格
+    - generic: 249美元
+    - generic: 211美元
+    - generic: 或者
+    - generic: 低至
+    - generic: 0% 年利率融资
+    - button "Add to Cart":
+      - generic: Add to Cart
+    - generic: 符合 HSA/FSA 资格
+    - img "Truemed 标志"
+    - generic: 平均节省 30%
+    - button "了解更多关于 Truemed 的信息，以及符合条件的客户如何使用 HSA 或 FSA 账户付款。":
+      - generic: 了解更多
+    - paragraph:
+      - generic: 需要帮忙做决定吗？
+    - paragraph:
+      - generic: 与一位真正的美国睡眠专家交流，我们将帮助您找到最合适的床上用品。
+    - button "立即聊天（以模态窗口打开）":
+      - generic: 立即聊天
+    - generic: 无忧保障
+    - button "更多详情（在模态框中打开）":
+      - generic: 更多详情
+    - strong: Ships free
+    - paragraph: in 1-2 days
+    - generic: 
+    - strong:
+      - paragraph:
+        - generic: 30天退货期
+    - paragraph:
+      - generic: 爱上你的床上用品。
+    - generic: 
+    - strong:
+      - paragraph:
+        - generic: 一年保修
+    - paragraph:
+      - generic: 所以你可以安心休息了。
+    - generic: 升级您的睡眠装备
+    - img "和谐、柔软弹力、床垫保护套套装图片"
+    - paragraph:
+      - generic: 全套床上用品+枕头套装
+    - list:
+      - generic: 提升您的舒适度和防护性能。
+      - generic: 组合购买可享
+      - strong:
+        - generic: 15%折扣。
+      - generic: 包含 2 个 Purple Harmony®
+      - strong:
+        - generic: 枕头
+      - generic: 、SoftStretch®
+      - generic: 床单
+      - generic: 套装和防水床垫保护套。
+    - link "购买套装":
+      - /url: /bundles/softstretch-harmony-mattress-protector
+      - generic: 购买套装
+    - paragraph:
+      - generic: 与睡眠专家交谈
+    - link "888-848-0665":
+      - /url: tel:8888480665
+      - article:
+    - link "888-848-0665":
+      - /url: tel:8888480665
+      - generic: 888-848-0665
+    - link "与我们聊天":
+      - /url: /
+      - article:
+    - button "与我们在线聊天（以模态窗口打开）":
+      - generic: 与我们聊天
+    - list:
+      - article:
+        - img "灰色不锈钢板"
+      - button "飞涨"
+      - article:
+        - img "灰色不锈钢床单，带天赋"
+      - button "飞涨"
+      - article:
+        - img "SS板材灰色特写"
+      - button "飞涨"
+      - article:
+        - img "灰色不锈钢床单，适合各种场合。"
+      - button "飞涨"
+      - article:
+        - img "不锈钢板颜色"
+      - button "飞涨"
+    - link "评分为 5.0 分（满分 5 分）。":
+      - /url: /reviews
+      - generic: ★
+      - generic: ★
+      - generic: ★
+      - generic: ★
+      - generic: ★
+    - heading "这些床单获得了超过3000条五星好评。" [level=2]:
+      - paragraph:
+        - generic: 这些床单获得了超过3000条五星好评。
+    - paragraph:
+      - generic: “弹性超好，非常舒适！太喜欢这些床单了！超深的口袋设计，不会从边角滑落。睡在上面超级舒服清爽。”
+      - generic: — Jazmin A.
+    - link "阅读评论":
+      - /url: "#section-id-purple-reviews"
+      - generic: 阅读评论
+    - heading "我们最柔软、最贴合的床单" [level=2]:
+      - paragraph:
+        - generic: 我们最柔软、最贴合的床单
+    - heading "柔软。有弹性。适应性强。" [level=2]:
+      - paragraph:
+        - generic: 柔软。有弹性。适应性强。
+    - paragraph:
+      - generic: 我们采用弹性面料制作SoftStretch床垫，以最大限度地发挥GelFlex网格的弹性，使其能够即时贴合您的身体，并有效支撑您的压力点。此外，我们还特意使其柔软舒适，因为触感真的非常棒。
+    - article:
+      - img "SS床单，雾蓝色"
+    - heading "吸湿排汗竹纤维混纺" [level=2]:
+      - paragraph:
+        - generic: 吸湿排汗竹纤维混纺
+    - paragraph:
+      - generic: 这些床单采用竹纤维混纺面料制成，具有吸湿排汗、透气的特性，有助于防止睡眠时过热，让您睡得更舒适。
+    - article:
+      - img "SS床单紫色，有才华"
+    - heading "轻松铺床" [level=2]:
+      - paragraph:
+        - generic: 轻松铺床
+    - paragraph:
+      - generic: 加深的口袋和 SecureStretch™ 弹性带可将床笠牢牢固定到位，紧贴床垫。贴心的“头”和“尾”标签让您轻松分辨床笠的上下方向。
+    - article:
+      - img "灰色不锈钢床单，有人正拉着床单翻过角落"
+    - heading "经久耐用" [level=2]:
+      - paragraph:
+        - generic: 经久耐用
+    - paragraph:
+      - generic: 采用优质面料，经久耐用，让您夜夜安睡，经久耐洗，床单多年如新。
+    - article:
+      - img "SS床单白色带天赋"
+    - heading "产品详情" [level=2]:
+      - paragraph:
+        - generic: 产品详情
+    - button "规格 ":
+      - generic: 规格
+      - text: 
+    - region "规格 ":
+      - paragraph:
+        - generic: 产品尺寸
+      - paragraph:
+        - strong:
+          - generic: 双人/加大双人床标准床单：
+        - generic: 75英寸 x 38英寸 x 15英寸
+      - paragraph:
+        - strong:
+          - generic: 双人/加大双人深口袋床单：
+        - generic: 80英寸 x 38英寸 x 20英寸
+      - paragraph:
+        - strong:
+          - generic: 标准尺寸床单：
+        - generic: 75英寸 x 54英寸 x 15英寸
+      - paragraph:
+        - strong:
+          - generic: 标准皇后床单：
+        - generic: 80英寸 x 60英寸 x 15英寸
+      - paragraph:
+        - strong:
+          - generic: 皇后尺寸深口袋床单：
+        - generic: 80英寸 x 60英寸 x 20英寸
+      - paragraph:
+        - strong:
+          - generic: 特大号/加州特大号标准床单尺寸：
+        - generic: 84英寸 x 76英寸 x 15英寸
+      - paragraph:
+        - strong:
+          - generic: 特大号/加州特大号深口袋床单：
+        - generic: 84英寸 x 76英寸 x 20英寸
+      - paragraph:
+        - strong:
+          - generic: 分体式特大号标准床单：
+        - generic: 80 英寸 x 38 英寸 x 15 英寸（2 件）
+      - paragraph:
+        - strong: "Split King Deep Pocket Sheets:"
+        - text: 80" x 38” x 20” (x2)
+      - paragraph:
+        - strong: "Standard Pillowcase:"
+        - text: 20” x 31"
+      - paragraph:
+        - strong: "King Pillowcase:"
+        - text: 20” x 39”
+      - paragraph: Shipping Dimensions
+      - paragraph:
+        - strong: "Twin/Twin XL:"
+        - text: 6" x 9" x 11" 7.5 lbs
+      - paragraph:
+        - strong: "Full:"
+        - text: 8” x 9” x 11” 9 lbs
+      - paragraph:
+        - strong: "Queen:"
+        - text: 8” x 9” x 11” 9.5 lbs
+      - paragraph:
+        - strong: "King/Cal King:"
+        - text: 9” x 9” x 11” 10.8 lbs
+      - paragraph:
+        - strong: "Split King:"
+        - text: 9" x 9" x 11" 11.7 lbs
+    - button "Materials + care "
+    - region "Materials + care ":
+      - paragraph: Material Details
+      - paragraph:
+        - text: 63% Rayon from Bamboo Viscose
+        - text: 27% Polyester
+        - text: 10% Spandex
+      - paragraph: Care Instructions
+      - paragraph:
+        - text: Machine wash cold
+        - text: Hang to dry or tumble dry low heat
+      - paragraph: Colors
+      - paragraph: True White, Stormy Grey, Soft Lilac, Natural Oat, Morning Mist, Deep Purple
+    - button "What's included "
+    - region "What's included ":
+      - paragraph:
+        - strong: "Twin/Twin XL:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (1) Standard Pillowcase
+      - paragraph:
+        - strong: "Full/Queen:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (2) Standard Pillowcases
+      - paragraph:
+        - strong: "King/Cal King:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (2) King Pillowcases
+      - paragraph:
+        - strong: "Split King:"
+        - text: (2) Twin XL Fitted Sheets, (1) King Flat Sheet, (2) King Pillowcases
+    - heading "Works best with" [level=2]:
+      - paragraph: Works best with
+    - list:
+      - article:
+        - link "View product page":
+          - /url: /pillows/harmony
+        - generic: Best seller
+        - generic: On sale
+        - article:
+          - img "和谐刷新 4x5"
+        - link "评分为 4.4 分（满分 5 分）。":
+          - /url: /pillows/harmony#product-reviews
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: "4.4"
+          - generic: (14430)
+        - link "View product page":
+          - /url: /pillows/harmony
+        - heading "Purple Harmony® Pillow" [level=3]
+        - paragraph: Instantly responsive + doesn’t fall flat
+        - text: From
+        - generic: Was
+        - text: $229
+        - generic: dollars
+        - generic: Is now
+        - text: $194
+        - generic: dollars
+        - generic: HSA/FSA eligible
+        - img "Truemed logo"
+        - generic: Save an average of 30%
+        - button "Learn more about Truemed and how to pay with your HSA or FSA for qualified customers": Learn more
+        - generic: 15% off
+      - article:
+        - link "View product page":
+          - /url: /softstretch-pillowcase
+        - generic: Moisture wicking
+        - generic: On sale
+        - article:
+          - img "SS床单白色枕套特写"
+        - link "评分为 4.4 分（满分 5 分）。":
+          - /url: /softstretch-pillowcase#product-reviews
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: "4.4"
+          - generic: (600)
+        - link "View product page":
+          - /url: /softstretch-pillowcase
+        - heading "Purple SoftStretch® Pillowcase Set" [level=3]
+        - paragraph: Maximizes pressure relief of GelFlex Grid pillows
+        - text: From
+        - generic: Was
+        - text: $39
+        - generic: dollars
+        - generic: Is now
+        - text: $33
+        - generic: dollars
+        - generic: HSA/FSA eligible
+        - img "Truemed logo"
+        - generic: Save an average of 30%
+        - button "Learn more about Truemed and how to pay with your HSA or FSA for qualified customers": Learn more
+        - generic: 15% off
+      - article:
+        - link "View product page":
+          - /url: /pillows/free-form
+        - generic: Best neck support
+        - generic: On sale
+        - article:
+          - img "自由刷新已关闭 4x5"
+        - link "评分为 4.3 分（满分 5 分）。":
+          - /url: /pillows/free-form#product-reviews
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: "4.3"
+          - generic: (373)
+        - link "View product page":
+          - /url: /pillows/free-form
+        - heading "Purple Freeform™ Pillow" [level=3]
+        - paragraph: Adjustable design for personalized comfort
+        - text: From
+        - generic: Was
+        - text: $229
+        - generic: dollars
+        - generic: Is now
+        - text: $194
+        - generic: dollars
+        - generic: 符合 HSA/FSA 资格
+        - img "Truemed 标志"
+        - generic: 平均节省 30%
+        - button "了解更多关于 Truemed 的信息，以及符合条件的客户如何使用 HSA 或 FSA 账户付款。":
+          - generic: 了解更多
+        - generic: 15% off
+      - article:
+        - link "View product page":
+          - /url: /waterproof-mattress-protector
+        - generic: 100% washable
+        - generic: On sale
+        - article:
+          - img "床上的WMP"
+        - link "评分为 4.3 分（满分 5 分）。":
+          - /url: /waterproof-mattress-protector#product-reviews
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: "4.3"
+          - generic: (237)
+        - link "View product page":
+          - /url: /waterproof-mattress-protector
+        - heading "Purple Waterproof Mattress Protector" [level=3]
+        - paragraph: Maximum protection, maximum comfort
+        - text: Queen
+        - generic: Was
+        - text: $149
+        - generic: dollars
+        - generic: Is now
+        - text: $126
+        - generic: dollars
+        - generic: 15% off
+    - text:  
+    - heading "Still need help deciding?" [level=2]:
+      - paragraph: Still need help deciding?
+    - img "紫色展厅"
+    - heading "Try it to believe it" [level=3]:
+      - paragraph: Try it to believe it
+    - paragraph: Find Purple in thousands of stores across the country and try out our beds in person.
+    - link "Find a store":
+      - /url: https://purple.com/stores/
+    - img "女人在办公桌前戴着耳机说话"
+    - heading "Connect with a Sleep Genius" [level=3]:
+      - paragraph: Connect with a Sleep Genius
+    - paragraph: Our US-based Sleep Geniuses answer questions and help you find your dream mattress.
+    - button "立即聊天（以模态窗口打开）": Chat now
+    - link "Call 888-848-0665":
+      - /url: tel:8888480665
+    - tablist "产品评论标签":
+      - tab "Reviews" [selected]
+      - generic: Reviews
+      - tabpanel "Reviews":
+        - alert
+        - heading "Ratings Breakdown" [level=3]
+        - group "Ratings Breakdown":
+          - button "3386 reviews with 5 stars.":
+            - paragraph:
+              - text: 5 stars
+              - generic: stars
+            - text: "3386"
+            - generic: 3386 reviews with 5 stars.
+          - button "326 reviews with 4 stars.":
+            - paragraph:
+              - text: 4 stars
+              - generic: stars
+            - text: "326"
+            - generic: 326 reviews with 4 stars.
+          - button "227 reviews with 3 stars.":
+            - paragraph:
+              - text: 3 stars
+              - generic: stars
+            - text: "227"
+            - generic: 227 reviews with 3 stars.
+          - button "136 reviews with 2 stars.":
+            - paragraph:
+              - text: 2 stars
+              - generic: stars
+            - text: "136"
+            - generic: 136 reviews with 2 stars.
+          - button "182 reviews with 1 star.":
+            - paragraph:
+              - text: 1 star
+              - generic: stars
+            - text: "182"
+            - generic: 182 reviews with 1 star.
+        - region "Overall Rating":
+          - heading "Overall Rating" [level=3]
+          - generic: "4.5"
+          - button "4.5 out of 5 stars. Read 4257 reviews for Purple SoftStretch™ Sheets. This action will navigate to reviews.":
+            - text: 4257 Reviews
+          - generic: 385 out of 472 (82%) reviewers recommend this product
+        - heading "Write A Review" [level=3]
+        - group "Rating is 0 (out of 5 stars).":
+          - button "Select to rate the item with 1 star. This action will open submission form.":
+            - generic: Select to rate the item with 1 star. This action will open submission form.
+          - button "Select to rate the item with 2 stars. This action will open submission form.":
+            - generic: Select to rate the item with 2 stars. This action will open submission form.
+          - button "Select to rate the item with 3 stars. This action will open submission form.":
+            - generic: Select to rate the item with 3 stars. This action will open submission form.
+          - button "Select to rate the item with 4 stars. This action will open submission form.":
+            - generic: Select to rate the item with 4 stars. This action will open submission form.
+          - button "Select to rate the item with 5 stars. This action will open submission form.":
+            - generic: Select to rate the item with 5 stars. This action will open submission form.
+        - heading "Filter By" [level=3]
+        - search "Search topics and reviews search region":
+          - generic: Search topics and reviews search region
+          - textbox "Search topics and reviews"
+        - combobox "Menu, Filter by Depth":
+          - text: Depth
+        - combobox "Menu, Filter by Color":
+          - text: Color
+        - status
+        - status: 1 to 10 of 4257 Reviews .
+        - generic: 1 – 10 of 4257 Reviews
+        - generic: Sort by
+        - combobox "Menu, Sort by Highest to Lowest Rating.":
+          - generic: Highest to Lowest Rating
+        - region "Reviews":
+          - region "Comfortable Sleep. 1 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See PJDiz profile. This action will open a modal dialog.": PJDiz
+            - generic: Chicago, il
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Comfortable Sleep" [level=3]
+            - generic: 3 days ago
+            - generic: I bought 2 pillows after taking the pillow quiz for me and my husband. We needed different pillows for our unique sleeping styles. These are the most comfortable pillows I have ever slept on. Although I find myself still flipping the pillow 2xs a night for coolness, much better than the 10xs I used to flip my old pillows. And the Purple Pillows feel like I'm sleeping on a Cloud!
+            - generic: Size
+            - text: Queen
+            - generic: Depth
+            - text: Standard
+            - generic: Color
+            - text: Blue
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by PJDiz as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by PJDiz as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Super comfortable. 2 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See KevinK profile. This action will open a modal dialog.": KevinK
+            - text: Reviews
+            - generic: "3"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Super comfortable" [level=3]
+            - generic: 5 days ago
+            - generic: These sheets are soft and comfortable. The design keeps them on the mattres the way a fitted sheet should. Definitely worth the money.
+            - generic: Size
+            - text: King
+            - generic: Depth
+            - text: Deep Pocket
+            - generic: Color
+            - text: Stormy Grey
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by KevinK as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by KevinK as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Best sheets. 3 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See Chip profile. This action will open a modal dialog.": Chip
+            - generic: Baltimore
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Best sheets" [level=3]
+            - generic: 5 days ago
+            - generic: These sheets make the mattress. Definite improvement over traditional sheets. The Purple experience is noticeably better with these sheets, will be using these exclusively from now on.
+            - generic: Size
+            - text: King
+            - generic: Depth
+            - text: Standard
+            - generic: Color
+            - text: Misty Blue
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by Chip as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by Chip as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Awesome set!. 4 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See Jkle profile. This action will open a modal dialog.": Jkle
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - generic: Indianapolis
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Awesome set!" [level=3]
+            - generic: 7 days ago
+            - generic: Fantastic sheet set! Softest- keeps you cool and so comfy! Love the size also fits over entire mattress even with a topper. Will be buying more for gifts!
+            - generic: Size
+            - text: King / Cal King
+            - generic: Depth
+            - text: Deep Pocket
+            - generic: Color
+            - text: Misty Blue
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by Jkle as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by Jkle as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Best on the planet!. 5 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See Scuster profile. This action will open a modal dialog.": Scuster
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Best on the planet!" [level=3]
+            - generic: 11 days ago
+            - generic: Best sheets on the planet for any mattress. Colors are amazing wish they had more. The feel of the sheet doesn’t disappoint ever. Great in the wash too.
+            - generic: Size
+            - text: King
+            - generic: Depth
+            - text: Standard
+            - generic: Color
+            - text: Deep Purple
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by Scuster as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by Scuster as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Best sheets ever. 6 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See AW in Md profile. This action will open a modal dialog.": AW in Md
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - generic: Maryland
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Best sheets ever" [level=3]
+            - generic: 15 days ago
+            - generic: Had a hard time finding other sheets that would fit the bed properly without bunching up. Purple sheets fit like a glove, easier to put on are so soft and cooling. Worth every penny.
+            - generic: Size
+            - text: King
+            - generic: Depth
+            - text: Deep Pocket
+            - generic: Color
+            - text: Moonstone Grey
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by AW in Md as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by AW in Md as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "A must buy. 7 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See JenSM profile. This action will open a modal dialog.": JenSM
+            - generic: Minnesota
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "A must buy" [level=3]
+            - generic: 16 days ago
+            - generic: I am so happy I gave in and bought these! I have a purple mattress and was too cheap to get these sheets initially. I tried every stretchy sheet I could get on Amazon and they all sucked. I finally talked my husband into splurging on these and boy are they great. They are so soft! If you aren’t using stretch sheets on your purple mattress you are not getting the full experience.
+            - generic: Size
+            - text: King
+            - generic: Depth
+            - text: Deep Pocket
+            - generic: Color
+            - text: Charcoal Grey
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by JenSM as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by JenSM as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "What a difference. 8 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See Texas Ginger profile. This action will open a modal dialog.": Texas Ginger
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - generic: Denton, Texas
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "What a difference" [level=3]
+            - generic: 17 days ago
+            - generic: I did not know I needed the sheets to make my purple mattress comfortable. It makes a world of difference.
+            - generic: Size
+            - text: Queen
+            - generic: Depth
+            - text: Deep Pocket
+            - generic: Color
+            - text: Misty Blue
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by Texas Ginger as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by Texas Ginger as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Incredibly Nice. 9 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See The James profile. This action will open a modal dialog.": The James
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - generic: Mississippi
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Incredibly Nice" [level=3]
+            - generic: 18 days ago
+            - generic: We love the sheets! This is our first time purchasing them.
+            - generic: Size
+            - text: Queen
+            - generic: Depth
+            - text: Standard
+            - generic: Color
+            - text: Deep Purple
+            - paragraph: Yes, I recommend this product.
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by The James as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by The James as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+          - region "Excellent quality sheets!. 10 out of 10 Reviews, Ratings 5 out of 5.":
+            - button "See Beverly H. profile. This action will open a modal dialog.": Beverly H.
+            - button "Verified Buyer":
+              - generic: Verified Buyer
+            - generic: FWB, FLORIDA
+            - text: Review
+            - generic: "1"
+            - text: Votes
+            - generic: "0"
+            - img "5 out of 5 stars.":
+              - generic: 5 out of 5 stars.
+            - heading "Excellent quality sheets!" [level=3]
+            - generic: 20 days ago
+            - generic: These are the best sheets I've ever owned! They never come off the mattress, pull up or bunch when you move around. Purple sheets are cooling too! I'll never buy anything else.
+            - generic: Size
+            - text: Queen
+            - generic: Color
+            - text: Purple
+            - group "Content helpfulness":
+              - generic: Helpful?
+              - button "Mark review by Beverly H. as helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - button "Mark review by Beverly H. as not helpful. Be the first to mark it":
+                - generic: (0)
+                - alert
+              - alert
+        - status
+        - status
+        - generic: 1 – 10 of 4257 Reviews
+        - button "Previous Reviews" [disabled]:
+          - generic: Previous Reviews
+        - button "Next Reviews":
+          - generic: Next Reviews
+      - tab "Q&A"
+      - generic: Q&A
+    - heading "Frequently Asked Questions" [level=2]:
+      - paragraph: Frequently Asked Questions
+    - button "How do I wash the Purple SoftStretch Sheets? "
+    - region "How do I wash the Purple SoftStretch Sheets? ":
+      - paragraph: "We recommend the following when washing your luxury Purple SoftStretch Sheets:"
+      - paragraph:
+        - text: Wash in cold water with like colors.
+        - text: Tumble dry them on low or no heat.
+        - text: Do not iron or use bleach on the sheets.
+      - paragraph: For absolute best results, hang to dry.
+    - button "Can I order just the pillowcases? "
+    - region "Can I order just the pillowcases? ":
+      - paragraph:
+        - text: Yes! You can order SoftStretch Sheets Pillowcases
+        - link "here":
+          - /url: https://purple.com/softstretch-pillowcase
+        - text: .
+    - button "What’s included in the Purple SoftStretch Sheets sets? "
+    - region "What’s included in the Purple SoftStretch Sheets sets? ":
+      - paragraph:
+        - strong: "Twin/Twin XL:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (1) Standard Pillowcase
+        - strong: "Full/Queen:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (2) Standard Pillowcases
+        - strong: "King/Cal King:"
+        - text: (1) Fitted Sheet, (1) Flat Sheet, (2) King Pillowcases
+        - strong: "Split King:"
+        - text: (2) Twin XL Fitted Sheets, (1) King Flat Sheet, (2) King Pillowcases
+    - button "Are these stretchy sheets? "
+    - region "Are these stretchy sheets? ":
+      - paragraph:
+        - text: Yes! Purple has created a super soft, stretchy, breathable material — perfect fabric for bed sheets because it allows you to feel the full comfort your mattress was designed with.
+        - text: "Bamboo sheets not only feel more comfortable, soft, and cool, but when combined with premium stretch, they also offer a better mattress fit. No more fighting to get tightly woven fitted-sheets over mattress corners. Purple’s stretchy sheets with a heavy-duty elastic edge easily slide on and stay put. Plus, who doesn’t like that soft, cozy-cool feeling? Purple SoftStretch Sheets feel like a familiar, cloudy hug. You spend nearly one-third of your life in bed. It’s important to prioritize softness, comfort, and stretch if you want to get a good night’s sleep. The bottom line: Purple sheets are truly superior to every other bedding material."
+    - button "Are Purple SoftStretch Sheets seamless? "
+    - region "Are Purple SoftStretch Sheets seamless? ":
+      - paragraph: As a matter of fact, they are! Seamless in design and fits seamlessly on your mattress, which means making the bed is a breeze. We use an industrial elastic to make sure your sheets stay in place, no matter what.
+    - button "Are Purple SoftStretch Sheets moisture-wicking? "
+    - region "Are Purple SoftStretch Sheets moisture-wicking? ":
+      - paragraph: Yes! This unique bamboo blend wicks moisture away from the body for all-night-long freshness, while the structure of the fibers promotes breathability to ensures you won’t wake up hot.
+    - button "What is the Warranty for Purple SoftStretch Sheets? "
+    - region "What is the Warranty for Purple SoftStretch Sheets? ":
+      - paragraph:
+        - text: The Purple SoftStretch Sheets come with a one-year warranty! For full details, visit
+        - link "purple.com/warranty":
+          - /url: /warranty
+    - button "What is the return policy for Purple SoftStretch Sheets? "
+    - region "What is the return policy for Purple SoftStretch Sheets? ":
+      - paragraph:
+        - text: The Purple SoftStretch Sheets come with a 30-day return period! These incredibly soft sheets won't disappoint, but if you find they aren't a perfect fit for you, you have 30-days from the delivery date to return them. For more information visit
+        - link "purple.com/returns":
+          - /url: /returns
+    - text:    
+    - text: Showing 8 of 12
+    - link "Show All":
+      - /url: /
+- contentinfo:
+  - heading "Exclusive benefits, better nights" [level=2]:
+    - paragraph: Exclusive benefits, better nights
+  - generic: 
+  - paragraph: 100 night trial
+  - generic: 
+  - paragraph: 10 year warranty
+  - generic: 
+  - paragraph: Free shipping
+  - generic: 
+  - paragraph: FSA/HSA eligible
+  - navigation "Footer menu":
+    - heading "Footer menu" [level=2]
+    - generic "店铺":
+      - generic: Shop
+    - link "Mattresses":
+      - /url: /mattresses
+    - link "Bed Frames":
+      - /url: /bed-frames
+    - link "Pillows":
+      - /url: /pillows
+    - link "Bedding":
+      - /url: /bedding
+    - link "Sheets":
+      - /url: /sheets
+    - link "Seat Cushions":
+      - /url: /seat-cushions
+    - link "Squishy":
+      - /url: /squishy
+    - link "Sale":
+      - /url: /sale
+    - link "Bundles":
+      - /url: /bundles
+    - link "Gifts":
+      - /url: /gift-guide
+    - generic "按尺码选购":
+      - generic: Shop by size
+    - link "Twin":
+      - /url: /mattresses/twin
+    - link "Twin XL":
+      - /url: /mattresses/twin-xl
+    - link "Full":
+      - /url: /mattresses/full
+    - link "Queen":
+      - /url: /mattresses/queen
+    - link "King":
+      - /url: /mattresses/king
+    - link "California King":
+      - /url: /mattresses/california-king
+    - link "Split King":
+      - /url: /mattresses/split-king
+    - link "Size guide":
+      - /url: /mattress-sizes-dimensions
+    - generic "支持":
+      - generic: Support
+    - link "Contact us":
+      - /url: /contact
+    - link "Feedback":
+      - /url: https://survey.comfort-research.org/jfe/form/SV_71gPdQe8pkQjGcu
+    - link "Track your order":
+      - /url: /track-your-order
+    - link "Returns + exchanges":
+      - /url: /returns
+    - link "Warranty":
+      - /url: /warranty
+    - link "Financing":
+      - /url: /financing
+    - link "Find stores":
+      - /url: https://purple.com/stores/
+    - link "Extend protection plan":
+      - /url: https://purple.com/protection-plan
+    - link "Discount programs":
+      - /url: /coupons
+    - link "Partnerships + licensing":
+      - /url: /partnerships-licensing
+    - link "Influencer program":
+      - /url: https://purple.com/ambassador
+    - link "Affiliate program":
+      - /url: https://purple.com/affiliate-program
+    - link "Refer a Friend":
+      - /url: https://purple.com/invite?traffic_source=site_footer
+    - link "Become a Purple retailer":
+      - /url: /become-purple-retailer
+    - generic "学习":
+      - generic: Learn
+    - link "FAQs":
+      - /url: https://support.purple.com/hc/en-us
+    - link "Press":
+      - /url: /press
+    - link "About":
+      - /url: /about-us
+    - link "The GelFlex Grid":
+      - /url: /purple-grid
+    - link "SleepScore Labs validated":
+      - /url: /sleep-score-lab-study
+    - link "Purple vs competitors":
+      - /url: /mattress-reviews/competitors
+    - link "Retail exclusive mattresses":
+      - /url: /mattress-firm-exclusive
+    - link "FSA/HSA":
+      - /url: /fsa-hsa-mattress-eligibility
+    - link "Blog":
+      - /url: /blog
+    - link "Careers":
+      - /url: /careers
+    - link "Investors":
+      - /url: https://investors.purple.com/overview/default.aspx
+    - link "Mattress reviews":
+      - /url: /reviews
+    - link "BBB® reviews":
+      - /url: https://www.bbb.org/us/ut/lehi/profile/mattress/purple-1166-90015217
+    - link "Patents":
+      - /url: /patents
+  - paragraph: Want a $150 instant gift credit?
+  - paragraph: Sign up for email updates and receive a $150 instant gift credit toward accessories with select first mattress purchase. *Excludes PurpleFlex® Mattress.
+  - generic: Email
+  - textbox "Email":
+    - /placeholder: 请输入您的电子邮件地址
+  - button "提交": 
+  - link "Facebook":
+    - /url: https://www.facebook.com/LifeOnPurple/
+    - article:
+  - link "Instagram":
+    - /url: https://www.instagram.com/purple/
+    - article:
+  - link "抖音":
+    - /url: https://www.tiktok.com/@purple
+    - article:
+  - link "YouTube":
+    - /url: https://www.youtube.com/purple
+    - article:
+  - link "Pinterest":
+    - /url: https://www.pinterest.com/purple/
+    - article:
+  - link "X":
+    - /url: https://x.com/Purple
+    - article:
+  - heading "Still have questions? Our Sleep Geniuses are here to help." [level=2]:
+    - paragraph:
+      - text: Still have questions?
+      - text: Our Sleep Geniuses are here to help.
+  - article:
+  - generic: "Phone:"
+  - link "888-848-0248":
+    - /url: tel:1888-848-0248
+  - generic: 
+  - generic: "Live chat:"
+  - button "在线聊天（以模态窗口打开）": Live chat
+  - article:
+  - generic: "Visit:"
+  - link "Find a store":
+    - /url: https://purple.com/stores/
+  - navigation "Footer Bottom Menu":
+    - heading "Footer Bottom Menu" [level=2]
+    - list:
+      - tooltip "区域站点":
+        - article:
+      - link "请勿出售我的个人信息":
+        - /url: ""
+        - generic: 请勿出售我的个人信息
+      - link "加州供应链法案":
+        - /url: https://purple.com/ca-supply-chain-act
+        - generic: 加州供应链法案
+      - link "基于兴趣的广告":
+        - /url: /terms-and-privacy#privacy
+        - generic: 基于兴趣的广告
+      - link "条款及隐私":
+        - /url: /terms-and-privacy
+        - generic: 条款及隐私
+  - paragraph:
+    - generic: © 2026 Purple Innovation, LLC. 保留所有权利。
+  - paragraph:
+    - generic: Purple、Purple Grid、Hyper-Elastic Polymer、GelFlex、GelFlex Grid、Sleep Genius、Sleep Better、Live Purple、Less pain. Better sleep. 以及紫色均为 Purple Innovation, LLC 的注册商标。
+- text:   

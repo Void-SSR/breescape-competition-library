@@ -1,0 +1,251 @@
+{
+  "shilucheng": {
+    "url": "https://shop.tiktok.com/us/pdp/bamboo-sheets-set-by-shilucheng-4-6-pc-cooling-deep-pocket-silky-soft/1729438233542234865",
+    "retrieved_at": "2026-11-05T15:20:28+08:00",
+    "product_id": "1729438233542234865",
+    "sold_count": "435716",
+    "sold_count_note": {
+      "title": "Items sold",
+      "text": "The number of items sold globally since this item was listed on TikTok Shop excluding items that have been returned."
+    },
+    "review_header": {
+      "product_rating": 4.4,
+      "review_count": "46195",
+      "product_rating_str": "4.4",
+      "review_count_str": "46,195"
+    },
+    "white_queen_skus": [
+      {
+        "status": 0,
+        "stock": 50,
+        "purchase_limit": 200,
+        "sku_id": "1729438244818621169",
+        "sale_prop_value_ids": "7328305550004258606_7328305645642696494_7328305645642762030",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7328305550004258606",
+            "prop_value": "Bamboo-White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7328305645642696494",
+            "prop_value": "Queen"
+          },
+          {
+            "prop_id": "7328305550004225838",
+            "prop_name": "Set",
+            "prop_value_id": "7328305645642762030",
+            "prop_value": "4PC"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "42.89",
+          "origin_price_format": "85.77",
+          "discount_format": "50%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "42.89",
+          "origin_price_decimal": "85.77",
+          "discount_decimal": "0.5",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7629034781151659790"
+      },
+      {
+        "status": 0,
+        "stock": 444,
+        "purchase_limit": 200,
+        "sku_id": "1729438244818686705",
+        "sale_prop_value_ids": "7328305550004258606_7328305645642696494_7328305645642794798",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "7328305550004258606",
+            "prop_value": "Bamboo-White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "7328305645642696494",
+            "prop_value": "Queen"
+          },
+          {
+            "prop_id": "7328305550004225838",
+            "prop_name": "Set",
+            "prop_value_id": "7328305645642794798",
+            "prop_value": "6PC"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "45.49",
+          "origin_price_format": "90.97",
+          "discount_format": "50%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "45.49",
+          "origin_price_decimal": "90.97",
+          "discount_decimal": "0.5",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7542183967300683533"
+      }
+    ],
+    "merchant_description": [
+      "Shilucheng Bamboo Sheets 60% bamboo and 40% polyester fiber  Deep pockets fit mattresses up to 16\"",
+      "Affordable Luxury",
+      "This set offers the pinnacle of modern luxury bedding at an affordable price. 14\" Deep Pocket with great elasticity, Stretches to Fit Mattresses Up to 16\" Thick. The sheets grip and fit better than any other set, ensuring no sliding during sleep. Enjoy a restful night's sleep with these sheets.",
+      "Shockingly Soft & Silky",
+      "Made from 60% rayon derived from bamboo and 40% polyester fiber, with a unique twill weave. It's stronger than cotton, smooth like silk, and cool to the touch. Sleep like you're on a cloud. Ideal for hot sleepers, these sheets provide comfort and coolness.",
+      "️ Adjust Temperature & Absorb Water ️",
+      "The sheets adjust temperature and absorb most of the heat, keeping you cool in summer. They also absorb moisture, keeping you dry and eliminating bad sleep experiences for those with night sweats.",
+      "Easy Care & Durability",
+      "Durable and machine washable, these sheets are easy to care for. Wash in cold water on a gentle cycle. Dry at low temperatures. Avoid using fabric softeners and bleaches to prevent wrinkles.",
+      "Product included",
+      [
+        "Full: 4 pc/6 pc sets include 1 flat sheet, 1 fitted sheet, 2/4 pillowcases.",
+        "Queen: 4 pc/6 pc sets include 1 flat sheet, 1 fitted sheet, 2/4 pillowcases.",
+        "King: 4 pc/6 pc sets include 1 flat sheet, 1 fitted sheet, 2/4 pillowcases.",
+        "Cal King: 4 pc/6 pc sets include 1 flat sheet, 1 fitted sheet, 2/4 pillowcases."
+      ]
+    ]
+  },
+  "ldc": {
+    "url": "https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-ldc-lux-decor-skin-friendly-deep-pockets/1729539387064423033",
+    "retrieved_at": "2026-11-05T15:20:34+08:00",
+    "product_id": "1729539387064423033",
+    "sold_count": "14727",
+    "sold_count_note": {
+      "title": "Items sold",
+      "text": "The number of items sold globally since this item was listed on TikTok Shop excluding items that have been returned."
+    },
+    "review_header": {
+      "product_rating": 4.4,
+      "review_count": "1655",
+      "product_rating_str": "4.4",
+      "review_count_str": "1,655"
+    },
+    "white_queen_skus": [
+      {
+        "status": 0,
+        "stock": 545,
+        "purchase_limit": 200,
+        "sku_id": "1729539394246709881",
+        "sale_prop_value_ids": "6926865456653567746_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100001",
+            "prop_name": "Bedding Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "30.99",
+          "origin_price_format": "44.99",
+          "discount_format": "31%",
+          "currency_symbol": "$",
+          "sale_price_decimal": "30.99",
+          "origin_price_decimal": "44.99",
+          "discount_decimal": "0.31",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7266502835595200298"
+      }
+    ],
+    "merchant_description": [
+      "Lux Decor Bamboo Blend Cooling Bed Sheet Set",
+      "Sleep cooler and more comfortably with ultra-soft bamboo blend sheets designed for hot sleepers.\n\n",
+      "Features:\n\n• Material: Bamboo Blend",
+      "• Softness: Ultra-soft fabric with a silky-smooth feel.",
+      "• Cooling & Breathable: Promotes airflow and helps regulate temperature for a cool, refreshing sleep.",
+      "• Comfort: Hotel-quality comfort designed for everyday luxury.\n• Durability: Fade-resistant and designed to stay soft wash after wash.\n• Deep Pocket Fit: Fits mattresses up to 16\" deep for a secure fit.\n• Easy Care: Machine washable for hassle-free maintenance.\n• Surface: Smooth, wrinkle-resistant finish.",
+      "• Dimensions:",
+      "Twin: Flat 66x96\" | Fitted 39x75\" | Pillowcase 20x30\"",
+      "Twin XL: Flat 66x102\" | Fitted 39x80\" | Pillowcase 20x30\"",
+      "Full: Flat 81x96\" | Fitted 54x75\" | Pillowcase 20x30\"",
+      "Queen: Flat 90x102\" | Fitted 60x80\" | Pillowcase 20x30\"",
+      "King: Flat 105x102\" | Fitted 78x80\" | Pillowcase 20x40\"",
+      "Cal King: Flat 108x102\" | Fitted 72x84\" | Pillowcase 20x40\"",
+      "Package Includes: \nTwin & Twin XL: 1 Flat Sheet, 1 Fitted Sheet, 1 Pillowcase \nFull, Queen, King & California King: 1 Flat Sheet, 1 Fitted Sheet, 2 Pillowcases."
+    ]
+  },
+  "cgk": {
+    "url": "https://shop.tiktok.com/us/pdp/bamboo-sheet-set-by-cgk-linens-100-breathable-moisture-wicking-deep-pocket/1730084277563069132",
+    "retrieved_at": "2026-11-05T15:20:38+08:00",
+    "product_id": "1730084277563069132",
+    "sold_count": "2603",
+    "sold_count_note": {
+      "title": "Items sold",
+      "text": "The number of items sold globally since this item was listed on TikTok Shop excluding items that have been returned."
+    },
+    "review_header": {
+      "product_rating": 4.7,
+      "review_count": "299",
+      "product_rating_str": "4.7",
+      "review_count_str": "299"
+    },
+    "white_queen_skus": [
+      {
+        "status": 0,
+        "stock": 67,
+        "purchase_limit": 200,
+        "sku_id": "1730084348883538636",
+        "sale_prop_value_ids": "6926865456653567746_6971865595596015366",
+        "sku_sale_props": [
+          {
+            "prop_id": "100000",
+            "prop_name": "Color",
+            "prop_value_id": "6926865456653567746",
+            "prop_value": "White"
+          },
+          {
+            "prop_id": "100007",
+            "prop_name": "Size",
+            "prop_value_id": "6971865595596015366",
+            "prop_value": "Queen"
+          }
+        ],
+        "price": {
+          "symbol_position": 1,
+          "price_type": 0,
+          "show_currency_space": false,
+          "sale_price_format": "64.99",
+          "currency_symbol": "$",
+          "sale_price_decimal": "64.99",
+          "currency_name": "USD"
+        },
+        "pdp_button_area_id": "default",
+        "warehouse_id": "7553493041786291982"
+      }
+    ],
+    "merchant_description": [
+      [
+        "BAMBOO SHEETS - Crafted from bamboo, these all-natural luxury sheets provide a much longer life span than bamboo blend sheets, microfiber, or cotton sheets. Bamboo sheets have a history of retaining their softness for years of cozy comfort. ",
+        "SUPER COOLING BAMBOO SHEETS - Bamboo sheets will keep you comfortable and cool all night long. Bamboo sheets are great if you’re a hot sleeper, suffer from night sweats, or have hot flashes because of their breathability. ",
+        "DEEP POCKET SHEETS - Many mattresses are quite deep these days and those mattresses require sheets with deep pockets to match. Bamboo sheets are a perfect complement for these mattresses due to the fabric’s flexibility. Our bamboo sheets fit mattresses up to 16 inches deep and still fit great on mattresses less than 16 inches.",
+        "SUPER SOFT & LIGHTWEIGHT - These luxury bamboo bed sheets are light, breathable, and silky soft. Soft and cooling bamboo sheets provide a luxurious night’s sleep. Instead of being a bamboo blend with heavy fabrics such as cotton, microfiber, or even worse polyester these soft bamboo sheets are made from high-quality natural bamboo fibers.",
+        "MOISTURE WICKING SHEETS - Bamboo sheets are great moisture-wicking sheets because bamboo fabrics are hygroscopic, meaning they absorb moisture and move it away from your body. This quality lends to the comfort and breathability of bamboo sheets. The moisture-wicking properties of these soft bamboo sheets deliver a dry, fresh, and friendly night’s sleep. "
+      ]
+    ]
+  }
+}

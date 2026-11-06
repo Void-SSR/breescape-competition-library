@@ -1,0 +1,62 @@
+{
+  "方法": "全量原文的确定性关键词检索；多标签、每条每主题至多计1次。没有自动判定褒贬或购买动机，不是语义TOP3。",
+  "局限": "英文与部分西语词干检索，存在语义漏检或歧义；不能作为需求发生率、满意度或市场规模。",
+  "分组": {
+    "近期全星级": 928,
+    "一星补充": 687,
+    "推荐样本": 13
+  },
+  "样本数": 1628,
+  "计数": {
+    "触感/舒适": {
+      "近期全星级": 583,
+      "一星补充": 232,
+      "推荐样本": 6
+    },
+    "凉感/热/汗": {
+      "近期全星级": 278,
+      "一星补充": 212,
+      "推荐样本": 2
+    },
+    "尺寸/固定": {
+      "近期全星级": 164,
+      "一星补充": 117,
+      "推荐样本": 3
+    },
+    "耐久/洗护": {
+      "近期全星级": 123,
+      "一星补充": 94,
+      "推荐样本": 5
+    },
+    "成分/材料": {
+      "近期全星级": 66,
+      "一星补充": 142,
+      "推荐样本": 1
+    },
+    "价格/价值": {
+      "近期全星级": 90,
+      "一星补充": 106,
+      "推荐样本": 5
+    },
+    "颜色/外观": {
+      "近期全星级": 184,
+      "一星补充": 67,
+      "推荐样本": 7
+    },
+    "物流/售后": {
+      "近期全星级": 56,
+      "一星补充": 94,
+      "推荐样本": 0
+    }
+  },
+  "规则": {
+    "触感/舒适": "\\b(soft\\w*|silk\\w*|smooth\\w*|comfort\\w*|rough\\w*|scratch\\w*|itch\\w*)\\b|suav\\w*|c[oó]mod\\w*",
+    "凉感/热/汗": "\\b(cool\\w*|hot|hotter|heat\\w*|warm\\w*|sweat\\w*|breathab\\w*|temperature)\\b|fresc\\w*|calor",
+    "尺寸/固定": "\\b(fit\\w*|pocket\\w*|slip\\w*|pop\\w* off|stay\\w* on|stays? in place|corners?|elastic)\\b|too small|too big",
+    "耐久/洗护": "\\b(wash\\w*|pill\\w*|ripp\\w*|torn|tear\\w*|stitch\\w*|durab\\w*|last\\w*|shrink\\w*)\\b",
+    "成分/材料": "\\b(bamboo|polyester|microfiber|blend\\w*|cotton)\\b",
+    "价格/价值": "\\b(price\\w*|cheap\\w*|expensive|money|worth|afford\\w*|sale)\\b",
+    "颜色/外观": "\\b(colou?r\\w*|pretty|beautiful|picture\\w*|look\\w*)\\b",
+    "物流/售后": "\\b(deliver\\w*|receiv\\w*|shipping|refund\\w*|return\\w*|package\\w*)\\b"
+  }
+}
